@@ -1,0 +1,35 @@
+From: Priya Novak <priya@workday.com>
+To: you@myinbox.com
+Subject: Offer Letter
+Date: Mon, 11 May 2026 08:30:00 -0000
+Message-ID: <a44f890ed19c4aa0b57d738f2e72550e@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1007388404555482844=="
+
+--===============1007388404555482844==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Congratulations! Cloudscape is pleased to offer you the position of QA Engine=
+er. Please respond by June 27.
+
+Best regards,
+Talent Acquisition Team
+
+--===============1007388404555482844==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Offer Letter</h3>
+    <p>Congratulations! Cloudscape is pleased to offer you the position of QA=
+ Engineer. Please respond by June 27.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============1007388404555482844==--

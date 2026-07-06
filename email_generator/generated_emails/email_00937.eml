@@ -1,0 +1,34 @@
+From: Nimbus Retail <nimbus85@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Sun, 28 Jun 2026 21:10:00 -0000
+Message-ID: <29e1f3e33af845d089213ce9b0327662@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0523159878181077443=="
+
+--===============0523159878181077443==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #7 from Fernwood Analytics has shipped and will arrive by April 01=
+. Track it: https://myntra.com/orders
+
+Thanks for being a valued customer.
+
+--===============0523159878181077443==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #7 from Fernwood Analytics has shipped and will arrive by A=
+pril 01. Track it: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0523159878181077443==--

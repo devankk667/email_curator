@@ -1,0 +1,35 @@
+From: Coral Health <coral@makemytrip.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Wed, 17 Jun 2026 18:30:00 -0000
+Message-ID: <e528d98c59254b07ab225375b4db729d@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0280248285683331301=="
+
+--===============0280248285683331301==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to Singapore on February 04 is now open. Chec=
+k in here: https://meridianair.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============0280248285683331301==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to Singapore on February 04 is now ope=
+n. Check in here: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============0280248285683331301==--

@@ -1,0 +1,32 @@
+From: Orbit Logistics <orbit@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Tue, 09 Jun 2026 08:30:00 -0000
+Message-ID: <252fcdf9f58a42e7b971b9c1db75d370@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6359254811489294370=="
+
+--===============6359254811489294370==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Quanta Labs membership renews on July 04 for INR 1499.
+
+Thanks for being a valued customer.
+
+--===============6359254811489294370==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Quanta Labs membership renews on July 04 for INR 1499.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============6359254811489294370==--

@@ -1,0 +1,33 @@
+From: Vertex Bank <vertex@payflow.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Thu, 19 Mar 2026 15:15:00 -0000
+Message-ID: <2a51b0c2ae1846cf9b752c7393929ce0@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5745730048965863087=="
+
+--===============5745730048965863087==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 12000 for Personal Loan #2 is due on August 19.
+
+Regards,
+Customer Service Team
+
+--===============5745730048965863087==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 12000 for Personal Loan #2 is due on August 19.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5745730048965863087==--

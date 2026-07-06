@@ -1,0 +1,35 @@
+From: Diego Garcia <diego@workday.com>
+To: you@myinbox.com
+Subject: Offer Letter
+Date: Mon, 04 May 2026 22:10:00 -0000
+Message-ID: <ff9363745a4549b19a647b82913b96ca@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3960956003133472006=="
+
+--===============3960956003133472006==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Congratulations! Meridian Airlines is pleased to offer you the position of So=
+ftware Engineer. Please respond by May 16.
+
+Best regards,
+Talent Acquisition Team
+
+--===============3960956003133472006==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Offer Letter</h3>
+    <p>Congratulations! Meridian Airlines is pleased to offer you the positio=
+n of Software Engineer. Please respond by May 16.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============3960956003133472006==--

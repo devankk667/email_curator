@@ -1,0 +1,31 @@
+From: Meetup <meetup30@linkedin.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Fri, 24 Apr 2026 20:20:00 -0000
+Message-ID: <e7c133ba4dfb4730bf7fa9dfe61ab4bc@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8238313206949378545=="
+
+--===============8238313206949378545==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from James Mehta: "Hey, are we still meeting on June 0=
+4?"
+
+--===============8238313206949378545==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from James Mehta: "Hey, are we still meeting on=
+ June 04?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8238313206949378545==--

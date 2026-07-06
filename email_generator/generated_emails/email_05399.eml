@@ -1,0 +1,29 @@
+From: Meetup <meetup80@meetup.com>
+To: you@myinbox.com
+Subject: Poke from Priya Nguyen
+Date: Sun, 22 Feb 2026 08:45:00 -0000
+Message-ID: <53ad85e13a1f4b8893385ef3cce2bae8@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9098643623668858353=="
+
+--===============9098643623668858353==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Ivan Reddy poked you. Poke them back!
+
+--===============9098643623668858353==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Priya Nguyen</h3>
+    <p>Ivan Reddy poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============9098643623668858353==--

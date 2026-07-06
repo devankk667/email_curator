@@ -1,0 +1,49 @@
+From: Quanta Labs <quanta8@makemytrip.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Sat, 20 Jun 2026 12:15:00 -0000
+Message-ID: <3cb002bbe9814f8ea27d5aea56664a82@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1878073717760623344=="
+
+--===============1878073717760623344==
+Content-Type: multipart/alternative;
+ boundary="===============0438924896005068963=="
+
+--===============0438924896005068963==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Dubai from September 21 to March 19 is confirmed. Booking =
+ID: 295994. Manage booking: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============0438924896005068963==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Dubai from September 21 to March 19 is confirmed. B=
+ooking ID: 295994. Manage booking: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============0438924896005068963==--
+
+--===============1878073717760623344==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============1878073717760623344==--

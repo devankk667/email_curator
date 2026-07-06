@@ -1,0 +1,47 @@
+From: Ananya Nguyen <ananya69@linkedin.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Sat, 07 Feb 2026 19:00:00 -0000
+Message-ID: <c7df1732558944f8b904b36822c81f2b@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0547362825129414658=="
+
+--===============0547362825129414658==
+Content-Type: multipart/alternative;
+ boundary="===============6712127451205342323=="
+
+--===============6712127451205342323==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Fatima Lopez: "Hey, are we still meeting on Febru=
+ary 24?"
+
+-- Sent from your notifications
+
+--===============6712127451205342323==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Fatima Lopez: "Hey, are we still meeting o=
+n February 24?"</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============6712127451205342323==--
+
+--===============0547362825129414658==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============0547362825129414658==--

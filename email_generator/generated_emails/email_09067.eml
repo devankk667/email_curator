@@ -1,0 +1,49 @@
+From: Meridian Airlines <meridian21@airindia.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Thu, 29 Jan 2026 14:30:00 -0000
+Message-ID: <95e874494dbb4dc88c269db62439c15b@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0592311749929407663=="
+
+--===============0592311749929407663==
+Content-Type: multipart/alternative;
+ boundary="===============4053102201091851053=="
+
+--===============4053102201091851053==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to New York on November 08 is now open. Check=
+ in here: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============4053102201091851053==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to New York on November 08 is now open=
+. Check in here: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============4053102201091851053==--
+
+--===============0592311749929407663==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============0592311749929407663==--

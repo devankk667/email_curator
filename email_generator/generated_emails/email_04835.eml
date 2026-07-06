@@ -1,0 +1,29 @@
+From: Meetup <meetup@instagram.com>
+To: you@myinbox.com
+Subject: Yuki Novak liked your photo
+Date: Tue, 17 Feb 2026 10:20:00 -0000
+Message-ID: <5187eaf0c42443c8b950bd8833ae542f@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4288442086895094823=="
+
+--===============4288442086895094823==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Nina Okafor and 9 others liked your recent photo.
+
+--===============4288442086895094823==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Yuki Novak liked your photo</h3>
+    <p>Nina Okafor and 9 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4288442086895094823==--

@@ -1,0 +1,48 @@
+From: Diego Mehta <diego97@workday.com>
+To: you@myinbox.com
+Subject: Rejection Notice
+Date: Sun, 19 Apr 2026 19:10:00 -0000
+Message-ID: <9ffbf08765424fdbb694147b2a3625d5@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0756434702257864089=="
+
+--===============0756434702257864089==
+Content-Type: multipart/alternative;
+ boundary="===============7564579904302675048=="
+
+--===============7564579904302675048==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for interviewing for UX Designer at Fernwood Analytics. We've decid=
+ed to move forward with other candidates.
+
+Best regards,
+Talent Acquisition Team
+
+--===============7564579904302675048==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Rejection Notice</h3>
+    <p>Thank you for interviewing for UX Designer at Fernwood Analytics. We'v=
+e decided to move forward with other candidates.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============7564579904302675048==--
+
+--===============0756434702257864089==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============0756434702257864089==--

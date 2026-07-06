@@ -1,0 +1,34 @@
+From: Fernwood Analytics <fernwood91@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Thu, 26 Feb 2026 15:30:00 -0000
+Message-ID: <a5f89dfdba654066b8d71f9e5e69a684@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6773898276491696865=="
+
+--===============6773898276491696865==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #4 from Quanta Labs has shipped and will arrive by September 14. T=
+rack it: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============6773898276491696865==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #4 from Quanta Labs has shipped and will arrive by Septembe=
+r 14. Track it: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============6773898276491696865==--

@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta27@payflow.com>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Mon, 02 Feb 2026 16:15:00 -0000
+Message-ID: <7ccf787968734ebfa935cc41a73952fe@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4033580264269807657=="
+
+--===============4033580264269807657==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 18.8% this quarter. View details: htt=
+ps://payflow.com/dashboard
+
+Regards,
+Customer Service Team
+
+--===============4033580264269807657==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 18.8% this quarter. View detai=
+ls: https://payflow.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============4033580264269807657==--

@@ -1,0 +1,47 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Municipal Election Notice
+Date: Tue, 07 Apr 2026 16:00:00 -0000
+Message-ID: <f9f5b9e0bfd24658ab5cd1f2d52f4e5f@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4457693235860386743=="
+
+--===============4457693235860386743==
+Content-Type: multipart/alternative;
+ boundary="===============3036667476346619984=="
+
+--===============3036667476346619984==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Municipal elections will be held on January 29. Locate your polling booth: ht=
+tps://gov.in/services/passport
+
+This is an automated notice.
+
+--===============3036667476346619984==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Municipal Election Notice</h3>
+    <p>Municipal elections will be held on January 29. Locate your polling bo=
+oth: https://gov.in/services/passport</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============3036667476346619984==--
+
+--===============4457693235860386743==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="notice.txt"
+MIME-Version: 1.0
+
+T2ZmaWNpYWwgbm90aWNlIGRvY3VtZW50LiBQbGVhc2UgcmV0YWluIGZvciB5b3VyIHJlY29yZHMu
+
+--===============4457693235860386743==--

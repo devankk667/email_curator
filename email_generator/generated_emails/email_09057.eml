@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@meridianair.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Tue, 03 Mar 2026 15:20:00 -0000
+Message-ID: <13423b10456346bea30c03eca31ca9d8@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4277427170404944114=="
+
+--===============4277427170404944114==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to San Francisco on May 02 is now open. Check=
+ in here: https://meridianair.com/checkin
+
+Regards,
+Reservations Desk
+
+--===============4277427170404944114==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to San Francisco on May 02 is now open=
+. Check in here: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============4277427170404944114==--

@@ -1,0 +1,35 @@
+From: Nina Nguyen <nina@greenhouse.io>
+To: you@myinbox.com
+Subject: Rejection Notice
+Date: Fri, 17 Apr 2026 16:20:00 -0000
+Message-ID: <ebc4f93859904014b862156fd58aff61@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3014769358567925448=="
+
+--===============3014769358567925448==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for interviewing for ML Engineer at Fernwood Analytics. We've decid=
+ed to move forward with other candidates.
+
+Best regards,
+Talent Acquisition Team
+
+--===============3014769358567925448==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Rejection Notice</h3>
+    <p>Thank you for interviewing for ML Engineer at Fernwood Analytics. We'v=
+e decided to move forward with other candidates.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============3014769358567925448==--

@@ -1,0 +1,35 @@
+From: Wei Fischer <wei@university.edu>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Tue, 31 Mar 2026 11:05:00 -0000
+Message-ID: <1fedb4495c794d5bb81522405a10dffa@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7375508139664781555=="
+
+--===============7375508139664781555==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Data Structures lecture originally on March 29 has been moved to March 26=
+, Room 167.
+
+Regards,
+Office of Academic Affairs
+
+--===============7375508139664781555==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Data Structures lecture originally on March 29 has been moved to M=
+arch 26, Room 167.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============7375508139664781555==--

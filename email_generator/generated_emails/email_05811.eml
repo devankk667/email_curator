@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit40@payflow.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Tue, 30 Jun 2026 08:10:00 -0000
+Message-ID: <9e98cb119a014de0a7a2613cbb15317b@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1926549917540205395=="
+
+--===============1926549917540205395==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 2500 was debited from your account ending 4821 on December 21 at Orbit Lo=
+gistics.
+
+Regards,
+Customer Service Team
+
+--===============1926549917540205395==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 2500 was debited from your account ending 4821 on December 21 at O=
+rbit Logistics.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1926549917540205395==--

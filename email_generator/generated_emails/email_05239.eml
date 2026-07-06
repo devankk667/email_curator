@@ -1,0 +1,31 @@
+From: LinkedIn <linkedin@meetup.com>
+To: you@myinbox.com
+Subject: New Follower
+Date: Tue, 23 Jun 2026 08:30:00 -0000
+Message-ID: <a2518cc0f75b46038ef228bafd8c1788@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1301317009570815043=="
+
+--===============1301317009570815043==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Wei Dubois started following you. See their profile: www.linkedin.com/in/conn=
+ect
+
+--===============1301317009570815043==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Follower</h3>
+    <p>Wei Dubois started following you. See their profile: www.linkedin.com/=
+in/connect</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============1301317009570815043==--

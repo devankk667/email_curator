@@ -1,0 +1,34 @@
+From: Kenji Khan <kenji@linkedin.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Thu, 29 Jan 2026 11:20:00 -0000
+Message-ID: <5c69635416994a228e6a433a67a0586b@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2680619973477490643=="
+
+--===============2680619973477490643==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Liam Rossi's birthday on December 14! Send them a message to make their =
+day.
+
+-- Sent from your notifications
+
+--===============2680619973477490643==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Liam Rossi's birthday on December 14! Send them a message to make=
+ their day.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============2680619973477490643==--

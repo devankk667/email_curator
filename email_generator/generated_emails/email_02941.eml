@@ -1,0 +1,34 @@
+From: Elena Rossi <elena@claim-now.biz>
+To: you@myinbox.com
+Subject: Your Package is Held at Customs
+Date: Tue, 19 May 2026 21:10:00 -0000
+Message-ID: <2e09d818207b42b6aa49d38b2d041b00@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0280650854134806451=="
+
+--===============0280650854134806451==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pay a small fee of INR 499 to release your package. Click here to proceed: ht=
+tps://claim-now.biz/prize
+
+Don't miss this one-time opportunity!
+
+--===============0280650854134806451==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Package is Held at Customs</h3>
+    <p>Pay a small fee of INR 499 to release your package. Click here to proc=
+eed: https://claim-now.biz/prize</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============0280650854134806451==--

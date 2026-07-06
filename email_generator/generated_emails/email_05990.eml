@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Tue, 03 Mar 2026 09:30:00 -0000
+Message-ID: <522d695f1eb34c9b84bc786ddc4f5696@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2064368772933915826=="
+
+--===============2064368772933915826==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 199 has been credited to your account on July 02 as salary from Anchorpoi=
+nt Realty.
+
+Regards,
+Customer Service Team
+
+--===============2064368772933915826==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 199 has been credited to your account on July 02 as salary from An=
+chorpoint Realty.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2064368772933915826==--

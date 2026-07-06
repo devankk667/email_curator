@@ -1,0 +1,34 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Jury Duty Summons
+Date: Wed, 04 Mar 2026 09:30:00 -0000
+Message-ID: <dd3ec08441cb453c8fa74172e616d28e@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6757210654819386539=="
+
+--===============6757210654819386539==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have been summoned for jury duty on January 21. Report to the courthouse =
+by 9 AM.
+
+This is an automated notice.
+
+--===============6757210654819386539==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Jury Duty Summons</h3>
+    <p>You have been summoned for jury duty on January 21. Report to the cour=
+thouse by 9 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============6757210654819386539==--

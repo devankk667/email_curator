@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian@amazon.in>
+To: you@myinbox.com
+Subject: New Arrivals in Your Category
+Date: Sat, 14 Mar 2026 15:00:00 -0000
+Message-ID: <59149a4e5b8d4c6b93b7edc651a2053b@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2670733566145071465=="
+
+--===============2670733566145071465==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New arrivals from Fresco Foods matching your interests are now live: https://=
+flipkart.com/returns
+
+Happy Shopping!
+The Team
+
+--===============2670733566145071465==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Arrivals in Your Category</h3>
+    <p>New arrivals from Fresco Foods matching your interests are now live: h=
+ttps://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============2670733566145071465==--

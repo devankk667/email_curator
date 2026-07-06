@@ -1,0 +1,32 @@
+From: Vertex Bank <vertex94@flipkart.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Fri, 20 Mar 2026 10:45:00 -0000
+Message-ID: <66f858ea3e4a463bbb2d1bcda04450ec@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3950932788359101447=="
+
+--===============3950932788359101447==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Zynta Corp membership renews on March 18 for INR 45000.
+
+Thanks for being a valued customer.
+
+--===============3950932788359101447==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Zynta Corp membership renews on March 18 for INR 45000.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============3950932788359101447==--

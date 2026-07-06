@@ -1,0 +1,34 @@
+From: Nimbus Retail <nimbus@myntra.com>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Thu, 02 Jul 2026 07:20:00 -0000
+Message-ID: <987d2041f86a43e89b904696cbd30535@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1109404432740589885=="
+
+--===============1109404432740589885==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 499. Grab it before it's gone!
+
+Happy Shopping!
+The Team
+
+--===============1109404432740589885==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 499. Grab it before it's =
+gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1109404432740589885==--

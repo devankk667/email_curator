@@ -1,0 +1,35 @@
+From: Coral Health <coral@airindia.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Mon, 18 May 2026 19:05:00 -0000
+Message-ID: <7e5d9acb6da645f69915fd02ce6ad68e@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5262811081263648685=="
+
+--===============5262811081263648685==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 45000 for the cancelled Toronto trip has been processed. D=
+etails: https://bookings.com/reservations
+
+Regards,
+Reservations Desk
+
+--===============5262811081263648685==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 45000 for the cancelled Toronto trip has been proce=
+ssed. Details: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============5262811081263648685==--

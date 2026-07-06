@@ -1,0 +1,34 @@
+From: Mei Chen <mei@workday.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Tue, 07 Apr 2026 08:30:00 -0000
+Message-ID: <f7c2fcc0cc3b4a91afe5d44d1a97deb8@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7883676266045239895=="
+
+--===============7883676266045239895==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for Data Scientist at Zynta Corp has moved to the next round=
+. Details: www.linkedin.com/jobs/view
+
+We look forward to hearing from you.
+
+--===============7883676266045239895==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for Data Scientist at Zynta Corp has moved to the nex=
+t round. Details: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============7883676266045239895==--

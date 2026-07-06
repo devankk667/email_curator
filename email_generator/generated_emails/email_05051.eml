@@ -1,0 +1,31 @@
+From: Meetup <meetup@instagram.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Sun, 29 Mar 2026 07:05:00 -0000
+Message-ID: <8e75d57efe6d43558627208989efcb33@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4046319364084098190=="
+
+--===============4046319364084098190==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Sara Chen: "Hey, are we still meeting on April 21=
+?"
+
+--===============4046319364084098190==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Sara Chen: "Hey, are we still meeting on A=
+pril 21?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4046319364084098190==--

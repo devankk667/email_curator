@@ -1,0 +1,33 @@
+From: Aisha Rossi <aisha32@greenhouse.io>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Sun, 26 Apr 2026 20:45:00 -0000
+Message-ID: <aa2dac2aa9e940a099da422802df150d@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1236994580837244529=="
+
+--===============1236994580837244529==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Arjun Dubois starred your repository on GitHub. Keep up the great work!
+
+We look forward to hearing from you.
+
+--===============1236994580837244529==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Arjun Dubois starred your repository on GitHub. Keep up the great work=
+!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============1236994580837244529==--

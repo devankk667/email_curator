@@ -1,0 +1,35 @@
+From: Anchorpoint Realty <anchorpoint@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Thu, 19 Mar 2026 11:30:00 -0000
+Message-ID: <89e26628a18046f3a597d8fe71ed68a7@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1529318458193265213=="
+
+--===============1529318458193265213==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 199 has been credited to your account on September 16 as salary from Star=
+forge Games.
+
+Regards,
+Customer Service Team
+
+--===============1529318458193265213==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 199 has been credited to your account on September 16 as salary fr=
+om Starforge Games.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1529318458193265213==--

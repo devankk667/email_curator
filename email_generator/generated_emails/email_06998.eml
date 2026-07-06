@@ -1,0 +1,35 @@
+From: Mei Tanaka <mei@campusmail.edu>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Thu, 05 Mar 2026 20:15:00 -0000
+Message-ID: <f9e2739c8e9a4819b552c2991dde9347@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0451625031089200847=="
+
+--===============0451625031089200847==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Distributed Systems will be held on October 04 at 4 PM in =
+the Seminar Hall.
+
+Regards,
+Office of Academic Affairs
+
+--===============0451625031089200847==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Distributed Systems will be held on October 04 at 4=
+ PM in the Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============0451625031089200847==--

@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit36@meridianair.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Tue, 26 May 2026 22:45:00 -0000
+Message-ID: <85f22b30c8b9442badb42039ac07dd34@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0084659970476291749=="
+
+--===============0084659970476291749==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Singapore starts on January 26. Don't forget to check the weathe=
+r and pack accordingly.
+
+Regards,
+Reservations Desk
+
+--===============0084659970476291749==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Singapore starts on January 26. Don't forget to check the=
+ weather and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============0084659970476291749==--

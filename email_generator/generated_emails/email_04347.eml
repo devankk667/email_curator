@@ -1,0 +1,29 @@
+From: Kenji Rossi <kenji@linkedin.com>
+To: you@myinbox.com
+Subject: Arjun Mehta liked your photo
+Date: Sun, 28 Jun 2026 08:05:00 -0000
+Message-ID: <48ec4cafa2534d14b1f41d455365a705@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4600958159196609934=="
+
+--===============4600958159196609934==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Ivan Fischer and 8 others liked your recent photo.
+
+--===============4600958159196609934==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Arjun Mehta liked your photo</h3>
+    <p>Ivan Fischer and 8 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4600958159196609934==--

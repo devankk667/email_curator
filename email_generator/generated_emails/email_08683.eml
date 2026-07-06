@@ -1,0 +1,35 @@
+From: Coral Health <coral@linkedin.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Mon, 25 May 2026 07:00:00 -0000
+Message-ID: <d64657e87ee241c4837d1aaad2387f81@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7609947997244360298=="
+
+--===============7609947997244360298==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for Backend Developer at Meridian Airlines has moved to the =
+next round. Details: https://naukri.com/jobs
+
+Best regards,
+Talent Acquisition Team
+
+--===============7609947997244360298==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for Backend Developer at Meridian Airlines has moved =
+to the next round. Details: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============7609947997244360298==--

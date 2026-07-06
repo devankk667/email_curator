@@ -1,0 +1,34 @@
+From: Starforge Games <starforge@payflow.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Sun, 25 Jan 2026 21:45:00 -0000
+Message-ID: <3a35df9cfd944cbf93a9f9329b30e0aa@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1332669843843806185=="
+
+--===============1332669843843806185==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+INR 3999 was debited from your account ending 4821 on July 09 at Cloudscape.
+
+Regards,
+Customer Service Team
+
+--===============1332669843843806185==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 3999 was debited from your account ending 4821 on July 09 at Cloud=
+scape.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1332669843843806185==--

@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@amazon.in>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Fri, 22 May 2026 15:15:00 -0000
+Message-ID: <0162798daaa849dd871e2e56c6ab15ac@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7428823952671433845=="
+
+--===============7428823952671433845==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #4 has been received. Refund of INR 3999 will be proces=
+sed by March 22. Details: https://flipkart.com/returns
+
+Happy Shopping!
+The Team
+
+--===============7428823952671433845==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #4 has been received. Refund of INR 3999 will be=
+ processed by March 22. Details: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7428823952671433845==--

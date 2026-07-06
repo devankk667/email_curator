@@ -1,0 +1,36 @@
+From: Anchorpoint Realty <anchorpoint@meridianair.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Mon, 02 Feb 2026 17:30:00 -0000
+Message-ID: <4f6609f1dd0d47c18e5d2ee7228a4ae7@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2864522944459939616=="
+
+--===============2864522944459939616==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to Sydney on July 27 is confirmed.
+Booking reference: 498958.
+Departure: 10:30 AM.
+
+Safe travels,
+Booking Support Team
+
+--===============2864522944459939616==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to Sydney on July 27 is confirmed.</p><p>Booking reference=
+: 498958.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============2864522944459939616==--

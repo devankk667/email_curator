@@ -1,0 +1,34 @@
+From: Quanta Labs <quanta@citibank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Sun, 08 Feb 2026 13:20:00 -0000
+Message-ID: <3735239b3edf4e6daa542df94a272286@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8854625608871183152=="
+
+--===============8854625608871183152==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+INR 7500 was debited from your account ending 4821 on June 21 at Cloudscape.
+
+Regards,
+Customer Service Team
+
+--===============8854625608871183152==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 7500 was debited from your account ending 4821 on June 21 at Cloud=
+scape.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8854625608871183152==--

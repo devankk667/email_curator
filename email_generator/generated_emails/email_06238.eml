@@ -1,0 +1,33 @@
+From: Brightline Media <brightline@payflow.com>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Sat, 16 May 2026 11:00:00 -0000
+Message-ID: <f3d629997f4f496984791f1c0c8c43b0@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6972185858245549354=="
+
+--===============6972185858245549354==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your quarterly investment report is ready. Net change: 3.8% as of January 06.
+
+Thank you for banking with us.
+
+--===============6972185858245549354==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 3.8% as of Janu=
+ary 06.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============6972185858245549354==--

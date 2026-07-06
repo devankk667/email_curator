@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@bookings.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Wed, 07 Jan 2026 22:15:00 -0000
+Message-ID: <fa5e859df2524d78a59de23f6998642b@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2427786011166669034=="
+
+--===============2427786011166669034==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Mumbai has been rescheduled to October 17. Please c=
+heck your booking.
+
+Regards,
+Reservations Desk
+
+--===============2427786011166669034==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Mumbai has been rescheduled to October 17. P=
+lease check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2427786011166669034==--

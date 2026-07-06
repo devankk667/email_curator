@@ -1,0 +1,49 @@
+From: Quanta Labs <quanta@meridianair.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Wed, 21 Jan 2026 12:30:00 -0000
+Message-ID: <00cbba3c66ca42a7981518896c289845@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4352522015967532615=="
+
+--===============4352522015967532615==
+Content-Type: multipart/alternative;
+ boundary="===============2001481762388812373=="
+
+--===============2001481762388812373==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to Delhi on August 14 is now open. Check in h=
+ere: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============2001481762388812373==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to Delhi on August 14 is now open. Che=
+ck in here: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============2001481762388812373==--
+
+--===============4352522015967532615==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============4352522015967532615==--

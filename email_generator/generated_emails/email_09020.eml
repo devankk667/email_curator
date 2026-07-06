@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit93@meridianair.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Wed, 04 Feb 2026 17:20:00 -0000
+Message-ID: <b439252460144f7994bb83e635e7b27e@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8280961069995461370=="
+
+--===============8280961069995461370==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Delhi from January 05 to December 22 is confirmed. Booking=
+ ID: 551189. Manage booking: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============8280961069995461370==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Delhi from January 05 to December 22 is confirmed. =
+Booking ID: 551189. Manage booking: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============8280961069995461370==--

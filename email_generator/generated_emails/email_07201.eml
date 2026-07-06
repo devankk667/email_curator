@@ -1,0 +1,35 @@
+From: Zara Patel <zara@university.edu>
+To: you@myinbox.com
+Subject: Library Book Due
+Date: Sat, 07 Feb 2026 13:05:00 -0000
+Message-ID: <79c84ce1e1aa42258cdfa56c1109edad@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5576183536096264857=="
+
+--===============5576183536096264857==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The book 'Introduction to Algorithms' issued to you is due for return on Janu=
+ary 04. Renew online to avoid a fine.
+
+Regards,
+Office of Academic Affairs
+
+--===============5576183536096264857==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Library Book Due</h3>
+    <p>The book 'Introduction to Algorithms' issued to you is due for return =
+on January 04. Renew online to avoid a fine.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============5576183536096264857==--

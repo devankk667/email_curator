@@ -1,0 +1,35 @@
+From: Ananya Costa <ananya@college.ac.in>
+To: you@myinbox.com
+Subject: Library Book Due
+Date: Sun, 15 Feb 2026 20:20:00 -0000
+Message-ID: <850802ae471241d59777f4a68994e7ac@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5899123258225965384=="
+
+--===============5899123258225965384==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The book 'Deep Learning' issued to you is due for return on January 25. Renew=
+ online to avoid a fine.
+
+Regards,
+Office of Academic Affairs
+
+--===============5899123258225965384==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Library Book Due</h3>
+    <p>The book 'Deep Learning' issued to you is due for return on January 25=
+. Renew online to avoid a fine.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============5899123258225965384==--

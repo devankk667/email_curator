@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex@meridianair.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Fri, 19 Jun 2026 18:10:00 -0000
+Message-ID: <ad45666f31b4473682ee542168d021a2@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2239861852483707670=="
+
+--===============2239861852483707670==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Toronto as of October 27. Read=
+ the advisory: https://bookings.com/reservations
+
+Regards,
+Reservations Desk
+
+--===============2239861852483707670==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Toronto as of October 2=
+7. Read the advisory: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2239861852483707670==--

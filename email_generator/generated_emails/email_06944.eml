@@ -1,0 +1,49 @@
+From: Elena Tanaka <elena97@campusmail.edu>
+To: you@myinbox.com
+Subject: Fee Payment Reminder
+Date: Mon, 16 Feb 2026 10:10:00 -0000
+Message-ID: <631ba84d72544ab299d5bba745fb2a5a@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6485270268144943234=="
+
+--===============6485270268144943234==
+Content-Type: multipart/alternative;
+ boundary="===============8009429206777482545=="
+
+--===============8009429206777482545==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your semester fee of INR 1499 is due by February 01.
+Pay online via the student portal to avoid late charges.
+
+Thank you,
+Examination Cell
+
+--===============8009429206777482545==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fee Payment Reminder</h3>
+    <p>Your semester fee of INR 1499 is due by February 01.</p><p>Pay online =
+via the student portal to avoid late charges.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============8009429206777482545==--
+
+--===============6485270268144943234==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============6485270268144943234==--

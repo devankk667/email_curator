@@ -1,0 +1,32 @@
+From: Quanta Labs <quanta@vertexbank.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Wed, 11 Mar 2026 07:15:00 -0000
+Message-ID: <ca547eb66d7047b78472f8045294540e@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6029420759146442548=="
+
+--===============6029420759146442548==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 7500 for Personal Loan #5 is due on June 24.
+
+Thank you for banking with us.
+
+--===============6029420759146442548==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 7500 for Personal Loan #5 is due on June 24.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============6029420759146442548==--

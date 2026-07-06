@@ -1,0 +1,34 @@
+From: Fatima Mehta <fatima@workday.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Thu, 19 Feb 2026 21:10:00 -0000
+Message-ID: <ce2ffbbaeafe40088b86dc3eb9764bd4@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2802571613987976749=="
+
+--===============2802571613987976749==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: ML Engineer at Nimbus Retail, Del=
+hi. Apply now: www.linkedin.com/jobs/view
+
+We look forward to hearing from you.
+
+--===============2802571613987976749==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: ML Engineer at Nimbus Reta=
+il, Delhi. Apply now: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============2802571613987976749==--

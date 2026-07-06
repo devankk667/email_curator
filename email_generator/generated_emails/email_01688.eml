@@ -1,0 +1,47 @@
+From: Cloudscape <cloudscape@nimbusretail.com>
+To: you@myinbox.com
+Subject: Cart Reminder
+Date: Mon, 23 Feb 2026 20:00:00 -0000
+Message-ID: <ee25c100948c469988770c3d02c5adf6@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8267383743392951450=="
+
+--===============8267383743392951450==
+Content-Type: multipart/alternative;
+ boundary="===============1317312491898399391=="
+
+--===============1317312491898399391==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You left 4 item(s) in your cart. Complete your purchase and get free shipping.
+
+Thanks for being a valued customer.
+
+--===============1317312491898399391==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>You left 4 item(s) in your cart. Complete your purchase and get free s=
+hipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============1317312491898399391==--
+
+--===============8267383743392951450==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============8267383743392951450==--

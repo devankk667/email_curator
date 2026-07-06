@@ -1,0 +1,34 @@
+From: Sara Lopez <sara@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Your Subscription is Expiring, Act Now
+Date: Sat, 04 Apr 2026 16:30:00 -0000
+Message-ID: <3fb6ca9f5ea34c23b17923a2e6c98423@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1470277887123236655=="
+
+--===============1470277887123236655==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Renew now to avoid losing access. Special price: INR 2500, today only: http:/=
+/secure-verify-account.com/login
+
+Don't miss this one-time opportunity!
+
+--===============1470277887123236655==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Subscription is Expiring, Act Now</h3>
+    <p>Renew now to avoid losing access. Special price: INR 2500, today only:=
+ http://secure-verify-account.com/login</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============1470277887123236655==--

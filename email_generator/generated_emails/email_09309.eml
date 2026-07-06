@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@meridianair.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Sun, 21 Jun 2026 20:20:00 -0000
+Message-ID: <a2eaaf1baf274f95adc76ae824239039@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7455295359974421381=="
+
+--===============7455295359974421381==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 499 for the cancelled Paris trip has been processed. Detai=
+ls: https://meridianair.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============7455295359974421381==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 499 for the cancelled Paris trip has been processed=
+. Details: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============7455295359974421381==--

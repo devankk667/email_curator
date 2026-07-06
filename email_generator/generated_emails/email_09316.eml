@@ -1,0 +1,35 @@
+From: Brightline Media <brightline@airindia.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Sun, 29 Mar 2026 08:20:00 -0000
+Message-ID: <ef5f74f1c0da4679a40f9ff52db7844d@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8828053355817772688=="
+
+--===============8828053355817772688==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Delhi as of March 21. Read the=
+ advisory: https://meridianair.com/checkin
+
+Safe travels,
+Booking Support Team
+
+--===============8828053355817772688==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Delhi as of March 21. R=
+ead the advisory: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============8828053355817772688==--

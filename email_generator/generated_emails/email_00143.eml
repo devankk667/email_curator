@@ -1,0 +1,34 @@
+From: Meridian Airlines <meridian@flipkart.com>
+To: you@myinbox.com
+Subject: Cart Reminder
+Date: Thu, 15 Jan 2026 08:20:00 -0000
+Message-ID: <a1da33cdc6a84652bb9d7560873f1e25@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7110089848937871520=="
+
+--===============7110089848937871520==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You left 1 item(s) in your cart. Complete your purchase and get free shipping.
+
+Happy Shopping!
+The Team
+
+--===============7110089848937871520==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>You left 1 item(s) in your cart. Complete your purchase and get free s=
+hipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7110089848937871520==--

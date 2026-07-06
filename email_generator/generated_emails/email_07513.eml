@@ -1,0 +1,35 @@
+From: Diego Novak <diego88@university.edu>
+To: you@myinbox.com
+Subject: Scholarship Application Open
+Date: Wed, 27 May 2026 12:45:00 -0000
+Message-ID: <328ead67e63d4567ad5b6e3b57b2b1a4@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2245746692978836125=="
+
+--===============2245746692978836125==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Applications for the merit scholarship are open until January 29. Award amoun=
+t: INR 2500. Apply here: https://portal.university.edu/results
+
+Thank you,
+Examination Cell
+
+--===============2245746692978836125==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Scholarship Application Open</h3>
+    <p>Applications for the merit scholarship are open until January 29. Awar=
+d amount: INR 2500. Apply here: https://portal.university.edu/results</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============2245746692978836125==--

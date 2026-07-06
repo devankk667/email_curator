@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Thu, 15 Jan 2026 22:45:00 -0000
+Message-ID: <1a71b66ac22740c4b5a5f2a6f007f871@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5508480757831140317=="
+
+--===============5508480757831140317==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #1 from Orbit Logistics is delayed and will now arrive by October =
+09 instead of September 26. Track: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============5508480757831140317==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #1 from Orbit Logistics is delayed and will now arrive by O=
+ctober 09 instead of September 26. Track: https://nimbusretail.com/orders/tra=
+ck</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5508480757831140317==--

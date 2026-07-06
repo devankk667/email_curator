@@ -1,0 +1,35 @@
+From: Mei Okafor <mei@workday.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Tue, 05 May 2026 18:15:00 -0000
+Message-ID: <c2781896feee4fd7afc544a340cc5448@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1784064387579714214=="
+
+--===============1784064387579714214==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: Software Engineer at Meridian Air=
+lines, New York. Apply now: https://workday.com/candidate
+
+Best regards,
+Talent Acquisition Team
+
+--===============1784064387579714214==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: Software Engineer at Merid=
+ian Airlines, New York. Apply now: https://workday.com/candidate</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============1784064387579714214==--

@@ -1,0 +1,35 @@
+From: Priya Reddy <priya@university.edu>
+To: you@myinbox.com
+Subject: Convocation Notice
+Date: Tue, 24 Feb 2026 06:00:00 -0000
+Message-ID: <d47ff0f68e734bbbaa7525d86c3a5373@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4420404132620749979=="
+
+--===============4420404132620749979==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Convocation ceremony will be held on July 02. Collect your gown by February 1=
+5.
+
+Regards,
+Office of Academic Affairs
+
+--===============4420404132620749979==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Convocation Notice</h3>
+    <p>Convocation ceremony will be held on July 02. Collect your gown by Feb=
+ruary 15.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============4420404132620749979==--

@@ -1,0 +1,47 @@
+From: Kenji Tanaka <kenji@claim-now.biz>
+To: you@myinbox.com
+Subject: Your Account Password Expired
+Date: Wed, 22 Apr 2026 09:20:00 -0000
+Message-ID: <882047e4e8d34e4d88ed150e8a396910@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3517632357402032808=="
+
+--===============3517632357402032808==
+Content-Type: multipart/alternative;
+ boundary="===============1813044183581594999=="
+
+--===============1813044183581594999==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Click here immediately to reset your password or lose access permanently: htt=
+ps://claim-now.biz/prize
+
+Act now, offer expires soon!
+
+--===============1813044183581594999==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Account Password Expired</h3>
+    <p>Click here immediately to reset your password or lose access permanent=
+ly: https://claim-now.biz/prize</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============1813044183581594999==--
+
+--===============3517632357402032808==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============3517632357402032808==--

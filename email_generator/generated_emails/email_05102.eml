@@ -1,0 +1,29 @@
+From: Noah Rossi <noah@instagram.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Sun, 12 Apr 2026 12:15:00 -0000
+Message-ID: <e092d40b319740d1a1f2ac9160f0c81a@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6909292770038521726=="
+
+--===============6909292770038521726==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Zara Rossi invited you to join the group 'the birthday party'.
+
+--===============6909292770038521726==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Zara Rossi invited you to join the group 'the birthday party'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6909292770038521726==--

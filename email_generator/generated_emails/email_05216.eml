@@ -1,0 +1,35 @@
+From: Facebook <facebook@linkedin.com>
+To: you@myinbox.com
+Subject: Fwd: New Message
+Date: Mon, 11 May 2026 07:05:00 -0000
+Message-ID: <4c43d4462f7a453192472437bfaa9d40@linkedin.com>
+In-Reply-To: <0ed8378a5dc54db19eb732002a19005f@meetup.com>
+References: <0ed8378a5dc54db19eb732002a19005f@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8079639200059174364=="
+
+--===============8079639200059174364==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Got it, will follow up soon.
+
+> You have a new message from Aisha Garcia: "Hey, are we still meeting on Jul=
+y 06?"
+
+--===============8079639200059174364==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>Got it, will follow up soon.</p><p>> You have a new message from Aisha=
+ Garcia: "Hey, are we still meeting on July 06?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8079639200059174364==--

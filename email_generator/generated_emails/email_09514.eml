@@ -1,0 +1,46 @@
+From: Government Services <government86@municipal.gov>
+To: you@myinbox.com
+Subject: Building Permit Approved
+Date: Sat, 09 May 2026 17:15:00 -0000
+Message-ID: <f30603a4595b46439930a7791079740f@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5971884718451837839=="
+
+--===============5971884718451837839==
+Content-Type: multipart/alternative;
+ boundary="===============9097275494845231914=="
+
+--===============9097275494845231914==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your building permit application #702966 has been approved as of May 20.
+
+This is an automated notice.
+
+--===============9097275494845231914==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Building Permit Approved</h3>
+    <p>Your building permit application #702966 has been approved as of May 2=
+0.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============9097275494845231914==--
+
+--===============5971884718451837839==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="notice.txt"
+MIME-Version: 1.0
+
+T2ZmaWNpYWwgbm90aWNlIGRvY3VtZW50LiBQbGVhc2UgcmV0YWluIGZvciB5b3VyIHJlY29yZHMu
+
+--===============5971884718451837839==--

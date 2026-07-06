@@ -1,0 +1,31 @@
+From: Carlos Nguyen <carlos@linkedin.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Thu, 21 May 2026 06:15:00 -0000
+Message-ID: <6eb7b9f8401e4caea14668ce343607bd@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6715020329006648003=="
+
+--===============6715020329006648003==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Meera Reddy's birthday on November 21! Send them a message to make their=
+ day.
+
+--===============6715020329006648003==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Meera Reddy's birthday on November 21! Send them a message to mak=
+e their day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6715020329006648003==--

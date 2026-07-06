@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian@makemytrip.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Thu, 23 Apr 2026 11:30:00 -0000
+Message-ID: <74a95392a3804ab197b725d6596ee9c5@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3893301444645604913=="
+
+--===============3893301444645604913==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to Singapore on August 14 is now open. Check =
+in here: https://makemytrip.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============3893301444645604913==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to Singapore on August 14 is now open.=
+ Check in here: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============3893301444645604913==--

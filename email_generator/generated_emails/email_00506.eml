@@ -1,0 +1,48 @@
+From: Nimbus Retail <nimbus@nimbusretail.com>
+To: you@myinbox.com
+Subject: New Arrivals in Your Category
+Date: Thu, 26 Mar 2026 07:30:00 -0000
+Message-ID: <32c4d74877654558bd23e53af3de7c84@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0283434276404864367=="
+
+--===============0283434276404864367==
+Content-Type: multipart/alternative;
+ boundary="===============3865137161623937288=="
+
+--===============3865137161623937288==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New arrivals from Orbit Logistics matching your interests are now live: https=
+://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============3865137161623937288==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Arrivals in Your Category</h3>
+    <p>New arrivals from Orbit Logistics matching your interests are now live=
+: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============3865137161623937288==--
+
+--===============0283434276404864367==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============0283434276404864367==--

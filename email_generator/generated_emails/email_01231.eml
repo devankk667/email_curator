@@ -1,0 +1,49 @@
+From: Cloudscape <cloudscape@flipkart.com>
+To: you@myinbox.com
+Subject: Wishlist Reminder
+Date: Mon, 27 Apr 2026 18:10:00 -0000
+Message-ID: <83b36fdd8d194d2db46f6972d9a7b3a0@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8593352026142272324=="
+
+--===============8593352026142272324==
+Content-Type: multipart/alternative;
+ boundary="===============3880307054498566250=="
+
+--===============3880307054498566250==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Items in your wishlist are still available. Buy now before prices go up on Ja=
+nuary 30.
+
+Happy Shopping!
+The Team
+
+--===============3880307054498566250==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Wishlist Reminder</h3>
+    <p>Items in your wishlist are still available. Buy now before prices go u=
+p on January 30.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============3880307054498566250==--
+
+--===============8593352026142272324==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============8593352026142272324==--

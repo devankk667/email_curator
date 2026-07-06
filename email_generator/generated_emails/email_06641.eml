@@ -1,0 +1,49 @@
+From: Quanta Labs <quanta@vertexbank.com>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Tue, 13 Jan 2026 10:20:00 -0000
+Message-ID: <adf922c527344c608753ae4fab390e39@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0151345723517996050=="
+
+--===============0151345723517996050==
+Content-Type: multipart/alternative;
+ boundary="===============4341824323709464449=="
+
+--===============4341824323709464449==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 7500 matured on August 12. Choose to renew or withd=
+raw.
+
+Regards,
+Customer Service Team
+
+--===============4341824323709464449==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 7500 matured on August 12. Choose to renew o=
+r withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============4341824323709464449==--
+
+--===============0151345723517996050==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============0151345723517996050==--

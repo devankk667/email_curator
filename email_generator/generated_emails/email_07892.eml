@@ -1,0 +1,49 @@
+From: Nina Chen <nina@linkedin.com>
+To: you@myinbox.com
+Subject: Take-Home Assignment
+Date: Sat, 07 Mar 2026 22:05:00 -0000
+Message-ID: <b3ba60cd61994694a66ade77a2ff93eb@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5606327774583697231=="
+
+--===============5606327774583697231==
+Content-Type: multipart/alternative;
+ boundary="===============3767563249156155754=="
+
+--===============3767563249156155754==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please complete the take-home assignment for the Data Analyst role at Meridia=
+n Airlines by September 10. Assignment link: www.linkedin.com/jobs/view
+
+Best regards,
+Talent Acquisition Team
+
+--===============3767563249156155754==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Take-Home Assignment</h3>
+    <p>Please complete the take-home assignment for the Data Analyst role at =
+Meridian Airlines by September 10. Assignment link: www.linkedin.com/jobs/vie=
+w</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============3767563249156155754==--
+
+--===============5606327774583697231==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============5606327774583697231==--

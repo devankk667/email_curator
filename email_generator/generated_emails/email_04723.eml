@@ -1,0 +1,29 @@
+From: LinkedIn <linkedin@instagram.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Fri, 08 May 2026 16:00:00 -0000
+Message-ID: <6934e9fba5984cf1a8da8414c42a215a@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7523895341859610145=="
+
+--===============7523895341859610145==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Arjun Patel invited you to join the group 'the college reunion'.
+
+--===============7523895341859610145==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Arjun Patel invited you to join the group 'the college reunion'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============7523895341859610145==--

@@ -1,0 +1,34 @@
+From: Vertex Bank <vertex@citibank.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Mon, 23 Feb 2026 11:20:00 -0000
+Message-ID: <81ff2ecb86784658bca24b5cb7abc219@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0904326972910996052=="
+
+--===============0904326972910996052==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 199. Add funds here: https://vertexbank.com=
+/cards/offers
+
+Thank you for banking with us.
+
+--===============0904326972910996052==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 199. Add funds here: https://vertexb=
+ank.com/cards/offers</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============0904326972910996052==--

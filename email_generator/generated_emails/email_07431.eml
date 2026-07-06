@@ -1,0 +1,35 @@
+From: Priya Tanaka <priya@university.edu>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Tue, 30 Jun 2026 11:15:00 -0000
+Message-ID: <54da68d9a4ed48ca90478960159a6655@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6900598410447989417=="
+
+--===============6900598410447989417==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Linear Algebra lecture originally on September 25 has been moved to June =
+17, Room 229.
+
+Thank you,
+Examination Cell
+
+--===============6900598410447989417==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Linear Algebra lecture originally on September 25 has been moved t=
+o June 17, Room 229.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============6900598410447989417==--

@@ -1,0 +1,49 @@
+From: Anchorpoint Realty <anchorpoint50@meridianair.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Thu, 02 Jul 2026 16:45:00 -0000
+Message-ID: <a75533b1af1446f0b0be6851dc3b7594@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5872475009793208879=="
+
+--===============5872475009793208879==
+Content-Type: multipart/alternative;
+ boundary="===============0701059471303936703=="
+
+--===============0701059471303936703==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in London from May 15 to August 13 is confirmed. Booking ID: =
+207446. Manage booking: https://meridianair.com/checkin
+
+Regards,
+Reservations Desk
+
+--===============0701059471303936703==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in London from May 15 to August 13 is confirmed. Booki=
+ng ID: 207446. Manage booking: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============0701059471303936703==--
+
+--===============5872475009793208879==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============5872475009793208879==--

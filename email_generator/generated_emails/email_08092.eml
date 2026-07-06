@@ -1,0 +1,35 @@
+From: Priya Rossi <priya18@greenhouse.io>
+To: you@myinbox.com
+Subject: Take-Home Assignment
+Date: Fri, 06 Feb 2026 12:10:00 -0000
+Message-ID: <7c5621c74bac4b42b21ee137b5e9a57c@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4566216178479528597=="
+
+--===============4566216178479528597==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please complete the take-home assignment for the Data Scientist role at Nimbu=
+s Retail by December 25. Assignment link: https://naukri.com/jobs
+
+Best regards,
+Talent Acquisition Team
+
+--===============4566216178479528597==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Take-Home Assignment</h3>
+    <p>Please complete the take-home assignment for the Data Scientist role a=
+t Nimbus Retail by December 25. Assignment link: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============4566216178479528597==--

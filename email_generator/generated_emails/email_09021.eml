@@ -1,0 +1,33 @@
+From: Fernwood Analytics <fernwood92@bookings.com>
+To: you@myinbox.com
+Subject: Loyalty Points Credited
+Date: Wed, 07 Jan 2026 07:30:00 -0000
+Message-ID: <6c47a782ccd944f19bfbb72f2e81ed89@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3228574016381716103=="
+
+--===============3228574016381716103==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You've earned 800 loyalty points for your recent trip to Bangalore.
+
+Safe travels,
+Booking Support Team
+
+--===============3228574016381716103==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loyalty Points Credited</h3>
+    <p>You've earned 800 loyalty points for your recent trip to Bangalore.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============3228574016381716103==--

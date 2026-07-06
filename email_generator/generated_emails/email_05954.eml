@@ -1,0 +1,34 @@
+From: Meridian Airlines <meridian@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Thu, 15 Jan 2026 11:45:00 -0000
+Message-ID: <06eaf5f410614752bf012658abbc6ca5@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3375047086502486765=="
+
+--===============3375047086502486765==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 199 has been credited to your account on November 06 as salary from Starf=
+orge Games.
+
+Thank you for banking with us.
+
+--===============3375047086502486765==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 199 has been credited to your account on November 06 as salary fro=
+m Starforge Games.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3375047086502486765==--

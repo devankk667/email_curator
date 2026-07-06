@@ -1,0 +1,35 @@
+From: Lucas Rossi <lucas@college.ac.in>
+To: you@myinbox.com
+Subject: Library Book Due
+Date: Sat, 10 Jan 2026 06:30:00 -0000
+Message-ID: <910189b2881945dc921097087515c784@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5830100126517059122=="
+
+--===============5830100126517059122==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The book 'The Pragmatic Programmer' issued to you is due for return on Decemb=
+er 05. Renew online to avoid a fine.
+
+Regards,
+Office of Academic Affairs
+
+--===============5830100126517059122==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Library Book Due</h3>
+    <p>The book 'The Pragmatic Programmer' issued to you is due for return on=
+ December 05. Renew online to avoid a fine.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============5830100126517059122==--

@@ -1,0 +1,35 @@
+From: Coral Health <coral@meridianair.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Tue, 02 Jun 2026 17:05:00 -0000
+Message-ID: <ba36cd1e457a4ad792949dceaac58dc0@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7960667624161602631=="
+
+--===============7960667624161602631==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Paris starts on July 21. Don't forget to check the weather and p=
+ack accordingly.
+
+Safe travels,
+Booking Support Team
+
+--===============7960667624161602631==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Paris starts on July 21. Don't forget to check the weathe=
+r and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============7960667624161602631==--

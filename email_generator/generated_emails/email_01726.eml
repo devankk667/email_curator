@@ -1,0 +1,48 @@
+From: Brightline Media <brightline@myntra.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Wed, 13 May 2026 06:00:00 -0000
+Message-ID: <8f89a89933be41a8b696c012c0351599@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4215655148674462588=="
+
+--===============4215655148674462588==
+Content-Type: multipart/alternative;
+ boundary="===============4899857585169179133=="
+
+--===============4899857585169179133==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #7 from Vertex Bank is delayed and will now arrive by January 26 i=
+nstead of December 20. Track: https://flipkart.com/returns
+
+Thanks for being a valued customer.
+
+--===============4899857585169179133==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #7 from Vertex Bank is delayed and will now arrive by Janua=
+ry 26 instead of December 20. Track: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4899857585169179133==--
+
+--===============4215655148674462588==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============4215655148674462588==--

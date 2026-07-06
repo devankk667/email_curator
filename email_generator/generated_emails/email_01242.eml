@@ -1,0 +1,34 @@
+From: PixelWorks <pixelworks@flipkart.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Wed, 11 Feb 2026 09:15:00 -0000
+Message-ID: <f6387332d17d42c29c89045d508ae3df@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6268144720854873916=="
+
+--===============6268144720854873916==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #4 has been received. Refund of INR 12000 will be proce=
+ssed by July 27. Details: https://myntra.com/orders
+
+Thanks for being a valued customer.
+
+--===============6268144720854873916==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #4 has been received. Refund of INR 12000 will b=
+e processed by July 27. Details: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============6268144720854873916==--

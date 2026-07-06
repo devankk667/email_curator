@@ -1,0 +1,48 @@
+From: Fresco Foods <fresco@naukri.com>
+To: you@myinbox.com
+Subject: Onboarding Details
+Date: Wed, 29 Apr 2026 18:10:00 -0000
+Message-ID: <708727c6395946458a1a6c6d278fc7ac@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1195029615761634400=="
+
+--===============1195029615761634400==
+Content-Type: multipart/alternative;
+ boundary="===============8881433025353243979=="
+
+--===============8881433025353243979==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Welcome to Starforge Games! Your onboarding for the ML Engineer role begins o=
+n March 31.
+
+Best regards,
+Talent Acquisition Team
+
+--===============8881433025353243979==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Onboarding Details</h3>
+    <p>Welcome to Starforge Games! Your onboarding for the ML Engineer role b=
+egins on March 31.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============8881433025353243979==--
+
+--===============1195029615761634400==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============1195029615761634400==--

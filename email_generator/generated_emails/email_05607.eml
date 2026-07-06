@@ -1,0 +1,47 @@
+From: Starforge Games <starforge69@citibank.com>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Sun, 15 Mar 2026 10:45:00 -0000
+Message-ID: <e4a29129d94644729dcda29a86bf13d3@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6981716824823173029=="
+
+--===============6981716824823173029==
+Content-Type: multipart/alternative;
+ boundary="===============2120985170894205630=="
+
+--===============2120985170894205630==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your fixed deposit of INR 199 matured on June 29. Choose to renew or withdraw.
+
+Thank you for banking with us.
+
+--===============2120985170894205630==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 199 matured on June 29. Choose to renew or w=
+ithdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============2120985170894205630==--
+
+--===============6981716824823173029==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============6981716824823173029==--

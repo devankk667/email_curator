@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Mon, 09 Feb 2026 06:15:00 -0000
+Message-ID: <d8809095995344749520efa6beb9a360@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0836117757375882802=="
+
+--===============0836117757375882802==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Ja=
+nuary 20 to avoid penalties.
+
+Regards,
+Customer Service Team
+
+--===============0836117757375882802==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore January 20 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============0836117757375882802==--

@@ -1,0 +1,34 @@
+From: Cloudscape <cloudscape@amazon.in>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Mon, 15 Jun 2026 14:30:00 -0000
+Message-ID: <a2f2b1e19b9c4c10adc641bf9a24a252@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1781598453912913994=="
+
+--===============1781598453912913994==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #9 from Fernwood Analytics is delayed and will now arrive by Septe=
+mber 11 instead of January 19. Track: https://myntra.com/orders
+
+Thanks for being a valued customer.
+
+--===============1781598453912913994==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #9 from Fernwood Analytics is delayed and will now arrive b=
+y September 11 instead of January 19. Track: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============1781598453912913994==--

@@ -1,0 +1,35 @@
+From: Brightline Media <brightline66@bookings.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Thu, 15 Jan 2026 09:45:00 -0000
+Message-ID: <bb0719f3158a48a7a0f248f278e018e5@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3031351476445860460=="
+
+--===============3031351476445860460==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 499 for the cancelled San Francisco trip has been processe=
+d. Details: https://meridianair.com/checkin
+
+Safe travels,
+Booking Support Team
+
+--===============3031351476445860460==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 499 for the cancelled San Francisco trip has been p=
+rocessed. Details: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============3031351476445860460==--

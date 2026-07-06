@@ -1,0 +1,35 @@
+From: Brightline Media <brightline90@payflow.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Sat, 07 Mar 2026 22:15:00 -0000
+Message-ID: <33cc026916d9417fb501013e534a404c@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3195089690606101417=="
+
+--===============3195089690606101417==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 45000 was debited from your account ending 4821 on August 19 at PixelWork=
+s.
+
+Regards,
+Customer Service Team
+
+--===============3195089690606101417==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 45000 was debited from your account ending 4821 on August 19 at Pi=
+xelWorks.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3195089690606101417==--

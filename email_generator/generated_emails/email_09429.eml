@@ -1,0 +1,36 @@
+From: Vertex Bank <vertex73@airindia.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Tue, 17 Mar 2026 12:20:00 -0000
+Message-ID: <bdfff497ae794e4c9744316487c4b1e7@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4713170241505102413=="
+
+--===============4713170241505102413==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to Mumbai on December 18 is confirmed.
+Booking reference: 518063.
+Departure: 10:30 AM.
+
+Safe travels,
+Booking Support Team
+
+--===============4713170241505102413==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to Mumbai on December 18 is confirmed.</p><p>Booking refer=
+ence: 518063.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============4713170241505102413==--

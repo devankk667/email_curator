@@ -1,0 +1,34 @@
+From: Cloudscape <cloudscape45@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Wed, 20 May 2026 15:45:00 -0000
+Message-ID: <cf190c3712a64d30b013067047fa4178@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3605835316261784314=="
+
+--===============3605835316261784314==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #6 from Quanta Labs has shipped and will arrive by October 07. Tra=
+ck it: https://flipkart.com/returns
+
+Thanks for being a valued customer.
+
+--===============3605835316261784314==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #6 from Quanta Labs has shipped and will arrive by October =
+07. Track it: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============3605835316261784314==--

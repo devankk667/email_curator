@@ -1,0 +1,33 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Building Permit Approved
+Date: Sun, 08 Feb 2026 20:00:00 -0000
+Message-ID: <5a62877c807d44cd85df6f44402bd658@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6205469825128087309=="
+
+--===============6205469825128087309==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your building permit application #229367 has been approved as of January 14.
+
+This is an automated notice.
+
+--===============6205469825128087309==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Building Permit Approved</h3>
+    <p>Your building permit application #229367 has been approved as of Janua=
+ry 14.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============6205469825128087309==--

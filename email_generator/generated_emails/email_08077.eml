@@ -1,0 +1,34 @@
+From: Arjun Nguyen <arjun@linkedin.com>
+To: you@myinbox.com
+Subject: Onboarding Details
+Date: Sat, 11 Apr 2026 16:15:00 -0000
+Message-ID: <9d24f0fa28b1401da31f5a17752dbf7f@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3808406494341811940=="
+
+--===============3808406494341811940==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Welcome to PixelWorks! Your onboarding for the DevOps Engineer role begins on=
+ February 14.
+
+We look forward to hearing from you.
+
+--===============3808406494341811940==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Onboarding Details</h3>
+    <p>Welcome to PixelWorks! Your onboarding for the DevOps Engineer role be=
+gins on February 14.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============3808406494341811940==--

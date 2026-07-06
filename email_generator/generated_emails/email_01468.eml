@@ -1,0 +1,34 @@
+From: Brightline Media <brightline20@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Tue, 14 Apr 2026 08:15:00 -0000
+Message-ID: <1801886605964e08862c01016fa7af57@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3678264739489297658=="
+
+--===============3678264739489297658==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #3 from Fresco Foods is delayed and will now arrive by March 16 in=
+stead of June 07. Track: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============3678264739489297658==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #3 from Fresco Foods is delayed and will now arrive by Marc=
+h 16 instead of June 07. Track: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============3678264739489297658==--

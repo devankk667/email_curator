@@ -1,0 +1,30 @@
+From: Meetup <meetup@facebookmail.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Mon, 26 Jan 2026 11:10:00 -0000
+Message-ID: <19be4118a7a64811bc1606b936e8d26c@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3150503893417442830=="
+
+--===============3150503893417442830==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+It's Wei Silva's birthday on June 15! Send them a message to make their day.
+
+--===============3150503893417442830==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Wei Silva's birthday on June 15! Send them a message to make thei=
+r day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============3150503893417442830==--

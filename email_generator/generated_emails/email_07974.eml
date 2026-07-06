@@ -1,0 +1,34 @@
+From: Fernwood Analytics <fernwood97@naukri.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Sun, 18 Jan 2026 06:00:00 -0000
+Message-ID: <2824a4f5a3404a39886175f727b83e42@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8354327304651948024=="
+
+--===============8354327304651948024==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: ML Engineer at Coral Health, Duba=
+i. Apply now: www.linkedin.com/jobs/view
+
+We look forward to hearing from you.
+
+--===============8354327304651948024==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: ML Engineer at Coral Healt=
+h, Dubai. Apply now: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============8354327304651948024==--

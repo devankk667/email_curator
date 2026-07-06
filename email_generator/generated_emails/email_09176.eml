@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@meridianair.com>
+To: you@myinbox.com
+Subject: Visa Application Update
+Date: Mon, 20 Apr 2026 07:20:00 -0000
+Message-ID: <acf0452d3a534933bb9e736e1a88cf89@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0832831469056348733=="
+
+--===============0832831469056348733==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your visa application for London has moved to 'Under Review'. Expected decisi=
+on by October 12.
+
+Safe travels,
+Booking Support Team
+
+--===============0832831469056348733==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Visa Application Update</h3>
+    <p>Your visa application for London has moved to 'Under Review'. Expected=
+ decision by October 12.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============0832831469056348733==--

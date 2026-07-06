@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Wed, 21 Jan 2026 20:00:00 -0000
+Message-ID: <a0c3db6cefba43689f35c9bc42761ad5@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5671378573541422798=="
+
+--===============5671378573541422798==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #2 from Zynta Corp is delayed and will now arrive by July 12 inste=
+ad of August 29. Track: https://amazon.in/orders
+
+Happy Shopping!
+The Team
+
+--===============5671378573541422798==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #2 from Zynta Corp is delayed and will now arrive by July 1=
+2 instead of August 29. Track: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============5671378573541422798==--

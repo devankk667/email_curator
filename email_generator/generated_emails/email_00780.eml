@@ -1,0 +1,34 @@
+From: Quanta Labs <quanta@nimbusretail.com>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Thu, 02 Jul 2026 21:20:00 -0000
+Message-ID: <ce4dcd2a3ab14d93857049a241c2dd72@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6128988139751776547=="
+
+--===============6128988139751776547==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 45000. Grab it before it's gone!
+
+Happy Shopping!
+The Team
+
+--===============6128988139751776547==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 45000. Grab it before it'=
+s gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============6128988139751776547==--

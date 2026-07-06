@@ -1,0 +1,49 @@
+From: Meridian Airlines <meridian@amazon.in>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Thu, 07 May 2026 07:30:00 -0000
+Message-ID: <b7db200997244f5c849e0e48b820b5de@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4220081141271870311=="
+
+--===============4220081141271870311==
+Content-Type: multipart/alternative;
+ boundary="===============6708618698638819158=="
+
+--===============6708618698638819158==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #9 from Starforge Games is delayed and will now arrive by July 06 =
+instead of April 27. Track: https://nimbusretail.com/orders/track
+
+Happy Shopping!
+The Team
+
+--===============6708618698638819158==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #9 from Starforge Games is delayed and will now arrive by J=
+uly 06 instead of April 27. Track: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============6708618698638819158==--
+
+--===============4220081141271870311==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============4220081141271870311==--

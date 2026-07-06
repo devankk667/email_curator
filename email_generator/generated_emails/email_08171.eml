@@ -1,0 +1,48 @@
+From: Ivan Rossi <ivan@naukri.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Thu, 12 Mar 2026 13:20:00 -0000
+Message-ID: <29df5de491084ed3bd7b68c6cf161ac1@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4279627946013900829=="
+
+--===============4279627946013900829==
+Content-Type: multipart/alternative;
+ boundary="===============0794694067087738265=="
+
+--===============0794694067087738265==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: Business Analyst at Quanta Labs, =
+Berlin. Apply now: www.linkedin.com/jobs/view
+
+Best regards,
+Talent Acquisition Team
+
+--===============0794694067087738265==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: Business Analyst at Quanta=
+ Labs, Berlin. Apply now: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============0794694067087738265==--
+
+--===============4279627946013900829==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============4279627946013900829==--

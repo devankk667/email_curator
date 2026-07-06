@@ -1,0 +1,33 @@
+From: Fresco Foods <fresco@flipkart.com>
+To: you@myinbox.com
+Subject: Flash Sale - 4 Hours Only
+Date: Thu, 19 Feb 2026 14:30:00 -0000
+Message-ID: <16fd151166834c8088485cf8a37e6e1b@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0504772947480555563=="
+
+--===============0504772947480555563==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Flash sale live now at Coral Health! Extra 11.7% off, ends February 21.
+
+Thanks for being a valued customer.
+
+--===============0504772947480555563==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flash Sale - 4 Hours Only</h3>
+    <p>Flash sale live now at Coral Health! Extra 11.7% off, ends February 21=
+.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0504772947480555563==--

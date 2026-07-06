@@ -1,0 +1,49 @@
+From: Zynta Corp <zynta58@meridianair.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Tue, 17 Feb 2026 11:15:00 -0000
+Message-ID: <e18f54c9dc564f028732c9d608e86852@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2389667686949690672=="
+
+--===============2389667686949690672==
+Content-Type: multipart/alternative;
+ boundary="===============3263935696329343084=="
+
+--===============3263935696329343084==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Toronto Grand Hotel from August 23 to January 09 is confirmed. B=
+ooking ID: 141903.
+
+Regards,
+Reservations Desk
+
+--===============3263935696329343084==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Toronto Grand Hotel from August 23 to January 09 is confi=
+rmed. Booking ID: 141903.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============3263935696329343084==--
+
+--===============2389667686949690672==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============2389667686949690672==--

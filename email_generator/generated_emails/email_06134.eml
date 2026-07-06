@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@vertexbank.com>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Sat, 14 Mar 2026 22:15:00 -0000
+Message-ID: <a28d380eb4064405aca62ea6ff0867dd@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3529273468931181078=="
+
+--===============3529273468931181078==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 8.0% this quarter. View details: http=
+s://vertexbank.com/accounts
+
+Regards,
+Customer Service Team
+
+--===============3529273468931181078==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 8.0% this quarter. View detail=
+s: https://vertexbank.com/accounts</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3529273468931181078==--

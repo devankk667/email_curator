@@ -1,0 +1,34 @@
+From: Fernwood Analytics <fernwood@citibank.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Mon, 23 Feb 2026 18:15:00 -0000
+Message-ID: <28ce52cf487c4291a90dcf41b1659b0c@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6136324027028834495=="
+
+--===============6136324027028834495==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Ju=
+ne 11 to avoid penalties.
+
+Thank you for banking with us.
+
+--===============6136324027028834495==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore June 11 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============6136324027028834495==--

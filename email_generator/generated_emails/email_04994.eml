@@ -1,0 +1,44 @@
+From: Kenji Garcia <kenji@meetup.com>
+To: you@myinbox.com
+Subject: New Follower
+Date: Sun, 24 May 2026 16:00:00 -0000
+Message-ID: <f4507c104ec04f8dbc515dcec793c45f@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3194936108035114284=="
+
+--===============3194936108035114284==
+Content-Type: multipart/alternative;
+ boundary="===============3291427491825419421=="
+
+--===============3291427491825419421==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Priya Dubois started following you. See their profile: www.linkedin.com/in/co=
+nnect
+
+--===============3291427491825419421==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Follower</h3>
+    <p>Priya Dubois started following you. See their profile: www.linkedin.co=
+m/in/connect</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============3291427491825419421==--
+
+--===============3194936108035114284==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============3194936108035114284==--

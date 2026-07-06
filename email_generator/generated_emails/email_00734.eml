@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood91@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Tue, 24 Mar 2026 14:15:00 -0000
+Message-ID: <69bef2d2a65641e0b9427841dc3f8862@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8279540147727813684=="
+
+--===============8279540147727813684==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #4 from Anchorpoint Realty is delayed and will now arrive by Janua=
+ry 17 instead of September 16. Track: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============8279540147727813684==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #4 from Anchorpoint Realty is delayed and will now arrive b=
+y January 17 instead of September 16. Track: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============8279540147727813684==--

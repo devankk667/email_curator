@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Thu, 19 Mar 2026 20:15:00 -0000
+Message-ID: <9400e41a47b14ae6a51fd7a56cc221b7@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7503181548516898560=="
+
+--===============7503181548516898560==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #6 from Nimbus Retail is delayed and will now arrive by August 06 =
+instead of September 15. Track: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============7503181548516898560==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #6 from Nimbus Retail is delayed and will now arrive by Aug=
+ust 06 instead of September 15. Track: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7503181548516898560==--

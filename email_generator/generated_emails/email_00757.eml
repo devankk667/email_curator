@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta86@myntra.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Thu, 19 Mar 2026 06:10:00 -0000
+Message-ID: <00574b18960f4d57b1118c7eccb81f49@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4086219856758435535=="
+
+--===============4086219856758435535==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Brightline Media was delivered on May 21. Rate your experie=
+nce.
+
+Happy Shopping!
+The Team
+
+--===============4086219856758435535==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Brightline Media was delivered on May 21. Rate your =
+experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============4086219856758435535==--

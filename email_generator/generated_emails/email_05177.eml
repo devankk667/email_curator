@@ -1,0 +1,29 @@
+From: Liam Chen <liam@facebookmail.com>
+To: you@myinbox.com
+Subject: Poke from Aisha Garcia
+Date: Wed, 25 Feb 2026 10:10:00 -0000
+Message-ID: <0c5e190461fd4413a7bfc4787d2297e8@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7442358131750776089=="
+
+--===============7442358131750776089==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Rahul Nguyen poked you. Poke them back!
+
+--===============7442358131750776089==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Aisha Garcia</h3>
+    <p>Rahul Nguyen poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============7442358131750776089==--

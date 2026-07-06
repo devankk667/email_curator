@@ -1,0 +1,35 @@
+From: Yuki Patel <yuki@university.edu>
+To: you@myinbox.com
+Subject: Library Book Due
+Date: Wed, 13 May 2026 16:20:00 -0000
+Message-ID: <2557d71a83954fd2b9bf7b1dbe2ebdca@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3327968032178958644=="
+
+--===============3327968032178958644==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The book 'Database System Concepts' issued to you is due for return on Januar=
+y 31. Renew online to avoid a fine.
+
+Regards,
+Office of Academic Affairs
+
+--===============3327968032178958644==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Library Book Due</h3>
+    <p>The book 'Database System Concepts' issued to you is due for return on=
+ January 31. Renew online to avoid a fine.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============3327968032178958644==--

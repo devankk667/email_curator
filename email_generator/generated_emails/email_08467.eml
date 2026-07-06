@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Received
+Date: Sat, 18 Apr 2026 08:20:00 -0000
+Message-ID: <e471c68b13154a8c97ad29792db9d4de@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3444702103231822877=="
+
+--===============3444702103231822877==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Product Manager role at Fernwood Analytics. Our=
+ team will review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============3444702103231822877==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Product Manager role at Fernwood Analyti=
+cs. Our team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============3444702103231822877==--

@@ -1,0 +1,35 @@
+From: Lucas Dubois <lucas@university.edu>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Tue, 24 Mar 2026 08:20:00 -0000
+Message-ID: <9632ff61837e4c33a4b4a36ded8d2ab3@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2900519700475085554=="
+
+--===============2900519700475085554==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Cybersecurity will be held on June 05 at 4 PM in the Semin=
+ar Hall.
+
+Thank you,
+Examination Cell
+
+--===============2900519700475085554==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Cybersecurity will be held on June 05 at 4 PM in th=
+e Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============2900519700475085554==--

@@ -1,0 +1,34 @@
+From: Anchorpoint Realty <anchorpoint@vertexbank.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Mon, 09 Feb 2026 19:05:00 -0000
+Message-ID: <e783ed1b9cd642c5a2032fa6d501ceb0@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0587516896112934174=="
+
+--===============0587516896112934174==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 1499. Add funds here: https://vertexbank.co=
+m/cards/offers
+
+Thank you for banking with us.
+
+--===============0587516896112934174==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 1499. Add funds here: https://vertex=
+bank.com/cards/offers</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============0587516896112934174==--

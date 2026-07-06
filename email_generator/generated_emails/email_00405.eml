@@ -1,0 +1,34 @@
+From: Orbit Logistics <orbit85@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Sun, 22 Mar 2026 22:20:00 -0000
+Message-ID: <3b2a2fe50f6c459ca9eed6c5942fb7c2@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7711979766023207051=="
+
+--===============7711979766023207051==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Coral Health was delivered on November 09. Rate your experi=
+ence.
+
+Thanks for being a valued customer.
+
+--===============7711979766023207051==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Coral Health was delivered on November 09. Rate your=
+ experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7711979766023207051==--

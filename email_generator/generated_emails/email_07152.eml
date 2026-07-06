@@ -1,0 +1,34 @@
+From: Nina Ivanov <nina90@university.edu>
+To: you@myinbox.com
+Subject: Convocation Notice
+Date: Sun, 29 Mar 2026 14:45:00 -0000
+Message-ID: <898d95403e3846afb6ea771ae3cf8df1@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7435177925405767776=="
+
+--===============7435177925405767776==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Convocation ceremony will be held on May 08. Collect your gown by January 30.
+
+Regards,
+Office of Academic Affairs
+
+--===============7435177925405767776==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Convocation Notice</h3>
+    <p>Convocation ceremony will be held on May 08. Collect your gown by Janu=
+ary 30.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============7435177925405767776==--

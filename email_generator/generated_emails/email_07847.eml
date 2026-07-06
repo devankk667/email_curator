@@ -1,0 +1,35 @@
+From: Starforge Games <starforge@linkedin.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Tue, 07 Apr 2026 18:30:00 -0000
+Message-ID: <b11322f56fc446fa89a660198f7389f8@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7376934559586019376=="
+
+--===============7376934559586019376==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Data Scientist role at Quanta Labs. Our team wi=
+ll review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============7376934559586019376==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Data Scientist role at Quanta Labs. Our =
+team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============7376934559586019376==--

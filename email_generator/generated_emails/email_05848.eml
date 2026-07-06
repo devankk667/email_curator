@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Wed, 13 May 2026 09:15:00 -0000
+Message-ID: <cda535edfc514727815ead832353db39@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5034355372169081305=="
+
+--===============5034355372169081305==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 3999 has been credited to your account on February 10 as salary from Orbi=
+t Logistics.
+
+Regards,
+Customer Service Team
+
+--===============5034355372169081305==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 3999 has been credited to your account on February 10 as salary fr=
+om Orbit Logistics.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5034355372169081305==--

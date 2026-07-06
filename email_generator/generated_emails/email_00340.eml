@@ -1,0 +1,34 @@
+From: Coral Health <coral62@amazon.in>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Wed, 14 Jan 2026 19:00:00 -0000
+Message-ID: <a13902088fe646e5aa19c93005d59262@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1534324900082247828=="
+
+--===============1534324900082247828==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 999. Grab it before it's gone!
+
+Happy Shopping!
+The Team
+
+--===============1534324900082247828==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 999. Grab it before it's =
+gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1534324900082247828==--

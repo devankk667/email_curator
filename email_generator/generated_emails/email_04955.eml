@@ -1,0 +1,30 @@
+From: Facebook <facebook@facebookmail.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Tue, 19 May 2026 15:30:00 -0000
+Message-ID: <c3f873602eb9412b881df04783a4a92e@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8558068881519964476=="
+
+--===============8558068881519964476==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You have a new message from Mei Silva: "Hey, are we still meeting on June 21?"
+
+--===============8558068881519964476==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Mei Silva: "Hey, are we still meeting on J=
+une 21?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8558068881519964476==--

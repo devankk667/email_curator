@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@makemytrip.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Tue, 09 Jun 2026 20:15:00 -0000
+Message-ID: <17386926b8984a2fb11686d85c2dc9cc@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5600266534524345241=="
+
+--===============5600266534524345241==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 499 for the cancelled Delhi trip has been processed. Detai=
+ls: https://meridianair.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============5600266534524345241==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 499 for the cancelled Delhi trip has been processed=
+. Details: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============5600266534524345241==--

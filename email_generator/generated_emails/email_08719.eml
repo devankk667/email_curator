@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian@meridianair.com>
+To: you@myinbox.com
+Subject: Visa Application Update
+Date: Sun, 05 Apr 2026 11:20:00 -0000
+Message-ID: <3ba0c246f30141d68e2bde322a820add@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4008345624461134331=="
+
+--===============4008345624461134331==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your visa application for Bangalore has moved to 'Under Review'. Expected dec=
+ision by October 03.
+
+Regards,
+Reservations Desk
+
+--===============4008345624461134331==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Visa Application Update</h3>
+    <p>Your visa application for Bangalore has moved to 'Under Review'. Expec=
+ted decision by October 03.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============4008345624461134331==--

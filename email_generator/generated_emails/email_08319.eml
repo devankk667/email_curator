@@ -1,0 +1,36 @@
+From: Arjun Rossi <arjun@greenhouse.io>
+To: you@myinbox.com
+Subject: Recruiter Outreach
+Date: Sun, 31 May 2026 14:10:00 -0000
+Message-ID: <4d42c2c15cc945a1b3fe1be7e433ac8f@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5720781638534375526=="
+
+--===============5720781638534375526==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I'm a recruiter at Brightline Media. We have an exciting DevOps Engineer =
+opening in Paris - interested? Job link: https://workday.com/candidate
+
+Best regards,
+Talent Acquisition Team
+
+--===============5720781638534375526==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Recruiter Outreach</h3>
+    <p>Hi, I'm a recruiter at Brightline Media. We have an exciting DevOps En=
+gineer opening in Paris - interested? Job link: https://workday.com/candidate=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============5720781638534375526==--

@@ -1,0 +1,34 @@
+From: Diego Sharma <diego@greenhouse.io>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Tue, 17 Feb 2026 15:15:00 -0000
+Message-ID: <12da48032ebf4b50a2fdda62e56b50b4@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2514199211736286476=="
+
+--===============2514199211736286476==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Lucas Mehta starred your repository on GitHub. Keep up the great work!
+
+Best regards,
+Talent Acquisition Team
+
+--===============2514199211736286476==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Lucas Mehta starred your repository on GitHub. Keep up the great work!=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============2514199211736286476==--

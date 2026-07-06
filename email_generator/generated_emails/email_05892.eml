@@ -1,0 +1,34 @@
+From: Brightline Media <brightline@citibank.com>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Thu, 21 May 2026 20:00:00 -0000
+Message-ID: <9d14673f0eb242d58167ae209080948f@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8270264461898826970=="
+
+--===============8270264461898826970==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your quarterly investment report is ready. Net change: 7.5% as of March 07.
+
+Regards,
+Customer Service Team
+
+--===============8270264461898826970==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 7.5% as of Marc=
+h 07.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8270264461898826970==--

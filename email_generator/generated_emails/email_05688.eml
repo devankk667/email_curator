@@ -1,0 +1,35 @@
+From: Starforge Games <starforge@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Tue, 26 May 2026 14:10:00 -0000
+Message-ID: <b9410df8c21a48a7b003eeb6a6f246ec@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2161327258468681299=="
+
+--===============2161327258468681299==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 25000 was debited from your account ending 4821 on January 28 at Anchorpo=
+int Realty.
+
+Regards,
+Customer Service Team
+
+--===============2161327258468681299==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 25000 was debited from your account ending 4821 on January 28 at A=
+nchorpoint Realty.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2161327258468681299==--

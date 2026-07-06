@@ -1,0 +1,34 @@
+From: Diego Tanaka <diego@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Mon, 02 Mar 2026 12:20:00 -0000
+Message-ID: <c1412409f84a4a97851b8ca7fe55544a@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0379559372376378770=="
+
+--===============0379559372376378770==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for UX Designer at Vertex Bank has moved to the next round. =
+Details: https://workday.com/candidate
+
+We look forward to hearing from you.
+
+--===============0379559372376378770==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for UX Designer at Vertex Bank has moved to the next =
+round. Details: https://workday.com/candidate</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============0379559372376378770==--

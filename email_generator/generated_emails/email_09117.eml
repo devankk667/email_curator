@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@airindia.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Mon, 13 Apr 2026 21:45:00 -0000
+Message-ID: <32079ec8d15b4a34be434ab2e20c4e0c@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8877274372788575665=="
+
+--===============8877274372788575665==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to San Francisco has been rescheduled to May 21. Pleas=
+e check your booking.
+
+Safe travels,
+Booking Support Team
+
+--===============8877274372788575665==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to San Francisco has been rescheduled to May 21=
+. Please check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============8877274372788575665==--

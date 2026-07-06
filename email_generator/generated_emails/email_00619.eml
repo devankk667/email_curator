@@ -1,0 +1,34 @@
+From: Coral Health <coral20@amazon.in>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Sun, 01 Mar 2026 19:45:00 -0000
+Message-ID: <62d52b98c8634c5c9a5145238ce3620a@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8116530238695308694=="
+
+--===============8116530238695308694==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #9 from Orbit Logistics has shipped and will arrive by October 12.=
+ Track it: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============8116530238695308694==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #9 from Orbit Logistics has shipped and will arrive by Octo=
+ber 12. Track it: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8116530238695308694==--

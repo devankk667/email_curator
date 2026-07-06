@@ -1,0 +1,33 @@
+From: Fernwood Analytics <fernwood@citibank.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Fri, 20 Mar 2026 15:00:00 -0000
+Message-ID: <f2473728c11b45dd9e2dd96500e7038c@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8712031019459409371=="
+
+--===============8712031019459409371==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 199 for Personal Loan #2 is due on February 21.
+
+Regards,
+Customer Service Team
+
+--===============8712031019459409371==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 199 for Personal Loan #2 is due on February 21.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8712031019459409371==--

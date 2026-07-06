@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@airindia.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Sun, 08 Feb 2026 08:15:00 -0000
+Message-ID: <0876d64bec6042d59c742c3fba630e22@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3353350519573030253=="
+
+--===============3353350519573030253==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Toronto from February 25 to April 19 is confirmed. Booking=
+ ID: 926805. Manage booking: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============3353350519573030253==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Toronto from February 25 to April 19 is confirmed. =
+Booking ID: 926805. Manage booking: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============3353350519573030253==--

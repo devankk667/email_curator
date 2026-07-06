@@ -1,0 +1,49 @@
+From: Fernwood Analytics <fernwood@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Sun, 07 Jun 2026 11:05:00 -0000
+Message-ID: <112eed43b0c24db983e9e1204556e39e@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3750111683886357543=="
+
+--===============3750111683886357543==
+Content-Type: multipart/alternative;
+ boundary="===============3464746706557652159=="
+
+--===============3464746706557652159==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 12000 is due on June 19. Pay now to keep your poli=
+cy active.
+
+Regards,
+Customer Service Team
+
+--===============3464746706557652159==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 12000 is due on June 19. Pay now to keep yo=
+ur policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3464746706557652159==--
+
+--===============3750111683886357543==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============3750111683886357543==--

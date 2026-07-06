@@ -1,0 +1,48 @@
+From: Quanta Labs <quanta22@taxportal.gov.in>
+To: you@myinbox.com
+Subject: New Card Offer
+Date: Fri, 20 Mar 2026 11:45:00 -0000
+Message-ID: <4e9fc9194bc84f72831adb04ace6d115@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3513677665276101650=="
+
+--===============3513677665276101650==
+Content-Type: multipart/alternative;
+ boundary="===============0422145175888650183=="
+
+--===============0422145175888650183==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You are pre-approved for a credit limit increase to INR 199. Accept before Ja=
+nuary 18: https://payflow.com/dashboard
+
+Thank you for banking with us.
+
+--===============0422145175888650183==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Card Offer</h3>
+    <p>You are pre-approved for a credit limit increase to INR 199. Accept be=
+fore January 18: https://payflow.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============0422145175888650183==--
+
+--===============3513677665276101650==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============3513677665276101650==--

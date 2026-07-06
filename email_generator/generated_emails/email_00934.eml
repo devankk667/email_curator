@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@myntra.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Thu, 15 Jan 2026 11:30:00 -0000
+Message-ID: <8d8dca8014064f8dacffdfac076d328e@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1512408109674869045=="
+
+--===============1512408109674869045==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #4 has been received. Refund of INR 199 will be process=
+ed by December 06. Details: https://amazon.in/orders
+
+Happy Shopping!
+The Team
+
+--===============1512408109674869045==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #4 has been received. Refund of INR 199 will be =
+processed by December 06. Details: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1512408109674869045==--

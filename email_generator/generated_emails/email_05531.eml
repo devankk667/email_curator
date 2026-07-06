@@ -1,0 +1,36 @@
+From: Starforge Games <starforge99@vertexbank.com>
+To: you@myinbox.com
+Subject: Credit Card Statement Generated
+Date: Tue, 03 Mar 2026 07:05:00 -0000
+Message-ID: <a3a180c56e804a7cb4281dd5b49f59f4@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6059008114506294105=="
+
+--===============6059008114506294105==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your credit card statement for the period ending August 19 is ready.
+Total due: INR 999.
+Minimum due: INR 999.
+
+Regards,
+Customer Service Team
+
+--===============6059008114506294105==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Credit Card Statement Generated</h3>
+    <p>Your credit card statement for the period ending August 19 is ready.</=
+p><p>Total due: INR 999.</p><p>Minimum due: INR 999.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6059008114506294105==--

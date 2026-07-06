@@ -1,0 +1,34 @@
+From: PixelWorks <pixelworks@meridianair.com>
+To: you@myinbox.com
+Subject: Travel Insurance Policy Issued
+Date: Tue, 20 Jan 2026 21:45:00 -0000
+Message-ID: <9be72eb83b544f90b1db6a7577b317a3@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0546045414497188530=="
+
+--===============0546045414497188530==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your travel insurance policy #623074 for the London trip is now active.
+
+Safe travels,
+Booking Support Team
+
+--===============0546045414497188530==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Insurance Policy Issued</h3>
+    <p>Your travel insurance policy #623074 for the London trip is now active=
+.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============0546045414497188530==--

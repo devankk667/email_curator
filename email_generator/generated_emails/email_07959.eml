@@ -1,0 +1,48 @@
+From: Meridian Airlines <meridian@greenhouse.io>
+To: you@myinbox.com
+Subject: Reference Check Request
+Date: Mon, 16 Mar 2026 09:05:00 -0000
+Message-ID: <b034d0b01e2643869e45c498172b9a4c@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1175952137441675746=="
+
+--===============1175952137441675746==
+Content-Type: multipart/alternative;
+ boundary="===============2231813921952077855=="
+
+--===============2231813921952077855==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Quanta Labs would like to contact your references for the UX Designer positio=
+n. Please confirm by May 03.
+
+Best regards,
+Talent Acquisition Team
+
+--===============2231813921952077855==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Reference Check Request</h3>
+    <p>Quanta Labs would like to contact your references for the UX Designer =
+position. Please confirm by May 03.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============2231813921952077855==--
+
+--===============1175952137441675746==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============1175952137441675746==--

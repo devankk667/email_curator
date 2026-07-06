@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@airindia.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Mon, 23 Feb 2026 20:20:00 -0000
+Message-ID: <a59f9b04ed094f0ea5c6c796d966a9a9@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5754452168273731324=="
+
+--===============5754452168273731324==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Dubai Grand Hotel from November 10 to July 09 is confirmed. Book=
+ing ID: 907831.
+
+Safe travels,
+Booking Support Team
+
+--===============5754452168273731324==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Dubai Grand Hotel from November 10 to July 09 is confirme=
+d. Booking ID: 907831.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============5754452168273731324==--

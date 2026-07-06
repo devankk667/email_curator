@@ -1,0 +1,33 @@
+From: Meridian Airlines <meridian@vertexbank.com>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Wed, 17 Jun 2026 20:00:00 -0000
+Message-ID: <3bb9e7b4497645e0a0610a11a0ac91f6@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7145097588925323347=="
+
+--===============7145097588925323347==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your quarterly investment report is ready. Net change: 17.8% as of March 31.
+
+Thank you for banking with us.
+
+--===============7145097588925323347==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 17.8% as of Mar=
+ch 31.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============7145097588925323347==--

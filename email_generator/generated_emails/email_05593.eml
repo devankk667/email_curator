@@ -1,0 +1,34 @@
+From: Meridian Airlines <meridian4@vertexbank.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Thu, 05 Feb 2026 10:45:00 -0000
+Message-ID: <d34a9d2b59b041d99c35687d064caa4d@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3115506921428277307=="
+
+--===============3115506921428277307==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 3999. Add funds here: https://payflow.com/d=
+ashboard
+
+Thank you for banking with us.
+
+--===============3115506921428277307==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 3999. Add funds here: https://payflo=
+w.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3115506921428277307==--

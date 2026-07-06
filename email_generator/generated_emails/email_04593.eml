@@ -1,0 +1,29 @@
+From: LinkedIn <linkedin@instagram.com>
+To: you@myinbox.com
+Subject: Lucas Tanaka liked your photo
+Date: Mon, 13 Apr 2026 10:30:00 -0000
+Message-ID: <339bdd55ad914f31a9ef2bc029197c04@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7532019471869198779=="
+
+--===============7532019471869198779==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Ivan Rossi and 2 others liked your recent photo.
+
+--===============7532019471869198779==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Lucas Tanaka liked your photo</h3>
+    <p>Ivan Rossi and 2 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============7532019471869198779==--

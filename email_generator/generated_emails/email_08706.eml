@@ -1,0 +1,36 @@
+From: Meridian Airlines <meridian@makemytrip.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Fri, 10 Apr 2026 07:30:00 -0000
+Message-ID: <b0958b2835e2448c903de839f7dd5a68@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3251151521321887551=="
+
+--===============3251151521321887551==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to Singapore on January 02 is confirmed.
+Booking reference: 413779.
+Departure: 10:30 AM.
+
+Safe travels,
+Booking Support Team
+
+--===============3251151521321887551==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to Singapore on January 02 is confirmed.</p><p>Booking ref=
+erence: 413779.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============3251151521321887551==--

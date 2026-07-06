@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus86@bookings.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Wed, 07 Jan 2026 15:45:00 -0000
+Message-ID: <6762a6cd51aa49f6967802a9cc977499@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3046856476281634952=="
+
+--===============3046856476281634952==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Toronto starts on December 18. Don't forget to check the weather=
+ and pack accordingly.
+
+Safe travels,
+Booking Support Team
+
+--===============3046856476281634952==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Toronto starts on December 18. Don't forget to check the =
+weather and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============3046856476281634952==--

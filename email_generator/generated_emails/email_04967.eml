@@ -1,0 +1,34 @@
+From: Noah Rossi <noah@linkedin.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Sat, 14 Feb 2026 19:05:00 -0000
+Message-ID: <1b3b4a149d214076a0f62d372dbdd79b@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4066787024997615067=="
+
+--===============4066787024997615067==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to Sarah's housewarming on April 13. RSVP now to let the host =
+know you're coming.
+
+-- Sent from your notifications
+
+--===============4066787024997615067==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to Sarah's housewarming on April 13. RSVP now to let th=
+e host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============4066787024997615067==--

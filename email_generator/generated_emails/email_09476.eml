@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit22@meridianair.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Sun, 22 Feb 2026 10:45:00 -0000
+Message-ID: <c351a6fb07b3408a95b2f4bc6152a6ed@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1690217771284859838=="
+
+--===============1690217771284859838==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Paris from March 25 to March 30 is confirmed. Booking ID: =
+975481. Manage booking: https://meridianair.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============1690217771284859838==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Paris from March 25 to March 30 is confirmed. Booki=
+ng ID: 975481. Manage booking: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============1690217771284859838==--

@@ -1,0 +1,44 @@
+From: Sara Chen <sara54@facebookmail.com>
+To: you@myinbox.com
+Subject: Isabella Kim tagged you in a photo
+Date: Fri, 12 Jun 2026 17:00:00 -0000
+Message-ID: <87f1e3a0708d4d09aa308ea2a02e5402@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8792425326133037528=="
+
+--===============8792425326133037528==
+Content-Type: multipart/alternative;
+ boundary="===============8430800550097888018=="
+
+--===============8430800550097888018==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Rahul Dubois tagged you in a photo from 'the college reunion'. Check it out a=
+nd leave a comment!
+
+--===============8430800550097888018==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Isabella Kim tagged you in a photo</h3>
+    <p>Rahul Dubois tagged you in a photo from 'the college reunion'. Check i=
+t out and leave a comment!</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8430800550097888018==--
+
+--===============8792425326133037528==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============8792425326133037528==--

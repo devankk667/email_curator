@@ -1,0 +1,49 @@
+From: Vertex Bank <vertex@flipkart.com>
+To: you@myinbox.com
+Subject: New Arrivals in Your Category
+Date: Fri, 24 Apr 2026 19:15:00 -0000
+Message-ID: <78142b754a0e4ec2823eee339c7b3d05@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2845508471945580481=="
+
+--===============2845508471945580481==
+Content-Type: multipart/alternative;
+ boundary="===============7549556785357674323=="
+
+--===============7549556785357674323==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New arrivals from Coral Health matching your interests are now live: https://=
+myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============7549556785357674323==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Arrivals in Your Category</h3>
+    <p>New arrivals from Coral Health matching your interests are now live: h=
+ttps://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7549556785357674323==--
+
+--===============2845508471945580481==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============2845508471945580481==--

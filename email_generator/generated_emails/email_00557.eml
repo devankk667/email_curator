@@ -1,0 +1,34 @@
+From: Fresco Foods <fresco79@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Thu, 22 Jan 2026 18:00:00 -0000
+Message-ID: <24297e4442dd498793b6d2ec4bb4fd23@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3568556530967714708=="
+
+--===============3568556530967714708==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #7 from Quanta Labs has shipped and will arrive by October 07. Tra=
+ck it: https://myntra.com/orders
+
+Thanks for being a valued customer.
+
+--===============3568556530967714708==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #7 from Quanta Labs has shipped and will arrive by October =
+07. Track it: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============3568556530967714708==--

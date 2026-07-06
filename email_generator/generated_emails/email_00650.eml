@@ -1,0 +1,35 @@
+From: Coral Health <coral@amazon.in>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Fri, 20 Feb 2026 06:10:00 -0000
+Message-ID: <80a7c761366f41ee9af4686bd74134db@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1531999770185714320=="
+
+--===============1531999770185714320==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #8 from Fernwood Analytics is delayed and will now arrive by Octob=
+er 09 instead of March 13. Track: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============1531999770185714320==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #8 from Fernwood Analytics is delayed and will now arrive b=
+y October 09 instead of March 13. Track: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1531999770185714320==--

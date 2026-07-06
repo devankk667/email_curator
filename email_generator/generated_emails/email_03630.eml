@@ -1,0 +1,34 @@
+From: Mei Ivanov <mei@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Lottery Winner Notification
+Date: Mon, 12 Jan 2026 10:30:00 -0000
+Message-ID: <9d8ff22719974affb594860568adc175@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3306798295091185521=="
+
+--===============3306798295091185521==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your email was randomly selected in the International Lottery. Prize: $999. R=
+eply to claim.
+
+Don't miss this one-time opportunity!
+
+--===============3306798295091185521==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Lottery Winner Notification</h3>
+    <p>Your email was randomly selected in the International Lottery. Prize: =
+$999. Reply to claim.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============3306798295091185521==--

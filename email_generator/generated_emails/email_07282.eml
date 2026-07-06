@@ -1,0 +1,35 @@
+From: Nina Mehta <nina@university.edu>
+To: you@myinbox.com
+Subject: Scholarship Application Open
+Date: Sun, 08 Mar 2026 21:20:00 -0000
+Message-ID: <d5a31c3d9384493eb56c3ae6c8e2d73e@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0275621765659928695=="
+
+--===============0275621765659928695==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Applications for the merit scholarship are open until February 13. Award amou=
+nt: INR 25000. Apply here: https://college.ac.in/scholarships
+
+Thank you,
+Examination Cell
+
+--===============0275621765659928695==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Scholarship Application Open</h3>
+    <p>Applications for the merit scholarship are open until February 13. Awa=
+rd amount: INR 25000. Apply here: https://college.ac.in/scholarships</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============0275621765659928695==--

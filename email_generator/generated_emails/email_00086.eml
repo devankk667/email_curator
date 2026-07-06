@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood@myntra.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Fri, 13 Feb 2026 13:45:00 -0000
+Message-ID: <73c90202bac84697a0f53537b6b3897a@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6084185820184104427=="
+
+--===============6084185820184104427==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #1 from PixelWorks has shipped and will arrive by January 12. Trac=
+k it: https://flipkart.com/returns
+
+Happy Shopping!
+The Team
+
+--===============6084185820184104427==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #1 from PixelWorks has shipped and will arrive by January 1=
+2. Track it: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============6084185820184104427==--

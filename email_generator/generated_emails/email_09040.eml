@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian47@airindia.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Sat, 10 Jan 2026 08:45:00 -0000
+Message-ID: <8c3da85bad8f4c0286e4dd39d5b1bfe5@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1433297724994263843=="
+
+--===============1433297724994263843==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Delhi starts on March 20. Don't forget to check the weather and =
+pack accordingly.
+
+Regards,
+Reservations Desk
+
+--===============1433297724994263843==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Delhi starts on March 20. Don't forget to check the weath=
+er and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============1433297724994263843==--

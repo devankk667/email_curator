@@ -1,0 +1,44 @@
+From: Sara Costa <sara@instagram.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Fri, 03 Apr 2026 16:10:00 -0000
+Message-ID: <8ecebc3d391849c2afc7a45252e23373@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0598305495931908668=="
+
+--===============0598305495931908668==
+Content-Type: multipart/alternative;
+ boundary="===============7549738396597108281=="
+
+--===============7549738396597108281==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Kenji Tanaka: "Hey, are we still meeting on Novem=
+ber 09?"
+
+--===============7549738396597108281==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Kenji Tanaka: "Hey, are we still meeting o=
+n November 09?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============7549738396597108281==--
+
+--===============0598305495931908668==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============0598305495931908668==--

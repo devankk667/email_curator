@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex74@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Wed, 01 Apr 2026 08:20:00 -0000
+Message-ID: <ee247979cf4a4252a53433c744fdc01d@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6682354416614361073=="
+
+--===============6682354416614361073==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 499 has been credited to your account on November 29 as salary from Merid=
+ian Airlines.
+
+Regards,
+Customer Service Team
+
+--===============6682354416614361073==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 499 has been credited to your account on November 29 as salary fro=
+m Meridian Airlines.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6682354416614361073==--

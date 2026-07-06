@@ -1,0 +1,34 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Property Tax Notice
+Date: Wed, 18 Mar 2026 14:00:00 -0000
+Message-ID: <6b72dc730b5541e18a308c27a57c9bc2@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4046337765698428882=="
+
+--===============4046337765698428882==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your property tax of INR 1499 for this fiscal year is due by March 26. Pay on=
+line to avoid penalty.
+
+This is an automated notice.
+
+--===============4046337765698428882==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Property Tax Notice</h3>
+    <p>Your property tax of INR 1499 for this fiscal year is due by March 26.=
+ Pay online to avoid penalty.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============4046337765698428882==--

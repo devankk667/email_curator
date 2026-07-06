@@ -1,0 +1,49 @@
+From: Coral Health <coral@flipkart.com>
+To: you@myinbox.com
+Subject: New Arrivals in Your Category
+Date: Mon, 02 Mar 2026 14:00:00 -0000
+Message-ID: <d0ed91768af64e3da61d2c0ff9746dd9@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1844810896596628623=="
+
+--===============1844810896596628623==
+Content-Type: multipart/alternative;
+ boundary="===============1335454392482134694=="
+
+--===============1335454392482134694==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New arrivals from Quanta Labs matching your interests are now live: https://m=
+yntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============1335454392482134694==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Arrivals in Your Category</h3>
+    <p>New arrivals from Quanta Labs matching your interests are now live: ht=
+tps://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1335454392482134694==--
+
+--===============1844810896596628623==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============1844810896596628623==--

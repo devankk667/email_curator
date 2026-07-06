@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@airindia.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Mon, 25 May 2026 14:15:00 -0000
+Message-ID: <a6e713a4abb3443ca752439f253fcbcc@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0152525146299098058=="
+
+--===============0152525146299098058==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for New York as of December 30. Re=
+ad the advisory: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============0152525146299098058==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for New York as of December=
+ 30. Read the advisory: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============0152525146299098058==--

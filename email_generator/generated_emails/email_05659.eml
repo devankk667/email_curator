@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@citibank.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Thu, 08 Jan 2026 11:10:00 -0000
+Message-ID: <66f7a4e58b714962980d2c721e073367@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2370094486209767779=="
+
+--===============2370094486209767779==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Oc=
+tober 19 to avoid penalties.
+
+Regards,
+Customer Service Team
+
+--===============2370094486209767779==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore October 19 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2370094486209767779==--

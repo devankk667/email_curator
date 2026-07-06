@@ -1,0 +1,47 @@
+From: Lucas Tanaka <lucas@freegift-alert.net>
+To: you@myinbox.com
+Subject: Your Account Password Expired
+Date: Sat, 14 Feb 2026 15:30:00 -0000
+Message-ID: <bc456ffbce6340cd90d9ebc52a53a78a@freegift-alert.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2904318331400536031=="
+
+--===============2904318331400536031==
+Content-Type: multipart/alternative;
+ boundary="===============2003875439947623149=="
+
+--===============2003875439947623149==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Click here immediately to reset your password or lose access permanently: htt=
+p://secure-verify-account.com/login
+
+Don't miss this one-time opportunity!
+
+--===============2003875439947623149==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Account Password Expired</h3>
+    <p>Click here immediately to reset your password or lose access permanent=
+ly: http://secure-verify-account.com/login</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============2003875439947623149==--
+
+--===============2904318331400536031==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============2904318331400536031==--

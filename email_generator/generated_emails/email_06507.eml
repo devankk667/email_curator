@@ -1,0 +1,48 @@
+From: Brightline Media <brightline@vertexbank.com>
+To: you@myinbox.com
+Subject: Autopay Setup Confirmation
+Date: Mon, 02 Feb 2026 10:15:00 -0000
+Message-ID: <81b4f549bd264339bd95a3560c209179@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1210340393834137897=="
+
+--===============1210340393834137897==
+Content-Type: multipart/alternative;
+ boundary="===============6704756113457580304=="
+
+--===============6704756113457580304==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Autopay for your PixelWorks bill has been set up, starting April 19.
+
+Regards,
+Customer Service Team
+
+--===============6704756113457580304==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Autopay Setup Confirmation</h3>
+    <p>Autopay for your PixelWorks bill has been set up, starting April 19.</=
+p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6704756113457580304==--
+
+--===============1210340393834137897==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============1210340393834137897==--

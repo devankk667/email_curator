@@ -1,0 +1,49 @@
+From: Cloudscape <cloudscape@payflow.com>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Mon, 12 Jan 2026 10:00:00 -0000
+Message-ID: <315fa02f0cf74825a58274226f95170c@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7093445383049559476=="
+
+--===============7093445383049559476==
+Content-Type: multipart/alternative;
+ boundary="===============8361746663607452549=="
+
+--===============8361746663607452549==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 16.2% this quarter. View details: htt=
+ps://vertexbank.com/statements
+
+Regards,
+Customer Service Team
+
+--===============8361746663607452549==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 16.2% this quarter. View detai=
+ls: https://vertexbank.com/statements</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8361746663607452549==--
+
+--===============7093445383049559476==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============7093445383049559476==--

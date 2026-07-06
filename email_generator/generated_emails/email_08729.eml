@@ -1,0 +1,36 @@
+From: Coral Health <coral22@bookings.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Sun, 10 May 2026 09:20:00 -0000
+Message-ID: <77144350dfe049e5ae810f65a7a60ea9@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4345100608879119466=="
+
+--===============4345100608879119466==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to Paris on April 09 is confirmed.
+Booking reference: 254092.
+Departure: 10:30 AM.
+
+Safe travels,
+Booking Support Team
+
+--===============4345100608879119466==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to Paris on April 09 is confirmed.</p><p>Booking reference=
+: 254092.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============4345100608879119466==--

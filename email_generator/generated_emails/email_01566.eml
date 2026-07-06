@@ -1,0 +1,48 @@
+From: Fresco Foods <fresco@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Sat, 24 Jan 2026 13:20:00 -0000
+Message-ID: <10720bb897bb42c29bf48d13415199f2@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3590044438206458198=="
+
+--===============3590044438206458198==
+Content-Type: multipart/alternative;
+ boundary="===============7780222453337765414=="
+
+--===============7780222453337765414==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #2 from Meridian Airlines has shipped and will arrive by September=
+ 06. Track it: https://flipkart.com/returns
+
+Thanks for being a valued customer.
+
+--===============7780222453337765414==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #2 from Meridian Airlines has shipped and will arrive by Se=
+ptember 06. Track it: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7780222453337765414==--
+
+--===============3590044438206458198==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============3590044438206458198==--

@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@citibank.com>
+To: you@myinbox.com
+Subject: New Card Offer
+Date: Sun, 07 Jun 2026 16:15:00 -0000
+Message-ID: <4cbe686cf47c441c81b45321cd5677d4@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5773406324783333272=="
+
+--===============5773406324783333272==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You are pre-approved for a credit limit increase to INR 499. Accept before Ju=
+ne 08: https://vertexbank.com/statements
+
+Regards,
+Customer Service Team
+
+--===============5773406324783333272==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Card Offer</h3>
+    <p>You are pre-approved for a credit limit increase to INR 499. Accept be=
+fore June 08: https://vertexbank.com/statements</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5773406324783333272==--

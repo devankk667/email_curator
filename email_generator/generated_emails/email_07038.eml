@@ -1,0 +1,35 @@
+From: Yuki Dubois <yuki@college.ac.in>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Wed, 21 Jan 2026 19:05:00 -0000
+Message-ID: <999a0c6ac8c64f8cb19e9463ebfc4228@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8336949905830154413=="
+
+--===============8336949905830154413==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Software Engineering lecture originally on January 30 has been moved to N=
+ovember 16, Room 470.
+
+Regards,
+Office of Academic Affairs
+
+--===============8336949905830154413==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Software Engineering lecture originally on January 30 has been mov=
+ed to November 16, Room 470.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============8336949905830154413==--

@@ -1,0 +1,49 @@
+From: Ivan Dubois <ivan67@college.ac.in>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Fri, 10 Apr 2026 14:15:00 -0000
+Message-ID: <7aff2621619b48d78cc2e4af98729a63@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7244832680107805089=="
+
+--===============7244832680107805089==
+Content-Type: multipart/alternative;
+ boundary="===============2146938315940034363=="
+
+--===============2146938315940034363==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Distributed Systems will be held on December 17 at 4 PM in=
+ the Seminar Hall.
+
+Thank you,
+Examination Cell
+
+--===============2146938315940034363==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Distributed Systems will be held on December 17 at =
+4 PM in the Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============2146938315940034363==--
+
+--===============7244832680107805089==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============7244832680107805089==--

@@ -1,0 +1,35 @@
+From: Yuki Sharma <yuki@naukri.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Sun, 01 Mar 2026 16:20:00 -0000
+Message-ID: <493466771ea449179d2d3ff597bcc793@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1954226752808627735=="
+
+--===============1954226752808627735==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the DevOps Engineer role at Cloudscape. Our team wi=
+ll review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============1954226752808627735==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the DevOps Engineer role at Cloudscape. Our =
+team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============1954226752808627735==--

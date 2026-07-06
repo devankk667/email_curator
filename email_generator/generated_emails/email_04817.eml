@@ -1,0 +1,34 @@
+From: Arjun Ivanov <arjun@facebookmail.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Mon, 23 Feb 2026 12:45:00 -0000
+Message-ID: <484a2fe16fb94f188c1681e09809079b@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1753520752375095370=="
+
+--===============1753520752375095370==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the college reunion on November 24. RSVP now to let the hos=
+t know you're coming.
+
+-- Sent from your notifications
+
+--===============1753520752375095370==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the college reunion on November 24. RSVP now to let =
+the host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============1753520752375095370==--

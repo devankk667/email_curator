@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta62@nimbusretail.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Mon, 15 Jun 2026 15:45:00 -0000
+Message-ID: <fd578ae5c2084647a4b361ce881d0176@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8039496753728340823=="
+
+--===============8039496753728340823==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #5 has been received. Refund of INR 199 will be process=
+ed by February 02. Details: https://nimbusretail.com/orders/track
+
+Happy Shopping!
+The Team
+
+--===============8039496753728340823==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #5 has been received. Refund of INR 199 will be =
+processed by February 02. Details: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============8039496753728340823==--

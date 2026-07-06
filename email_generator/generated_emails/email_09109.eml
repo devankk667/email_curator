@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@airindia.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Thu, 08 Jan 2026 20:15:00 -0000
+Message-ID: <f20082dc717247bc9355222b7c3d51b0@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7681122710047868572=="
+
+--===============7681122710047868572==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 7500 for the cancelled Singapore trip has been processed. =
+Details: https://bookings.com/reservations
+
+Regards,
+Reservations Desk
+
+--===============7681122710047868572==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 7500 for the cancelled Singapore trip has been proc=
+essed. Details: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============7681122710047868572==--

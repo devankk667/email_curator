@@ -1,0 +1,33 @@
+From: Diego Khan <diego@greenhouse.io>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Sun, 21 Jun 2026 14:10:00 -0000
+Message-ID: <cc1d0437d31f47dd8597dd8760a27bde@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0502001768541046884=="
+
+--===============0502001768541046884==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Liam Novak starred your repository on GitHub. Keep up the great work!
+
+We look forward to hearing from you.
+
+--===============0502001768541046884==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Liam Novak starred your repository on GitHub. Keep up the great work!<=
+/p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============0502001768541046884==--

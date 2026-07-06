@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian74@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Fri, 12 Jun 2026 22:05:00 -0000
+Message-ID: <7acbfc6fd0c046e392ee5578f58d54f5@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8546392931140614607=="
+
+--===============8546392931140614607==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 999. Add funds here: https://vertexbank.com=
+/statements
+
+Regards,
+Customer Service Team
+
+--===============8546392931140614607==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 999. Add funds here: https://vertexb=
+ank.com/statements</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8546392931140614607==--

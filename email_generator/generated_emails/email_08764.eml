@@ -1,0 +1,49 @@
+From: Coral Health <coral@makemytrip.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Wed, 14 Jan 2026 14:45:00 -0000
+Message-ID: <c2af2291867b4aae982a86421f604070@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0346473433454090587=="
+
+--===============0346473433454090587==
+Content-Type: multipart/alternative;
+ boundary="===============6127773409163090653=="
+
+--===============6127773409163090653==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in San Francisco from October 24 to July 31 is confirmed. Boo=
+king ID: 373756. Manage booking: https://meridianair.com/checkin
+
+Safe travels,
+Booking Support Team
+
+--===============6127773409163090653==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in San Francisco from October 24 to July 31 is confirm=
+ed. Booking ID: 373756. Manage booking: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============6127773409163090653==--
+
+--===============0346473433454090587==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============0346473433454090587==--

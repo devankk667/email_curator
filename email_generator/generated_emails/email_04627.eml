@@ -1,0 +1,31 @@
+From: LinkedIn <linkedin@meetup.com>
+To: you@myinbox.com
+Subject: New Follower
+Date: Thu, 19 Mar 2026 19:15:00 -0000
+Message-ID: <cb699c5b5c114e4f813aa1f79a64dd03@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8327089472422921973=="
+
+--===============8327089472422921973==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sara Dubois started following you. See their profile: https://meetup.com/grou=
+ps
+
+--===============8327089472422921973==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Follower</h3>
+    <p>Sara Dubois started following you. See their profile: https://meetup.c=
+om/groups</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8327089472422921973==--

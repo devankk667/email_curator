@@ -1,0 +1,33 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Social Security Update
+Date: Wed, 24 Jun 2026 11:20:00 -0000
+Message-ID: <78af401fc91e4af8b09b35b49b9114d4@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6456524023055206998=="
+
+--===============6456524023055206998==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your social security details have been updated as of December 07.
+
+Regards,
+Public Services Department
+
+--===============6456524023055206998==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Social Security Update</h3>
+    <p>Your social security details have been updated as of December 07.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============6456524023055206998==--

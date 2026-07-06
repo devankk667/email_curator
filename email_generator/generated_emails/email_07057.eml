@@ -1,0 +1,35 @@
+From: Elena Rossi <elena55@university.edu>
+To: you@myinbox.com
+Subject: Convocation Notice
+Date: Tue, 20 Jan 2026 11:15:00 -0000
+Message-ID: <457f20bd7fd749269a0f552744ef3dfb@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7892575779503455344=="
+
+--===============7892575779503455344==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Convocation ceremony will be held on November 04. Collect your gown by June 1=
+8.
+
+Thank you,
+Examination Cell
+
+--===============7892575779503455344==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Convocation Notice</h3>
+    <p>Convocation ceremony will be held on November 04. Collect your gown by=
+ June 18.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============7892575779503455344==--

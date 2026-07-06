@@ -1,0 +1,29 @@
+From: LinkedIn <linkedin61@linkedin.com>
+To: you@myinbox.com
+Subject: Meera Ivanov liked your photo
+Date: Tue, 10 Feb 2026 16:20:00 -0000
+Message-ID: <04e494fe127641d7b64cd7570a2515de@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0146695485397462151=="
+
+--===============0146695485397462151==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Carlos Tanaka and 8 others liked your recent photo.
+
+--===============0146695485397462151==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Meera Ivanov liked your photo</h3>
+    <p>Carlos Tanaka and 8 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============0146695485397462151==--

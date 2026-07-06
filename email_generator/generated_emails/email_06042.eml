@@ -1,0 +1,49 @@
+From: Brightline Media <brightline@payflow.com>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Sat, 11 Apr 2026 17:20:00 -0000
+Message-ID: <c2a9761dc85d4c95850296be44e9e8c8@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8572225567452878586=="
+
+--===============8572225567452878586==
+Content-Type: multipart/alternative;
+ boundary="===============6821330908905373936=="
+
+--===============6821330908905373936==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 15.1% this quarter. View details: htt=
+ps://vertexbank.com/statements
+
+Regards,
+Customer Service Team
+
+--===============6821330908905373936==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 15.1% this quarter. View detai=
+ls: https://vertexbank.com/statements</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6821330908905373936==--
+
+--===============8572225567452878586==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============8572225567452878586==--

@@ -1,0 +1,35 @@
+From: Arjun Mehta <arjun@workday.com>
+To: you@myinbox.com
+Subject: Rejection Notice
+Date: Sun, 04 Jan 2026 20:20:00 -0000
+Message-ID: <7e9fc23a60764b6f9a5778373816ddb1@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1604368415077287186=="
+
+--===============1604368415077287186==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for interviewing for Backend Developer at Nimbus Retail. We've deci=
+ded to move forward with other candidates.
+
+Best regards,
+Talent Acquisition Team
+
+--===============1604368415077287186==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Rejection Notice</h3>
+    <p>Thank you for interviewing for Backend Developer at Nimbus Retail. We'=
+ve decided to move forward with other candidates.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============1604368415077287186==--

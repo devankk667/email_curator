@@ -1,0 +1,47 @@
+From: PixelWorks <pixelworks@payflow.com>
+To: you@myinbox.com
+Subject: Autopay Setup Confirmation
+Date: Mon, 13 Apr 2026 10:05:00 -0000
+Message-ID: <1e694100c99441dabd088242fac1f137@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1747407416944904588=="
+
+--===============1747407416944904588==
+Content-Type: multipart/alternative;
+ boundary="===============5219095071951704435=="
+
+--===============5219095071951704435==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Autopay for your Fresco Foods bill has been set up, starting October 18.
+
+Thank you for banking with us.
+
+--===============5219095071951704435==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Autopay Setup Confirmation</h3>
+    <p>Autopay for your Fresco Foods bill has been set up, starting October 1=
+8.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============5219095071951704435==--
+
+--===============1747407416944904588==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============1747407416944904588==--

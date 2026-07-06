@@ -1,0 +1,33 @@
+From: Brightline Media <brightline@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Autopay Setup Confirmation
+Date: Sun, 31 May 2026 07:20:00 -0000
+Message-ID: <40313f8f62d046b4bae3f0ba43489df9@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0029712944336659978=="
+
+--===============0029712944336659978==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Autopay for your Anchorpoint Realty bill has been set up, starting April 21.
+
+Thank you for banking with us.
+
+--===============0029712944336659978==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Autopay Setup Confirmation</h3>
+    <p>Autopay for your Anchorpoint Realty bill has been set up, starting Apr=
+il 21.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============0029712944336659978==--

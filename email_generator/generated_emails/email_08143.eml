@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian@greenhouse.io>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Thu, 08 Jan 2026 20:05:00 -0000
+Message-ID: <ebd65fb464fe4a90967887460c27f51e@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2397555433497312252=="
+
+--===============2397555433497312252==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: ML Engineer at Orbit Logistics, N=
+ew York. Apply now: www.linkedin.com/jobs/view
+
+Best regards,
+Talent Acquisition Team
+
+--===============2397555433497312252==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: ML Engineer at Orbit Logis=
+tics, New York. Apply now: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============2397555433497312252==--

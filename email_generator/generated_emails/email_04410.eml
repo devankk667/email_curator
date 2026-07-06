@@ -1,0 +1,29 @@
+From: Rahul Fischer <rahul@meetup.com>
+To: you@myinbox.com
+Subject: Poke from Aisha Smith
+Date: Sun, 25 Jan 2026 10:00:00 -0000
+Message-ID: <a11107d5f0dd4a74b1348c12e456c2b5@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8238917086059847559=="
+
+--===============8238917086059847559==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Elena Kim poked you. Poke them back!
+
+--===============8238917086059847559==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Aisha Smith</h3>
+    <p>Elena Kim poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8238917086059847559==--

@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta94@airindia.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Mon, 16 Feb 2026 10:05:00 -0000
+Message-ID: <c304877a860a498096595ae58d09456d@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0562988485735933572=="
+
+--===============0562988485735933572==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Toronto from April 14 to December 07 is confirmed. Booking=
+ ID: 660581. Manage booking: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============0562988485735933572==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Toronto from April 14 to December 07 is confirmed. =
+Booking ID: 660581. Manage booking: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============0562988485735933572==--

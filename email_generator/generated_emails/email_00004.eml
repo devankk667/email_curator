@@ -1,0 +1,34 @@
+From: Meridian Airlines <meridian13@myntra.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Thu, 18 Jun 2026 19:10:00 -0000
+Message-ID: <ead8c3c2fa2846d1bf6ef8608fefd70b@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5959956246339666000=="
+
+--===============5959956246339666000==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #5 from Orbit Logistics is delayed and will now arrive by October =
+29 instead of February 02. Track: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============5959956246339666000==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #5 from Orbit Logistics is delayed and will now arrive by O=
+ctober 29 instead of February 02. Track: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5959956246339666000==--

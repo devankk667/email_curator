@@ -1,0 +1,32 @@
+From: PixelWorks <pixelworks45@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Sat, 17 Jan 2026 20:10:00 -0000
+Message-ID: <3e0975df603146508d8ceb0c919ffd42@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7461744191418763568=="
+
+--===============7461744191418763568==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Nimbus Retail membership renews on April 17 for INR 45000.
+
+Thanks for being a valued customer.
+
+--===============7461744191418763568==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Nimbus Retail membership renews on April 17 for INR 45000.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7461744191418763568==--

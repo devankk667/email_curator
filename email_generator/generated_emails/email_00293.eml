@@ -1,0 +1,33 @@
+From: Zynta Corp <zynta@myntra.com>
+To: you@myinbox.com
+Subject: Cart Reminder
+Date: Sat, 25 Apr 2026 19:00:00 -0000
+Message-ID: <53b47a053772408695d6471cdaa1e97f@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4413667170836684820=="
+
+--===============4413667170836684820==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You left 2 item(s) in your cart. Complete your purchase and get free shipping.
+
+Thanks for being a valued customer.
+
+--===============4413667170836684820==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>You left 2 item(s) in your cart. Complete your purchase and get free s=
+hipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4413667170836684820==--

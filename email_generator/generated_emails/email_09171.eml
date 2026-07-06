@@ -1,0 +1,35 @@
+From: Coral Health <coral@bookings.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Wed, 25 Mar 2026 12:15:00 -0000
+Message-ID: <20808c3108754a9b92333c61047d3876@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2315470590769098087=="
+
+--===============2315470590769098087==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Dubai starts on July 16. Don't forget to check the weather and p=
+ack accordingly.
+
+Safe travels,
+Booking Support Team
+
+--===============2315470590769098087==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Dubai starts on July 16. Don't forget to check the weathe=
+r and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============2315470590769098087==--

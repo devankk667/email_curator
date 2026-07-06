@@ -1,0 +1,35 @@
+From: James Mehta <james@linkedin.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Fri, 05 Jun 2026 16:30:00 -0000
+Message-ID: <b61692c2a1ab45f7988faf9a2e4ea5e3@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0959260702053263440=="
+
+--===============0959260702053263440==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the QA Engineer role at Brightline Media. Our team =
+will review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============0959260702053263440==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the QA Engineer role at Brightline Media. Ou=
+r team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============0959260702053263440==--

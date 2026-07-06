@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@makemytrip.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Mon, 25 May 2026 20:05:00 -0000
+Message-ID: <e9b6f326aac34fa482c4b3c81c831cc2@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6719877182781437047=="
+
+--===============6719877182781437047==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Toronto starts on August 05. Don't forget to check the weather a=
+nd pack accordingly.
+
+Safe travels,
+Booking Support Team
+
+--===============6719877182781437047==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Toronto starts on August 05. Don't forget to check the we=
+ather and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============6719877182781437047==--

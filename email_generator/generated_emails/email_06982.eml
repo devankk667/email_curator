@@ -1,0 +1,35 @@
+From: Lucas Lopez <lucas17@university.edu>
+To: you@myinbox.com
+Subject: Library Book Due
+Date: Sun, 26 Apr 2026 10:15:00 -0000
+Message-ID: <cd37fbb8db7f4e5c9fcdc9baab63ac0e@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1565090949937459412=="
+
+--===============1565090949937459412==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The book 'Deep Learning' issued to you is due for return on September 04. Ren=
+ew online to avoid a fine.
+
+Thank you,
+Examination Cell
+
+--===============1565090949937459412==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Library Book Due</h3>
+    <p>The book 'Deep Learning' issued to you is due for return on September =
+04. Renew online to avoid a fine.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============1565090949937459412==--

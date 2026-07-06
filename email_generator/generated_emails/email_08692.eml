@@ -1,0 +1,35 @@
+From: Liam Mehta <liam@workday.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Tue, 30 Jun 2026 14:45:00 -0000
+Message-ID: <8a5e25f3f1d94a52bcf498b117229671@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7068198905145018338=="
+
+--===============7068198905145018338==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Software Engineer role at Zynta Corp. Our team =
+will review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============7068198905145018338==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Software Engineer role at Zynta Corp. Ou=
+r team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============7068198905145018338==--

@@ -1,0 +1,34 @@
+From: Ivan Sharma <ivan@greenhouse.io>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Mon, 02 Mar 2026 22:15:00 -0000
+Message-ID: <adbaa36b3c29446c95d7c3b4fa0c19ce@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3339706347940419662=="
+
+--===============3339706347940419662==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: Data Analyst at Meridian Airlines=
+, Delhi. Apply now: https://naukri.com/jobs
+
+We look forward to hearing from you.
+
+--===============3339706347940419662==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: Data Analyst at Meridian A=
+irlines, Delhi. Apply now: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============3339706347940419662==--

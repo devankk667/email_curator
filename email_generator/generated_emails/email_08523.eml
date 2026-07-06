@@ -1,0 +1,35 @@
+From: Liam Smith <liam@workday.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Sat, 04 Apr 2026 21:30:00 -0000
+Message-ID: <6d56baad7a004f37aae2886365ac9fb9@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4480337690542045969=="
+
+--===============4480337690542045969==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for UX Designer at Vertex Bank has moved to the next round. =
+Details: https://greenhouse.io/applications
+
+Best regards,
+Talent Acquisition Team
+
+--===============4480337690542045969==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for UX Designer at Vertex Bank has moved to the next =
+round. Details: https://greenhouse.io/applications</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============4480337690542045969==--

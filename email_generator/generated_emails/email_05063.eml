@@ -1,0 +1,30 @@
+From: Instagram <instagram@linkedin.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Tue, 07 Apr 2026 12:45:00 -0000
+Message-ID: <c66c5d197b5d42748975f21458fc9e4d@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4480940873242469155=="
+
+--===============4480940873242469155==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+It's Elena Khan's birthday on May 24! Send them a message to make their day.
+
+--===============4480940873242469155==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Elena Khan's birthday on May 24! Send them a message to make thei=
+r day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4480940873242469155==--

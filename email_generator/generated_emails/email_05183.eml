@@ -1,0 +1,31 @@
+From: Zara Chen <zara@facebookmail.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Sun, 29 Mar 2026 07:30:00 -0000
+Message-ID: <f2505b6e2d4e43449d010a930f63cfbc@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0171811255764018423=="
+
+--===============0171811255764018423==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Rahul Fischer: "Hey, are we still meeting on May =
+13?"
+
+--===============0171811255764018423==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Rahul Fischer: "Hey, are we still meeting =
+on May 13?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============0171811255764018423==--

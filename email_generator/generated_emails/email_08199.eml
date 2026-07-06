@@ -1,0 +1,36 @@
+From: Ivan Smith <ivan@workday.com>
+To: you@myinbox.com
+Subject: Recruiter Outreach
+Date: Sat, 02 May 2026 13:10:00 -0000
+Message-ID: <5e557bacae5542f79e0edc74be378444@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7434769807970413325=="
+
+--===============7434769807970413325==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I'm a recruiter at Fresco Foods. We have an exciting QA Engineer opening =
+in San Francisco - interested? Job link: https://workday.com/candidate
+
+Best regards,
+Talent Acquisition Team
+
+--===============7434769807970413325==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Recruiter Outreach</h3>
+    <p>Hi, I'm a recruiter at Fresco Foods. We have an exciting QA Engineer o=
+pening in San Francisco - interested? Job link: https://workday.com/candidate=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============7434769807970413325==--

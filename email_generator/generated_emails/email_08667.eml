@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@greenhouse.io>
+To: you@myinbox.com
+Subject: Recruiter Outreach
+Date: Tue, 17 Feb 2026 21:15:00 -0000
+Message-ID: <bbabe2d0a3f84d39b6875533830c91df@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3850496057582203380=="
+
+--===============3850496057582203380==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I'm a recruiter at Meridian Airlines. We have an exciting Data Analyst op=
+ening in Berlin - interested? Job link: https://workday.com/candidate
+
+We look forward to hearing from you.
+
+--===============3850496057582203380==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Recruiter Outreach</h3>
+    <p>Hi, I'm a recruiter at Meridian Airlines. We have an exciting Data Ana=
+lyst opening in Berlin - interested? Job link: https://workday.com/candidate<=
+/p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============3850496057582203380==--

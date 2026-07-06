@@ -1,0 +1,35 @@
+From: Lucas Nguyen <lucas@university.edu>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Tue, 21 Apr 2026 16:00:00 -0000
+Message-ID: <e8774a7ecec64d6ea63bf536185792ff@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7306801977867047237=="
+
+--===============7306801977867047237==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Generative AI will be held on March 21 at 4 PM in the Semi=
+nar Hall.
+
+Thank you,
+Examination Cell
+
+--===============7306801977867047237==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Generative AI will be held on March 21 at 4 PM in t=
+he Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============7306801977867047237==--

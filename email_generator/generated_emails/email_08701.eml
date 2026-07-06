@@ -1,0 +1,49 @@
+From: Fernwood Analytics <fernwood@bookings.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Sun, 25 Jan 2026 13:15:00 -0000
+Message-ID: <4f20f1d4ad5f42d59849c601fb51a0d2@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5609533877891105667=="
+
+--===============5609533877891105667==
+Content-Type: multipart/alternative;
+ boundary="===============1710195620644591891=="
+
+--===============1710195620644591891==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Paris from January 18 to April 02 is confirmed. Booking ID=
+: 199207. Manage booking: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============1710195620644591891==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Paris from January 18 to April 02 is confirmed. Boo=
+king ID: 199207. Manage booking: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============1710195620644591891==--
+
+--===============5609533877891105667==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============5609533877891105667==--

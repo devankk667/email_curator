@@ -1,0 +1,33 @@
+From: Brightline Media <brightline29@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Mon, 05 Jan 2026 10:05:00 -0000
+Message-ID: <7ce774483a7c4b1888fe2de246448fa7@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6376079824319644544=="
+
+--===============6376079824319644544==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your package from Cloudscape was delivered on May 20. Rate your experience.
+
+Thanks for being a valued customer.
+
+--===============6376079824319644544==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Cloudscape was delivered on May 20. Rate your experi=
+ence.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============6376079824319644544==--

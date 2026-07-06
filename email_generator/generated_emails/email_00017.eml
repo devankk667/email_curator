@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Wed, 11 Mar 2026 19:45:00 -0000
+Message-ID: <ebfbec564f4942439ff3741cc3fd7f66@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8502732918325237589=="
+
+--===============8502732918325237589==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #1 from Starforge Games is delayed and will now arrive by October =
+09 instead of January 27. Track: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============8502732918325237589==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #1 from Starforge Games is delayed and will now arrive by O=
+ctober 09 instead of January 27. Track: https://nimbusretail.com/orders/track=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8502732918325237589==--

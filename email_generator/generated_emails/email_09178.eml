@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@airindia.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Fri, 24 Apr 2026 10:45:00 -0000
+Message-ID: <351c76931e2945eeb9f1963cc9ebd3fc@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1615797592978846542=="
+
+--===============1615797592978846542==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to Tokyo on May 21 is now open. Check in here=
+: https://bookings.com/reservations
+
+Regards,
+Reservations Desk
+
+--===============1615797592978846542==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to Tokyo on May 21 is now open. Check =
+in here: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============1615797592978846542==--

@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@amazon.in>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Thu, 14 May 2026 10:45:00 -0000
+Message-ID: <a21ec6f122bd489ab12b3b94db69291d@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1685200783746969623=="
+
+--===============1685200783746969623==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Anchorpoint Realty was delivered on January 12. Rate your e=
+xperience.
+
+Happy Shopping!
+The Team
+
+--===============1685200783746969623==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Anchorpoint Realty was delivered on January 12. Rate=
+ your experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1685200783746969623==--

@@ -1,0 +1,49 @@
+From: Anchorpoint Realty <anchorpoint@payflow.com>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Thu, 15 Jan 2026 21:45:00 -0000
+Message-ID: <818238d1ba5a41ddb673e52fe8773c80@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8859087540894411129=="
+
+--===============8859087540894411129==
+Content-Type: multipart/alternative;
+ boundary="===============1262465999837508268=="
+
+--===============1262465999837508268==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 20.3% this quarter. View details: htt=
+ps://vertexbank.com/cards/offers
+
+Regards,
+Customer Service Team
+
+--===============1262465999837508268==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 20.3% this quarter. View detai=
+ls: https://vertexbank.com/cards/offers</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1262465999837508268==--
+
+--===============8859087540894411129==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============8859087540894411129==--

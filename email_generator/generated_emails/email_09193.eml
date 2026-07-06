@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian3@meridianair.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Wed, 22 Apr 2026 17:10:00 -0000
+Message-ID: <c7042e4d86a1465bbbc0bb00c92d4e9e@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8081250603527793438=="
+
+--===============8081250603527793438==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Sydney Grand Hotel from November 14 to January 30 is confirmed. =
+Booking ID: 201170.
+
+Safe travels,
+Booking Support Team
+
+--===============8081250603527793438==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Sydney Grand Hotel from November 14 to January 30 is conf=
+irmed. Booking ID: 201170.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============8081250603527793438==--

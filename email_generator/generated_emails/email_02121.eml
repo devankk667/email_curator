@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Wed, 25 Feb 2026 08:15:00 -0000
+Message-ID: <aecbc0f3ffe94547af95594199206b84@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4896706679876356963=="
+
+--===============4896706679876356963==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #4 from Fernwood Analytics is delayed and will now arrive by March=
+ 26 instead of August 15. Track: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============4896706679876356963==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #4 from Fernwood Analytics is delayed and will now arrive b=
+y March 26 instead of August 15. Track: https://nimbusretail.com/orders/track=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4896706679876356963==--

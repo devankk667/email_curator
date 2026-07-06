@@ -1,0 +1,35 @@
+From: Brightline Media <brightline98@myntra.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Fri, 03 Apr 2026 08:45:00 -0000
+Message-ID: <ddc049f48b2c48da8617e3dcc5ae0bc0@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2899516345326802994=="
+
+--===============2899516345326802994==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #3 has been received. Refund of INR 45000 will be proce=
+ssed by February 26. Details: https://flipkart.com/returns
+
+Happy Shopping!
+The Team
+
+--===============2899516345326802994==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #3 has been received. Refund of INR 45000 will b=
+e processed by February 26. Details: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============2899516345326802994==--

@@ -1,0 +1,31 @@
+From: LinkedIn <linkedin@linkedin.com>
+To: you@myinbox.com
+Subject: Liam Fischer tagged you in a photo
+Date: Mon, 30 Mar 2026 21:20:00 -0000
+Message-ID: <37982c0e5c1841c8b800a0c9d79a105e@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8775361635231966041=="
+
+--===============8775361635231966041==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Ivan Chen tagged you in a photo from 'the team offsite'. Check it out and lea=
+ve a comment!
+
+--===============8775361635231966041==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Liam Fischer tagged you in a photo</h3>
+    <p>Ivan Chen tagged you in a photo from 'the team offsite'. Check it out =
+and leave a comment!</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8775361635231966041==--

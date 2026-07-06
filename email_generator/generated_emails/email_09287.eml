@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood@airindia.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Mon, 23 Mar 2026 19:20:00 -0000
+Message-ID: <8264587c216243f8bd43b7d0d6f2d8ec@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2419475433329934024=="
+
+--===============2419475433329934024==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Delhi has been rescheduled to December 01. Please c=
+heck your booking.
+
+Safe travels,
+Booking Support Team
+
+--===============2419475433329934024==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Delhi has been rescheduled to December 01. P=
+lease check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============2419475433329934024==--

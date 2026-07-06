@@ -1,0 +1,35 @@
+From: Rahul Lopez <rahul@college.ac.in>
+To: you@myinbox.com
+Subject: Scholarship Application Open
+Date: Fri, 24 Apr 2026 07:20:00 -0000
+Message-ID: <2b7a9f9f9cee41dd820ed0f2900eaaa7@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6147609103203154511=="
+
+--===============6147609103203154511==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Applications for the merit scholarship are open until September 10. Award amo=
+unt: INR 2500. Apply here: https://portal.university.edu/results
+
+Regards,
+Office of Academic Affairs
+
+--===============6147609103203154511==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Scholarship Application Open</h3>
+    <p>Applications for the merit scholarship are open until September 10. Aw=
+ard amount: INR 2500. Apply here: https://portal.university.edu/results</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============6147609103203154511==--

@@ -1,0 +1,29 @@
+From: Liam Mehta <liam@linkedin.com>
+To: you@myinbox.com
+Subject: Aisha Costa liked your photo
+Date: Sat, 17 Jan 2026 06:20:00 -0000
+Message-ID: <b79794dc1ac345089a8598f1aa2bc776@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4258123734275849859=="
+
+--===============4258123734275849859==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Priya Nguyen and 5 others liked your recent photo.
+
+--===============4258123734275849859==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Aisha Costa liked your photo</h3>
+    <p>Priya Nguyen and 5 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4258123734275849859==--

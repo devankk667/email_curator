@@ -1,0 +1,48 @@
+From: Zynta Corp <zynta@payflow.com>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Tue, 02 Jun 2026 11:30:00 -0000
+Message-ID: <f92b85b72fb84c3ab8cbb22a0ac78772@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1888017970440224596=="
+
+--===============1888017970440224596==
+Content-Type: multipart/alternative;
+ boundary="===============1657497876290625076=="
+
+--===============1657497876290625076==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 25000 is due on October 27. Pay now to keep your p=
+olicy active.
+
+Thank you for banking with us.
+
+--===============1657497876290625076==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 25000 is due on October 27. Pay now to keep=
+ your policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============1657497876290625076==--
+
+--===============1888017970440224596==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============1888017970440224596==--

@@ -1,0 +1,34 @@
+From: Coral Health <coral@citibank.com>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Thu, 12 Mar 2026 10:45:00 -0000
+Message-ID: <65925cead8414453b010a47c9c4d850b@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2054951498997907754=="
+
+--===============2054951498997907754==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 199 matured on September 23. Choose to renew or wit=
+hdraw.
+
+Thank you for banking with us.
+
+--===============2054951498997907754==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 199 matured on September 23. Choose to renew=
+ or withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============2054951498997907754==--

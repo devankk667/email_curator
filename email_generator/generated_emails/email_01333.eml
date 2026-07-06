@@ -1,0 +1,38 @@
+From: Brightline Media <brightline@flipkart.com>
+To: you@myinbox.com
+Subject: Re: Cart Reminder
+Date: Tue, 14 Apr 2026 12:20:00 -0000
+Message-ID: <0ace09d48dc5448e8c0c8dd3d912f2d7@flipkart.com>
+In-Reply-To: <73cb744d61eb4067ad08dbf76c34dde1@nimbusretail.com>
+References: <73cb744d61eb4067ad08dbf76c34dde1@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1324441148152010212=="
+
+--===============1324441148152010212==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Got it, will follow up soon.
+
+> You left 6 item(s) in your cart. Complete your purchase and get free shippi=
+ng.
+
+Thanks for being a valued customer.
+
+--===============1324441148152010212==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>Got it, will follow up soon.</p><p>> You left 6 item(s) in your cart. =
+Complete your purchase and get free shipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============1324441148152010212==--

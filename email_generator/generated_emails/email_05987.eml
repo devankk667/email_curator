@@ -1,0 +1,34 @@
+From: Coral Health <coral44@citibank.com>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Sat, 11 Apr 2026 09:10:00 -0000
+Message-ID: <6d271eb838c546e5a1b3346a492c713c@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7271959630215414344=="
+
+--===============7271959630215414344==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your quarterly investment report is ready. Net change: 21.9% as of August 28.
+
+Regards,
+Customer Service Team
+
+--===============7271959630215414344==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 21.9% as of Aug=
+ust 28.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============7271959630215414344==--

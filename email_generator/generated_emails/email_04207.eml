@@ -1,0 +1,34 @@
+From: Facebook <facebook@instagram.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Wed, 22 Apr 2026 09:10:00 -0000
+Message-ID: <1c64ba6dd6944a4589ca3df993cc5964@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1754126723752012162=="
+
+--===============1754126723752012162==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Lucas Okafor's birthday on November 07! Send them a message to make thei=
+r day.
+
+-- Sent from your notifications
+
+--===============1754126723752012162==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Lucas Okafor's birthday on November 07! Send them a message to ma=
+ke their day.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============1754126723752012162==--

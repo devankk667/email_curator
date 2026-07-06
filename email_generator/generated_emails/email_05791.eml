@@ -1,0 +1,34 @@
+From: Fernwood Analytics <fernwood@payflow.com>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Mon, 05 Jan 2026 13:30:00 -0000
+Message-ID: <900a97693af040f6983c31953571c6f1@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3308404156349023023=="
+
+--===============3308404156349023023==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 25000 matured on February 12. Choose to renew or wi=
+thdraw.
+
+Thank you for banking with us.
+
+--===============3308404156349023023==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 25000 matured on February 12. Choose to rene=
+w or withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3308404156349023023==--

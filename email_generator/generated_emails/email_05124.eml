@@ -1,0 +1,31 @@
+From: Meetup <meetup47@meetup.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Thu, 25 Jun 2026 09:20:00 -0000
+Message-ID: <e96b5ad9ae814384bb5add91d9bac9bd@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4079574090588061521=="
+
+--===============4079574090588061521==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the college reunion on July 05. RSVP now to let the host kn=
+ow you're coming.
+
+--===============4079574090588061521==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the college reunion on July 05. RSVP now to let the =
+host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4079574090588061521==--

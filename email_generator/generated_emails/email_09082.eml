@@ -1,0 +1,49 @@
+From: Cloudscape <cloudscape@meridianair.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Sun, 05 Apr 2026 12:45:00 -0000
+Message-ID: <5c3c8525e1fc4d48993ff2904245cd2e@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0346988339390660847=="
+
+--===============0346988339390660847==
+Content-Type: multipart/alternative;
+ boundary="===============3967053030522001992=="
+
+--===============3967053030522001992==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to San Francisco starts on June 30. Don't forget to check the weath=
+er and pack accordingly.
+
+Regards,
+Reservations Desk
+
+--===============3967053030522001992==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to San Francisco starts on June 30. Don't forget to check th=
+e weather and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============3967053030522001992==--
+
+--===============0346988339390660847==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============0346988339390660847==--

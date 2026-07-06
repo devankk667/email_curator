@@ -1,0 +1,45 @@
+From: Aisha Garcia <aisha@facebookmail.com>
+To: you@myinbox.com
+Subject: Mei Ivanov liked your photo
+Date: Thu, 12 Mar 2026 09:10:00 -0000
+Message-ID: <8a76230dda5d4fed9b4f32f5815e998f@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9097358424516615395=="
+
+--===============9097358424516615395==
+Content-Type: multipart/alternative;
+ boundary="===============7555990713156581765=="
+
+--===============7555990713156581765==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+James Costa and 3 others liked your recent photo.
+
+-- Sent from your notifications
+
+--===============7555990713156581765==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Mei Ivanov liked your photo</h3>
+    <p>James Costa and 3 others liked your recent photo.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============7555990713156581765==--
+
+--===============9097358424516615395==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============9097358424516615395==--

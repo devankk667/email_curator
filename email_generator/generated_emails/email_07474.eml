@@ -1,0 +1,35 @@
+From: Carlos Lopez <carlos@university.edu>
+To: you@myinbox.com
+Subject: Scholarship Application Open
+Date: Sun, 11 Jan 2026 09:00:00 -0000
+Message-ID: <bd7b1aff6b5f48f48cde20c46667e96e@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6128029867386388293=="
+
+--===============6128029867386388293==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Applications for the merit scholarship are open until June 08. Award amount: =
+INR 25000. Apply here: https://portal.university.edu/results
+
+Thank you,
+Examination Cell
+
+--===============6128029867386388293==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Scholarship Application Open</h3>
+    <p>Applications for the merit scholarship are open until June 08. Award a=
+mount: INR 25000. Apply here: https://portal.university.edu/results</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============6128029867386388293==--

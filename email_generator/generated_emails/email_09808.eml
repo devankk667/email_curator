@@ -1,0 +1,35 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Jury Duty Summons
+Date: Mon, 16 Feb 2026 15:45:00 -0000
+Message-ID: <f1745e854e094b7e8763a31c2ad9def6@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1863516230942236417=="
+
+--===============1863516230942236417==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have been summoned for jury duty on February 23. Report to the courthouse=
+ by 9 AM.
+
+Regards,
+Public Services Department
+
+--===============1863516230942236417==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Jury Duty Summons</h3>
+    <p>You have been summoned for jury duty on February 23. Report to the cou=
+rthouse by 9 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============1863516230942236417==--

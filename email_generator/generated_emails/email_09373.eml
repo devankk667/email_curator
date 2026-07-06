@@ -1,0 +1,35 @@
+From: Coral Health <coral@meridianair.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Sun, 01 Mar 2026 20:10:00 -0000
+Message-ID: <9ff92ccb0a5e4323ac4cc3129c5478fc@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4889432922117254725=="
+
+--===============4889432922117254725==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in New York from August 12 to July 06 is confirmed. Booking I=
+D: 790749. Manage booking: https://makemytrip.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============4889432922117254725==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in New York from August 12 to July 06 is confirmed. Bo=
+oking ID: 790749. Manage booking: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============4889432922117254725==--

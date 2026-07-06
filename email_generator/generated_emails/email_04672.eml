@@ -1,0 +1,29 @@
+From: Carlos Mehta <carlos96@meetup.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Fri, 20 Feb 2026 12:15:00 -0000
+Message-ID: <4b39c69179de42e39ecda0fb038fa0a9@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6140989105597939465=="
+
+--===============6140989105597939465==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Priya Fischer invited you to join the group 'the alumni meetup'.
+
+--===============6140989105597939465==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Priya Fischer invited you to join the group 'the alumni meetup'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6140989105597939465==--

@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@meridianair.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Thu, 26 Feb 2026 13:15:00 -0000
+Message-ID: <113366dd28d04612a4530a083b2b1b77@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5511351995127850688=="
+
+--===============5511351995127850688==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Bangalore Grand Hotel from September 23 to June 07 is confirmed.=
+ Booking ID: 668386.
+
+Regards,
+Reservations Desk
+
+--===============5511351995127850688==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Bangalore Grand Hotel from September 23 to June 07 is con=
+firmed. Booking ID: 668386.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============5511351995127850688==--

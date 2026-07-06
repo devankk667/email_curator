@@ -1,0 +1,29 @@
+From: Nina Mehta <nina@linkedin.com>
+To: you@myinbox.com
+Subject: Yuki Kim liked your photo
+Date: Sat, 09 May 2026 17:10:00 -0000
+Message-ID: <18a49bc3c6c4421db23004830a421b5a@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0242681517547057258=="
+
+--===============0242681517547057258==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Arjun Okafor and 6 others liked your recent photo.
+
+--===============0242681517547057258==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Yuki Kim liked your photo</h3>
+    <p>Arjun Okafor and 6 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============0242681517547057258==--

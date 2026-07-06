@@ -1,0 +1,34 @@
+From: Vertex Bank <vertex@payflow.com>
+To: you@myinbox.com
+Subject: Autopay Setup Confirmation
+Date: Wed, 25 Feb 2026 14:45:00 -0000
+Message-ID: <d422a0c34ce44df39ffb655f1fbaba8f@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4963286461879561989=="
+
+--===============4963286461879561989==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Autopay for your Vertex Bank bill has been set up, starting February 04.
+
+Regards,
+Customer Service Team
+
+--===============4963286461879561989==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Autopay Setup Confirmation</h3>
+    <p>Autopay for your Vertex Bank bill has been set up, starting February 0=
+4.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============4963286461879561989==--

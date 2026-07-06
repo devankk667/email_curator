@@ -1,0 +1,33 @@
+From: Cloudscape <cloudscape@myntra.com>
+To: you@myinbox.com
+Subject: Cart Reminder
+Date: Sat, 20 Jun 2026 07:15:00 -0000
+Message-ID: <f9121a68dd664f6ca28050fa18b7ee26@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5829716110155005452=="
+
+--===============5829716110155005452==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You left 2 item(s) in your cart. Complete your purchase and get free shipping.
+
+Thanks for being a valued customer.
+
+--===============5829716110155005452==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>You left 2 item(s) in your cart. Complete your purchase and get free s=
+hipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5829716110155005452==--

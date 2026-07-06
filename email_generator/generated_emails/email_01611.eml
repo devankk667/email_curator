@@ -1,0 +1,33 @@
+From: PixelWorks <pixelworks@myntra.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Sat, 11 Apr 2026 20:30:00 -0000
+Message-ID: <2c76399dae8340f797f69d3567d3757e@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7083946002083208361=="
+
+--===============7083946002083208361==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your package from Cloudscape was delivered on April 16. Rate your experience.
+
+Thanks for being a valued customer.
+
+--===============7083946002083208361==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Cloudscape was delivered on April 16. Rate your expe=
+rience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7083946002083208361==--

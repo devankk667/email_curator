@@ -1,0 +1,34 @@
+From: Nimbus Retail <nimbus@bookings.com>
+To: you@myinbox.com
+Subject: Travel Insurance Policy Issued
+Date: Sat, 04 Apr 2026 06:15:00 -0000
+Message-ID: <50065ea298f2403fb9a930f7f0f06360@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2030702407583298864=="
+
+--===============2030702407583298864==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your travel insurance policy #168148 for the Sydney trip is now active.
+
+Regards,
+Reservations Desk
+
+--===============2030702407583298864==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Insurance Policy Issued</h3>
+    <p>Your travel insurance policy #168148 for the Sydney trip is now active=
+.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2030702407583298864==--

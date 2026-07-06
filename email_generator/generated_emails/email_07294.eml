@@ -1,0 +1,49 @@
+From: Arjun Sharma <arjun@college.ac.in>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Mon, 09 Mar 2026 22:15:00 -0000
+Message-ID: <612754cf209d4be9b4f6168f5b59d70f@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8509298653428504056=="
+
+--===============8509298653428504056==
+Content-Type: multipart/alternative;
+ boundary="===============7165259446783020159=="
+
+--===============7165259446783020159==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Operating Systems lecture originally on September 15 has been moved to No=
+vember 13, Room 245.
+
+Regards,
+Office of Academic Affairs
+
+--===============7165259446783020159==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Operating Systems lecture originally on September 15 has been move=
+d to November 13, Room 245.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============7165259446783020159==--
+
+--===============8509298653428504056==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============8509298653428504056==--

@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Fri, 08 May 2026 07:00:00 -0000
+Message-ID: <c3bdee47cce54f8c94f2d07fa175919b@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0516566139679835872=="
+
+--===============0516566139679835872==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 1499 is due on December 19. Pay now to keep your p=
+olicy active.
+
+Regards,
+Customer Service Team
+
+--===============0516566139679835872==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 1499 is due on December 19. Pay now to keep=
+ your policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============0516566139679835872==--

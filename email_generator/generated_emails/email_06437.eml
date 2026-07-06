@@ -1,0 +1,46 @@
+From: Fresco Foods <fresco18@citibank.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Fri, 30 Jan 2026 11:05:00 -0000
+Message-ID: <5a916febbdb848de87f7ce4f18fa9a2b@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4619713450455705240=="
+
+--===============4619713450455705240==
+Content-Type: multipart/alternative;
+ boundary="===============5311089087595723875=="
+
+--===============5311089087595723875==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 25000 for Personal Loan #1 is due on October 07.
+
+Thank you for banking with us.
+
+--===============5311089087595723875==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 25000 for Personal Loan #1 is due on October 07.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============5311089087595723875==--
+
+--===============4619713450455705240==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============4619713450455705240==--

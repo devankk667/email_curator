@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape26@amazon.in>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Tue, 21 Apr 2026 14:15:00 -0000
+Message-ID: <a2f8386f267d46e080a0d13f5b6a01d0@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8445965739164752765=="
+
+--===============8445965739164752765==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #3 from Cloudscape has shipped and will arrive by November 03. Tra=
+ck it: https://amazon.in/orders
+
+Happy Shopping!
+The Team
+
+--===============8445965739164752765==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #3 from Cloudscape has shipped and will arrive by November =
+03. Track it: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============8445965739164752765==--

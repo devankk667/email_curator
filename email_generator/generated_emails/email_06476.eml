@@ -1,0 +1,48 @@
+From: Nimbus Retail <nimbus40@payflow.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Mon, 13 Apr 2026 12:45:00 -0000
+Message-ID: <54f764d3a8a345e58a0d012516c664a4@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5706200516234960134=="
+
+--===============5706200516234960134==
+Content-Type: multipart/alternative;
+ boundary="===============8636574132348522519=="
+
+--===============8636574132348522519==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 499 was debited from your account ending 4821 on December 09 at Fresco Fo=
+ods.
+
+Thank you for banking with us.
+
+--===============8636574132348522519==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 499 was debited from your account ending 4821 on December 09 at Fr=
+esco Foods.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============8636574132348522519==--
+
+--===============5706200516234960134==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============5706200516234960134==--

@@ -1,0 +1,34 @@
+From: Fresco Foods <fresco@myntra.com>
+To: you@myinbox.com
+Subject: New Arrivals in Your Category
+Date: Sat, 20 Jun 2026 12:45:00 -0000
+Message-ID: <435974773f9540c28e8fd07d94920acf@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2746129421924908977=="
+
+--===============2746129421924908977==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New arrivals from Brightline Media matching your interests are now live: http=
+s://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============2746129421924908977==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Arrivals in Your Category</h3>
+    <p>New arrivals from Brightline Media matching your interests are now liv=
+e: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2746129421924908977==--

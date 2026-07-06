@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@payflow.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Sun, 15 Feb 2026 12:30:00 -0000
+Message-ID: <e0ccfcab18a44d7c8bddb753709ce7ac@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5833872310978913714=="
+
+--===============5833872310978913714==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 199. Add funds here: https://vertexbank.com=
+/accounts
+
+Regards,
+Customer Service Team
+
+--===============5833872310978913714==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 199. Add funds here: https://vertexb=
+ank.com/accounts</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5833872310978913714==--

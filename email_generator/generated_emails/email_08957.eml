@@ -1,0 +1,33 @@
+From: Cloudscape <cloudscape58@airindia.com>
+To: you@myinbox.com
+Subject: Loyalty Points Credited
+Date: Thu, 07 May 2026 21:45:00 -0000
+Message-ID: <3e3dcdedb75a4681974323cc12e1b074@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8078975998353171997=="
+
+--===============8078975998353171997==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You've earned 400 loyalty points for your recent trip to Berlin.
+
+Regards,
+Reservations Desk
+
+--===============8078975998353171997==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loyalty Points Credited</h3>
+    <p>You've earned 400 loyalty points for your recent trip to Berlin.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8078975998353171997==--

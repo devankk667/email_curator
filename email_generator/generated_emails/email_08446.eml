@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian@linkedin.com>
+To: you@myinbox.com
+Subject: Onboarding Details
+Date: Sat, 16 May 2026 21:05:00 -0000
+Message-ID: <fd54e50ca7384dba88654a7e8f5e2374@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0898860565818384237=="
+
+--===============0898860565818384237==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Welcome to Cloudscape! Your onboarding for the Backend Developer role begins =
+on November 12.
+
+Best regards,
+Talent Acquisition Team
+
+--===============0898860565818384237==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Onboarding Details</h3>
+    <p>Welcome to Cloudscape! Your onboarding for the Backend Developer role =
+begins on November 12.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============0898860565818384237==--

@@ -1,0 +1,50 @@
+From: Fernwood Analytics <fernwood@airindia.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Tue, 09 Jun 2026 16:20:00 -0000
+Message-ID: <522d8c709b184916ad09f684a98a134c@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4094691867889999368=="
+
+--===============4094691867889999368==
+Content-Type: multipart/alternative;
+ boundary="===============5973096656471576944=="
+
+--===============5973096656471576944==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to Chennai on December 21 is confirmed.
+Booking reference: 728575.
+Departure: 10:30 AM.
+
+Regards,
+Reservations Desk
+
+--===============5973096656471576944==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to Chennai on December 21 is confirmed.</p><p>Booking refe=
+rence: 728575.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============5973096656471576944==--
+
+--===============4094691867889999368==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============4094691867889999368==--

@@ -1,0 +1,36 @@
+From: Ananya Fischer <ananya@campusmail.edu>
+To: you@myinbox.com
+Subject: Operating Systems Exam Schedule
+Date: Tue, 09 Jun 2026 12:00:00 -0000
+Message-ID: <1d260584a01e44cc9cd324689d3f531b@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1545061336442679323=="
+
+--===============1545061336442679323==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Machine Learning exam is on February 17.
+Please submit Assignment 2 before March 26.
+Venue: Room 425, Main Block.
+
+Thank you,
+Examination Cell
+
+--===============1545061336442679323==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Operating Systems Exam Schedule</h3>
+    <p>Machine Learning exam is on February 17.</p><p>Please submit Assignmen=
+t 2 before March 26.</p><p>Venue: Room 425, Main Block.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============1545061336442679323==--

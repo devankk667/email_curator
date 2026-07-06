@@ -1,0 +1,47 @@
+From: Zynta Corp <zynta@citibank.com>
+To: you@myinbox.com
+Subject: Autopay Setup Confirmation
+Date: Fri, 06 Feb 2026 22:00:00 -0000
+Message-ID: <356ccbee5a8a49c9acdc8096c3b4f310@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4229734682130569004=="
+
+--===============4229734682130569004==
+Content-Type: multipart/alternative;
+ boundary="===============2929726640060232051=="
+
+--===============2929726640060232051==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Autopay for your Cloudscape bill has been set up, starting August 03.
+
+Thank you for banking with us.
+
+--===============2929726640060232051==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Autopay Setup Confirmation</h3>
+    <p>Autopay for your Cloudscape bill has been set up, starting August 03.<=
+/p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============2929726640060232051==--
+
+--===============4229734682130569004==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============4229734682130569004==--

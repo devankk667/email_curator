@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@meridianair.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Tue, 26 May 2026 20:45:00 -0000
+Message-ID: <fafa5ae3b4f04502aab52ee760253837@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7725126292326372657=="
+
+--===============7725126292326372657==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Toronto from October 29 to September 19 is confirmed. Book=
+ing ID: 641304. Manage booking: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============7725126292326372657==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Toronto from October 29 to September 19 is confirme=
+d. Booking ID: 641304. Manage booking: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============7725126292326372657==--

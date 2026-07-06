@@ -1,0 +1,33 @@
+From: Cloudscape <cloudscape@greenhouse.io>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Sat, 30 May 2026 11:30:00 -0000
+Message-ID: <c5a230370f124be4a1d72ab302d46490@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3417196273524708490=="
+
+--===============3417196273524708490==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Fatima Khan starred your repository on GitHub. Keep up the great work!
+
+We look forward to hearing from you.
+
+--===============3417196273524708490==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Fatima Khan starred your repository on GitHub. Keep up the great work!=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============3417196273524708490==--

@@ -1,0 +1,35 @@
+From: Lucas Tanaka <lucas@campusmail.edu>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Sun, 19 Apr 2026 06:00:00 -0000
+Message-ID: <00e25d9e675f47b6ace31c79f04f932f@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1275500025597738743=="
+
+--===============1275500025597738743==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Machine Learning lecture originally on February 17 has been moved to Augu=
+st 23, Room 446.
+
+Thank you,
+Examination Cell
+
+--===============1275500025597738743==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Machine Learning lecture originally on February 17 has been moved =
+to August 23, Room 446.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============1275500025597738743==--

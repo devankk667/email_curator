@@ -1,0 +1,35 @@
+From: Omar Khan <omar@greenhouse.io>
+To: you@myinbox.com
+Subject: Offer Letter
+Date: Sun, 25 Jan 2026 18:05:00 -0000
+Message-ID: <123572cbf3a94dfeb66e42b7d6187e64@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5565035566751106754=="
+
+--===============5565035566751106754==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Congratulations! Meridian Airlines is pleased to offer you the position of UX=
+ Designer. Please respond by August 23.
+
+Best regards,
+Talent Acquisition Team
+
+--===============5565035566751106754==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Offer Letter</h3>
+    <p>Congratulations! Meridian Airlines is pleased to offer you the positio=
+n of UX Designer. Please respond by August 23.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============5565035566751106754==--

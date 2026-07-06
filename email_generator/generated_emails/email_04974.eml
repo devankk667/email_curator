@@ -1,0 +1,31 @@
+From: Lucas Dubois <lucas95@linkedin.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Thu, 26 Mar 2026 11:05:00 -0000
+Message-ID: <3182d70e5d5844bf8bf4a93838c2933e@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1059964597792721417=="
+
+--===============1059964597792721417==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Noah Nguyen: "Hey, are we still meeting on June 2=
+9?"
+
+--===============1059964597792721417==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Noah Nguyen: "Hey, are we still meeting on=
+ June 29?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============1059964597792721417==--

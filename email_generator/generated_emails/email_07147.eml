@@ -1,0 +1,36 @@
+From: Diego Garcia <diego@university.edu>
+To: you@myinbox.com
+Subject: Computer Networks Exam Schedule
+Date: Wed, 01 Jul 2026 14:10:00 -0000
+Message-ID: <74a1957b46814ed08b4b80815927b394@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2069995499776754872=="
+
+--===============2069995499776754872==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Operating Systems exam is on October 05.
+Please submit Assignment 4 before December 11.
+Venue: Room 313, Main Block.
+
+Regards,
+Office of Academic Affairs
+
+--===============2069995499776754872==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Computer Networks Exam Schedule</h3>
+    <p>Operating Systems exam is on October 05.</p><p>Please submit Assignmen=
+t 4 before December 11.</p><p>Venue: Room 313, Main Block.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============2069995499776754872==--

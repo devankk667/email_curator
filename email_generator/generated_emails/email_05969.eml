@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@payflow.com>
+To: you@myinbox.com
+Subject: New Card Offer
+Date: Fri, 02 Jan 2026 13:20:00 -0000
+Message-ID: <d8d2b28513594dd899a92e6023d8be93@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6818748446658650370=="
+
+--===============6818748446658650370==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You are pre-approved for a credit limit increase to INR 25000. Accept before =
+December 31: https://payflow.com/dashboard
+
+Regards,
+Customer Service Team
+
+--===============6818748446658650370==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Card Offer</h3>
+    <p>You are pre-approved for a credit limit increase to INR 25000. Accept =
+before December 31: https://payflow.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6818748446658650370==--

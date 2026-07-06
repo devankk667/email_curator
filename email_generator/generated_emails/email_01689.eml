@@ -1,0 +1,32 @@
+From: Coral Health <coral10@myntra.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Fri, 08 May 2026 06:05:00 -0000
+Message-ID: <3aefaa47b56a4cc39358b80c1fb1827b@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7756489372335061307=="
+
+--===============7756489372335061307==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your PixelWorks membership renews on October 19 for INR 999.
+
+Thanks for being a valued customer.
+
+--===============7756489372335061307==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your PixelWorks membership renews on October 19 for INR 999.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7756489372335061307==--

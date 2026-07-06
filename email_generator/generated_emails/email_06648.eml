@@ -1,0 +1,33 @@
+From: Meridian Airlines <meridian@vertexbank.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Sat, 27 Jun 2026 13:45:00 -0000
+Message-ID: <f11983c15e4b4355bb9539537a825bde@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8221299957515996675=="
+
+--===============8221299957515996675==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 45000 for Personal Loan #1 is due on February 12.
+
+Regards,
+Customer Service Team
+
+--===============8221299957515996675==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 45000 for Personal Loan #1 is due on February 12.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8221299957515996675==--

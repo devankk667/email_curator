@@ -1,0 +1,35 @@
+From: Coral Health <coral41@naukri.com>
+To: you@myinbox.com
+Subject: Rejection Notice
+Date: Sat, 14 Mar 2026 17:10:00 -0000
+Message-ID: <18e22757aa6f432a80f613f1a0c16e8c@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0011720392328007717=="
+
+--===============0011720392328007717==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for interviewing for QA Engineer at Quanta Labs. We've decided to m=
+ove forward with other candidates.
+
+Best regards,
+Talent Acquisition Team
+
+--===============0011720392328007717==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Rejection Notice</h3>
+    <p>Thank you for interviewing for QA Engineer at Quanta Labs. We've decid=
+ed to move forward with other candidates.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============0011720392328007717==--

@@ -1,0 +1,44 @@
+From: Meetup <meetup@facebookmail.com>
+To: you@myinbox.com
+Subject: New Follower
+Date: Mon, 23 Mar 2026 08:45:00 -0000
+Message-ID: <48b7c3aa15f7448c987eb9538137af65@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7158165717544137718=="
+
+--===============7158165717544137718==
+Content-Type: multipart/alternative;
+ boundary="===============6611583333000723865=="
+
+--===============6611583333000723865==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sara Chen started following you. See their profile: https://instagram.com/not=
+ifications
+
+--===============6611583333000723865==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Follower</h3>
+    <p>Sara Chen started following you. See their profile: https://instagram.=
+com/notifications</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6611583333000723865==--
+
+--===============7158165717544137718==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============7158165717544137718==--

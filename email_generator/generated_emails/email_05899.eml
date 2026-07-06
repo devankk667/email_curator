@@ -1,0 +1,32 @@
+From: Fresco Foods <fresco@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Sun, 08 Feb 2026 09:30:00 -0000
+Message-ID: <edd5de313abd4e32a20a9f1a79ac52c9@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6641239916144144896=="
+
+--===============6641239916144144896==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 2500 for Personal Loan #1 is due on December 28.
+
+Thank you for banking with us.
+
+--===============6641239916144144896==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 2500 for Personal Loan #1 is due on December 28.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============6641239916144144896==--

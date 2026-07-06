@@ -1,0 +1,34 @@
+From: Meridian Airlines <meridian@flipkart.com>
+To: you@myinbox.com
+Subject: Wishlist Reminder
+Date: Sat, 06 Jun 2026 10:45:00 -0000
+Message-ID: <0372084a8bb0465aa2ca3e491ddef39b@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4788338978540590675=="
+
+--===============4788338978540590675==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Items in your wishlist are still available. Buy now before prices go up on No=
+vember 15.
+
+Thanks for being a valued customer.
+
+--===============4788338978540590675==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Wishlist Reminder</h3>
+    <p>Items in your wishlist are still available. Buy now before prices go u=
+p on November 15.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4788338978540590675==--

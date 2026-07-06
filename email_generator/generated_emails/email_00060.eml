@@ -1,0 +1,33 @@
+From: Meridian Airlines <meridian@myntra.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Fri, 20 Mar 2026 09:05:00 -0000
+Message-ID: <fa7d798346474b419bc1416e34656521@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1313163586196519192=="
+
+--===============1313163586196519192==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Fernwood Analytics membership renews on July 08 for INR 12000.
+
+Happy Shopping!
+The Team
+
+--===============1313163586196519192==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Fernwood Analytics membership renews on July 08 for INR 12000.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1313163586196519192==--

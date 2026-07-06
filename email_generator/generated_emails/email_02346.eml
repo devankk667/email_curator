@@ -1,0 +1,47 @@
+From: Liam Ivanov <liam@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Lottery Winner Notification
+Date: Mon, 09 Feb 2026 14:05:00 -0000
+Message-ID: <cfae70d2633346df9c9473a6e308487c@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4443154987257432922=="
+
+--===============4443154987257432922==
+Content-Type: multipart/alternative;
+ boundary="===============7293553164927596787=="
+
+--===============7293553164927596787==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your email was randomly selected in the International Lottery. Prize: $45000.=
+ Reply to claim.
+
+Act now, offer expires soon!
+
+--===============7293553164927596787==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Lottery Winner Notification</h3>
+    <p>Your email was randomly selected in the International Lottery. Prize: =
+$45000. Reply to claim.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============7293553164927596787==--
+
+--===============4443154987257432922==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============4443154987257432922==--

@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood91@vertexbank.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Sat, 23 May 2026 06:05:00 -0000
+Message-ID: <624f45a7c1a94ed086894f2d880ee3f1@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7833878018942737071=="
+
+--===============7833878018942737071==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Fe=
+bruary 14 to avoid penalties.
+
+Regards,
+Customer Service Team
+
+--===============7833878018942737071==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore February 14 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============7833878018942737071==--

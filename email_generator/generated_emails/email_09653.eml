@@ -1,0 +1,35 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Passport Application Status
+Date: Sun, 03 May 2026 20:00:00 -0000
+Message-ID: <872648da07ff4225a1aa8a46e6171be6@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9090489314925686844=="
+
+--===============9090489314925686844==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your passport application #242651 status has been updated to 'Ready for Dispa=
+tch'.
+
+Regards,
+Public Services Department
+
+--===============9090489314925686844==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Passport Application Status</h3>
+    <p>Your passport application #242651 status has been updated to 'Ready fo=
+r Dispatch'.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============9090489314925686844==--

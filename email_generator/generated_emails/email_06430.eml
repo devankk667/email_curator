@@ -1,0 +1,34 @@
+From: PixelWorks <pixelworks@payflow.com>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Thu, 23 Apr 2026 06:45:00 -0000
+Message-ID: <615ab73bd2be4ab6b214f1818801ee27@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6572717202169516864=="
+
+--===============6572717202169516864==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your quarterly investment report is ready. Net change: 1.9% as of April 02.
+
+Regards,
+Customer Service Team
+
+--===============6572717202169516864==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 1.9% as of Apri=
+l 02.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6572717202169516864==--

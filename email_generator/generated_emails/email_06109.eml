@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@vertexbank.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Thu, 21 May 2026 11:15:00 -0000
+Message-ID: <f4647aca8dee4976ba0d1d07c73fa245@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5556077586393288014=="
+
+--===============5556077586393288014==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Oc=
+tober 23 to avoid penalties.
+
+Regards,
+Customer Service Team
+
+--===============5556077586393288014==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore October 23 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5556077586393288014==--

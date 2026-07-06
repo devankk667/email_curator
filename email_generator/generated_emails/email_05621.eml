@@ -1,0 +1,35 @@
+From: Coral Health <coral@vertexbank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Thu, 19 Feb 2026 22:10:00 -0000
+Message-ID: <4d4ee20bfba2493f93dc37ea162df5f6@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3095032631753453447=="
+
+--===============3095032631753453447==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 25000 was debited from your account ending 4821 on November 05 at Fresco =
+Foods.
+
+Regards,
+Customer Service Team
+
+--===============3095032631753453447==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 25000 was debited from your account ending 4821 on November 05 at =
+Fresco Foods.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3095032631753453447==--

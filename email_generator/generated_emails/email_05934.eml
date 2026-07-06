@@ -1,0 +1,35 @@
+From: Brightline Media <brightline@citibank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Sat, 28 Mar 2026 17:45:00 -0000
+Message-ID: <6de127f0c2e3408c80a5b8296bfaa796@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1811789100956677757=="
+
+--===============1811789100956677757==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 2500 was debited from your account ending 4821 on December 09 at PixelWor=
+ks.
+
+Regards,
+Customer Service Team
+
+--===============1811789100956677757==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 2500 was debited from your account ending 4821 on December 09 at P=
+ixelWorks.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1811789100956677757==--

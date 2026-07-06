@@ -1,0 +1,35 @@
+From: Facebook <facebook@meetup.com>
+To: you@myinbox.com
+Subject: Re: Event Invitation
+Date: Sat, 04 Apr 2026 14:05:00 -0000
+Message-ID: <146fba374d0447318c21671dc45bbc6c@meetup.com>
+In-Reply-To: <db2daa1218b945ca933e50b2f65647c7@facebookmail.com>
+References: <db2daa1218b945ca933e50b2f65647c7@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5560876760679261124=="
+
+--===============5560876760679261124==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Confirmed, thank you.
+
+> You're invited to Sarah's housewarming on August 13. RSVP now to let the ho=
+st know you're coming.
+
+--===============5560876760679261124==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>Confirmed, thank you.</p><p>> You're invited to Sarah's housewarming o=
+n August 13. RSVP now to let the host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============5560876760679261124==--

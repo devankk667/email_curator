@@ -1,0 +1,41 @@
+From: Meridian Airlines <meridian@meridianair.com>
+To: you@myinbox.com
+Subject: Fwd: Flight Booking Confirmation
+Date: Mon, 16 Feb 2026 16:00:00 -0000
+Message-ID: <7a929c4c304d4a82b9f8f7686a0158d9@meridianair.com>
+In-Reply-To: <cdc6d31df7074ee68dbb6653b8319ac6@makemytrip.com>
+References: <cdc6d31df7074ee68dbb6653b8319ac6@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2049920917168796692=="
+
+--===============2049920917168796692==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Just circling back on this - any update?
+
+> Your flight to Chennai on December 07 is confirmed.
+> Booking reference: 313210.
+> Departure: 10:30 AM.
+
+Regards,
+Reservations Desk
+
+--===============2049920917168796692==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Just circling back on this - any update?</p><p>> Your flight to Chenna=
+i on December 07 is confirmed.</p><p>> Booking reference: 313210.</p><p>> Dep=
+arture: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2049920917168796692==--

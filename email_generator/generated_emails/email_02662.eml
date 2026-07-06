@@ -1,0 +1,34 @@
+From: Nina Rossi <nina@claim-now.biz>
+To: you@myinbox.com
+Subject: You've Won a Prize!
+Date: Tue, 27 Jan 2026 06:00:00 -0000
+Message-ID: <cbf10fc4b5de40e1b239e46d0783464f@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6805551844301304061=="
+
+--===============6805551844301304061==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Congratulations! You have been selected to win INR 2500. Click here to claim =
+now before it expires: http://192.168.44.12/claim
+
+Don't miss this one-time opportunity!
+
+--===============6805551844301304061==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">You've Won a Prize!</h3>
+    <p>Congratulations! You have been selected to win INR 2500. Click here to=
+ claim now before it expires: http://192.168.44.12/claim</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============6805551844301304061==--

@@ -1,0 +1,46 @@
+From: Nimbus Retail <nimbus@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Wed, 14 Jan 2026 17:20:00 -0000
+Message-ID: <2e600d3a6de0442e96631de46118ff61@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8338460069232415486=="
+
+--===============8338460069232415486==
+Content-Type: multipart/alternative;
+ boundary="===============7566984959666694053=="
+
+--===============7566984959666694053==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Meridian Airlines membership renews on July 04 for INR 25000.
+
+Thanks for being a valued customer.
+
+--===============7566984959666694053==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Meridian Airlines membership renews on July 04 for INR 25000.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7566984959666694053==--
+
+--===============8338460069232415486==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============8338460069232415486==--

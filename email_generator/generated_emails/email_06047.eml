@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus11@vertexbank.com>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Thu, 23 Apr 2026 19:30:00 -0000
+Message-ID: <af57bca655a943af96a6f289cdfbf4da@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2164480301798112836=="
+
+--===============2164480301798112836==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 45000 matured on February 10. Choose to renew or wi=
+thdraw.
+
+Regards,
+Customer Service Team
+
+--===============2164480301798112836==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 45000 matured on February 10. Choose to rene=
+w or withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2164480301798112836==--

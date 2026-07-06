@@ -1,0 +1,34 @@
+From: PixelWorks <pixelworks@greenhouse.io>
+To: you@myinbox.com
+Subject: Offer Letter
+Date: Sat, 21 Mar 2026 18:30:00 -0000
+Message-ID: <9e196e5f5ed448e3b795cadfa11c89ac@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8684710177726004681=="
+
+--===============8684710177726004681==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Congratulations! Meridian Airlines is pleased to offer you the position of ML=
+ Engineer. Please respond by July 27.
+
+We look forward to hearing from you.
+
+--===============8684710177726004681==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Offer Letter</h3>
+    <p>Congratulations! Meridian Airlines is pleased to offer you the positio=
+n of ML Engineer. Please respond by July 27.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============8684710177726004681==--

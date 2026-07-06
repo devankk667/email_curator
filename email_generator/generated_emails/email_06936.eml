@@ -1,0 +1,35 @@
+From: Isabella Okafor <isabella@college.ac.in>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Mon, 16 Mar 2026 11:30:00 -0000
+Message-ID: <03398622e04a44ba9cfa8f3c5a92322a@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5579241171022634583=="
+
+--===============5579241171022634583==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Cloud Computing will be held on June 30 at 4 PM in the Sem=
+inar Hall.
+
+Regards,
+Office of Academic Affairs
+
+--===============5579241171022634583==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Cloud Computing will be held on June 30 at 4 PM in =
+the Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============5579241171022634583==--

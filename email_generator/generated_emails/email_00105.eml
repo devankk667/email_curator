@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian57@amazon.in>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Sun, 07 Jun 2026 21:30:00 -0000
+Message-ID: <a2303df3b854443ca58a01892f6e6cc6@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5607164166855270527=="
+
+--===============5607164166855270527==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #7 has been received. Refund of INR 999 will be process=
+ed by December 19. Details: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============5607164166855270527==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #7 has been received. Refund of INR 999 will be =
+processed by December 19. Details: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============5607164166855270527==--

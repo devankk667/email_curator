@@ -1,0 +1,35 @@
+From: Zara Khan <zara@university.edu>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Sun, 22 Mar 2026 06:10:00 -0000
+Message-ID: <78519d28cb584efab1fb4fca867940e1@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0619471860053631749=="
+
+--===============0619471860053631749==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Discrete Mathematics lecture originally on July 21 has been moved to Nove=
+mber 24, Room 241.
+
+Thank you,
+Examination Cell
+
+--===============0619471860053631749==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Discrete Mathematics lecture originally on July 21 has been moved =
+to November 24, Room 241.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============0619471860053631749==--

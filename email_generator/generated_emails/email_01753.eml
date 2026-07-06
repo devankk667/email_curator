@@ -1,0 +1,34 @@
+From: Meridian Airlines <meridian@amazon.in>
+To: you@myinbox.com
+Subject: New Arrivals in Your Category
+Date: Sat, 28 Feb 2026 07:20:00 -0000
+Message-ID: <a9bb23fdd35046bb8ae11a5bb7a7183d@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8452020306917583722=="
+
+--===============8452020306917583722==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New arrivals from Cloudscape matching your interests are now live: https://am=
+azon.in/orders
+
+Thanks for being a valued customer.
+
+--===============8452020306917583722==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Arrivals in Your Category</h3>
+    <p>New arrivals from Cloudscape matching your interests are now live: htt=
+ps://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8452020306917583722==--

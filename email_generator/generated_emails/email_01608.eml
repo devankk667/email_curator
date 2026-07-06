@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Mon, 13 Apr 2026 08:05:00 -0000
+Message-ID: <ec48b274533e4e43a393e2b9f47ed6fa@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0556312929731350014=="
+
+--===============0556312929731350014==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Zynta Corp was delivered on October 13. Rate your experienc=
+e.
+
+Happy Shopping!
+The Team
+
+--===============0556312929731350014==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Zynta Corp was delivered on October 13. Rate your ex=
+perience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============0556312929731350014==--

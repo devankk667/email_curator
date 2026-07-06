@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@payflow.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Fri, 27 Mar 2026 21:15:00 -0000
+Message-ID: <2b64c88a85464055b1907fc84a05a6cd@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0104046707871444306=="
+
+--===============0104046707871444306==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 499. Add funds here: https://payflow.com/da=
+shboard
+
+Regards,
+Customer Service Team
+
+--===============0104046707871444306==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 499. Add funds here: https://payflow=
+.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============0104046707871444306==--

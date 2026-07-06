@@ -1,0 +1,48 @@
+From: Meridian Airlines <meridian@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Fri, 17 Apr 2026 08:05:00 -0000
+Message-ID: <cdfd497f3fe04e2f94a72ee804b32cc1@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5188105559126097687=="
+
+--===============5188105559126097687==
+Content-Type: multipart/alternative;
+ boundary="===============8837216303335124878=="
+
+--===============8837216303335124878==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #1 from Coral Health has shipped and will arrive by November 05. T=
+rack it: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============8837216303335124878==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #1 from Coral Health has shipped and will arrive by Novembe=
+r 05. Track it: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8837216303335124878==--
+
+--===============5188105559126097687==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============5188105559126097687==--

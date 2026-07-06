@@ -1,0 +1,29 @@
+From: Instagram <instagram@meetup.com>
+To: you@myinbox.com
+Subject: Priya Dubois liked your photo
+Date: Mon, 25 May 2026 17:45:00 -0000
+Message-ID: <e3c5454372f44326b6b2faae5e67bdbf@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1534424504109859175=="
+
+--===============1534424504109859175==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Elena Sharma and 6 others liked your recent photo.
+
+--===============1534424504109859175==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Priya Dubois liked your photo</h3>
+    <p>Elena Sharma and 6 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============1534424504109859175==--

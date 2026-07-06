@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Wed, 27 May 2026 13:20:00 -0000
+Message-ID: <92c1e48d9bde4da194d785acd3f4b106@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7874926938895075250=="
+
+--===============7874926938895075250==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 45000 is due on December 03. Pay now to keep your =
+policy active.
+
+Regards,
+Customer Service Team
+
+--===============7874926938895075250==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 45000 is due on December 03. Pay now to kee=
+p your policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============7874926938895075250==--

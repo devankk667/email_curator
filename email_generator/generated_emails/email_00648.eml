@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@amazon.in>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Thu, 12 Mar 2026 20:05:00 -0000
+Message-ID: <ceb770de27bb4813898ff77f30104db1@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0421582916275951765=="
+
+--===============0421582916275951765==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #2 has been received. Refund of INR 45000 will be proce=
+ssed by January 08. Details: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============0421582916275951765==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #2 has been received. Refund of INR 45000 will b=
+e processed by January 08. Details: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============0421582916275951765==--

@@ -1,0 +1,35 @@
+From: Coral Health <coral30@citibank.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Sat, 03 Jan 2026 07:10:00 -0000
+Message-ID: <fb9c39a05a2b4384b1a45c9553e03bbc@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1990103053382593638=="
+
+--===============1990103053382593638==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Ju=
+ne 01 to avoid penalties.
+
+Regards,
+Customer Service Team
+
+--===============1990103053382593638==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore June 01 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1990103053382593638==--

@@ -1,0 +1,34 @@
+From: Nimbus Retail <nimbus99@amazon.in>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Thu, 19 Mar 2026 09:45:00 -0000
+Message-ID: <a69d86159be84c6f84ae9a7609d32683@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0636013619370113983=="
+
+--===============0636013619370113983==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Coral Health was delivered on January 11. Rate your experie=
+nce.
+
+Thanks for being a valued customer.
+
+--===============0636013619370113983==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Coral Health was delivered on January 11. Rate your =
+experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0636013619370113983==--

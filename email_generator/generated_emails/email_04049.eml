@@ -1,0 +1,29 @@
+From: LinkedIn <linkedin@facebookmail.com>
+To: you@myinbox.com
+Subject: Nina Novak liked your photo
+Date: Mon, 06 Apr 2026 06:30:00 -0000
+Message-ID: <caa98b0275e9484f9bfd29254551dcdf@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5744093013970184147=="
+
+--===============5744093013970184147==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Wei Garcia and 7 others liked your recent photo.
+
+--===============5744093013970184147==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Nina Novak liked your photo</h3>
+    <p>Wei Garcia and 7 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============5744093013970184147==--

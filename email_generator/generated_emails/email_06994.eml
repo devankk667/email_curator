@@ -1,0 +1,35 @@
+From: Nina Smith <nina@college.ac.in>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Fri, 16 Jan 2026 20:45:00 -0000
+Message-ID: <a5fbae7732bb4da19803b925d99a07c1@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6124390744917074291=="
+
+--===============6124390744917074291==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Operating Systems lecture originally on December 12 has been moved to Oct=
+ober 02, Room 292.
+
+Regards,
+Office of Academic Affairs
+
+--===============6124390744917074291==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Operating Systems lecture originally on December 12 has been moved=
+ to October 02, Room 292.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============6124390744917074291==--

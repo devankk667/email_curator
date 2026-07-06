@@ -1,0 +1,32 @@
+From: PixelWorks <pixelworks73@myntra.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Fri, 10 Apr 2026 07:10:00 -0000
+Message-ID: <c8b02104fb1e45a3b77aae2b54ba24b5@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7872655882094088832=="
+
+--===============7872655882094088832==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Vertex Bank membership renews on November 20 for INR 199.
+
+Thanks for being a valued customer.
+
+--===============7872655882094088832==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Vertex Bank membership renews on November 20 for INR 199.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7872655882094088832==--

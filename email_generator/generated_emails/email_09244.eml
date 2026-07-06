@@ -1,0 +1,36 @@
+From: Orbit Logistics <orbit@airindia.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Tue, 03 Feb 2026 09:00:00 -0000
+Message-ID: <676460ae54d5458a951af1d1c91a9231@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3070059704577257285=="
+
+--===============3070059704577257285==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to Toronto on October 17 is confirmed.
+Booking reference: 645426.
+Departure: 10:30 AM.
+
+Regards,
+Reservations Desk
+
+--===============3070059704577257285==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to Toronto on October 17 is confirmed.</p><p>Booking refer=
+ence: 645426.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============3070059704577257285==--

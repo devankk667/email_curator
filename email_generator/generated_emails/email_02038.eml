@@ -1,0 +1,33 @@
+From: Meridian Airlines <meridian18@amazon.in>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Fri, 29 May 2026 07:45:00 -0000
+Message-ID: <d79b2c424f604766ad84138239c185d8@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4511953022735627755=="
+
+--===============4511953022735627755==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 7500. Grab it before it's gone!
+
+Thanks for being a valued customer.
+
+--===============4511953022735627755==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 7500. Grab it before it's=
+ gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4511953022735627755==--

@@ -1,0 +1,29 @@
+From: Instagram <instagram@facebookmail.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Thu, 12 Mar 2026 13:15:00 -0000
+Message-ID: <a7f92003e1894beeb4d6ad9d30652244@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6234249830510757890=="
+
+--===============6234249830510757890==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Yuki Mehta invited you to join the group 'the birthday party'.
+
+--===============6234249830510757890==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Yuki Mehta invited you to join the group 'the birthday party'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6234249830510757890==--

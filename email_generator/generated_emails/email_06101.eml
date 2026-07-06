@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks35@citibank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Wed, 11 Feb 2026 14:45:00 -0000
+Message-ID: <82d097e385f242bbb53f58bd4a99b849@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6407826800266392188=="
+
+--===============6407826800266392188==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 1499 was debited from your account ending 4821 on August 15 at Fernwood A=
+nalytics.
+
+Regards,
+Customer Service Team
+
+--===============6407826800266392188==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 1499 was debited from your account ending 4821 on August 15 at Fer=
+nwood Analytics.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6407826800266392188==--

@@ -1,0 +1,33 @@
+From: Fernwood Analytics <fernwood@meridianair.com>
+To: you@myinbox.com
+Subject: Loyalty Points Credited
+Date: Fri, 19 Jun 2026 18:15:00 -0000
+Message-ID: <b67671ffecc1464686d43c6ef7a0b029@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2558290493818369773=="
+
+--===============2558290493818369773==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You've earned 300 loyalty points for your recent trip to Bangalore.
+
+Safe travels,
+Booking Support Team
+
+--===============2558290493818369773==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loyalty Points Credited</h3>
+    <p>You've earned 300 loyalty points for your recent trip to Bangalore.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============2558290493818369773==--

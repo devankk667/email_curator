@@ -1,0 +1,34 @@
+From: Starforge Games <starforge15@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Wed, 07 Jan 2026 11:15:00 -0000
+Message-ID: <222290dc594f40519186c2aab894ecc6@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4116142946925662847=="
+
+--===============4116142946925662847==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #6 from Cloudscape has shipped and will arrive by January 16. Trac=
+k it: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============4116142946925662847==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #6 from Cloudscape has shipped and will arrive by January 1=
+6. Track it: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4116142946925662847==--

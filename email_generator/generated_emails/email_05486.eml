@@ -1,0 +1,29 @@
+From: Aisha Tanaka <aisha@meetup.com>
+To: you@myinbox.com
+Subject: Poke from Elena Smith
+Date: Sat, 21 Feb 2026 16:05:00 -0000
+Message-ID: <f70635f524ae47588dc31beca1141141@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6094706423774197836=="
+
+--===============6094706423774197836==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Zara Khan poked you. Poke them back!
+
+--===============6094706423774197836==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Elena Smith</h3>
+    <p>Zara Khan poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6094706423774197836==--

@@ -1,0 +1,29 @@
+From: Facebook <facebook@meetup.com>
+To: you@myinbox.com
+Subject: Poke from Wei Reddy
+Date: Sat, 28 Feb 2026 15:05:00 -0000
+Message-ID: <a14c69c81d424d9d9d4d7f67b6e16e3f@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0408436225282978689=="
+
+--===============0408436225282978689==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Carlos Patel poked you. Poke them back!
+
+--===============0408436225282978689==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Wei Reddy</h3>
+    <p>Carlos Patel poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============0408436225282978689==--

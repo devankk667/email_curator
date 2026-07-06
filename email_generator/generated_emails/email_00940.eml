@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@myntra.com>
+To: you@myinbox.com
+Subject: Wishlist Reminder
+Date: Sun, 10 May 2026 20:20:00 -0000
+Message-ID: <918bfe5883fd4ba6b9935f2a666ec905@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3325331241932837299=="
+
+--===============3325331241932837299==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Items in your wishlist are still available. Buy now before prices go up on Ma=
+rch 23.
+
+Happy Shopping!
+The Team
+
+--===============3325331241932837299==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Wishlist Reminder</h3>
+    <p>Items in your wishlist are still available. Buy now before prices go u=
+p on March 23.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============3325331241932837299==--

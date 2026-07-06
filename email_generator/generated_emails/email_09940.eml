@@ -1,0 +1,34 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Building Permit Approved
+Date: Sat, 24 Jan 2026 21:00:00 -0000
+Message-ID: <569fb8adf1514d4ea6db7d1aa58e0a50@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8194586629647046114=="
+
+--===============8194586629647046114==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your building permit application #967062 has been approved as of August 09.
+
+Regards,
+Public Services Department
+
+--===============8194586629647046114==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Building Permit Approved</h3>
+    <p>Your building permit application #967062 has been approved as of Augus=
+t 09.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============8194586629647046114==--

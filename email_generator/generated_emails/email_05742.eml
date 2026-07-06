@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Thu, 15 Jan 2026 07:30:00 -0000
+Message-ID: <77473579306246dd8f19d0cacf8d1a32@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4905547527756004806=="
+
+--===============4905547527756004806==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 2500 has been credited to your account on August 19 as salary from Nimbus=
+ Retail.
+
+Regards,
+Customer Service Team
+
+--===============4905547527756004806==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 2500 has been credited to your account on August 19 as salary from=
+ Nimbus Retail.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============4905547527756004806==--

@@ -1,0 +1,32 @@
+From: Meridian Airlines <meridian@flipkart.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Mon, 25 May 2026 07:30:00 -0000
+Message-ID: <49b6e3012d164a2e9379770cbb61c244@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9006344887511552046=="
+
+--===============9006344887511552046==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your PixelWorks membership renews on October 16 for INR 199.
+
+Thanks for being a valued customer.
+
+--===============9006344887511552046==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your PixelWorks membership renews on October 16 for INR 199.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============9006344887511552046==--

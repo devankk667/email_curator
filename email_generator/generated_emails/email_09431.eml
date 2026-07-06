@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian63@makemytrip.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Fri, 19 Jun 2026 06:15:00 -0000
+Message-ID: <3a7f2fa9057544909691af2f43a4b016@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3228196351527963349=="
+
+--===============3228196351527963349==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Mumbai has been rescheduled to January 29. Please c=
+heck your booking.
+
+Regards,
+Reservations Desk
+
+--===============3228196351527963349==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Mumbai has been rescheduled to January 29. P=
+lease check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============3228196351527963349==--

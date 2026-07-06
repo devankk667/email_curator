@@ -1,0 +1,29 @@
+From: Facebook <facebook@meetup.com>
+To: you@myinbox.com
+Subject: Poke from Liam Novak
+Date: Wed, 03 Jun 2026 13:05:00 -0000
+Message-ID: <956e2e92dad24052874a18e637bf5b2a@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0806019611025290147=="
+
+--===============0806019611025290147==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Yuki Kim poked you. Poke them back!
+
+--===============0806019611025290147==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Liam Novak</h3>
+    <p>Yuki Kim poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============0806019611025290147==--

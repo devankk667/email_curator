@@ -1,0 +1,33 @@
+From: Cloudscape <cloudscape@citibank.com>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Thu, 08 Jan 2026 10:20:00 -0000
+Message-ID: <7c9a60960ea14c3c93720d9247c0e273@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3063990069503304290=="
+
+--===============3063990069503304290==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your quarterly investment report is ready. Net change: 17.0% as of June 09.
+
+Thank you for banking with us.
+
+--===============3063990069503304290==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 17.0% as of Jun=
+e 09.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3063990069503304290==--

@@ -1,0 +1,33 @@
+From: Quanta Labs <quanta@citibank.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Thu, 26 Mar 2026 20:10:00 -0000
+Message-ID: <15e8193e6f904c509c9493d083ae3be6@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5681877257868666188=="
+
+--===============5681877257868666188==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 45000 for Personal Loan #6 is due on July 08.
+
+Regards,
+Customer Service Team
+
+--===============5681877257868666188==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 45000 for Personal Loan #6 is due on July 08.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5681877257868666188==--

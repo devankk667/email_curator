@@ -1,0 +1,35 @@
+From: Nina Okafor <nina25@university.edu>
+To: you@myinbox.com
+Subject: Convocation Notice
+Date: Tue, 30 Jun 2026 06:45:00 -0000
+Message-ID: <dfad832588944b02bfe6b5c96a7858a4@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7075934117245923039=="
+
+--===============7075934117245923039==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Convocation ceremony will be held on January 17. Collect your gown by October=
+ 17.
+
+Thank you,
+Examination Cell
+
+--===============7075934117245923039==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Convocation Notice</h3>
+    <p>Convocation ceremony will be held on January 17. Collect your gown by =
+October 17.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============7075934117245923039==--

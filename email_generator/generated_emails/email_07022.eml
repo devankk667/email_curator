@@ -1,0 +1,49 @@
+From: Arjun Dubois <arjun@college.ac.in>
+To: you@myinbox.com
+Subject: Library Book Due
+Date: Mon, 12 Jan 2026 12:45:00 -0000
+Message-ID: <31d7472ca68b48e297ab3c8b39efbe4d@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0035074680774489678=="
+
+--===============0035074680774489678==
+Content-Type: multipart/alternative;
+ boundary="===============2883004012801528850=="
+
+--===============2883004012801528850==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The book 'Clean Code' issued to you is due for return on November 13. Renew o=
+nline to avoid a fine.
+
+Regards,
+Office of Academic Affairs
+
+--===============2883004012801528850==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Library Book Due</h3>
+    <p>The book 'Clean Code' issued to you is due for return on November 13. =
+Renew online to avoid a fine.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============2883004012801528850==--
+
+--===============0035074680774489678==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============0035074680774489678==--

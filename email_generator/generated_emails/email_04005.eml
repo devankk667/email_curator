@@ -1,0 +1,44 @@
+From: Instagram <instagram76@facebookmail.com>
+To: you@myinbox.com
+Subject: Priya Lopez tagged you in a photo
+Date: Sat, 21 Feb 2026 06:05:00 -0000
+Message-ID: <ed0c1a0a590d475da95e82b43acd9638@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0531914411356745352=="
+
+--===============0531914411356745352==
+Content-Type: multipart/alternative;
+ boundary="===============2619133212817377972=="
+
+--===============2619133212817377972==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Mei Dubois tagged you in a photo from 'the hackathon kickoff'. Check it out a=
+nd leave a comment!
+
+--===============2619133212817377972==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Priya Lopez tagged you in a photo</h3>
+    <p>Mei Dubois tagged you in a photo from 'the hackathon kickoff'. Check i=
+t out and leave a comment!</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2619133212817377972==--
+
+--===============0531914411356745352==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============0531914411356745352==--

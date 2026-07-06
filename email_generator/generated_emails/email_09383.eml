@@ -1,0 +1,35 @@
+From: Starforge Games <starforge@makemytrip.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Thu, 08 Jan 2026 17:30:00 -0000
+Message-ID: <db5965c5d98847f88cc862ad5e655d07@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2229930241086172294=="
+
+--===============2229930241086172294==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Berlin as of June 13. Read the=
+ advisory: https://meridianair.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============2229930241086172294==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Berlin as of June 13. R=
+ead the advisory: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2229930241086172294==--

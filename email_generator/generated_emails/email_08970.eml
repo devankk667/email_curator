@@ -1,0 +1,48 @@
+From: Fresco Foods <fresco@airindia.com>
+To: you@myinbox.com
+Subject: Travel Insurance Policy Issued
+Date: Wed, 01 Jul 2026 12:20:00 -0000
+Message-ID: <716c326e42974b7ab1fd830e21efb6d4@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2917990473917586215=="
+
+--===============2917990473917586215==
+Content-Type: multipart/alternative;
+ boundary="===============1673275773852947863=="
+
+--===============1673275773852947863==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your travel insurance policy #494490 for the Mumbai trip is now active.
+
+Regards,
+Reservations Desk
+
+--===============1673275773852947863==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Insurance Policy Issued</h3>
+    <p>Your travel insurance policy #494490 for the Mumbai trip is now active=
+.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============1673275773852947863==--
+
+--===============2917990473917586215==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============2917990473917586215==--

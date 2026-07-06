@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Received
+Date: Thu, 15 Jan 2026 08:15:00 -0000
+Message-ID: <bb1b5e3b61eb438990f81c2a8e3691cf@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8258564768935456237=="
+
+--===============8258564768935456237==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the QA Engineer role at Vertex Bank. Our team will =
+review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============8258564768935456237==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the QA Engineer role at Vertex Bank. Our tea=
+m will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============8258564768935456237==--

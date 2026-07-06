@@ -1,0 +1,34 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Property Tax Notice
+Date: Sat, 07 Mar 2026 12:00:00 -0000
+Message-ID: <8c8633c8db6e430e9be821b193ae65ed@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5058462192868192412=="
+
+--===============5058462192868192412==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your property tax of INR 25000 for this fiscal year is due by February 22. Pa=
+y online to avoid penalty.
+
+This is an automated notice.
+
+--===============5058462192868192412==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Property Tax Notice</h3>
+    <p>Your property tax of INR 25000 for this fiscal year is due by February=
+ 22. Pay online to avoid penalty.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============5058462192868192412==--

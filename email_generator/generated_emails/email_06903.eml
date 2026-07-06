@@ -1,0 +1,35 @@
+From: Diego Okafor <diego@campusmail.edu>
+To: you@myinbox.com
+Subject: Scholarship Application Open
+Date: Sat, 06 Jun 2026 09:20:00 -0000
+Message-ID: <b08eec81544d4e9e965a0d2e6df28424@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4800133368951014492=="
+
+--===============4800133368951014492==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Applications for the merit scholarship are open until June 17. Award amount: =
+INR 45000. Apply here: https://portal.university.edu/exams
+
+Thank you,
+Examination Cell
+
+--===============4800133368951014492==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Scholarship Application Open</h3>
+    <p>Applications for the merit scholarship are open until June 17. Award a=
+mount: INR 45000. Apply here: https://portal.university.edu/exams</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============4800133368951014492==--

@@ -1,0 +1,34 @@
+From: Rahul Okafor <rahul@linkedin.com>
+To: you@myinbox.com
+Subject: Recruiter Outreach
+Date: Fri, 26 Jun 2026 09:20:00 -0000
+Message-ID: <282d52e3db244856abcd9c6e143bcc72@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2730404850150023819=="
+
+--===============2730404850150023819==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I'm a recruiter at Cloudscape. We have an exciting Backend Developer open=
+ing in Tokyo - interested? Job link: https://naukri.com/jobs
+
+We look forward to hearing from you.
+
+--===============2730404850150023819==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Recruiter Outreach</h3>
+    <p>Hi, I'm a recruiter at Cloudscape. We have an exciting Backend Develop=
+er opening in Tokyo - interested? Job link: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============2730404850150023819==--

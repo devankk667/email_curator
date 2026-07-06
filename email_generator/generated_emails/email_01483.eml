@@ -1,0 +1,49 @@
+From: Meridian Airlines <meridian@myntra.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Sun, 21 Jun 2026 08:10:00 -0000
+Message-ID: <35d3c0f1cc1d43f6a4d4f2f8a55e3a5c@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3044799661179822296=="
+
+--===============3044799661179822296==
+Content-Type: multipart/alternative;
+ boundary="===============7533882912550230949=="
+
+--===============7533882912550230949==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #5 from PixelWorks has shipped and will arrive by November 10. Tra=
+ck it: https://nimbusretail.com/orders/track
+
+Happy Shopping!
+The Team
+
+--===============7533882912550230949==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #5 from PixelWorks has shipped and will arrive by November =
+10. Track it: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7533882912550230949==--
+
+--===============3044799661179822296==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============3044799661179822296==--

@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape53@makemytrip.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Thu, 04 Jun 2026 19:45:00 -0000
+Message-ID: <ded1485c20d143d28b8f93cf0a179a5d@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7501978558633418111=="
+
+--===============7501978558633418111==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Delhi starts on January 30. Don't forget to check the weather an=
+d pack accordingly.
+
+Safe travels,
+Booking Support Team
+
+--===============7501978558633418111==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Delhi starts on January 30. Don't forget to check the wea=
+ther and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============7501978558633418111==--

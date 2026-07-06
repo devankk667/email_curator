@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@meridianair.com>
+To: you@myinbox.com
+Subject: Boarding Pass Attached
+Date: Fri, 16 Jan 2026 09:30:00 -0000
+Message-ID: <b07c15a4091244e0aa43a0c9a75b5581@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6853345738168948088=="
+
+--===============6853345738168948088==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your boarding pass for the December 22 flight to Singapore is attached to thi=
+s email.
+
+Safe travels,
+Booking Support Team
+
+--===============6853345738168948088==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Boarding Pass Attached</h3>
+    <p>Your boarding pass for the December 22 flight to Singapore is attached=
+ to this email.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============6853345738168948088==--

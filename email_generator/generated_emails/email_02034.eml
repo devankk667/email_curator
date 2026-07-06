@@ -1,0 +1,49 @@
+From: Zynta Corp <zynta@nimbusretail.com>
+To: you@myinbox.com
+Subject: Wishlist Reminder
+Date: Sun, 31 May 2026 10:20:00 -0000
+Message-ID: <b3c77ea0683d47f5959dc0a00863ecbf@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5468497131785628453=="
+
+--===============5468497131785628453==
+Content-Type: multipart/alternative;
+ boundary="===============5626495194492367350=="
+
+--===============5626495194492367350==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Items in your wishlist are still available. Buy now before prices go up on Ju=
+ne 15.
+
+Happy Shopping!
+The Team
+
+--===============5626495194492367350==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Wishlist Reminder</h3>
+    <p>Items in your wishlist are still available. Buy now before prices go u=
+p on June 15.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============5626495194492367350==--
+
+--===============5468497131785628453==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============5468497131785628453==--

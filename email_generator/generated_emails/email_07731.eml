@@ -1,0 +1,34 @@
+From: Isabella Smith <isabella@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Sat, 13 Jun 2026 20:15:00 -0000
+Message-ID: <a13387748e7349318a1591414004a161@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5297695637538334904=="
+
+--===============5297695637538334904==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for QA Engineer at Quanta Labs has moved to the next round. =
+Details: https://naukri.com/jobs
+
+We look forward to hearing from you.
+
+--===============5297695637538334904==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for QA Engineer at Quanta Labs has moved to the next =
+round. Details: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============5297695637538334904==--

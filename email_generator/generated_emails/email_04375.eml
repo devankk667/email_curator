@@ -1,0 +1,34 @@
+From: LinkedIn <linkedin@facebookmail.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Wed, 01 Jul 2026 18:00:00 -0000
+Message-ID: <7f07513adfd74ceea4b3ba2eccd6377a@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1586231781249229300=="
+
+--===============1586231781249229300==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Aisha Dubois: "Hey, are we still meeting on March=
+ 13?"
+
+-- Sent from your notifications
+
+--===============1586231781249229300==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Aisha Dubois: "Hey, are we still meeting o=
+n March 13?"</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============1586231781249229300==--

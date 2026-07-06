@@ -1,0 +1,49 @@
+From: Fernwood Analytics <fernwood@makemytrip.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Thu, 16 Apr 2026 14:45:00 -0000
+Message-ID: <7c3041bde21c4636b2dd83620c383ae7@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7224772015574863439=="
+
+--===============7224772015574863439==
+Content-Type: multipart/alternative;
+ boundary="===============2589806749873685791=="
+
+--===============2589806749873685791==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Berlin Grand Hotel from March 07 to September 14 is confirmed. B=
+ooking ID: 759227.
+
+Safe travels,
+Booking Support Team
+
+--===============2589806749873685791==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Berlin Grand Hotel from March 07 to September 14 is confi=
+rmed. Booking ID: 759227.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============2589806749873685791==--
+
+--===============7224772015574863439==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============7224772015574863439==--

@@ -1,0 +1,48 @@
+From: Orbit Logistics <orbit@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Wed, 07 Jan 2026 11:20:00 -0000
+Message-ID: <ad0a5d1eac6a4c63ac14e8f02693dcc8@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2879253117356342835=="
+
+--===============2879253117356342835==
+Content-Type: multipart/alternative;
+ boundary="===============0373681725153733718=="
+
+--===============0373681725153733718==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your package from PixelWorks was delivered on May 26. Rate your experience.
+
+Happy Shopping!
+The Team
+
+--===============0373681725153733718==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from PixelWorks was delivered on May 26. Rate your experi=
+ence.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============0373681725153733718==--
+
+--===============2879253117356342835==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============2879253117356342835==--

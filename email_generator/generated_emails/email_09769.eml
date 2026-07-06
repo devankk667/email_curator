@@ -1,0 +1,35 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Municipal Election Notice
+Date: Sun, 12 Apr 2026 09:45:00 -0000
+Message-ID: <394cba27d92146d6bd2836eb43ef4231@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4599629520795418492=="
+
+--===============4599629520795418492==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Municipal elections will be held on June 13. Locate your polling booth: https=
+://municipal.gov/elections
+
+Regards,
+Public Services Department
+
+--===============4599629520795418492==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Municipal Election Notice</h3>
+    <p>Municipal elections will be held on June 13. Locate your polling booth=
+: https://municipal.gov/elections</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============4599629520795418492==--

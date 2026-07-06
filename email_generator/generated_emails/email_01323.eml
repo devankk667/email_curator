@@ -1,0 +1,33 @@
+From: Vertex Bank <vertex82@amazon.in>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Wed, 03 Jun 2026 21:30:00 -0000
+Message-ID: <ff257ef3cbcf4faea9658e92da6fceb3@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5755568974556533037=="
+
+--===============5755568974556533037==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 3999. Grab it before it's gone!
+
+Thanks for being a valued customer.
+
+--===============5755568974556533037==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 3999. Grab it before it's=
+ gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5755568974556533037==--

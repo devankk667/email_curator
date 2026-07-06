@@ -1,0 +1,35 @@
+From: Sara Rossi <sara@university.edu>
+To: you@myinbox.com
+Subject: Placement Drive Announcement
+Date: Fri, 26 Jun 2026 08:10:00 -0000
+Message-ID: <ba3730b0035f4362bee5d4b6d09b5c6f@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4823370732755821176=="
+
+--===============4823370732755821176==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Meridian Airlines will be conducting a campus placement drive on November 22 =
+for the role of Data Scientist.
+
+Thank you,
+Examination Cell
+
+--===============4823370732755821176==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Placement Drive Announcement</h3>
+    <p>Meridian Airlines will be conducting a campus placement drive on Novem=
+ber 22 for the role of Data Scientist.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============4823370732755821176==--

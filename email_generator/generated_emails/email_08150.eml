@@ -1,0 +1,35 @@
+From: Yuki Okafor <yuki@greenhouse.io>
+To: you@myinbox.com
+Subject: Onboarding Details
+Date: Sun, 18 Jan 2026 22:30:00 -0000
+Message-ID: <d3850ad4bfd845d69d70d0b3b0f5cbac@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1903247626831462347=="
+
+--===============1903247626831462347==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Welcome to Vertex Bank! Your onboarding for the Software Engineer role begins=
+ on March 18.
+
+Best regards,
+Talent Acquisition Team
+
+--===============1903247626831462347==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Onboarding Details</h3>
+    <p>Welcome to Vertex Bank! Your onboarding for the Software Engineer role=
+ begins on March 18.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============1903247626831462347==--

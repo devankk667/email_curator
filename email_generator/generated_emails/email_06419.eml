@@ -1,0 +1,49 @@
+From: Starforge Games <starforge@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Sat, 11 Apr 2026 14:45:00 -0000
+Message-ID: <1324f610fef54d3ca7541740e077f82b@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5746087668656353954=="
+
+--===============5746087668656353954==
+Content-Type: multipart/alternative;
+ boundary="===============6313361400207332222=="
+
+--===============6313361400207332222==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 1499 was debited from your account ending 4821 on October 16 at Brightlin=
+e Media.
+
+Regards,
+Customer Service Team
+
+--===============6313361400207332222==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 1499 was debited from your account ending 4821 on October 16 at Br=
+ightline Media.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6313361400207332222==--
+
+--===============5746087668656353954==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============5746087668656353954==--

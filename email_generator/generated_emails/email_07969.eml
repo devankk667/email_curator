@@ -1,0 +1,35 @@
+From: Sara Costa <sara@linkedin.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Mon, 02 Feb 2026 10:45:00 -0000
+Message-ID: <9cdd0fcc924c4873b6b70798e559dca2@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8897746926680064022=="
+
+--===============8897746926680064022==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: Data Scientist at Vertex Bank, Si=
+ngapore. Apply now: https://naukri.com/jobs
+
+Best regards,
+Talent Acquisition Team
+
+--===============8897746926680064022==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: Data Scientist at Vertex B=
+ank, Singapore. Apply now: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============8897746926680064022==--

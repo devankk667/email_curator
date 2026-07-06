@@ -1,0 +1,35 @@
+From: Wei Okafor <wei@naukri.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Tue, 06 Jan 2026 06:10:00 -0000
+Message-ID: <703d587dfd024e178bf0ab1bead0c285@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6213148379868352372=="
+
+--===============6213148379868352372==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Business Analyst role at Quanta Labs. Our team =
+will review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============6213148379868352372==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Business Analyst role at Quanta Labs. Ou=
+r team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============6213148379868352372==--

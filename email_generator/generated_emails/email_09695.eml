@@ -1,0 +1,34 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Jury Duty Summons
+Date: Thu, 05 Feb 2026 22:00:00 -0000
+Message-ID: <94ca406bee9a4b9098b5ca3975fe282e@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3766421779972329202=="
+
+--===============3766421779972329202==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have been summoned for jury duty on April 23. Report to the courthouse by=
+ 9 AM.
+
+This is an automated notice.
+
+--===============3766421779972329202==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Jury Duty Summons</h3>
+    <p>You have been summoned for jury duty on April 23. Report to the courth=
+ouse by 9 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============3766421779972329202==--

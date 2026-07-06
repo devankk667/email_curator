@@ -1,0 +1,46 @@
+From: Nimbus Retail <nimbus@payflow.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Sun, 19 Apr 2026 17:20:00 -0000
+Message-ID: <e8a2d594277443cd8478d927769bbd49@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3065136505884188756=="
+
+--===============3065136505884188756==
+Content-Type: multipart/alternative;
+ boundary="===============2663479131541739796=="
+
+--===============2663479131541739796==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 3999 for Personal Loan #6 is due on January 13.
+
+Thank you for banking with us.
+
+--===============2663479131541739796==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 3999 for Personal Loan #6 is due on January 13.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============2663479131541739796==--
+
+--===============3065136505884188756==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============3065136505884188756==--

@@ -1,0 +1,34 @@
+From: Fresco Foods <fresco@payflow.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Sat, 17 Jan 2026 13:15:00 -0000
+Message-ID: <22397577f710461aa493142d5db78e4d@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5892818060467151133=="
+
+--===============5892818060467151133==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Ap=
+ril 21 to avoid penalties.
+
+Thank you for banking with us.
+
+--===============5892818060467151133==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore April 21 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============5892818060467151133==--

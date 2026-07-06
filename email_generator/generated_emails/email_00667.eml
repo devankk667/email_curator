@@ -1,0 +1,34 @@
+From: Fresco Foods <fresco@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Wed, 24 Jun 2026 21:15:00 -0000
+Message-ID: <5907e11109774039b92e89a230b121f3@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4855870372754432525=="
+
+--===============4855870372754432525==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #4 from Vertex Bank is delayed and will now arrive by July 27 inst=
+ead of April 06. Track: https://myntra.com/orders
+
+Thanks for being a valued customer.
+
+--===============4855870372754432525==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #4 from Vertex Bank is delayed and will now arrive by July =
+27 instead of April 06. Track: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4855870372754432525==--

@@ -1,0 +1,34 @@
+From: Meridian Airlines <meridian@amazon.in>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Thu, 04 Jun 2026 13:00:00 -0000
+Message-ID: <c7243c88387942fba97cac5bc2d60bdf@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2737714022259440555=="
+
+--===============2737714022259440555==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #5 from Fernwood Analytics is delayed and will now arrive by Febru=
+ary 27 instead of March 01. Track: https://myntra.com/orders
+
+Thanks for being a valued customer.
+
+--===============2737714022259440555==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #5 from Fernwood Analytics is delayed and will now arrive b=
+y February 27 instead of March 01. Track: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2737714022259440555==--

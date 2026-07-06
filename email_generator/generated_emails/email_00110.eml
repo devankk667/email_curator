@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@nimbusretail.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Sat, 09 May 2026 10:05:00 -0000
+Message-ID: <d9c5ed4e99d54571b7ec660af78ac596@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1321663508282895253=="
+
+--===============1321663508282895253==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #4 has been received. Refund of INR 199 will be process=
+ed by October 20. Details: https://flipkart.com/returns
+
+Happy Shopping!
+The Team
+
+--===============1321663508282895253==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #4 has been received. Refund of INR 199 will be =
+processed by October 20. Details: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1321663508282895253==--

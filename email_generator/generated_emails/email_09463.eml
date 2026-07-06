@@ -1,0 +1,35 @@
+From: Coral Health <coral4@meridianair.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Fri, 08 May 2026 19:15:00 -0000
+Message-ID: <699605c38ff24f4394349a62fe13ed6d@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2791673736536449366=="
+
+--===============2791673736536449366==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Paris has been rescheduled to August 19. Please che=
+ck your booking.
+
+Regards,
+Reservations Desk
+
+--===============2791673736536449366==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Paris has been rescheduled to August 19. Ple=
+ase check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2791673736536449366==--

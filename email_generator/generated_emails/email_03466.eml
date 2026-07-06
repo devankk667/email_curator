@@ -1,0 +1,47 @@
+From: Carlos Nguyen <carlos@luckywin-prize.com>
+To: you@myinbox.com
+Subject: Lottery Winner Notification
+Date: Sat, 24 Jan 2026 10:45:00 -0000
+Message-ID: <d2bb383000cc49199dc05d6a54041e1f@luckywin-prize.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8148202187901480504=="
+
+--===============8148202187901480504==
+Content-Type: multipart/alternative;
+ boundary="===============7681861419350714044=="
+
+--===============7681861419350714044==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your email was randomly selected in the International Lottery. Prize: $45000.=
+ Reply to claim.
+
+Don't miss this one-time opportunity!
+
+--===============7681861419350714044==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Lottery Winner Notification</h3>
+    <p>Your email was randomly selected in the International Lottery. Prize: =
+$45000. Reply to claim.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============7681861419350714044==--
+
+--===============8148202187901480504==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============8148202187901480504==--

@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex@amazon.in>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Fri, 17 Apr 2026 13:20:00 -0000
+Message-ID: <be57d0cc62344debb236d7cba32f566c@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5131251971184449220=="
+
+--===============5131251971184449220==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #3 from Brightline Media has shipped and will arrive by October 18=
+. Track it: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============5131251971184449220==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #3 from Brightline Media has shipped and will arrive by Oct=
+ober 18. Track it: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============5131251971184449220==--

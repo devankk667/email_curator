@@ -1,0 +1,36 @@
+From: Meridian Airlines <meridian@vertexbank.com>
+To: you@myinbox.com
+Subject: Credit Card Statement Generated
+Date: Mon, 23 Mar 2026 11:20:00 -0000
+Message-ID: <a8a85b45500c499188565bcbbe5430b2@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4643872084949069378=="
+
+--===============4643872084949069378==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your credit card statement for the period ending April 20 is ready.
+Total due: INR 12000.
+Minimum due: INR 12000.
+
+Regards,
+Customer Service Team
+
+--===============4643872084949069378==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Credit Card Statement Generated</h3>
+    <p>Your credit card statement for the period ending April 20 is ready.</p=
+><p>Total due: INR 12000.</p><p>Minimum due: INR 12000.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============4643872084949069378==--

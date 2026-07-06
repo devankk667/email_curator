@@ -1,0 +1,34 @@
+From: Orbit Logistics <orbit@vertexbank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Fri, 22 May 2026 18:20:00 -0000
+Message-ID: <119114d78b45413e8ffb90c461c593b2@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1480450010282799514=="
+
+--===============1480450010282799514==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+INR 999 was debited from your account ending 4821 on January 26 at Cloudscape.
+
+Regards,
+Customer Service Team
+
+--===============1480450010282799514==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 999 was debited from your account ending 4821 on January 26 at Clo=
+udscape.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1480450010282799514==--

@@ -1,0 +1,48 @@
+From: Aisha Reddy <aisha@linkedin.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Sat, 14 Mar 2026 21:20:00 -0000
+Message-ID: <9b56def5415b468aa76091869df2554e@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3536618050211235354=="
+
+--===============3536618050211235354==
+Content-Type: multipart/alternative;
+ boundary="===============6614812908334778715=="
+
+--===============6614812908334778715==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for ML Engineer at Zynta Corp has moved to the next round. D=
+etails: https://naukri.com/jobs
+
+Best regards,
+Talent Acquisition Team
+
+--===============6614812908334778715==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for ML Engineer at Zynta Corp has moved to the next r=
+ound. Details: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============6614812908334778715==--
+
+--===============3536618050211235354==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============3536618050211235354==--

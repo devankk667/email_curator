@@ -1,0 +1,34 @@
+From: Diego Silva <diego@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Final Notice: Unusual Login Detected
+Date: Fri, 27 Feb 2026 08:30:00 -0000
+Message-ID: <8eacb098061d4250ad32001e970b7ecf@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5735345364168935897=="
+
+--===============5735345364168935897==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+We detected a login from Toronto. Confirm it was you or your account will be =
+locked: https://cashbonus.xyz/claim
+
+Act now, offer expires soon!
+
+--===============5735345364168935897==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Final Notice: Unusual Login Detected</h3>
+    <p>We detected a login from Toronto. Confirm it was you or your account w=
+ill be locked: https://cashbonus.xyz/claim</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============5735345364168935897==--

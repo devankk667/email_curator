@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian@airindia.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Tue, 17 Mar 2026 07:00:00 -0000
+Message-ID: <6e65432a42da4a0a8240cc7f4f2348d4@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2316600928625276629=="
+
+--===============2316600928625276629==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to Singapore on May 20 is now open. Check in =
+here: https://bookings.com/reservations
+
+Regards,
+Reservations Desk
+
+--===============2316600928625276629==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to Singapore on May 20 is now open. Ch=
+eck in here: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2316600928625276629==--

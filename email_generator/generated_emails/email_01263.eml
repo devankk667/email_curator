@@ -1,0 +1,33 @@
+From: Fresco Foods <fresco@nimbusretail.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Fri, 01 May 2026 07:30:00 -0000
+Message-ID: <635ada06fd1f47eebb6e040e1d5fa18e@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4377110756585793789=="
+
+--===============4377110756585793789==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Coral Health membership renews on September 28 for INR 499.
+
+Happy Shopping!
+The Team
+
+--===============4377110756585793789==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Coral Health membership renews on September 28 for INR 499.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============4377110756585793789==--

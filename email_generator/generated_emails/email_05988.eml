@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Mon, 16 Mar 2026 15:05:00 -0000
+Message-ID: <220400031db6496ca25a24f4cda8ce09@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5331213587647267801=="
+
+--===============5331213587647267801==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 25000 matured on December 26. Choose to renew or wi=
+thdraw.
+
+Regards,
+Customer Service Team
+
+--===============5331213587647267801==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 25000 matured on December 26. Choose to rene=
+w or withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5331213587647267801==--

@@ -1,0 +1,34 @@
+From: Fresco Foods <fresco@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Sat, 06 Jun 2026 11:05:00 -0000
+Message-ID: <6fadd5f3b5ad489a9893d2baf48981ab@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5770923074657265366=="
+
+--===============5770923074657265366==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for Business Analyst at Anchorpoint Realty has moved to the =
+next round. Details: www.linkedin.com/jobs/view
+
+We look forward to hearing from you.
+
+--===============5770923074657265366==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for Business Analyst at Anchorpoint Realty has moved =
+to the next round. Details: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============5770923074657265366==--

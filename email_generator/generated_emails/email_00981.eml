@@ -1,0 +1,35 @@
+From: Starforge Games <starforge@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Sat, 20 Jun 2026 12:20:00 -0000
+Message-ID: <0b2fe0581b18428d89a125012ac35a23@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5854686615125655808=="
+
+--===============5854686615125655808==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #2 from Coral Health is delayed and will now arrive by December 16=
+ instead of May 29. Track: https://nimbusretail.com/orders/track
+
+Happy Shopping!
+The Team
+
+--===============5854686615125655808==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #2 from Coral Health is delayed and will now arrive by Dece=
+mber 16 instead of May 29. Track: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============5854686615125655808==--

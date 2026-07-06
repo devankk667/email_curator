@@ -1,0 +1,34 @@
+From: Wei Novak <wei@university.edu>
+To: you@myinbox.com
+Subject: Hostel Fee Due
+Date: Wed, 25 Mar 2026 22:15:00 -0000
+Message-ID: <f0cabfbca744479896a39e7a86d7cf8a@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7090445535601877041=="
+
+--===============7090445535601877041==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your hostel fee of INR 25000 is due by August 29. Pay via the accounts office.
+
+Regards,
+Office of Academic Affairs
+
+--===============7090445535601877041==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hostel Fee Due</h3>
+    <p>Your hostel fee of INR 25000 is due by August 29. Pay via the accounts=
+ office.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============7090445535601877041==--

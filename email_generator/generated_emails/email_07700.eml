@@ -1,0 +1,35 @@
+From: Arjun Lopez <arjun@college.ac.in>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Mon, 13 Apr 2026 17:30:00 -0000
+Message-ID: <215e17c82c2a4d4fa88722bfe5b46440@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6910377816419826492=="
+
+--===============6910377816419826492==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Data Structures lecture originally on August 12 has been moved to May 20,=
+ Room 111.
+
+Regards,
+Office of Academic Affairs
+
+--===============6910377816419826492==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Data Structures lecture originally on August 12 has been moved to =
+May 20, Room 111.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============6910377816419826492==--

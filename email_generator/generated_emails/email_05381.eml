@@ -1,0 +1,29 @@
+From: Isabella Fischer <isabella@meetup.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Thu, 23 Apr 2026 09:00:00 -0000
+Message-ID: <4bc823d2b4084cf59edcb5018edb4dd2@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7883785203309211195=="
+
+--===============7883785203309211195==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Meera Sharma invited you to join the group 'the hackathon kickoff'.
+
+--===============7883785203309211195==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Meera Sharma invited you to join the group 'the hackathon kickoff'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============7883785203309211195==--

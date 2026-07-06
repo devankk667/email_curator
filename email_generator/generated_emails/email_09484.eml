@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex@makemytrip.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Fri, 03 Apr 2026 22:30:00 -0000
+Message-ID: <4948bde3baae4441a2b1ca5b2b9491b9@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6262796535589705627=="
+
+--===============6262796535589705627==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to Dubai on March 23 is now open. Check in he=
+re: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============6262796535589705627==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to Dubai on March 23 is now open. Chec=
+k in here: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============6262796535589705627==--

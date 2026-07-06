@@ -1,0 +1,31 @@
+From: Meera Rossi <meera66@instagram.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Tue, 09 Jun 2026 11:30:00 -0000
+Message-ID: <1fde1d33016d4f65a6fe3095735f4b81@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4319458822358376924=="
+
+--===============4319458822358376924==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to Sarah's housewarming on March 30. RSVP now to let the host =
+know you're coming.
+
+--===============4319458822358376924==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to Sarah's housewarming on March 30. RSVP now to let th=
+e host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4319458822358376924==--

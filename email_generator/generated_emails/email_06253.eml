@@ -1,0 +1,34 @@
+From: Cloudscape <cloudscape@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Tue, 10 Feb 2026 16:10:00 -0000
+Message-ID: <d779fa5174044ae9a1f329d9ebd072e8@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3844089040641750939=="
+
+--===============3844089040641750939==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 999 matured on April 20. Choose to renew or withdra=
+w.
+
+Thank you for banking with us.
+
+--===============3844089040641750939==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 999 matured on April 20. Choose to renew or =
+withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3844089040641750939==--

@@ -1,0 +1,35 @@
+From: Starforge Games <starforge@greenhouse.io>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Sat, 31 Jan 2026 14:00:00 -0000
+Message-ID: <b6b629f078d741a784cd7c1b3cd9a616@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6405726241456195851=="
+
+--===============6405726241456195851==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: UX Designer at Quanta Labs, Toron=
+to. Apply now: https://workday.com/candidate
+
+Best regards,
+Talent Acquisition Team
+
+--===============6405726241456195851==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: UX Designer at Quanta Labs=
+, Toronto. Apply now: https://workday.com/candidate</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============6405726241456195851==--

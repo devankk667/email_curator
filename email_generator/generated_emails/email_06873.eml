@@ -1,0 +1,49 @@
+From: Lucas Patel <lucas@university.edu>
+To: you@myinbox.com
+Subject: Fee Payment Reminder
+Date: Tue, 31 Mar 2026 13:10:00 -0000
+Message-ID: <ea35eb89c6f54ccfacc74f3b731dd04d@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1256587110432539525=="
+
+--===============1256587110432539525==
+Content-Type: multipart/alternative;
+ boundary="===============5304972381846005968=="
+
+--===============5304972381846005968==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your semester fee of INR 7500 is due by July 21.
+Pay online via the student portal to avoid late charges.
+
+Regards,
+Office of Academic Affairs
+
+--===============5304972381846005968==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fee Payment Reminder</h3>
+    <p>Your semester fee of INR 7500 is due by July 21.</p><p>Pay online via =
+the student portal to avoid late charges.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============5304972381846005968==--
+
+--===============1256587110432539525==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============1256587110432539525==--

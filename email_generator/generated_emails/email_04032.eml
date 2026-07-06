@@ -1,0 +1,44 @@
+From: Meetup <meetup69@instagram.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Thu, 04 Jun 2026 15:30:00 -0000
+Message-ID: <e0df172819984afdb363d5a9432e9c16@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3036299161398023214=="
+
+--===============3036299161398023214==
+Content-Type: multipart/alternative;
+ boundary="===============5214451410493539171=="
+
+--===============5214451410493539171==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Ananya Rossi: "Hey, are we still meeting on Septe=
+mber 12?"
+
+--===============5214451410493539171==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Ananya Rossi: "Hey, are we still meeting o=
+n September 12?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============5214451410493539171==--
+
+--===============3036299161398023214==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============3036299161398023214==--

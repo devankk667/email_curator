@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood@myntra.com>
+To: you@myinbox.com
+Subject: Wishlist Reminder
+Date: Tue, 20 Jan 2026 12:20:00 -0000
+Message-ID: <158ada5304f74c80b6b51385a845b566@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8958974263542910528=="
+
+--===============8958974263542910528==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Items in your wishlist are still available. Buy now before prices go up on Ju=
+ne 14.
+
+Happy Shopping!
+The Team
+
+--===============8958974263542910528==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Wishlist Reminder</h3>
+    <p>Items in your wishlist are still available. Buy now before prices go u=
+p on June 14.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============8958974263542910528==--

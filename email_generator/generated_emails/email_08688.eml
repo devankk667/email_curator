@@ -1,0 +1,35 @@
+From: Diego Patel <diego@workday.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Mon, 19 Jan 2026 20:00:00 -0000
+Message-ID: <c78798d33c6c46e1984200a0d218dda1@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3386733945160994039=="
+
+--===============3386733945160994039==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for Business Analyst at Fresco Foods has moved to the next r=
+ound. Details: www.linkedin.com/jobs/view
+
+Best regards,
+Talent Acquisition Team
+
+--===============3386733945160994039==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for Business Analyst at Fresco Foods has moved to the=
+ next round. Details: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============3386733945160994039==--

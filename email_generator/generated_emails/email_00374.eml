@@ -1,0 +1,32 @@
+From: Meridian Airlines <meridian@flipkart.com>
+To: you@myinbox.com
+Subject: Flash Sale - 4 Hours Only
+Date: Tue, 24 Feb 2026 07:15:00 -0000
+Message-ID: <7dc91b25905a4f12937c65e663e1ea34@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8369844623451318432=="
+
+--===============8369844623451318432==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Flash sale live now at PixelWorks! Extra 5.5% off, ends January 07.
+
+Thanks for being a valued customer.
+
+--===============8369844623451318432==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flash Sale - 4 Hours Only</h3>
+    <p>Flash sale live now at PixelWorks! Extra 5.5% off, ends January 07.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8369844623451318432==--

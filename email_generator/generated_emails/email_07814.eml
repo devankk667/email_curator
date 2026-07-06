@@ -1,0 +1,35 @@
+From: Wei Tanaka <wei@linkedin.com>
+To: you@myinbox.com
+Subject: Onboarding Details
+Date: Wed, 27 May 2026 21:15:00 -0000
+Message-ID: <2fd6832048614b669821384d7e033f08@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0413174987978880128=="
+
+--===============0413174987978880128==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Welcome to Nimbus Retail! Your onboarding for the QA Engineer role begins on =
+April 10.
+
+Best regards,
+Talent Acquisition Team
+
+--===============0413174987978880128==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Onboarding Details</h3>
+    <p>Welcome to Nimbus Retail! Your onboarding for the QA Engineer role beg=
+ins on April 10.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============0413174987978880128==--

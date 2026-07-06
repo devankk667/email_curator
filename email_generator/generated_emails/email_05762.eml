@@ -1,0 +1,34 @@
+From: PixelWorks <pixelworks@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Sat, 27 Jun 2026 16:45:00 -0000
+Message-ID: <07d346827a9b4d3dad5f39b1f5500af8@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3523498502936729822=="
+
+--===============3523498502936729822==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your quarterly investment report is ready. Net change: 20.1% as of March 09.
+
+Regards,
+Customer Service Team
+
+--===============3523498502936729822==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 20.1% as of Mar=
+ch 09.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3523498502936729822==--

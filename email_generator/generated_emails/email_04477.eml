@@ -1,0 +1,29 @@
+From: Elena Chen <elena@facebookmail.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Sun, 14 Jun 2026 21:00:00 -0000
+Message-ID: <f971dc3d3e0d42c885a445cf0b799f81@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6336852374262542287=="
+
+--===============6336852374262542287==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Elena Kim invited you to join the group 'the team offsite'.
+
+--===============6336852374262542287==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Elena Kim invited you to join the group 'the team offsite'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6336852374262542287==--

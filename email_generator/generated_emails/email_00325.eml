@@ -1,0 +1,48 @@
+From: Fresco Foods <fresco22@nimbusretail.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Tue, 23 Jun 2026 09:00:00 -0000
+Message-ID: <767af71dbea64536a4b01241a9e134d0@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9034700654096368498=="
+
+--===============9034700654096368498==
+Content-Type: multipart/alternative;
+ boundary="===============7610825630290791453=="
+
+--===============7610825630290791453==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #4 has been received. Refund of INR 1499 will be proces=
+sed by May 15. Details: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============7610825630290791453==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #4 has been received. Refund of INR 1499 will be=
+ processed by May 15. Details: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7610825630290791453==--
+
+--===============9034700654096368498==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============9034700654096368498==--

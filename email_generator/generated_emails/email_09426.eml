@@ -1,0 +1,48 @@
+From: Meridian Airlines <meridian89@makemytrip.com>
+To: you@myinbox.com
+Subject: Travel Insurance Policy Issued
+Date: Tue, 16 Jun 2026 22:15:00 -0000
+Message-ID: <d2815a817ec94d189f7c8563b35a2e8e@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1053648428590916402=="
+
+--===============1053648428590916402==
+Content-Type: multipart/alternative;
+ boundary="===============7501837171679611056=="
+
+--===============7501837171679611056==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your travel insurance policy #805132 for the Chennai trip is now active.
+
+Safe travels,
+Booking Support Team
+
+--===============7501837171679611056==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Insurance Policy Issued</h3>
+    <p>Your travel insurance policy #805132 for the Chennai trip is now activ=
+e.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============7501837171679611056==--
+
+--===============1053648428590916402==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============1053648428590916402==--

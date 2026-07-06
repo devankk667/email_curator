@@ -1,0 +1,35 @@
+From: Elena Silva <elena29@workday.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Thu, 22 Jan 2026 07:05:00 -0000
+Message-ID: <2d627122b3f54b5f92f0e6be7585bc85@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4165098047828982767=="
+
+--===============4165098047828982767==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Software Engineer role at Vertex Bank. Our team=
+ will review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============4165098047828982767==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Software Engineer role at Vertex Bank. O=
+ur team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============4165098047828982767==--

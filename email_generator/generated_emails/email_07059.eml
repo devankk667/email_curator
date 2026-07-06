@@ -1,0 +1,35 @@
+From: Diego Costa <diego@university.edu>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Thu, 14 May 2026 12:20:00 -0000
+Message-ID: <1cf4b47fcfb54ba2ba489b6207ecc1f3@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5964678048170877179=="
+
+--===============5964678048170877179==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Cybersecurity will be held on April 02 at 4 PM in the Semi=
+nar Hall.
+
+Regards,
+Office of Academic Affairs
+
+--===============5964678048170877179==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Cybersecurity will be held on April 02 at 4 PM in t=
+he Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============5964678048170877179==--

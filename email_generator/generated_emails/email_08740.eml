@@ -1,0 +1,33 @@
+From: Cloudscape <cloudscape@meridianair.com>
+To: you@myinbox.com
+Subject: Loyalty Points Credited
+Date: Tue, 19 May 2026 19:20:00 -0000
+Message-ID: <a89b028622fb441e82e299e32d482620@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3909027541369615867=="
+
+--===============3909027541369615867==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You've earned 300 loyalty points for your recent trip to Amsterdam.
+
+Safe travels,
+Booking Support Team
+
+--===============3909027541369615867==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loyalty Points Credited</h3>
+    <p>You've earned 300 loyalty points for your recent trip to Amsterdam.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============3909027541369615867==--

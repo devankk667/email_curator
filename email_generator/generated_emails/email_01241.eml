@@ -1,0 +1,34 @@
+From: Cloudscape <cloudscape35@amazon.in>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Thu, 26 Feb 2026 14:45:00 -0000
+Message-ID: <fc9a6820b06048e68126feb150e7bd2a@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8453303424845514449=="
+
+--===============8453303424845514449==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #7 from PixelWorks has shipped and will arrive by April 23. Track =
+it: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============8453303424845514449==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #7 from PixelWorks has shipped and will arrive by April 23.=
+ Track it: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8453303424845514449==--

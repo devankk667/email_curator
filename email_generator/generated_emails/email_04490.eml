@@ -1,0 +1,34 @@
+From: Yuki Lopez <yuki@meetup.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Sun, 26 Apr 2026 12:20:00 -0000
+Message-ID: <e364001d29e4465dbb4495967d5eba19@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3034125116765706865=="
+
+--===============3034125116765706865==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Liam Patel's birthday on September 26! Send them a message to make their=
+ day.
+
+-- Sent from your notifications
+
+--===============3034125116765706865==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Liam Patel's birthday on September 26! Send them a message to mak=
+e their day.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============3034125116765706865==--

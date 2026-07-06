@@ -1,0 +1,35 @@
+From: Brightline Media <brightline@bookings.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Fri, 13 Feb 2026 20:15:00 -0000
+Message-ID: <fe27b1471e7a4618814cf9db5f46c9eb@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5686980253487214628=="
+
+--===============5686980253487214628==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 3999 for the cancelled New York trip has been processed. D=
+etails: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============5686980253487214628==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 3999 for the cancelled New York trip has been proce=
+ssed. Details: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============5686980253487214628==--

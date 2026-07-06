@@ -1,0 +1,35 @@
+From: Ananya Novak <ananya@college.ac.in>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Sat, 02 May 2026 15:45:00 -0000
+Message-ID: <90a2da9dd76240d08108e4150711b860@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9053228909587670706=="
+
+--===============9053228909587670706==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Database Systems lecture originally on April 23 has been moved to Septemb=
+er 25, Room 200.
+
+Regards,
+Office of Academic Affairs
+
+--===============9053228909587670706==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Database Systems lecture originally on April 23 has been moved to =
+September 25, Room 200.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============9053228909587670706==--

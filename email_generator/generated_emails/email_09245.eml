@@ -1,0 +1,49 @@
+From: Fresco Foods <fresco@meridianair.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Mon, 25 May 2026 22:20:00 -0000
+Message-ID: <c30b52123a074c7d9202490e63a28ec1@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6111901011358218474=="
+
+--===============6111901011358218474==
+Content-Type: multipart/alternative;
+ boundary="===============2061042448426995697=="
+
+--===============2061042448426995697==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Paris has been rescheduled to May 17. Please check =
+your booking.
+
+Safe travels,
+Booking Support Team
+
+--===============2061042448426995697==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Paris has been rescheduled to May 17. Please=
+ check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============2061042448426995697==--
+
+--===============6111901011358218474==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============6111901011358218474==--

@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks91@myntra.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Fri, 30 Jan 2026 20:05:00 -0000
+Message-ID: <f65552cf16eb43f2a06735cdad5d7416@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7990054946227792458=="
+
+--===============7990054946227792458==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Vertex Bank was delivered on September 02. Rate your experi=
+ence.
+
+Happy Shopping!
+The Team
+
+--===============7990054946227792458==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Vertex Bank was delivered on September 02. Rate your=
+ experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7990054946227792458==--

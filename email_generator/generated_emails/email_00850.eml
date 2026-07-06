@@ -1,0 +1,36 @@
+From: Orbit Logistics <orbit19@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Thu, 02 Apr 2026 07:00:00 -0000
+Message-ID: <25fc363367cd4481ac53f681aff903d1@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7277776663398376874=="
+
+--===============7277776663398376874==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #9 from Fernwood Analytics is delayed and will now arrive by April=
+ 12 instead of January 29. Track: https://nimbusretail.com/orders/track
+
+Happy Shopping!
+The Team
+
+--===============7277776663398376874==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #9 from Fernwood Analytics is delayed and will now arrive b=
+y April 12 instead of January 29. Track: https://nimbusretail.com/orders/trac=
+k</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7277776663398376874==--

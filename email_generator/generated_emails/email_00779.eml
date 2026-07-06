@@ -1,0 +1,47 @@
+From: Fresco Foods <fresco@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Fri, 06 Mar 2026 17:15:00 -0000
+Message-ID: <4003bc6d4c9f4466a3300219a21539ac@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3175375840889561291=="
+
+--===============3175375840889561291==
+Content-Type: multipart/alternative;
+ boundary="===============4847253225820856009=="
+
+--===============4847253225820856009==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Anchorpoint Realty membership renews on November 25 for INR 1499.
+
+Thanks for being a valued customer.
+
+--===============4847253225820856009==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Anchorpoint Realty membership renews on November 25 for INR 1499.=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4847253225820856009==--
+
+--===============3175375840889561291==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============3175375840889561291==--

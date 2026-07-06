@@ -1,0 +1,49 @@
+From: Cloudscape <cloudscape@bookings.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Wed, 13 May 2026 08:20:00 -0000
+Message-ID: <3b811c6c8e5e4f57a9b9050e089ff088@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5246818613854026850=="
+
+--===============5246818613854026850==
+Content-Type: multipart/alternative;
+ boundary="===============2402385706290328631=="
+
+--===============2402385706290328631==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Mumbai as of July 26. Read the=
+ advisory: https://makemytrip.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============2402385706290328631==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Mumbai as of July 26. R=
+ead the advisory: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2402385706290328631==--
+
+--===============5246818613854026850==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============5246818613854026850==--

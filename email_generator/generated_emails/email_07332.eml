@@ -1,0 +1,35 @@
+From: Omar Khan <omar@university.edu>
+To: you@myinbox.com
+Subject: Scholarship Application Open
+Date: Fri, 24 Apr 2026 11:20:00 -0000
+Message-ID: <47852ad30414437a835c30039ceb4cb4@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2463187908003607469=="
+
+--===============2463187908003607469==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Applications for the merit scholarship are open until September 24. Award amo=
+unt: INR 25000. Apply here: https://college.ac.in/scholarships
+
+Thank you,
+Examination Cell
+
+--===============2463187908003607469==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Scholarship Application Open</h3>
+    <p>Applications for the merit scholarship are open until September 24. Aw=
+ard amount: INR 25000. Apply here: https://college.ac.in/scholarships</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============2463187908003607469==--

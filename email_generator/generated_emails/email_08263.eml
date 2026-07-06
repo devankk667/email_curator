@@ -1,0 +1,35 @@
+From: Diego Novak <diego15@workday.com>
+To: you@myinbox.com
+Subject: Reference Check Request
+Date: Sun, 15 Feb 2026 12:30:00 -0000
+Message-ID: <a08f348e862a4077804235d1546b77f2@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1906436545230220250=="
+
+--===============1906436545230220250==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Vertex Bank would like to contact your references for the Product Manager pos=
+ition. Please confirm by October 24.
+
+Best regards,
+Talent Acquisition Team
+
+--===============1906436545230220250==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Reference Check Request</h3>
+    <p>Vertex Bank would like to contact your references for the Product Mana=
+ger position. Please confirm by October 24.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============1906436545230220250==--

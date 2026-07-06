@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex96@meridianair.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Mon, 12 Jan 2026 16:45:00 -0000
+Message-ID: <a919a69e4c554f4bb87c8b2701d7a839@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3187832517855431352=="
+
+--===============3187832517855431352==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Paris from November 22 to July 21 is confirmed. Booking ID=
+: 746620. Manage booking: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============3187832517855431352==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Paris from November 22 to July 21 is confirmed. Boo=
+king ID: 746620. Manage booking: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============3187832517855431352==--

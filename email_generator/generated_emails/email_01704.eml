@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Mon, 23 Mar 2026 10:20:00 -0000
+Message-ID: <40720a4d072b4f80b8c8f77301ffc7a0@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4632347457852309483=="
+
+--===============4632347457852309483==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #5 from Orbit Logistics has shipped and will arrive by November 10=
+. Track it: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============4632347457852309483==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #5 from Orbit Logistics has shipped and will arrive by Nove=
+mber 10. Track it: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============4632347457852309483==--

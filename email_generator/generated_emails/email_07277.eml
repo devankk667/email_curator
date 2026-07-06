@@ -1,0 +1,35 @@
+From: Noah Nguyen <noah@university.edu>
+To: you@myinbox.com
+Subject: Convocation Notice
+Date: Sat, 21 Mar 2026 12:10:00 -0000
+Message-ID: <af54974ed62d4b469db0ba9b30f75349@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2248431709170794432=="
+
+--===============2248431709170794432==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Convocation ceremony will be held on November 08. Collect your gown by April =
+19.
+
+Thank you,
+Examination Cell
+
+--===============2248431709170794432==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Convocation Notice</h3>
+    <p>Convocation ceremony will be held on November 08. Collect your gown by=
+ April 19.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============2248431709170794432==--

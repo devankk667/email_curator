@@ -1,0 +1,36 @@
+From: Isabella Novak <isabella@university.edu>
+To: you@myinbox.com
+Subject: Machine Learning Exam Schedule
+Date: Sat, 30 May 2026 08:20:00 -0000
+Message-ID: <b28fa0b780f14cb5baae92014c05dbdd@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1592242916430371969=="
+
+--===============1592242916430371969==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Software Engineering exam is on August 25.
+Please submit Assignment 3 before July 11.
+Venue: Room 416, Main Block.
+
+Regards,
+Office of Academic Affairs
+
+--===============1592242916430371969==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Machine Learning Exam Schedule</h3>
+    <p>Software Engineering exam is on August 25.</p><p>Please submit Assignm=
+ent 3 before July 11.</p><p>Venue: Room 416, Main Block.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============1592242916430371969==--

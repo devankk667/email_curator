@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta52@meridianair.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Sat, 21 Mar 2026 13:15:00 -0000
+Message-ID: <6c0d8fa8eeba4f23944140994f9e50f1@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5465569257126151804=="
+
+--===============5465569257126151804==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Tokyo as of October 08. Read t=
+he advisory: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============5465569257126151804==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Tokyo as of October 08.=
+ Read the advisory: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============5465569257126151804==--

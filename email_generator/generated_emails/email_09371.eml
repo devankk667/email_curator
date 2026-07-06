@@ -1,0 +1,33 @@
+From: Starforge Games <starforge98@makemytrip.com>
+To: you@myinbox.com
+Subject: Loyalty Points Credited
+Date: Sun, 05 Apr 2026 16:05:00 -0000
+Message-ID: <741e45d1da964b72adfd0aad754b16bf@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6749686031865886136=="
+
+--===============6749686031865886136==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You've earned 900 loyalty points for your recent trip to Paris.
+
+Regards,
+Reservations Desk
+
+--===============6749686031865886136==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loyalty Points Credited</h3>
+    <p>You've earned 900 loyalty points for your recent trip to Paris.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============6749686031865886136==--

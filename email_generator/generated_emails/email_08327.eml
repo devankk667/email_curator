@@ -1,0 +1,33 @@
+From: Zynta Corp <zynta@greenhouse.io>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Thu, 26 Feb 2026 15:15:00 -0000
+Message-ID: <b8e80fb26bd2413e87d77d632461e74a@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6670140502763938953=="
+
+--===============6670140502763938953==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Liam Lopez starred your repository on GitHub. Keep up the great work!
+
+We look forward to hearing from you.
+
+--===============6670140502763938953==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Liam Lopez starred your repository on GitHub. Keep up the great work!<=
+/p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============6670140502763938953==--

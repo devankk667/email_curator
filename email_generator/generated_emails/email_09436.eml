@@ -1,0 +1,33 @@
+From: Vertex Bank <vertex88@bookings.com>
+To: you@myinbox.com
+Subject: Loyalty Points Credited
+Date: Wed, 03 Jun 2026 22:00:00 -0000
+Message-ID: <90c49e37bd8d4a71b1b26963b39ae063@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8462273189748698990=="
+
+--===============8462273189748698990==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You've earned 400 loyalty points for your recent trip to Mumbai.
+
+Safe travels,
+Booking Support Team
+
+--===============8462273189748698990==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loyalty Points Credited</h3>
+    <p>You've earned 400 loyalty points for your recent trip to Mumbai.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============8462273189748698990==--

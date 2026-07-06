@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Wed, 07 Jan 2026 19:45:00 -0000
+Message-ID: <2ba3a2ce987f454f928e02c568af9bb4@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4653566875166889027=="
+
+--===============4653566875166889027==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your quarterly investment report is ready. Net change: 11.3% as of September =
+07.
+
+Regards,
+Customer Service Team
+
+--===============4653566875166889027==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 11.3% as of Sep=
+tember 07.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============4653566875166889027==--

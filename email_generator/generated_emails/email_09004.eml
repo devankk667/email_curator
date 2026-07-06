@@ -1,0 +1,35 @@
+From: Anchorpoint Realty <anchorpoint@bookings.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Sun, 17 May 2026 13:30:00 -0000
+Message-ID: <348d1c75bcc54c2f878c378972ef790e@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8848354254764318584=="
+
+--===============8848354254764318584==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to Delhi on January 02 is now open. Check in =
+here: https://meridianair.com/checkin
+
+Regards,
+Reservations Desk
+
+--===============8848354254764318584==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to Delhi on January 02 is now open. Ch=
+eck in here: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8848354254764318584==--

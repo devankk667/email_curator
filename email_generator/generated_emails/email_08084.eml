@@ -1,0 +1,35 @@
+From: Yuki Rossi <yuki96@workday.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Wed, 27 May 2026 07:10:00 -0000
+Message-ID: <f7274f70d88744339667d016a5c1c95b@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7989270755667360867=="
+
+--===============7989270755667360867==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for Data Scientist at Vertex Bank has moved to the next roun=
+d. Details: www.linkedin.com/jobs/view
+
+Best regards,
+Talent Acquisition Team
+
+--===============7989270755667360867==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for Data Scientist at Vertex Bank has moved to the ne=
+xt round. Details: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============7989270755667360867==--

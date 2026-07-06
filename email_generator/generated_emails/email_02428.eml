@@ -1,0 +1,34 @@
+From: Omar Fischer <omar@claim-now.biz>
+To: you@myinbox.com
+Subject: Lottery Winner Notification
+Date: Thu, 02 Apr 2026 09:10:00 -0000
+Message-ID: <6e35a8d734a547d8bf0ccb95f8fe8839@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1820491782695968370=="
+
+--===============1820491782695968370==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your email was randomly selected in the International Lottery. Prize: $499. R=
+eply to claim.
+
+Don't miss this one-time opportunity!
+
+--===============1820491782695968370==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Lottery Winner Notification</h3>
+    <p>Your email was randomly selected in the International Lottery. Prize: =
+$499. Reply to claim.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============1820491782695968370==--

@@ -1,0 +1,39 @@
+From: Quanta Labs <quanta@nimbusretail.com>
+To: you@myinbox.com
+Subject: Re: Cart Reminder
+Date: Wed, 13 May 2026 11:10:00 -0000
+Message-ID: <34b1f248af0d41069872d60c2838b17d@nimbusretail.com>
+In-Reply-To: <4494fa463eea43d5a367fa4ce434ab49@nimbusretail.com>
+References: <4494fa463eea43d5a367fa4ce434ab49@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4261115440454360948=="
+
+--===============4261115440454360948==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Got it, will follow up soon.
+
+> You left 3 item(s) in your cart. Complete your purchase and get free shippi=
+ng.
+
+Happy Shopping!
+The Team
+
+--===============4261115440454360948==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>Got it, will follow up soon.</p><p>> You left 3 item(s) in your cart. =
+Complete your purchase and get free shipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============4261115440454360948==--

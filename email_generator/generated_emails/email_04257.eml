@@ -1,0 +1,29 @@
+From: Meera Kim <meera24@instagram.com>
+To: you@myinbox.com
+Subject: Carlos Patel liked your photo
+Date: Sun, 12 Apr 2026 13:05:00 -0000
+Message-ID: <896b2cec729648668dcae8f3dd07a214@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4412559659234130458=="
+
+--===============4412559659234130458==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Ivan Smith and 7 others liked your recent photo.
+
+--===============4412559659234130458==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Carlos Patel liked your photo</h3>
+    <p>Ivan Smith and 7 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4412559659234130458==--

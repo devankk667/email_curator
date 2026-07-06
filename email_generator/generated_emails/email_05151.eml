@@ -1,0 +1,34 @@
+From: Facebook <facebook@facebookmail.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Sun, 10 May 2026 20:45:00 -0000
+Message-ID: <2c91a9f47df64b74aa955a0f018fa1f8@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0076609666715236071=="
+
+--===============0076609666715236071==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Fatima Chen's birthday on September 04! Send them a message to make thei=
+r day.
+
+-- Sent from your notifications
+
+--===============0076609666715236071==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Fatima Chen's birthday on September 04! Send them a message to ma=
+ke their day.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============0076609666715236071==--

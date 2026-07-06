@@ -1,0 +1,35 @@
+From: Liam Reddy <liam28@university.edu>
+To: you@myinbox.com
+Subject: Result Declaration
+Date: Tue, 21 Apr 2026 22:30:00 -0000
+Message-ID: <1b4a58fdab824e14b0167c39478f4c53@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3043566430563985610=="
+
+--===============3043566430563985610==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Results for the Software Engineering mid-semester exam have been published. C=
+heck your grades: https://campusmail.edu/library
+
+Regards,
+Office of Academic Affairs
+
+--===============3043566430563985610==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Result Declaration</h3>
+    <p>Results for the Software Engineering mid-semester exam have been publi=
+shed. Check your grades: https://campusmail.edu/library</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============3043566430563985610==--

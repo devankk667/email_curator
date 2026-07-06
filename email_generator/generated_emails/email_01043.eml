@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta48@myntra.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Mon, 04 May 2026 09:30:00 -0000
+Message-ID: <03a0a949de3b4d61aee4531e218c1a63@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2580458592863803105=="
+
+--===============2580458592863803105==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #2 from Orbit Logistics has shipped and will arrive by May 22. Tra=
+ck it: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============2580458592863803105==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #2 from Orbit Logistics has shipped and will arrive by May =
+22. Track it: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============2580458592863803105==--

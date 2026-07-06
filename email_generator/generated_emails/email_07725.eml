@@ -1,0 +1,33 @@
+From: Fresco Foods <fresco@greenhouse.io>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Sat, 28 Feb 2026 22:00:00 -0000
+Message-ID: <6bddc69363674cf8ad251ee33c5e8ba2@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6890405191191983091=="
+
+--===============6890405191191983091==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Arjun Nguyen starred your repository on GitHub. Keep up the great work!
+
+We look forward to hearing from you.
+
+--===============6890405191191983091==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Arjun Nguyen starred your repository on GitHub. Keep up the great work=
+!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============6890405191191983091==--

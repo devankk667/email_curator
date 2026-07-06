@@ -1,0 +1,42 @@
+From: Facebook <facebook@facebookmail.com>
+To: you@myinbox.com
+Subject: Poke from Kenji Chen
+Date: Thu, 30 Apr 2026 19:45:00 -0000
+Message-ID: <1fd788651b014c4a9dd5871c0a501329@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0947512560701616249=="
+
+--===============0947512560701616249==
+Content-Type: multipart/alternative;
+ boundary="===============7303828421381245808=="
+
+--===============7303828421381245808==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Elena Kim poked you. Poke them back!
+
+--===============7303828421381245808==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Kenji Chen</h3>
+    <p>Elena Kim poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============7303828421381245808==--
+
+--===============0947512560701616249==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============0947512560701616249==--

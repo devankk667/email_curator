@@ -1,0 +1,47 @@
+From: Ivan Nguyen <ivan@linkedin.com>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Wed, 13 May 2026 18:15:00 -0000
+Message-ID: <12a5f579641040f9bfdfa6366d65d2ea@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1964769484998515651=="
+
+--===============1964769484998515651==
+Content-Type: multipart/alternative;
+ boundary="===============0224866550777578200=="
+
+--===============0224866550777578200==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Kenji Silva starred your repository on GitHub. Keep up the great work!
+
+Best regards,
+Talent Acquisition Team
+
+--===============0224866550777578200==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Kenji Silva starred your repository on GitHub. Keep up the great work!=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============0224866550777578200==--
+
+--===============1964769484998515651==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============1964769484998515651==--

@@ -1,0 +1,34 @@
+From: Starforge Games <starforge@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Wed, 29 Apr 2026 21:20:00 -0000
+Message-ID: <71bc1b57c17c4d5085a783266a37b115@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6178617248035789416=="
+
+--===============6178617248035789416==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 4.4% this quarter. View details: http=
+s://payflow.com/dashboard
+
+Thank you for banking with us.
+
+--===============6178617248035789416==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 4.4% this quarter. View detail=
+s: https://payflow.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============6178617248035789416==--

@@ -1,0 +1,47 @@
+From: Carlos Kim <carlos@freegift-alert.net>
+To: you@myinbox.com
+Subject: Lottery Winner Notification
+Date: Wed, 11 Mar 2026 14:30:00 -0000
+Message-ID: <3b12be0e108e4de19181f4461295cfb8@freegift-alert.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2698461351271125338=="
+
+--===============2698461351271125338==
+Content-Type: multipart/alternative;
+ boundary="===============5018896226762173388=="
+
+--===============5018896226762173388==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your email was randomly selected in the International Lottery. Prize: $499. R=
+eply to claim.
+
+Don't miss this one-time opportunity!
+
+--===============5018896226762173388==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Lottery Winner Notification</h3>
+    <p>Your email was randomly selected in the International Lottery. Prize: =
+$499. Reply to claim.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============5018896226762173388==--
+
+--===============2698461351271125338==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============2698461351271125338==--

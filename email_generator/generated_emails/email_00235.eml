@@ -1,0 +1,34 @@
+From: Fernwood Analytics <fernwood@myntra.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Wed, 11 Feb 2026 22:05:00 -0000
+Message-ID: <5af2684298db4a1ea89f08f38cea4cba@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8775982001905625661=="
+
+--===============8775982001905625661==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #1 has been received. Refund of INR 1499 will be proces=
+sed by August 13. Details: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============8775982001905625661==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #1 has been received. Refund of INR 1499 will be=
+ processed by August 13. Details: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8775982001905625661==--

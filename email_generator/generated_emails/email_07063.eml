@@ -1,0 +1,35 @@
+From: Ananya Sharma <ananya@university.edu>
+To: you@myinbox.com
+Subject: Result Declaration
+Date: Wed, 18 Feb 2026 12:05:00 -0000
+Message-ID: <ac3b892bf42849faa6b608b068c30a72@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0614013401065220707=="
+
+--===============0614013401065220707==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Results for the Operating Systems mid-semester exam have been published. Chec=
+k your grades: https://campusmail.edu/library
+
+Thank you,
+Examination Cell
+
+--===============0614013401065220707==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Result Declaration</h3>
+    <p>Results for the Operating Systems mid-semester exam have been publishe=
+d. Check your grades: https://campusmail.edu/library</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============0614013401065220707==--

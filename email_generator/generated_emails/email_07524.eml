@@ -1,0 +1,36 @@
+From: Liam Reddy <liam93@university.edu>
+To: you@myinbox.com
+Subject: Computer Networks Exam Schedule
+Date: Mon, 12 Jan 2026 18:00:00 -0000
+Message-ID: <f61da2d0022a484bac4f57067282b3d2@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5457080401256459805=="
+
+--===============5457080401256459805==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Linear Algebra exam is on September 16.
+Please submit Assignment 5 before June 01.
+Venue: Room 313, Main Block.
+
+Thank you,
+Examination Cell
+
+--===============5457080401256459805==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Computer Networks Exam Schedule</h3>
+    <p>Linear Algebra exam is on September 16.</p><p>Please submit Assignment=
+ 5 before June 01.</p><p>Venue: Room 313, Main Block.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============5457080401256459805==--

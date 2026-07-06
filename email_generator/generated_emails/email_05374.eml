@@ -1,0 +1,47 @@
+From: LinkedIn <linkedin97@instagram.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Sat, 14 Mar 2026 13:05:00 -0000
+Message-ID: <80b691a04e97439aa9e613b3e79e4349@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0064725963162852345=="
+
+--===============0064725963162852345==
+Content-Type: multipart/alternative;
+ boundary="===============1499863064856254414=="
+
+--===============1499863064856254414==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the birthday party on December 27. RSVP now to let the host=
+ know you're coming.
+
+-- Sent from your notifications
+
+--===============1499863064856254414==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the birthday party on December 27. RSVP now to let t=
+he host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============1499863064856254414==--
+
+--===============0064725963162852345==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============0064725963162852345==--

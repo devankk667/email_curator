@@ -1,0 +1,44 @@
+From: Mei Patel <mei@linkedin.com>
+To: you@myinbox.com
+Subject: New Follower
+Date: Wed, 03 Jun 2026 19:15:00 -0000
+Message-ID: <bf107b5c2a9e4fe5ac5f2280da58a67e@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6446006626302624732=="
+
+--===============6446006626302624732==
+Content-Type: multipart/alternative;
+ boundary="===============8586818050491372538=="
+
+--===============8586818050491372538==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Kenji Sharma started following you. See their profile: https://meetup.com/gro=
+ups
+
+--===============8586818050491372538==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Follower</h3>
+    <p>Kenji Sharma started following you. See their profile: https://meetup.=
+com/groups</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8586818050491372538==--
+
+--===============6446006626302624732==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============6446006626302624732==--

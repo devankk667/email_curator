@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Sun, 31 May 2026 08:00:00 -0000
+Message-ID: <6a17c108ce374a2d903d4a3d01ad3111@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6891400023342951792=="
+
+--===============6891400023342951792==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 1499 is due on March 31. Pay now to keep your poli=
+cy active.
+
+Regards,
+Customer Service Team
+
+--===============6891400023342951792==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 1499 is due on March 31. Pay now to keep yo=
+ur policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6891400023342951792==--

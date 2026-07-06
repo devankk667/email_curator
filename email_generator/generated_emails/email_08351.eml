@@ -1,0 +1,48 @@
+From: Sara Sharma <sara@greenhouse.io>
+To: you@myinbox.com
+Subject: Salary Negotiation Follow-up
+Date: Sat, 14 Feb 2026 17:05:00 -0000
+Message-ID: <e16b33a946ee4356961ed59dbbabec07@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1651200943144055998=="
+
+--===============1651200943144055998==
+Content-Type: multipart/alternative;
+ boundary="===============2728770379672792065=="
+
+--===============2728770379672792065==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Following up on our conversation regarding the Data Scientist offer. Let's fi=
+nalize by June 27.
+
+Best regards,
+Talent Acquisition Team
+
+--===============2728770379672792065==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Negotiation Follow-up</h3>
+    <p>Following up on our conversation regarding the Data Scientist offer. L=
+et's finalize by June 27.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============2728770379672792065==--
+
+--===============1651200943144055998==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============1651200943144055998==--

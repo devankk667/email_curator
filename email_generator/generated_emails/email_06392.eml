@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@citibank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Wed, 24 Jun 2026 15:10:00 -0000
+Message-ID: <96ec8f8895104c32a98f22b0ecbe59ee@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8738487157225416954=="
+
+--===============8738487157225416954==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 25000 was debited from your account ending 4821 on April 17 at Fresco Foo=
+ds.
+
+Regards,
+Customer Service Team
+
+--===============8738487157225416954==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 25000 was debited from your account ending 4821 on April 17 at Fre=
+sco Foods.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8738487157225416954==--

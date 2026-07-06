@@ -1,0 +1,33 @@
+From: Orbit Logistics <orbit@amazon.in>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Mon, 08 Jun 2026 10:05:00 -0000
+Message-ID: <5e66fb09b4774244bab1913ac9c05c8d@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8427467506649339873=="
+
+--===============8427467506649339873==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 7500. Grab it before it's gone!
+
+Thanks for being a valued customer.
+
+--===============8427467506649339873==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 7500. Grab it before it's=
+ gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8427467506649339873==--

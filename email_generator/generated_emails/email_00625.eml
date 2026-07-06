@@ -1,0 +1,32 @@
+From: Coral Health <coral@flipkart.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Sun, 01 Feb 2026 15:45:00 -0000
+Message-ID: <b56c1f1221e742f6904a73ba62248519@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3945267560024336339=="
+
+--===============3945267560024336339==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Orbit Logistics membership renews on July 28 for INR 2500.
+
+Thanks for being a valued customer.
+
+--===============3945267560024336339==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Orbit Logistics membership renews on July 28 for INR 2500.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============3945267560024336339==--

@@ -1,0 +1,49 @@
+From: Fresco Foods <fresco@makemytrip.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Thu, 02 Jul 2026 07:20:00 -0000
+Message-ID: <9e5ac19830b74aae9bd51f66bbefd7b8@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0828325330559092650=="
+
+--===============0828325330559092650==
+Content-Type: multipart/alternative;
+ boundary="===============7564375008731089767=="
+
+--===============7564375008731089767==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Berlin from March 17 to August 12 is confirmed. Booking ID=
+: 152876. Manage booking: https://makemytrip.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============7564375008731089767==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Berlin from March 17 to August 12 is confirmed. Boo=
+king ID: 152876. Manage booking: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============7564375008731089767==--
+
+--===============0828325330559092650==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============0828325330559092650==--

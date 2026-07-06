@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex@meridianair.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Wed, 14 Jan 2026 17:20:00 -0000
+Message-ID: <610a5093e35245fd99eb972d7f443ac5@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2565168786094246983=="
+
+--===============2565168786094246983==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Singapore has been rescheduled to July 19. Please c=
+heck your booking.
+
+Regards,
+Reservations Desk
+
+--===============2565168786094246983==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Singapore has been rescheduled to July 19. P=
+lease check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2565168786094246983==--

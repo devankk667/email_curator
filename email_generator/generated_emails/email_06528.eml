@@ -1,0 +1,48 @@
+From: Cloudscape <cloudscape@vertexbank.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Sun, 01 Feb 2026 17:30:00 -0000
+Message-ID: <a721bfd63afa4a12a18e3ba82aafe0d4@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4988668122144688193=="
+
+--===============4988668122144688193==
+Content-Type: multipart/alternative;
+ boundary="===============3372355394663226493=="
+
+--===============3372355394663226493==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 1499. Add funds here: https://payflow.com/d=
+ashboard
+
+Thank you for banking with us.
+
+--===============3372355394663226493==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 1499. Add funds here: https://payflo=
+w.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3372355394663226493==--
+
+--===============4988668122144688193==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============4988668122144688193==--

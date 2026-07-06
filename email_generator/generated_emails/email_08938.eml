@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco39@airindia.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Sun, 10 May 2026 17:45:00 -0000
+Message-ID: <7bd8f149d3f64e32b8b81b34d7520020@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2127600084367663611=="
+
+--===============2127600084367663611==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Berlin has been rescheduled to March 25. Please che=
+ck your booking.
+
+Regards,
+Reservations Desk
+
+--===============2127600084367663611==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Berlin has been rescheduled to March 25. Ple=
+ase check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2127600084367663611==--

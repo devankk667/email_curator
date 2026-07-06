@@ -1,0 +1,49 @@
+From: Vertex Bank <vertex@citibank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Sun, 12 Apr 2026 18:30:00 -0000
+Message-ID: <df4294ed572f407c89a6bc00c015084b@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3562113575511381466=="
+
+--===============3562113575511381466==
+Content-Type: multipart/alternative;
+ boundary="===============2414464879278140511=="
+
+--===============2414464879278140511==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 199 was debited from your account ending 4821 on December 30 at Coral Hea=
+lth.
+
+Regards,
+Customer Service Team
+
+--===============2414464879278140511==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 199 was debited from your account ending 4821 on December 30 at Co=
+ral Health.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2414464879278140511==--
+
+--===============3562113575511381466==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============3562113575511381466==--

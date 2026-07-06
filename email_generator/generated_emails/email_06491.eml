@@ -1,0 +1,35 @@
+From: Coral Health <coral@citibank.com>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Wed, 18 Feb 2026 22:45:00 -0000
+Message-ID: <40c0a2c14fac4d358697465fea1bfd76@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3632134364383130176=="
+
+--===============3632134364383130176==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 12.6% this quarter. View details: htt=
+ps://payflow.com/dashboard
+
+Regards,
+Customer Service Team
+
+--===============3632134364383130176==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 12.6% this quarter. View detai=
+ls: https://payflow.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3632134364383130176==--

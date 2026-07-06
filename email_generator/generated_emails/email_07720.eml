@@ -1,0 +1,35 @@
+From: Noah Okafor <noah78@naukri.com>
+To: you@myinbox.com
+Subject: Rejection Notice
+Date: Sun, 12 Apr 2026 21:30:00 -0000
+Message-ID: <b7099ef30b9d4bd8a45932cdeb6cb922@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2343252725433884065=="
+
+--===============2343252725433884065==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for interviewing for ML Engineer at Quanta Labs. We've decided to m=
+ove forward with other candidates.
+
+Best regards,
+Talent Acquisition Team
+
+--===============2343252725433884065==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Rejection Notice</h3>
+    <p>Thank you for interviewing for ML Engineer at Quanta Labs. We've decid=
+ed to move forward with other candidates.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============2343252725433884065==--

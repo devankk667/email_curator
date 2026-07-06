@@ -1,0 +1,35 @@
+From: Isabella Garcia <isabella@university.edu>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Fri, 26 Jun 2026 10:45:00 -0000
+Message-ID: <098ba57a15f64924acb8c14cb003af00@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3040696385406281939=="
+
+--===============3040696385406281939==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Operating Systems lecture originally on July 01 has been moved to Februar=
+y 09, Room 494.
+
+Thank you,
+Examination Cell
+
+--===============3040696385406281939==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Operating Systems lecture originally on July 01 has been moved to =
+February 09, Room 494.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============3040696385406281939==--

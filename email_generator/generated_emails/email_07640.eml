@@ -1,0 +1,35 @@
+From: Aisha Nguyen <aisha@college.ac.in>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Wed, 08 Apr 2026 15:00:00 -0000
+Message-ID: <dd1c1df3b8eb4c69b823129df5b618a3@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8070849001762760000=="
+
+--===============8070849001762760000==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Machine Learning lecture originally on November 26 has been moved to Janu=
+ary 31, Room 251.
+
+Regards,
+Office of Academic Affairs
+
+--===============8070849001762760000==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Machine Learning lecture originally on November 26 has been moved =
+to January 31, Room 251.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============8070849001762760000==--

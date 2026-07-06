@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@myntra.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Wed, 04 Feb 2026 14:10:00 -0000
+Message-ID: <ce2d634b0bcc4d69918db3190897abc8@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3196559566317508803=="
+
+--===============3196559566317508803==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #3 from Coral Health is delayed and will now arrive by April 28 in=
+stead of November 06. Track: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============3196559566317508803==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #3 from Coral Health is delayed and will now arrive by Apri=
+l 28 instead of November 06. Track: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============3196559566317508803==--

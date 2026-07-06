@@ -1,0 +1,36 @@
+From: James Patel <james@university.edu>
+To: you@myinbox.com
+Subject: Software Engineering Exam Schedule
+Date: Fri, 30 Jan 2026 18:10:00 -0000
+Message-ID: <575283b374864e98ac7ebdd4d3771796@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2896989596278244217=="
+
+--===============2896989596278244217==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Discrete Mathematics exam is on December 01.
+Please submit Assignment 9 before October 23.
+Venue: Room 346, Main Block.
+
+Regards,
+Office of Academic Affairs
+
+--===============2896989596278244217==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Software Engineering Exam Schedule</h3>
+    <p>Discrete Mathematics exam is on December 01.</p><p>Please submit Assig=
+nment 9 before October 23.</p><p>Venue: Room 346, Main Block.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============2896989596278244217==--

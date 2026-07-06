@@ -1,0 +1,35 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Property Tax Notice
+Date: Thu, 18 Jun 2026 19:45:00 -0000
+Message-ID: <ec78c76e658f4d06be8195f76e3c0225@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0201000246648773972=="
+
+--===============0201000246648773972==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your property tax of INR 12000 for this fiscal year is due by September 19. P=
+ay online to avoid penalty.
+
+Regards,
+Public Services Department
+
+--===============0201000246648773972==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Property Tax Notice</h3>
+    <p>Your property tax of INR 12000 for this fiscal year is due by Septembe=
+r 19. Pay online to avoid penalty.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============0201000246648773972==--

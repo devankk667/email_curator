@@ -1,0 +1,35 @@
+From: Coral Health <coral@makemytrip.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Wed, 11 Feb 2026 14:30:00 -0000
+Message-ID: <d60e837c7a7643668cf6e97fa66b8834@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2522577087044984760=="
+
+--===============2522577087044984760==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to New York has been rescheduled to December 20. Pleas=
+e check your booking.
+
+Regards,
+Reservations Desk
+
+--===============2522577087044984760==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to New York has been rescheduled to December 20=
+. Please check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2522577087044984760==--

@@ -1,0 +1,34 @@
+From: PixelWorks <pixelworks@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Fri, 26 Jun 2026 13:30:00 -0000
+Message-ID: <ef2d3f1a79ae4513862886b58db66fbd@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6676786910571900017=="
+
+--===============6676786910571900017==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #4 from Fresco Foods is delayed and will now arrive by January 31 =
+instead of May 30. Track: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============6676786910571900017==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #4 from Fresco Foods is delayed and will now arrive by Janu=
+ary 31 instead of May 30. Track: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============6676786910571900017==--

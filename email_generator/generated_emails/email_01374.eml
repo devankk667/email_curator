@@ -1,0 +1,48 @@
+From: Quanta Labs <quanta@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Tue, 23 Jun 2026 13:15:00 -0000
+Message-ID: <0d0b5e94eb19494da2f8bc98cc8ed6b7@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5845515210427980410=="
+
+--===============5845515210427980410==
+Content-Type: multipart/alternative;
+ boundary="===============4059877830751811379=="
+
+--===============4059877830751811379==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Brightline Media membership renews on December 17 for INR 3999.
+
+Happy Shopping!
+The Team
+
+--===============4059877830751811379==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Brightline Media membership renews on December 17 for INR 3999.</=
+p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============4059877830751811379==--
+
+--===============5845515210427980410==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============5845515210427980410==--

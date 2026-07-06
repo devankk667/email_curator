@@ -1,0 +1,36 @@
+From: Meridian Airlines <meridian@payflow.com>
+To: you@myinbox.com
+Subject: Credit Card Statement Generated
+Date: Mon, 13 Apr 2026 15:10:00 -0000
+Message-ID: <d6e47a5c41a84ca792a219e3dfd9b407@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5672360583490593791=="
+
+--===============5672360583490593791==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your credit card statement for the period ending December 30 is ready.
+Total due: INR 7500.
+Minimum due: INR 45000.
+
+Regards,
+Customer Service Team
+
+--===============5672360583490593791==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Credit Card Statement Generated</h3>
+    <p>Your credit card statement for the period ending December 30 is ready.=
+</p><p>Total due: INR 7500.</p><p>Minimum due: INR 45000.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5672360583490593791==--

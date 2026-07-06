@@ -1,0 +1,34 @@
+From: Meridian Airlines <meridian@meridianair.com>
+To: you@myinbox.com
+Subject: Travel Insurance Policy Issued
+Date: Fri, 20 Mar 2026 22:30:00 -0000
+Message-ID: <bdee3af7a7ee4a358f24b3b1fa377d46@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7542412862178943823=="
+
+--===============7542412862178943823==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your travel insurance policy #207017 for the Tokyo trip is now active.
+
+Safe travels,
+Booking Support Team
+
+--===============7542412862178943823==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Insurance Policy Issued</h3>
+    <p>Your travel insurance policy #207017 for the Tokyo trip is now active.=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============7542412862178943823==--

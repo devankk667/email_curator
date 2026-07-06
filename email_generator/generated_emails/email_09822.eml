@@ -1,0 +1,34 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Building Permit Approved
+Date: Mon, 23 Feb 2026 22:20:00 -0000
+Message-ID: <7072508946f14a32b967824caba8c72f@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9149213618229785939=="
+
+--===============9149213618229785939==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your building permit application #969890 has been approved as of February 03.
+
+Regards,
+Public Services Department
+
+--===============9149213618229785939==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Building Permit Approved</h3>
+    <p>Your building permit application #969890 has been approved as of Febru=
+ary 03.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============9149213618229785939==--

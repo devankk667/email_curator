@@ -1,0 +1,47 @@
+From: Arjun Mehta <arjun@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Urgent: Verify Your Account
+Date: Wed, 04 Feb 2026 16:30:00 -0000
+Message-ID: <f90258ac7758482e84061d673e6953be@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0380480423117734610=="
+
+--===============0380480423117734610==
+Content-Type: multipart/alternative;
+ boundary="===============8613600788971887810=="
+
+--===============8613600788971887810==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account will be suspended in 24 hours. Verify your details immediately: =
+https://bit.ly/3xF9kLp
+
+Act now, offer expires soon!
+
+--===============8613600788971887810==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Urgent: Verify Your Account</h3>
+    <p>Your account will be suspended in 24 hours. Verify your details immedi=
+ately: https://bit.ly/3xF9kLp</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============8613600788971887810==--
+
+--===============0380480423117734610==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============0380480423117734610==--

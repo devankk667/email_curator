@@ -1,0 +1,48 @@
+From: Government Services <government64@municipal.gov>
+To: you@myinbox.com
+Subject: Voter ID Update
+Date: Thu, 09 Apr 2026 11:10:00 -0000
+Message-ID: <0903fca2808247558e3e309e79ad7997@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1639748108666486255=="
+
+--===============1639748108666486255==
+Content-Type: multipart/alternative;
+ boundary="===============7107115869604205758=="
+
+--===============7107115869604205758==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your voter registration has been successfully updated with your new address e=
+ffective December 21.
+
+Regards,
+Public Services Department
+
+--===============7107115869604205758==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Voter ID Update</h3>
+    <p>Your voter registration has been successfully updated with your new ad=
+dress effective December 21.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============7107115869604205758==--
+
+--===============1639748108666486255==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="notice.txt"
+MIME-Version: 1.0
+
+T2ZmaWNpYWwgbm90aWNlIGRvY3VtZW50LiBQbGVhc2UgcmV0YWluIGZvciB5b3VyIHJlY29yZHMu
+
+--===============1639748108666486255==--

@@ -1,0 +1,36 @@
+From: Coral Health <coral3@bookings.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Sat, 17 Jan 2026 10:05:00 -0000
+Message-ID: <029833f8bbb0427faf77ba3bc236de86@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2824645561029828383=="
+
+--===============2824645561029828383==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to Delhi on March 13 is confirmed.
+Booking reference: 142246.
+Departure: 10:30 AM.
+
+Regards,
+Reservations Desk
+
+--===============2824645561029828383==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to Delhi on March 13 is confirmed.</p><p>Booking reference=
+: 142246.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2824645561029828383==--

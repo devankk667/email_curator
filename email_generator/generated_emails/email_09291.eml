@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@makemytrip.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Wed, 29 Apr 2026 11:00:00 -0000
+Message-ID: <ffeed463e67b4835b18ef55a0980550c@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7562962018639323653=="
+
+--===============7562962018639323653==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Amsterdam as of October 20. Re=
+ad the advisory: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============7562962018639323653==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Amsterdam as of October=
+ 20. Read the advisory: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============7562962018639323653==--

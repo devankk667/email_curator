@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex17@bookings.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Tue, 21 Apr 2026 06:30:00 -0000
+Message-ID: <0fc1851592f24d97a9be2c12f0ea82c5@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1482182208054041652=="
+
+--===============1482182208054041652==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Paris has been rescheduled to January 07. Please ch=
+eck your booking.
+
+Regards,
+Reservations Desk
+
+--===============1482182208054041652==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Paris has been rescheduled to January 07. Pl=
+ease check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============1482182208054041652==--

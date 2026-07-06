@@ -1,0 +1,34 @@
+From: Sara Okafor <sara@claim-now.biz>
+To: you@myinbox.com
+Subject: Final Notice: Unusual Login Detected
+Date: Tue, 27 Jan 2026 22:10:00 -0000
+Message-ID: <ce2ae76bcfb549d0bb2c6f4c6a362a45@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7850082697126152596=="
+
+--===============7850082697126152596==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+We detected a login from Singapore. Confirm it was you or your account will b=
+e locked: https://bit.ly/3xF9kLp
+
+Act now, offer expires soon!
+
+--===============7850082697126152596==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Final Notice: Unusual Login Detected</h3>
+    <p>We detected a login from Singapore. Confirm it was you or your account=
+ will be locked: https://bit.ly/3xF9kLp</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============7850082697126152596==--

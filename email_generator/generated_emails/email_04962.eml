@@ -1,0 +1,34 @@
+From: Zara Lopez <zara@facebookmail.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Thu, 19 Feb 2026 16:45:00 -0000
+Message-ID: <5b5d4eba3aea4b68880cefb24b6a0f6d@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0732573016454921466=="
+
+--===============0732573016454921466==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Priya Nguyen's birthday on November 30! Send them a message to make thei=
+r day.
+
+-- Sent from your notifications
+
+--===============0732573016454921466==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Priya Nguyen's birthday on November 30! Send them a message to ma=
+ke their day.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============0732573016454921466==--

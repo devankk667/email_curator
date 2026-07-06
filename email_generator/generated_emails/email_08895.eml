@@ -1,0 +1,33 @@
+From: Vertex Bank <vertex47@airindia.com>
+To: you@myinbox.com
+Subject: Loyalty Points Credited
+Date: Tue, 31 Mar 2026 15:05:00 -0000
+Message-ID: <07a2f6ce690742d0802ecd5f3d761c7b@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2132441631246998987=="
+
+--===============2132441631246998987==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You've earned 200 loyalty points for your recent trip to New York.
+
+Regards,
+Reservations Desk
+
+--===============2132441631246998987==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loyalty Points Credited</h3>
+    <p>You've earned 200 loyalty points for your recent trip to New York.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2132441631246998987==--

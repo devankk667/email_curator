@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@payflow.com>
+To: you@myinbox.com
+Subject: Credit Card Statement Generated
+Date: Wed, 25 Mar 2026 21:20:00 -0000
+Message-ID: <f15ced89728e4b69b1610cef98b6b462@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7378585254669328540=="
+
+--===============7378585254669328540==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your credit card statement for the period ending September 21 is ready.
+Total due: INR 3999.
+Minimum due: INR 7500.
+
+Thank you for banking with us.
+
+--===============7378585254669328540==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Credit Card Statement Generated</h3>
+    <p>Your credit card statement for the period ending September 21 is ready=
+.</p><p>Total due: INR 3999.</p><p>Minimum due: INR 7500.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============7378585254669328540==--

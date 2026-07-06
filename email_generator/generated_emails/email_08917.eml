@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@airindia.com>
+To: you@myinbox.com
+Subject: Boarding Pass Attached
+Date: Mon, 25 May 2026 14:10:00 -0000
+Message-ID: <d1ea0d1d1f5c4b9a9c1f53cf964143a4@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3515162470525364349=="
+
+--===============3515162470525364349==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your boarding pass for the December 07 flight to Chennai is attached to this =
+email.
+
+Regards,
+Reservations Desk
+
+--===============3515162470525364349==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Boarding Pass Attached</h3>
+    <p>Your boarding pass for the December 07 flight to Chennai is attached t=
+o this email.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============3515162470525364349==--

@@ -1,0 +1,34 @@
+From: Anchorpoint Realty <anchorpoint@vertexbank.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Fri, 02 Jan 2026 12:10:00 -0000
+Message-ID: <410c3e932d184c7aa5270bd804946416@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6009717116986342837=="
+
+--===============6009717116986342837==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 999. Add funds here: https://payflow.com/da=
+shboard
+
+Thank you for banking with us.
+
+--===============6009717116986342837==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 999. Add funds here: https://payflow=
+.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============6009717116986342837==--

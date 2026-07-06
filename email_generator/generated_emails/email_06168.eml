@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@vertexbank.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Sun, 01 Feb 2026 09:20:00 -0000
+Message-ID: <da244b31cecb428a8066dfca45f10808@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3802550379078466578=="
+
+--===============3802550379078466578==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 1499. Add funds here: https://vertexbank.co=
+m/statements
+
+Regards,
+Customer Service Team
+
+--===============3802550379078466578==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 1499. Add funds here: https://vertex=
+bank.com/statements</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3802550379078466578==--

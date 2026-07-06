@@ -1,0 +1,34 @@
+From: Liam Chen <liam@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Sat, 30 May 2026 10:10:00 -0000
+Message-ID: <da56e79a6c9f4c03ad18eba29f735169@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1702352188033298602=="
+
+--===============1702352188033298602==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for UX Designer at Zynta Corp has moved to the next round. D=
+etails: https://greenhouse.io/applications
+
+We look forward to hearing from you.
+
+--===============1702352188033298602==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for UX Designer at Zynta Corp has moved to the next r=
+ound. Details: https://greenhouse.io/applications</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============1702352188033298602==--

@@ -1,0 +1,34 @@
+From: Nimbus Retail <nimbus@myntra.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Mon, 23 Feb 2026 11:00:00 -0000
+Message-ID: <f3392dd1e93f40c9a6e5b77620f0cb3d@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2383686252670904932=="
+
+--===============2383686252670904932==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #8 from Fernwood Analytics has shipped and will arrive by Septembe=
+r 12. Track it: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============2383686252670904932==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #8 from Fernwood Analytics has shipped and will arrive by S=
+eptember 12. Track it: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2383686252670904932==--

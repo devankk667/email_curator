@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Tue, 06 Jan 2026 09:10:00 -0000
+Message-ID: <2cbe1189ee3a474aa13f7da16c8fdde7@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5039249466602204964=="
+
+--===============5039249466602204964==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 25000 matured on June 23. Choose to renew or withdr=
+aw.
+
+Regards,
+Customer Service Team
+
+--===============5039249466602204964==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 25000 matured on June 23. Choose to renew or=
+ withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5039249466602204964==--

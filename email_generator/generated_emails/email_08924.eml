@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@bookings.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Mon, 01 Jun 2026 20:10:00 -0000
+Message-ID: <0e383e73b50647dba7c81ee1a5dc39b3@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6509973369672132836=="
+
+--===============6509973369672132836==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 999 for the cancelled London trip has been processed. Deta=
+ils: https://meridianair.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============6509973369672132836==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 999 for the cancelled London trip has been processe=
+d. Details: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============6509973369672132836==--

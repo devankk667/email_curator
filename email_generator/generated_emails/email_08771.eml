@@ -1,0 +1,33 @@
+From: Anchorpoint Realty <anchorpoint@airindia.com>
+To: you@myinbox.com
+Subject: Loyalty Points Credited
+Date: Mon, 08 Jun 2026 11:30:00 -0000
+Message-ID: <1fe80c66cb20459b8d039bffc947e3f4@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9207431772273594446=="
+
+--===============9207431772273594446==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You've earned 100 loyalty points for your recent trip to Mumbai.
+
+Safe travels,
+Booking Support Team
+
+--===============9207431772273594446==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loyalty Points Credited</h3>
+    <p>You've earned 100 loyalty points for your recent trip to Mumbai.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============9207431772273594446==--

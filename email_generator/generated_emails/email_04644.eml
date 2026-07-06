@@ -1,0 +1,45 @@
+From: Rahul Patel <rahul@facebookmail.com>
+To: you@myinbox.com
+Subject: Arjun Tanaka liked your photo
+Date: Sat, 28 Mar 2026 19:10:00 -0000
+Message-ID: <dba6be83567440b1a2d50e9aa58dca91@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1208591493418481060=="
+
+--===============1208591493418481060==
+Content-Type: multipart/alternative;
+ boundary="===============2769847411795423756=="
+
+--===============2769847411795423756==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Nina Dubois and 6 others liked your recent photo.
+
+-- Sent from your notifications
+
+--===============2769847411795423756==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Arjun Tanaka liked your photo</h3>
+    <p>Nina Dubois and 6 others liked your recent photo.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============2769847411795423756==--
+
+--===============1208591493418481060==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============1208591493418481060==--

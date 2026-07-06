@@ -1,0 +1,48 @@
+From: Elena Novak <elena@campusmail.edu>
+To: you@myinbox.com
+Subject: Hostel Fee Due
+Date: Mon, 09 Mar 2026 21:15:00 -0000
+Message-ID: <0b1096ad04ba495a941dd2dcceac3c66@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7834845821768718407=="
+
+--===============7834845821768718407==
+Content-Type: multipart/alternative;
+ boundary="===============8453652162329109881=="
+
+--===============8453652162329109881==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your hostel fee of INR 2500 is due by May 22. Pay via the accounts office.
+
+Thank you,
+Examination Cell
+
+--===============8453652162329109881==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hostel Fee Due</h3>
+    <p>Your hostel fee of INR 2500 is due by May 22. Pay via the accounts off=
+ice.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============8453652162329109881==--
+
+--===============7834845821768718407==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============7834845821768718407==--

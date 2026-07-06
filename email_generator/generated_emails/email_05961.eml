@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@citibank.com>
+To: you@myinbox.com
+Subject: Credit Card Statement Generated
+Date: Mon, 20 Apr 2026 16:45:00 -0000
+Message-ID: <b949c9860b1c486eaa8fc27d6b83294d@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4855401764706329564=="
+
+--===============4855401764706329564==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your credit card statement for the period ending April 19 is ready.
+Total due: INR 7500.
+Minimum due: INR 45000.
+
+Thank you for banking with us.
+
+--===============4855401764706329564==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Credit Card Statement Generated</h3>
+    <p>Your credit card statement for the period ending April 19 is ready.</p=
+><p>Total due: INR 7500.</p><p>Minimum due: INR 45000.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============4855401764706329564==--

@@ -1,0 +1,48 @@
+From: Fresco Foods <fresco53@amazon.in>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Thu, 14 May 2026 16:45:00 -0000
+Message-ID: <707d1e4845334d4bbd3695c04e128ba1@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6140708006988580153=="
+
+--===============6140708006988580153==
+Content-Type: multipart/alternative;
+ boundary="===============4211638510602662366=="
+
+--===============4211638510602662366==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 499. Grab it before it's gone!
+
+Happy Shopping!
+The Team
+
+--===============4211638510602662366==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 499. Grab it before it's =
+gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============4211638510602662366==--
+
+--===============6140708006988580153==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============6140708006988580153==--

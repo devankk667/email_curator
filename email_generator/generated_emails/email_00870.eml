@@ -1,0 +1,53 @@
+From: Cloudscape <cloudscape@myntra.com>
+To: you@myinbox.com
+Subject: Re: Cart Reminder
+Date: Fri, 02 Jan 2026 12:00:00 -0000
+Message-ID: <c1f95fcc818141e28ddb845df8224925@myntra.com>
+In-Reply-To: <07f8e2ad9fc04378af38b1a2e0b533c3@nimbusretail.com>
+References: <07f8e2ad9fc04378af38b1a2e0b533c3@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1639304665050160545=="
+
+--===============1639304665050160545==
+Content-Type: multipart/alternative;
+ boundary="===============0156441279290301946=="
+
+--===============0156441279290301946==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Got it, will follow up soon.
+
+> You left 1 item(s) in your cart. Complete your purchase and get free shippi=
+ng.
+
+Happy Shopping!
+The Team
+
+--===============0156441279290301946==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>Got it, will follow up soon.</p><p>> You left 1 item(s) in your cart. =
+Complete your purchase and get free shipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============0156441279290301946==--
+
+--===============1639304665050160545==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============1639304665050160545==--

@@ -1,0 +1,46 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Utility Bill Subsidy Update
+Date: Thu, 22 Jan 2026 07:30:00 -0000
+Message-ID: <28b4319abc604baf88497b8813d94a38@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3900981619902951496=="
+
+--===============3900981619902951496==
+Content-Type: multipart/alternative;
+ boundary="===============6911110474766093606=="
+
+--===============6911110474766093606==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You are eligible for a subsidy of INR 499 on your utility bill this quarter.
+
+This is an automated notice.
+
+--===============6911110474766093606==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Utility Bill Subsidy Update</h3>
+    <p>You are eligible for a subsidy of INR 499 on your utility bill this qu=
+arter.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============6911110474766093606==--
+
+--===============3900981619902951496==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="notice.txt"
+MIME-Version: 1.0
+
+T2ZmaWNpYWwgbm90aWNlIGRvY3VtZW50LiBQbGVhc2UgcmV0YWluIGZvciB5b3VyIHJlY29yZHMu
+
+--===============3900981619902951496==--

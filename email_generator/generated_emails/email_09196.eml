@@ -1,0 +1,36 @@
+From: Quanta Labs <quanta@airindia.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Fri, 16 Jan 2026 16:05:00 -0000
+Message-ID: <a92ac8d5d8184850a7cd72add0735fc3@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7080087048946505343=="
+
+--===============7080087048946505343==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to New York on January 06 is confirmed.
+Booking reference: 646308.
+Departure: 10:30 AM.
+
+Regards,
+Reservations Desk
+
+--===============7080087048946505343==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to New York on January 06 is confirmed.</p><p>Booking refe=
+rence: 646308.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============7080087048946505343==--

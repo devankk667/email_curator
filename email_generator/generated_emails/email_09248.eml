@@ -1,0 +1,49 @@
+From: Orbit Logistics <orbit@makemytrip.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Wed, 07 Jan 2026 21:10:00 -0000
+Message-ID: <886465a775dc4d85a7840d4e3bf4e217@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5871357954435896505=="
+
+--===============5871357954435896505==
+Content-Type: multipart/alternative;
+ boundary="===============0765916024315417814=="
+
+--===============0765916024315417814==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Berlin has been rescheduled to June 08. Please chec=
+k your booking.
+
+Regards,
+Reservations Desk
+
+--===============0765916024315417814==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Berlin has been rescheduled to June 08. Plea=
+se check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============0765916024315417814==--
+
+--===============5871357954435896505==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============5871357954435896505==--

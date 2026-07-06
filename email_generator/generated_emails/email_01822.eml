@@ -1,0 +1,34 @@
+From: Brightline Media <brightline@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Tue, 26 May 2026 07:10:00 -0000
+Message-ID: <d7cf6639a8ff4968ae0e248bc8854289@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2517294322000751343=="
+
+--===============2517294322000751343==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Vertex Bank was delivered on August 14. Rate your experienc=
+e.
+
+Thanks for being a valued customer.
+
+--===============2517294322000751343==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Vertex Bank was delivered on August 14. Rate your ex=
+perience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2517294322000751343==--

@@ -1,0 +1,47 @@
+From: Meera Silva <meera@workday.com>
+To: you@myinbox.com
+Subject: Take-Home Assignment
+Date: Fri, 19 Jun 2026 12:05:00 -0000
+Message-ID: <a9cb2bd173f149cbae21897d8ea41b87@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4981997594237327717=="
+
+--===============4981997594237327717==
+Content-Type: multipart/alternative;
+ boundary="===============5360763533713000014=="
+
+--===============5360763533713000014==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please complete the take-home assignment for the QA Engineer role at Orbit Lo=
+gistics by August 13. Assignment link: www.linkedin.com/jobs/view
+
+We look forward to hearing from you.
+
+--===============5360763533713000014==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Take-Home Assignment</h3>
+    <p>Please complete the take-home assignment for the QA Engineer role at O=
+rbit Logistics by August 13. Assignment link: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============5360763533713000014==--
+
+--===============4981997594237327717==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============4981997594237327717==--

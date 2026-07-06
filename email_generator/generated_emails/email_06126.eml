@@ -1,0 +1,35 @@
+From: Starforge Games <starforge@payflow.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Thu, 30 Apr 2026 19:45:00 -0000
+Message-ID: <00693d8a5278426faabfc278325360df@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9130585046250383947=="
+
+--===============9130585046250383947==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Fe=
+bruary 22 to avoid penalties.
+
+Regards,
+Customer Service Team
+
+--===============9130585046250383947==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore February 22 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============9130585046250383947==--

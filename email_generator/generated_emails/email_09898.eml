@@ -1,0 +1,35 @@
+From: Government Services <government@gov.in>
+To: you@myinbox.com
+Subject: Municipal Election Notice
+Date: Sun, 07 Jun 2026 11:20:00 -0000
+Message-ID: <a48bec1effc24e398ba07f29db642507@gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3245710726141557600=="
+
+--===============3245710726141557600==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Municipal elections will be held on December 24. Locate your polling booth: h=
+ttps://gov.in/services/rto
+
+Regards,
+Public Services Department
+
+--===============3245710726141557600==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Municipal Election Notice</h3>
+    <p>Municipal elections will be held on December 24. Locate your polling b=
+ooth: https://gov.in/services/rto</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============3245710726141557600==--

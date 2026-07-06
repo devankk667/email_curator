@@ -1,0 +1,48 @@
+From: Starforge Games <starforge@greenhouse.io>
+To: you@myinbox.com
+Subject: Take-Home Assignment
+Date: Thu, 28 May 2026 19:20:00 -0000
+Message-ID: <c0e20f18820d4339ae4f37e84cfc824d@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0895098627689477499=="
+
+--===============0895098627689477499==
+Content-Type: multipart/alternative;
+ boundary="===============6367390871116882346=="
+
+--===============6367390871116882346==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please complete the take-home assignment for the Data Analyst role at Meridia=
+n Airlines by October 05. Assignment link: https://naukri.com/jobs
+
+Best regards,
+Talent Acquisition Team
+
+--===============6367390871116882346==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Take-Home Assignment</h3>
+    <p>Please complete the take-home assignment for the Data Analyst role at =
+Meridian Airlines by October 05. Assignment link: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============6367390871116882346==--
+
+--===============0895098627689477499==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============0895098627689477499==--

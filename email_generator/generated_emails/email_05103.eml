@@ -1,0 +1,29 @@
+From: Facebook <facebook@meetup.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Tue, 28 Apr 2026 17:45:00 -0000
+Message-ID: <85fe3f6020874d389faa051a192068bb@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9213975836396116059=="
+
+--===============9213975836396116059==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Noah Patel invited you to join the group 'the college reunion'.
+
+--===============9213975836396116059==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Noah Patel invited you to join the group 'the college reunion'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============9213975836396116059==--

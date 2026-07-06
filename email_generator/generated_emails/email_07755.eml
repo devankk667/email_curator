@@ -1,0 +1,35 @@
+From: Elena Silva <elena@workday.com>
+To: you@myinbox.com
+Subject: Reference Check Request
+Date: Thu, 14 May 2026 16:20:00 -0000
+Message-ID: <d1aa4733884f484391153889e07aa8f0@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8060425779088762527=="
+
+--===============8060425779088762527==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Cloudscape would like to contact your references for the ML Engineer position=
+. Please confirm by August 23.
+
+Best regards,
+Talent Acquisition Team
+
+--===============8060425779088762527==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Reference Check Request</h3>
+    <p>Cloudscape would like to contact your references for the ML Engineer p=
+osition. Please confirm by August 23.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============8060425779088762527==--

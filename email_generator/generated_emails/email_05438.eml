@@ -1,0 +1,31 @@
+From: Rahul Khan <rahul61@linkedin.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Mon, 09 Mar 2026 14:10:00 -0000
+Message-ID: <76033e21cb1e4391b8dee7fb20508835@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2852203636050821804=="
+
+--===============2852203636050821804==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from James Khan: "Hey, are we still meeting on Novembe=
+r 01?"
+
+--===============2852203636050821804==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from James Khan: "Hey, are we still meeting on =
+November 01?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2852203636050821804==--

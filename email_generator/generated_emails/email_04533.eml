@@ -1,0 +1,44 @@
+From: Carlos Patel <carlos@linkedin.com>
+To: you@myinbox.com
+Subject: Lucas Novak tagged you in a photo
+Date: Thu, 09 Apr 2026 16:10:00 -0000
+Message-ID: <a961640363ea435d92adb3d4a8398433@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4498375601419152006=="
+
+--===============4498375601419152006==
+Content-Type: multipart/alternative;
+ boundary="===============6357547645453716036=="
+
+--===============6357547645453716036==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sara Tanaka tagged you in a photo from 'the team offsite'. Check it out and l=
+eave a comment!
+
+--===============6357547645453716036==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Lucas Novak tagged you in a photo</h3>
+    <p>Sara Tanaka tagged you in a photo from 'the team offsite'. Check it ou=
+t and leave a comment!</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6357547645453716036==--
+
+--===============4498375601419152006==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============4498375601419152006==--

@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@nimbusretail.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Tue, 27 Jan 2026 06:20:00 -0000
+Message-ID: <2258ae533b6b4fe9851e15294026c640@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3823751976125849122=="
+
+--===============3823751976125849122==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #6 has been received. Refund of INR 2500 will be proces=
+sed by July 18. Details: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============3823751976125849122==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #6 has been received. Refund of INR 2500 will be=
+ processed by July 18. Details: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============3823751976125849122==--

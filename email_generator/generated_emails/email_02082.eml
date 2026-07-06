@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Mon, 29 Jun 2026 16:15:00 -0000
+Message-ID: <368fb04ef8a14393b229d0e11d006087@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1994399134390630153=="
+
+--===============1994399134390630153==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #2 from Brightline Media has shipped and will arrive by November 0=
+7. Track it: https://amazon.in/orders
+
+Happy Shopping!
+The Team
+
+--===============1994399134390630153==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #2 from Brightline Media has shipped and will arrive by Nov=
+ember 07. Track it: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1994399134390630153==--

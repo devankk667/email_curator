@@ -1,0 +1,34 @@
+From: Liam Novak <liam@workday.com>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Sat, 13 Jun 2026 09:00:00 -0000
+Message-ID: <73e5436682834e6191014afe371e5551@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5640050533554405060=="
+
+--===============5640050533554405060==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Carlos Garcia starred your repository on GitHub. Keep up the great work!
+
+Best regards,
+Talent Acquisition Team
+
+--===============5640050533554405060==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Carlos Garcia starred your repository on GitHub. Keep up the great wor=
+k!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============5640050533554405060==--

@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape83@bookings.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Sun, 11 Jan 2026 20:45:00 -0000
+Message-ID: <ce06981a02da47278747416a1c6a0029@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5123483427739973043=="
+
+--===============5123483427739973043==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Tokyo has been rescheduled to July 10. Please check=
+ your booking.
+
+Regards,
+Reservations Desk
+
+--===============5123483427739973043==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Tokyo has been rescheduled to July 10. Pleas=
+e check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============5123483427739973043==--

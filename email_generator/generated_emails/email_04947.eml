@@ -1,0 +1,31 @@
+From: Wei Tanaka <wei@instagram.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Wed, 13 May 2026 09:00:00 -0000
+Message-ID: <580987263d8d45b0ae58e41bc2763864@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1856251658726675943=="
+
+--===============1856251658726675943==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Zara Mehta's birthday on February 16! Send them a message to make their =
+day.
+
+--===============1856251658726675943==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Zara Mehta's birthday on February 16! Send them a message to make=
+ their day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============1856251658726675943==--

@@ -1,0 +1,34 @@
+From: Nimbus Retail <nimbus39@citibank.com>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Thu, 05 Mar 2026 06:15:00 -0000
+Message-ID: <d0886472fcd6486e86eae8eb3b5d4363@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8048435153519259494=="
+
+--===============8048435153519259494==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 45000 is due on September 24. Pay now to keep your=
+ policy active.
+
+Thank you for banking with us.
+
+--===============8048435153519259494==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 45000 is due on September 24. Pay now to ke=
+ep your policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============8048435153519259494==--

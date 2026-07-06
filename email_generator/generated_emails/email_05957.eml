@@ -1,0 +1,34 @@
+From: Brightline Media <brightline61@citibank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Tue, 16 Jun 2026 11:05:00 -0000
+Message-ID: <180cdca805e34db6afee764b57757dad@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3754768727079671591=="
+
+--===============3754768727079671591==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 999 was debited from your account ending 4821 on July 28 at Starforge Gam=
+es.
+
+Thank you for banking with us.
+
+--===============3754768727079671591==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 999 was debited from your account ending 4821 on July 28 at Starfo=
+rge Games.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3754768727079671591==--

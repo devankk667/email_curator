@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Tue, 12 May 2026 09:45:00 -0000
+Message-ID: <2f1cd5c8465f4f2e9f71aa965050dc83@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2142607006197477276=="
+
+--===============2142607006197477276==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #5 from Fernwood Analytics is delayed and will now arrive by June =
+16 instead of January 25. Track: https://flipkart.com/returns
+
+Happy Shopping!
+The Team
+
+--===============2142607006197477276==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #5 from Fernwood Analytics is delayed and will now arrive b=
+y June 16 instead of January 25. Track: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============2142607006197477276==--

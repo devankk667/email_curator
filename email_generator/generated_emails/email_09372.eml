@@ -1,0 +1,33 @@
+From: Orbit Logistics <orbit57@makemytrip.com>
+To: you@myinbox.com
+Subject: Loyalty Points Credited
+Date: Fri, 29 May 2026 20:15:00 -0000
+Message-ID: <d3ad5474241547199a1caab87763b066@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3036588234820931963=="
+
+--===============3036588234820931963==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You've earned 900 loyalty points for your recent trip to Chennai.
+
+Regards,
+Reservations Desk
+
+--===============3036588234820931963==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loyalty Points Credited</h3>
+    <p>You've earned 900 loyalty points for your recent trip to Chennai.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============3036588234820931963==--

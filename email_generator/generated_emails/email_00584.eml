@@ -1,0 +1,34 @@
+From: Brightline Media <brightline@myntra.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Sun, 08 Mar 2026 08:05:00 -0000
+Message-ID: <9504d912bd604e8b805ed6d4050b7b01@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5616646625181790803=="
+
+--===============5616646625181790803==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your package from Fresco Foods was delivered on May 01. Rate your experience.
+
+Happy Shopping!
+The Team
+
+--===============5616646625181790803==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Fresco Foods was delivered on May 01. Rate your expe=
+rience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============5616646625181790803==--

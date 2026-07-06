@@ -1,0 +1,49 @@
+From: Zara Dubois <zara@campusmail.edu>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Fri, 27 Mar 2026 11:10:00 -0000
+Message-ID: <4a1ad1652e5647fbaca81aebfbb79044@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1056662396715614283=="
+
+--===============1056662396715614283==
+Content-Type: multipart/alternative;
+ boundary="===============4790038295603310660=="
+
+--===============4790038295603310660==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Cloud Computing will be held on March 12 at 4 PM in the Se=
+minar Hall.
+
+Regards,
+Office of Academic Affairs
+
+--===============4790038295603310660==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Cloud Computing will be held on March 12 at 4 PM in=
+ the Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============4790038295603310660==--
+
+--===============1056662396715614283==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============1056662396715614283==--

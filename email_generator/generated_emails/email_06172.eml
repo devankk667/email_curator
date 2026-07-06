@@ -1,0 +1,33 @@
+From: Fernwood Analytics <fernwood2@payflow.com>
+To: you@myinbox.com
+Subject: Autopay Setup Confirmation
+Date: Thu, 11 Jun 2026 16:20:00 -0000
+Message-ID: <388b5768c63c4738abefae7d262cf833@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8320499840212336479=="
+
+--===============8320499840212336479==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Autopay for your Cloudscape bill has been set up, starting August 24.
+
+Thank you for banking with us.
+
+--===============8320499840212336479==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Autopay Setup Confirmation</h3>
+    <p>Autopay for your Cloudscape bill has been set up, starting August 24.<=
+/p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============8320499840212336479==--

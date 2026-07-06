@@ -1,0 +1,34 @@
+From: Coral Health <coral36@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Mon, 23 Feb 2026 18:00:00 -0000
+Message-ID: <09f7aa39a8d843f891fcc030e049664c@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8931269483917009961=="
+
+--===============8931269483917009961==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Vertex Bank was delivered on December 05. Rate your experie=
+nce.
+
+Thanks for being a valued customer.
+
+--===============8931269483917009961==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Vertex Bank was delivered on December 05. Rate your =
+experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8931269483917009961==--

@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Tue, 27 Jan 2026 10:45:00 -0000
+Message-ID: <5cb41109a0d24c55bf9eef4d8caf85d4@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6154611588459140420=="
+
+--===============6154611588459140420==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 16.4% this quarter. View details: htt=
+ps://vertexbank.com/accounts
+
+Regards,
+Customer Service Team
+
+--===============6154611588459140420==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 16.4% this quarter. View detai=
+ls: https://vertexbank.com/accounts</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6154611588459140420==--

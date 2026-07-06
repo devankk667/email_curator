@@ -1,0 +1,34 @@
+From: Priya Kim <priya@freegift-alert.net>
+To: you@myinbox.com
+Subject: Final Notice: Unusual Login Detected
+Date: Sun, 21 Jun 2026 14:05:00 -0000
+Message-ID: <1c81fa58b0544d3d8ffdbea23456a835@freegift-alert.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2232084300637649103=="
+
+--===============2232084300637649103==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+We detected a login from Tokyo. Confirm it was you or your account will be lo=
+cked: http://secure-verify-account.com/login
+
+Don't miss this one-time opportunity!
+
+--===============2232084300637649103==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Final Notice: Unusual Login Detected</h3>
+    <p>We detected a login from Tokyo. Confirm it was you or your account wil=
+l be locked: http://secure-verify-account.com/login</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============2232084300637649103==--

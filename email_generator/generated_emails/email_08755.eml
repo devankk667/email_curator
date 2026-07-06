@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood18@bookings.com>
+To: you@myinbox.com
+Subject: Boarding Pass Attached
+Date: Mon, 05 Jan 2026 14:15:00 -0000
+Message-ID: <a2d2c94916504a4fa10e8fe4924ccd4e@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1676014089774723734=="
+
+--===============1676014089774723734==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your boarding pass for the December 24 flight to Mumbai is attached to this e=
+mail.
+
+Regards,
+Reservations Desk
+
+--===============1676014089774723734==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Boarding Pass Attached</h3>
+    <p>Your boarding pass for the December 24 flight to Mumbai is attached to=
+ this email.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============1676014089774723734==--

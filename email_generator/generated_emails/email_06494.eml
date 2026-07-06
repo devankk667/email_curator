@@ -1,0 +1,36 @@
+From: PixelWorks <pixelworks@citibank.com>
+To: you@myinbox.com
+Subject: Credit Card Statement Generated
+Date: Sun, 19 Apr 2026 20:05:00 -0000
+Message-ID: <06cf970d4dc34b1aa3dcfdb4ea0f245d@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5551992432040858980=="
+
+--===============5551992432040858980==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your credit card statement for the period ending March 07 is ready.
+Total due: INR 7500.
+Minimum due: INR 7500.
+
+Regards,
+Customer Service Team
+
+--===============5551992432040858980==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Credit Card Statement Generated</h3>
+    <p>Your credit card statement for the period ending March 07 is ready.</p=
+><p>Total due: INR 7500.</p><p>Minimum due: INR 7500.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5551992432040858980==--

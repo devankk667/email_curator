@@ -1,0 +1,35 @@
+From: Brightline Media <brightline@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Sun, 07 Jun 2026 16:00:00 -0000
+Message-ID: <cc6e5315bee24c1d9117cef88bdef90d@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9163340204553840101=="
+
+--===============9163340204553840101==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Starforge Games was delivered on October 11. Rate your expe=
+rience.
+
+Happy Shopping!
+The Team
+
+--===============9163340204553840101==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Starforge Games was delivered on October 11. Rate yo=
+ur experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============9163340204553840101==--

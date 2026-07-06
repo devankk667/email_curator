@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@amazon.in>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Tue, 26 May 2026 18:10:00 -0000
+Message-ID: <439ca23b98f940c5bbc3890483f55de6@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5821075100929241904=="
+
+--===============5821075100929241904==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #5 from Brightline Media has shipped and will arrive by July 13. T=
+rack it: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============5821075100929241904==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #5 from Brightline Media has shipped and will arrive by Jul=
+y 13. Track it: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============5821075100929241904==--

@@ -1,0 +1,35 @@
+From: Priya Rossi <priya@university.edu>
+To: you@myinbox.com
+Subject: Fee Payment Reminder
+Date: Fri, 22 May 2026 07:05:00 -0000
+Message-ID: <deccbbd220894d4795c25e7288064555@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4680013767552960849=="
+
+--===============4680013767552960849==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your semester fee of INR 2500 is due by February 11.
+Pay online via the student portal to avoid late charges.
+
+Regards,
+Office of Academic Affairs
+
+--===============4680013767552960849==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fee Payment Reminder</h3>
+    <p>Your semester fee of INR 2500 is due by February 11.</p><p>Pay online =
+via the student portal to avoid late charges.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============4680013767552960849==--

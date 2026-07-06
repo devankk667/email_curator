@@ -1,0 +1,35 @@
+From: James Dubois <james@campusmail.edu>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Mon, 27 Apr 2026 14:10:00 -0000
+Message-ID: <e1db24bb12a54b36a054f4bb644c8879@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1341479425057529104=="
+
+--===============1341479425057529104==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Database Systems lecture originally on April 23 has been moved to October=
+ 15, Room 210.
+
+Thank you,
+Examination Cell
+
+--===============1341479425057529104==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Database Systems lecture originally on April 23 has been moved to =
+October 15, Room 210.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============1341479425057529104==--

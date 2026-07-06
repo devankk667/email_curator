@@ -1,0 +1,34 @@
+From: Nimbus Retail <nimbus@nimbusretail.com>
+To: you@myinbox.com
+Subject: Wishlist Reminder
+Date: Mon, 23 Mar 2026 12:20:00 -0000
+Message-ID: <a8cad94043f848e291b31e8fef47362f@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2563735704188393851=="
+
+--===============2563735704188393851==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Items in your wishlist are still available. Buy now before prices go up on De=
+cember 18.
+
+Thanks for being a valued customer.
+
+--===============2563735704188393851==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Wishlist Reminder</h3>
+    <p>Items in your wishlist are still available. Buy now before prices go u=
+p on December 18.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2563735704188393851==--

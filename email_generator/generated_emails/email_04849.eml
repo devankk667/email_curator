@@ -1,0 +1,29 @@
+From: Lucas Patel <lucas@linkedin.com>
+To: you@myinbox.com
+Subject: Omar Garcia liked your photo
+Date: Thu, 26 Feb 2026 13:15:00 -0000
+Message-ID: <44e656be3a124597a9e213102924511f@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5483985288012520793=="
+
+--===============5483985288012520793==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Rahul Sharma and 9 others liked your recent photo.
+
+--===============5483985288012520793==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Omar Garcia liked your photo</h3>
+    <p>Rahul Sharma and 9 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============5483985288012520793==--

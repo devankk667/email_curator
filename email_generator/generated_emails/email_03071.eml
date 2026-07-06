@@ -1,0 +1,47 @@
+From: Elena Patel <elena15@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Your Account Password Expired
+Date: Mon, 11 May 2026 18:10:00 -0000
+Message-ID: <ec73eca8ac6f4c16bb65da86183be11e@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0568654866424133585=="
+
+--===============0568654866424133585==
+Content-Type: multipart/alternative;
+ boundary="===============7214100126708085394=="
+
+--===============7214100126708085394==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Click here immediately to reset your password or lose access permanently: htt=
+p://secure-verify-account.com/login
+
+Act now, offer expires soon!
+
+--===============7214100126708085394==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Account Password Expired</h3>
+    <p>Click here immediately to reset your password or lose access permanent=
+ly: http://secure-verify-account.com/login</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============7214100126708085394==--
+
+--===============0568654866424133585==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============0568654866424133585==--

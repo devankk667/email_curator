@@ -1,0 +1,35 @@
+From: Aisha Rossi <aisha@college.ac.in>
+To: you@myinbox.com
+Subject: Scholarship Application Open
+Date: Thu, 04 Jun 2026 06:15:00 -0000
+Message-ID: <d61967d437a24ec3bc1be1d8f8372e2a@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2060431300200697665=="
+
+--===============2060431300200697665==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Applications for the merit scholarship are open until October 03. Award amoun=
+t: INR 3999. Apply here: https://portal.university.edu/exams
+
+Thank you,
+Examination Cell
+
+--===============2060431300200697665==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Scholarship Application Open</h3>
+    <p>Applications for the merit scholarship are open until October 03. Awar=
+d amount: INR 3999. Apply here: https://portal.university.edu/exams</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============2060431300200697665==--

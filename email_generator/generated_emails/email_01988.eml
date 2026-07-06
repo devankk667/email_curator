@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Sat, 18 Apr 2026 14:15:00 -0000
+Message-ID: <54a673123b214837ae83fb5be7c5be1e@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5049382027130740379=="
+
+--===============5049382027130740379==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Fresco Foods was delivered on October 05. Rate your experie=
+nce.
+
+Happy Shopping!
+The Team
+
+--===============5049382027130740379==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Fresco Foods was delivered on October 05. Rate your =
+experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============5049382027130740379==--

@@ -1,0 +1,35 @@
+From: Anchorpoint Realty <anchorpoint@citibank.com>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Sun, 07 Jun 2026 20:30:00 -0000
+Message-ID: <f61a17d25d7c40748686c007e1b317f0@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0623594420108649507=="
+
+--===============0623594420108649507==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 25000 matured on January 05. Choose to renew or wit=
+hdraw.
+
+Regards,
+Customer Service Team
+
+--===============0623594420108649507==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 25000 matured on January 05. Choose to renew=
+ or withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============0623594420108649507==--

@@ -1,0 +1,34 @@
+From: Coral Health <coral@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Wed, 07 Jan 2026 15:00:00 -0000
+Message-ID: <2dff6806f1a5482db8e3b6205ad7a375@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3352741574135525485=="
+
+--===============3352741574135525485==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 999. Add funds here: https://payflow.com/da=
+shboard
+
+Thank you for banking with us.
+
+--===============3352741574135525485==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 999. Add funds here: https://payflow=
+.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3352741574135525485==--

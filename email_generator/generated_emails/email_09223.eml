@@ -1,0 +1,49 @@
+From: Orbit Logistics <orbit@makemytrip.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Sun, 10 May 2026 12:45:00 -0000
+Message-ID: <607db63f39df496cb518667bb0745519@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5286995106475108881=="
+
+--===============5286995106475108881==
+Content-Type: multipart/alternative;
+ boundary="===============4546187439943026318=="
+
+--===============4546187439943026318==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Toronto as of April 05. Read t=
+he advisory: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============4546187439943026318==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Toronto as of April 05.=
+ Read the advisory: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============4546187439943026318==--
+
+--===============5286995106475108881==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============5286995106475108881==--

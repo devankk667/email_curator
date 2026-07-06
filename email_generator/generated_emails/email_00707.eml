@@ -1,0 +1,33 @@
+From: Meridian Airlines <meridian@myntra.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Fri, 02 Jan 2026 06:45:00 -0000
+Message-ID: <9a00d03e0a29495ba6d9815b15a285d3@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0425914441713999049=="
+
+--===============0425914441713999049==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your package from Zynta Corp was delivered on March 02. Rate your experience.
+
+Thanks for being a valued customer.
+
+--===============0425914441713999049==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Zynta Corp was delivered on March 02. Rate your expe=
+rience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0425914441713999049==--

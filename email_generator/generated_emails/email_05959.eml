@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@vertexbank.com>
+To: you@myinbox.com
+Subject: Credit Card Statement Generated
+Date: Sat, 07 Feb 2026 11:30:00 -0000
+Message-ID: <136d5f190a504e54be4e9a756a1cc890@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2612714402588574966=="
+
+--===============2612714402588574966==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your credit card statement for the period ending July 23 is ready.
+Total due: INR 499.
+Minimum due: INR 2500.
+
+Thank you for banking with us.
+
+--===============2612714402588574966==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Credit Card Statement Generated</h3>
+    <p>Your credit card statement for the period ending July 23 is ready.</p>=
+<p>Total due: INR 499.</p><p>Minimum due: INR 2500.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============2612714402588574966==--

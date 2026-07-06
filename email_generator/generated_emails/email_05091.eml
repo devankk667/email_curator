@@ -1,0 +1,44 @@
+From: Lucas Khan <lucas@facebookmail.com>
+To: you@myinbox.com
+Subject: New Follower
+Date: Sun, 21 Jun 2026 11:00:00 -0000
+Message-ID: <5704371dbed64174a31ab7a11bc4b0ee@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2158237516538554220=="
+
+--===============2158237516538554220==
+Content-Type: multipart/alternative;
+ boundary="===============3089143854442918315=="
+
+--===============3089143854442918315==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sara Kim started following you. See their profile: https://instagram.com/noti=
+fications
+
+--===============3089143854442918315==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Follower</h3>
+    <p>Sara Kim started following you. See their profile: https://instagram.c=
+om/notifications</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============3089143854442918315==--
+
+--===============2158237516538554220==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============2158237516538554220==--

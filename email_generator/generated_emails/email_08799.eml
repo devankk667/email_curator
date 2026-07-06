@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@airindia.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Thu, 12 Mar 2026 20:20:00 -0000
+Message-ID: <d5203db1f9004332bdbed531004cabef@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4560580964230000050=="
+
+--===============4560580964230000050==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Chennai has been rescheduled to May 21. Please chec=
+k your booking.
+
+Regards,
+Reservations Desk
+
+--===============4560580964230000050==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Chennai has been rescheduled to May 21. Plea=
+se check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============4560580964230000050==--

@@ -1,0 +1,31 @@
+From: Meetup <meetup@instagram.com>
+To: you@myinbox.com
+Subject: Meera Khan tagged you in a photo
+Date: Fri, 02 Jan 2026 17:20:00 -0000
+Message-ID: <0f5a15796eaa4c8d9e2032331343a123@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1667553245971436673=="
+
+--===============1667553245971436673==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Liam Smith tagged you in a photo from 'the hackathon kickoff'. Check it out a=
+nd leave a comment!
+
+--===============1667553245971436673==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Meera Khan tagged you in a photo</h3>
+    <p>Liam Smith tagged you in a photo from 'the hackathon kickoff'. Check i=
+t out and leave a comment!</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============1667553245971436673==--

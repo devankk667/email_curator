@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex@meridianair.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Wed, 13 May 2026 16:15:00 -0000
+Message-ID: <7df2b12e0e554605a2d032ce200d5874@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5069646673798060372=="
+
+--===============5069646673798060372==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 1499 for the cancelled Chennai trip has been processed. De=
+tails: https://meridianair.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============5069646673798060372==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 1499 for the cancelled Chennai trip has been proces=
+sed. Details: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============5069646673798060372==--

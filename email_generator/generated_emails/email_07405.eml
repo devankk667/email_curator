@@ -1,0 +1,36 @@
+From: Kenji Nguyen <kenji@university.edu>
+To: you@myinbox.com
+Subject: Computer Networks Exam Schedule
+Date: Thu, 19 Mar 2026 11:15:00 -0000
+Message-ID: <87c520b10c11421aa5dac016a58eb8c2@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0807580852916701550=="
+
+--===============0807580852916701550==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Discrete Mathematics exam is on May 16.
+Please submit Assignment 5 before June 29.
+Venue: Room 392, Main Block.
+
+Thank you,
+Examination Cell
+
+--===============0807580852916701550==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Computer Networks Exam Schedule</h3>
+    <p>Discrete Mathematics exam is on May 16.</p><p>Please submit Assignment=
+ 5 before June 29.</p><p>Venue: Room 392, Main Block.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============0807580852916701550==--

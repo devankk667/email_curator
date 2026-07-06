@@ -1,0 +1,36 @@
+From: Coral Health <coral23@citibank.com>
+To: you@myinbox.com
+Subject: Credit Card Statement Generated
+Date: Fri, 01 May 2026 08:10:00 -0000
+Message-ID: <c75294a98d70428792d31a783d591524@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1256471607824085476=="
+
+--===============1256471607824085476==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your credit card statement for the period ending February 17 is ready.
+Total due: INR 199.
+Minimum due: INR 3999.
+
+Regards,
+Customer Service Team
+
+--===============1256471607824085476==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Credit Card Statement Generated</h3>
+    <p>Your credit card statement for the period ending February 17 is ready.=
+</p><p>Total due: INR 199.</p><p>Minimum due: INR 3999.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1256471607824085476==--

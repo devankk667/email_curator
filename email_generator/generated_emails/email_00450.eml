@@ -1,0 +1,32 @@
+From: Quanta Labs <quanta@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Tue, 26 May 2026 07:30:00 -0000
+Message-ID: <5ad68a4df6144fbdbeb5d9e67625d8ea@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4370569239150332021=="
+
+--===============4370569239150332021==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Zynta Corp membership renews on June 02 for INR 45000.
+
+Thanks for being a valued customer.
+
+--===============4370569239150332021==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Zynta Corp membership renews on June 02 for INR 45000.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4370569239150332021==--

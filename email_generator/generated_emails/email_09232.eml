@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit98@makemytrip.com>
+To: you@myinbox.com
+Subject: Boarding Pass Attached
+Date: Sat, 11 Apr 2026 08:45:00 -0000
+Message-ID: <a13e625b47254fb8beeff84a69c541f8@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4786358882112104584=="
+
+--===============4786358882112104584==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your boarding pass for the May 14 flight to New York is attached to this emai=
+l.
+
+Safe travels,
+Booking Support Team
+
+--===============4786358882112104584==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Boarding Pass Attached</h3>
+    <p>Your boarding pass for the May 14 flight to New York is attached to th=
+is email.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============4786358882112104584==--

@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Thu, 01 Jan 2026 21:45:00 -0000
+Message-ID: <f7a24b93018d415d8d3e7f2d388c1a72@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2922321372486184915=="
+
+--===============2922321372486184915==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before No=
+vember 16 to avoid penalties.
+
+Regards,
+Customer Service Team
+
+--===============2922321372486184915==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore November 16 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2922321372486184915==--

@@ -1,0 +1,36 @@
+From: Fresco Foods <fresco@vertexbank.com>
+To: you@myinbox.com
+Subject: Credit Card Statement Generated
+Date: Mon, 16 Mar 2026 07:05:00 -0000
+Message-ID: <db237644bbaf4cd8bc0ca591f1ac415a@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8323275621170782799=="
+
+--===============8323275621170782799==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your credit card statement for the period ending January 05 is ready.
+Total due: INR 999.
+Minimum due: INR 999.
+
+Regards,
+Customer Service Team
+
+--===============8323275621170782799==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Credit Card Statement Generated</h3>
+    <p>Your credit card statement for the period ending January 05 is ready.<=
+/p><p>Total due: INR 999.</p><p>Minimum due: INR 999.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8323275621170782799==--

@@ -1,0 +1,35 @@
+From: Yuki Nguyen <yuki@university.edu>
+To: you@myinbox.com
+Subject: Convocation Notice
+Date: Thu, 05 Feb 2026 15:15:00 -0000
+Message-ID: <aade177ba23c4b4a9e2f046d64423002@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2483504604478307773=="
+
+--===============2483504604478307773==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Convocation ceremony will be held on April 29. Collect your gown by November =
+07.
+
+Regards,
+Office of Academic Affairs
+
+--===============2483504604478307773==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Convocation Notice</h3>
+    <p>Convocation ceremony will be held on April 29. Collect your gown by No=
+vember 07.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============2483504604478307773==--

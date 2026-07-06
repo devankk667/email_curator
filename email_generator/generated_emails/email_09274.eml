@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit50@airindia.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Sat, 04 Apr 2026 06:30:00 -0000
+Message-ID: <8da929e678c64c62840c0dbd97251e1d@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0695075779890167424=="
+
+--===============0695075779890167424==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Dubai from July 20 to February 06 is confirmed. Booking ID=
+: 482392. Manage booking: https://makemytrip.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============0695075779890167424==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Dubai from July 20 to February 06 is confirmed. Boo=
+king ID: 482392. Manage booking: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============0695075779890167424==--

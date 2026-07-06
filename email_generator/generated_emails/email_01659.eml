@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@amazon.in>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Fri, 22 May 2026 10:45:00 -0000
+Message-ID: <a160cd0b674a4a239c23d91d7694f640@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0435660908748972717=="
+
+--===============0435660908748972717==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Fernwood Analytics was delivered on December 21. Rate your =
+experience.
+
+Happy Shopping!
+The Team
+
+--===============0435660908748972717==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Fernwood Analytics was delivered on December 21. Rat=
+e your experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============0435660908748972717==--

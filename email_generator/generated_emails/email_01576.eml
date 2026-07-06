@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian22@myntra.com>
+To: you@myinbox.com
+Subject: New Arrivals in Your Category
+Date: Thu, 11 Jun 2026 07:45:00 -0000
+Message-ID: <913825333b684a148a82fc351baf307d@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1261041223563049344=="
+
+--===============1261041223563049344==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New arrivals from Nimbus Retail matching your interests are now live: https:/=
+/flipkart.com/returns
+
+Happy Shopping!
+The Team
+
+--===============1261041223563049344==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Arrivals in Your Category</h3>
+    <p>New arrivals from Nimbus Retail matching your interests are now live: =
+https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1261041223563049344==--

@@ -1,0 +1,35 @@
+From: Liam Tanaka <liam@linkedin.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Fri, 02 Jan 2026 14:05:00 -0000
+Message-ID: <d95d9b23ff9349fc890acec09e297701@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5076044782407465850=="
+
+--===============5076044782407465850==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Business Analyst role at Meridian Airlines. Our=
+ team will review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============5076044782407465850==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Business Analyst role at Meridian Airlin=
+es. Our team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============5076044782407465850==--

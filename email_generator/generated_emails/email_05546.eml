@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Fri, 20 Feb 2026 14:20:00 -0000
+Message-ID: <0fa6503569844ef39ea2c3634ed0f449@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3099787264154788143=="
+
+--===============3099787264154788143==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 12000 has been credited to your account on May 04 as salary from Cloudsca=
+pe.
+
+Regards,
+Customer Service Team
+
+--===============3099787264154788143==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 12000 has been credited to your account on May 04 as salary from C=
+loudscape.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3099787264154788143==--

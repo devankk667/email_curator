@@ -1,0 +1,49 @@
+From: Zynta Corp <zynta@makemytrip.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Fri, 16 Jan 2026 10:30:00 -0000
+Message-ID: <8a01f88784e74d59bfa55c9f610f780d@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2600377338757091759=="
+
+--===============2600377338757091759==
+Content-Type: multipart/alternative;
+ boundary="===============0597224408350752050=="
+
+--===============0597224408350752050==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Amsterdam starts on November 14. Don't forget to check the weath=
+er and pack accordingly.
+
+Safe travels,
+Booking Support Team
+
+--===============0597224408350752050==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Amsterdam starts on November 14. Don't forget to check th=
+e weather and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============0597224408350752050==--
+
+--===============2600377338757091759==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============2600377338757091759==--

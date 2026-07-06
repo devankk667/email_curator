@@ -1,0 +1,34 @@
+From: Coral Health <coral@vertexbank.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Sat, 18 Apr 2026 20:15:00 -0000
+Message-ID: <cd781051f4964244b143662356ec8c14@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2255997118193896931=="
+
+--===============2255997118193896931==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Ju=
+ly 18 to avoid penalties.
+
+Thank you for banking with us.
+
+--===============2255997118193896931==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore July 18 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============2255997118193896931==--

@@ -1,0 +1,34 @@
+From: Nina Smith <nina61@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Lottery Winner Notification
+Date: Mon, 09 Mar 2026 13:10:00 -0000
+Message-ID: <23bed17e6abe424f9105750ba0436668@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0975939834800113428=="
+
+--===============0975939834800113428==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your email was randomly selected in the International Lottery. Prize: $3999. =
+Reply to claim.
+
+Act now, offer expires soon!
+
+--===============0975939834800113428==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Lottery Winner Notification</h3>
+    <p>Your email was randomly selected in the International Lottery. Prize: =
+$3999. Reply to claim.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============0975939834800113428==--

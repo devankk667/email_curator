@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood@makemytrip.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Tue, 12 May 2026 18:05:00 -0000
+Message-ID: <3cfee7d8dd0e4c72aa2d3d5f74c2112d@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2630532965729763312=="
+
+--===============2630532965729763312==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Singapore from June 04 to April 02 is confirmed. Booking I=
+D: 898019. Manage booking: https://meridianair.com/checkin
+
+Regards,
+Reservations Desk
+
+--===============2630532965729763312==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Singapore from June 04 to April 02 is confirmed. Bo=
+oking ID: 898019. Manage booking: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2630532965729763312==--

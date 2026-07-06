@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@flipkart.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Fri, 24 Apr 2026 19:05:00 -0000
+Message-ID: <ee37def101394cd68c32163aeea70b7f@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0731169539056352344=="
+
+--===============0731169539056352344==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #5 has been received. Refund of INR 3999 will be proces=
+sed by October 06. Details: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============0731169539056352344==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #5 has been received. Refund of INR 3999 will be=
+ processed by October 06. Details: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============0731169539056352344==--

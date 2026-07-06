@@ -1,0 +1,34 @@
+From: Vertex Bank <vertex@citibank.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Thu, 22 Jan 2026 12:20:00 -0000
+Message-ID: <738cd9f185ec45bbb57c631e0745cda9@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3422946767292842298=="
+
+--===============3422946767292842298==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before De=
+cember 28 to avoid penalties.
+
+Thank you for banking with us.
+
+--===============3422946767292842298==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore December 28 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3422946767292842298==--

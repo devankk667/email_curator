@@ -1,0 +1,34 @@
+From: Mei Reddy <mei22@university.edu>
+To: you@myinbox.com
+Subject: Hostel Fee Due
+Date: Mon, 09 Feb 2026 13:30:00 -0000
+Message-ID: <9a1be7f916b147cd937a2f2d9328dea9@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5330863808809880844=="
+
+--===============5330863808809880844==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your hostel fee of INR 12000 is due by March 03. Pay via the accounts office.
+
+Regards,
+Office of Academic Affairs
+
+--===============5330863808809880844==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hostel Fee Due</h3>
+    <p>Your hostel fee of INR 12000 is due by March 03. Pay via the accounts =
+office.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============5330863808809880844==--

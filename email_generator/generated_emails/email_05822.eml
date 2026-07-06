@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@payflow.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Thu, 07 May 2026 09:05:00 -0000
+Message-ID: <9a70771ec42a41ec9af3e84bb9d3c486@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1225625015313125112=="
+
+--===============1225625015313125112==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 12000 has been credited to your account on February 15 as salary from Pix=
+elWorks.
+
+Regards,
+Customer Service Team
+
+--===============1225625015313125112==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 12000 has been credited to your account on February 15 as salary f=
+rom PixelWorks.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1225625015313125112==--

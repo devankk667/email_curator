@@ -1,0 +1,35 @@
+From: Starforge Games <starforge@citibank.com>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Thu, 30 Apr 2026 08:10:00 -0000
+Message-ID: <518b7dd913aa45549ba914ad461e377b@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7782101945631096047=="
+
+--===============7782101945631096047==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 499 matured on March 26. Choose to renew or withdra=
+w.
+
+Regards,
+Customer Service Team
+
+--===============7782101945631096047==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 499 matured on March 26. Choose to renew or =
+withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============7782101945631096047==--

@@ -1,0 +1,35 @@
+From: Carlos Sharma <carlos@university.edu>
+To: you@myinbox.com
+Subject: Result Declaration
+Date: Wed, 03 Jun 2026 10:10:00 -0000
+Message-ID: <d1b0d1e66ac84d60a40044a86a501f9e@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5058577475680824010=="
+
+--===============5058577475680824010==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Results for the Software Engineering mid-semester exam have been published. C=
+heck your grades: https://portal.university.edu/exams
+
+Thank you,
+Examination Cell
+
+--===============5058577475680824010==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Result Declaration</h3>
+    <p>Results for the Software Engineering mid-semester exam have been publi=
+shed. Check your grades: https://portal.university.edu/exams</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============5058577475680824010==--

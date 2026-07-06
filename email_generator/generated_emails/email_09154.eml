@@ -1,0 +1,49 @@
+From: Coral Health <coral@makemytrip.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Fri, 06 Feb 2026 08:05:00 -0000
+Message-ID: <421f934918764dc18afb2fcc92d80582@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9057734673562163277=="
+
+--===============9057734673562163277==
+Content-Type: multipart/alternative;
+ boundary="===============6412397906775688740=="
+
+--===============6412397906775688740==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 1499 for the cancelled Delhi trip has been processed. Deta=
+ils: https://meridianair.com/checkin
+
+Safe travels,
+Booking Support Team
+
+--===============6412397906775688740==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 1499 for the cancelled Delhi trip has been processe=
+d. Details: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============6412397906775688740==--
+
+--===============9057734673562163277==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============9057734673562163277==--

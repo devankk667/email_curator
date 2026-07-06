@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@bookings.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Sun, 21 Jun 2026 07:10:00 -0000
+Message-ID: <369c13b906ea420b888a4d6f34c3c4fb@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0932752417934969837=="
+
+--===============0932752417934969837==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to London has been rescheduled to October 20. Please c=
+heck your booking.
+
+Safe travels,
+Booking Support Team
+
+--===============0932752417934969837==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to London has been rescheduled to October 20. P=
+lease check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============0932752417934969837==--

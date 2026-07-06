@@ -1,0 +1,33 @@
+From: Zynta Corp <zynta@flipkart.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Sun, 11 Jan 2026 12:45:00 -0000
+Message-ID: <d529158a9f2d4d2f994c1e17202d564e@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5107005600580053955=="
+
+--===============5107005600580053955==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Meridian Airlines membership renews on December 12 for INR 45000.
+
+Thanks for being a valued customer.
+
+--===============5107005600580053955==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Meridian Airlines membership renews on December 12 for INR 45000.=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5107005600580053955==--

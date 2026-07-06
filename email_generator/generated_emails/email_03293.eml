@@ -1,0 +1,47 @@
+From: Carlos Patel <carlos@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Your Subscription is Expiring, Act Now
+Date: Wed, 04 Mar 2026 16:00:00 -0000
+Message-ID: <16061f6a4f8f49b2a0a0799805168065@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2560094886344246557=="
+
+--===============2560094886344246557==
+Content-Type: multipart/alternative;
+ boundary="===============3870386957034326007=="
+
+--===============3870386957034326007==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Renew now to avoid losing access. Special price: INR 12000, today only: http:=
+//account-update-now.info/confirm
+
+Act now, offer expires soon!
+
+--===============3870386957034326007==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Subscription is Expiring, Act Now</h3>
+    <p>Renew now to avoid losing access. Special price: INR 12000, today only=
+: http://account-update-now.info/confirm</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============3870386957034326007==--
+
+--===============2560094886344246557==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============2560094886344246557==--

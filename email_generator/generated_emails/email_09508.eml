@@ -1,0 +1,34 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Utility Bill Subsidy Update
+Date: Fri, 13 Feb 2026 11:45:00 -0000
+Message-ID: <db32bf62c54b49ec931ff37c43804b93@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3648815884607060001=="
+
+--===============3648815884607060001==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You are eligible for a subsidy of INR 999 on your utility bill this quarter.
+
+Regards,
+Public Services Department
+
+--===============3648815884607060001==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Utility Bill Subsidy Update</h3>
+    <p>You are eligible for a subsidy of INR 999 on your utility bill this qu=
+arter.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============3648815884607060001==--

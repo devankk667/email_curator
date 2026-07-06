@@ -1,0 +1,34 @@
+From: Quanta Labs <quanta@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Mon, 09 Mar 2026 14:45:00 -0000
+Message-ID: <5449f3c7989a48c28b79014305ff1d90@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3733544322759156964=="
+
+--===============3733544322759156964==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #9 from Zynta Corp is delayed and will now arrive by March 03 inst=
+ead of October 29. Track: https://flipkart.com/returns
+
+Thanks for being a valued customer.
+
+--===============3733544322759156964==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #9 from Zynta Corp is delayed and will now arrive by March =
+03 instead of October 29. Track: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============3733544322759156964==--

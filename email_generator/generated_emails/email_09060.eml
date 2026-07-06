@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta43@meridianair.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Tue, 28 Apr 2026 09:45:00 -0000
+Message-ID: <e82255adaeb5489ab790b79aa5175c9b@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8768784680380183557=="
+
+--===============8768784680380183557==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Dubai has been rescheduled to April 07. Please chec=
+k your booking.
+
+Regards,
+Reservations Desk
+
+--===============8768784680380183557==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Dubai has been rescheduled to April 07. Plea=
+se check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8768784680380183557==--

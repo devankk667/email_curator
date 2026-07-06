@@ -1,0 +1,31 @@
+From: Instagram <instagram66@linkedin.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Fri, 17 Apr 2026 13:05:00 -0000
+Message-ID: <1351f01f7cd942bebba2865d0d5dac6e@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8198620835638003802=="
+
+--===============8198620835638003802==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Aisha Reddy's birthday on March 23! Send them a message to make their da=
+y.
+
+--===============8198620835638003802==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Aisha Reddy's birthday on March 23! Send them a message to make t=
+heir day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8198620835638003802==--

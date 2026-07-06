@@ -1,0 +1,35 @@
+From: Mei Nguyen <mei@naukri.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Sat, 04 Apr 2026 22:30:00 -0000
+Message-ID: <cf808027f59a48ad862b0087c4ca285a@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3043271125404508953=="
+
+--===============3043271125404508953==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: Backend Developer at Zynta Corp, =
+London. Apply now: https://workday.com/candidate
+
+Best regards,
+Talent Acquisition Team
+
+--===============3043271125404508953==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: Backend Developer at Zynta=
+ Corp, London. Apply now: https://workday.com/candidate</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============3043271125404508953==--

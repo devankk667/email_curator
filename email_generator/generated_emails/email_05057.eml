@@ -1,0 +1,29 @@
+From: Rahul Nguyen <rahul@instagram.com>
+To: you@myinbox.com
+Subject: Isabella Khan liked your photo
+Date: Sun, 22 Feb 2026 18:10:00 -0000
+Message-ID: <22b65152388a4ee39752f0a53b41efaf@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1792027804670520246=="
+
+--===============1792027804670520246==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Fatima Garcia and 1 others liked your recent photo.
+
+--===============1792027804670520246==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Isabella Khan liked your photo</h3>
+    <p>Fatima Garcia and 1 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============1792027804670520246==--

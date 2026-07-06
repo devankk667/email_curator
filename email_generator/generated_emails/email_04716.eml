@@ -1,0 +1,29 @@
+From: Instagram <instagram@facebookmail.com>
+To: you@myinbox.com
+Subject: Poke from Kenji Novak
+Date: Wed, 18 Mar 2026 17:05:00 -0000
+Message-ID: <5cf1096faa9e4b25b4a73a2c0a1623ca@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6360552332811372108=="
+
+--===============6360552332811372108==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Kenji Reddy poked you. Poke them back!
+
+--===============6360552332811372108==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Kenji Novak</h3>
+    <p>Kenji Reddy poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6360552332811372108==--

@@ -1,0 +1,35 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Passport Renewal Reminder
+Date: Thu, 16 Apr 2026 17:00:00 -0000
+Message-ID: <a52943b222dd49acba4c7c170f2e0bff@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3884373140700269756=="
+
+--===============3884373140700269756==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your passport is due for renewal within 6 months. Schedule an appointment bef=
+ore November 20.
+
+Regards,
+Public Services Department
+
+--===============3884373140700269756==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Passport Renewal Reminder</h3>
+    <p>Your passport is due for renewal within 6 months. Schedule an appointm=
+ent before November 20.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============3884373140700269756==--

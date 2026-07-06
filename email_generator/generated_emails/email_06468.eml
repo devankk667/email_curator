@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@payflow.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Fri, 12 Jun 2026 19:10:00 -0000
+Message-ID: <89faeb03bf09470ba0d3e725ad36971f@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6451164956097922182=="
+
+--===============6451164956097922182==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 499 has been credited to your account on May 08 as salary from Vertex Ban=
+k.
+
+Regards,
+Customer Service Team
+
+--===============6451164956097922182==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 499 has been credited to your account on May 08 as salary from Ver=
+tex Bank.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6451164956097922182==--

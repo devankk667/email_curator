@@ -1,0 +1,34 @@
+From: Fernwood Analytics <fernwood@flipkart.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Fri, 12 Jun 2026 09:20:00 -0000
+Message-ID: <3c66227e56504f649fd86e3ea57fc754@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2861229973181084804=="
+
+--===============2861229973181084804==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #7 has been received. Refund of INR 45000 will be proce=
+ssed by April 09. Details: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============2861229973181084804==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #7 has been received. Refund of INR 45000 will b=
+e processed by April 09. Details: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2861229973181084804==--

@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian@makemytrip.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Thu, 16 Apr 2026 14:30:00 -0000
+Message-ID: <8b3e5a2c876e43269a553083e99a6b00@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6239207214651300474=="
+
+--===============6239207214651300474==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Mumbai as of November 29. Read=
+ the advisory: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============6239207214651300474==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Mumbai as of November 2=
+9. Read the advisory: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============6239207214651300474==--

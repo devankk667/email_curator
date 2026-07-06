@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape81@airindia.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Tue, 20 Jan 2026 08:15:00 -0000
+Message-ID: <a88f2c1d869b4ef4967cff011459a8bf@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4641155923055550795=="
+
+--===============4641155923055550795==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Tokyo from September 15 to November 04 is confirmed. Booki=
+ng ID: 196258. Manage booking: https://meridianair.com/checkin
+
+Regards,
+Reservations Desk
+
+--===============4641155923055550795==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Tokyo from September 15 to November 04 is confirmed=
+. Booking ID: 196258. Manage booking: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============4641155923055550795==--

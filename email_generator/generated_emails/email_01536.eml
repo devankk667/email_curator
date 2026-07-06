@@ -1,0 +1,48 @@
+From: Fernwood Analytics <fernwood34@myntra.com>
+To: you@myinbox.com
+Subject: Anchorpoint Realty Mega Sale
+Date: Tue, 21 Apr 2026 08:45:00 -0000
+Message-ID: <22958cb8a4164498bb65c07a5e69f8e9@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4086375100795058931=="
+
+--===============4086375100795058931==
+Content-Type: multipart/alternative;
+ boundary="===============5294505665465285824=="
+
+--===============5294505665465285824==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Up to 60% OFF on electronics and fashion.
+Sale ends May 01. Use code SAVE2 at checkout.
+
+Thanks for being a valued customer.
+
+--===============5294505665465285824==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Anchorpoint Realty Mega Sale</h3>
+    <p>Up to 60% OFF on electronics and fashion.</p><p>Sale ends May 01. Use =
+code SAVE2 at checkout.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5294505665465285824==--
+
+--===============4086375100795058931==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============4086375100795058931==--

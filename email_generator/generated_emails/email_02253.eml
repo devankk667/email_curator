@@ -1,0 +1,34 @@
+From: Diego Patel <diego41@luckywin-prize.com>
+To: you@myinbox.com
+Subject: Your Account Password Expired
+Date: Wed, 10 Jun 2026 06:10:00 -0000
+Message-ID: <e6572a4968c24e08a4b450ee97dc0be6@luckywin-prize.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1578847934970681598=="
+
+--===============1578847934970681598==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Click here immediately to reset your password or lose access permanently: htt=
+ps://luckywin-prize.com/verify
+
+Act now, offer expires soon!
+
+--===============1578847934970681598==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Account Password Expired</h3>
+    <p>Click here immediately to reset your password or lose access permanent=
+ly: https://luckywin-prize.com/verify</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============1578847934970681598==--

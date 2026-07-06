@@ -1,0 +1,49 @@
+From: James Sharma <james55@campusmail.edu>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Sat, 23 May 2026 16:05:00 -0000
+Message-ID: <d553c15d68214ebd8f2f1347cd6f4500@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2126034456558456244=="
+
+--===============2126034456558456244==
+Content-Type: multipart/alternative;
+ boundary="===============7504201178360778585=="
+
+--===============7504201178360778585==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Blockchain will be held on April 11 at 4 PM in the Seminar=
+ Hall.
+
+Thank you,
+Examination Cell
+
+--===============7504201178360778585==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Blockchain will be held on April 11 at 4 PM in the =
+Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============7504201178360778585==--
+
+--===============2126034456558456244==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============2126034456558456244==--

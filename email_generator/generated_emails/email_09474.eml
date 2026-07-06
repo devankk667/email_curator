@@ -1,0 +1,36 @@
+From: Fresco Foods <fresco@bookings.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Tue, 02 Jun 2026 14:30:00 -0000
+Message-ID: <ae4708fd947243c082a6e912000c195c@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4964255096148957122=="
+
+--===============4964255096148957122==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to London on November 01 is confirmed.
+Booking reference: 617430.
+Departure: 10:30 AM.
+
+Safe travels,
+Booking Support Team
+
+--===============4964255096148957122==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to London on November 01 is confirmed.</p><p>Booking refer=
+ence: 617430.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============4964255096148957122==--

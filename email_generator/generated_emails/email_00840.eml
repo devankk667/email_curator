@@ -1,0 +1,32 @@
+From: PixelWorks <pixelworks@flipkart.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Tue, 17 Feb 2026 06:10:00 -0000
+Message-ID: <677c52f76a5043f89b0313bb53087446@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8285950535092851323=="
+
+--===============8285950535092851323==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Brightline Media membership renews on June 14 for INR 12000.
+
+Thanks for being a valued customer.
+
+--===============8285950535092851323==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Brightline Media membership renews on June 14 for INR 12000.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8285950535092851323==--

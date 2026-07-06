@@ -1,0 +1,34 @@
+From: Orbit Logistics <orbit@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Mon, 05 Jan 2026 15:45:00 -0000
+Message-ID: <4ea6376f21ad4d7abb0ecb8c1c23f246@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7444359329242640303=="
+
+--===============7444359329242640303==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 199 has been credited to your account on April 12 as salary from Anchorpo=
+int Realty.
+
+Thank you for banking with us.
+
+--===============7444359329242640303==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 199 has been credited to your account on April 12 as salary from A=
+nchorpoint Realty.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============7444359329242640303==--

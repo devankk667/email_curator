@@ -1,0 +1,48 @@
+From: Brightline Media <brightline@amazon.in>
+To: you@myinbox.com
+Subject: Wishlist Reminder
+Date: Wed, 24 Jun 2026 07:10:00 -0000
+Message-ID: <2acefd80454a43c3acd08ee55f0057f2@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8654426817096894530=="
+
+--===============8654426817096894530==
+Content-Type: multipart/alternative;
+ boundary="===============5651337615367371461=="
+
+--===============5651337615367371461==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Items in your wishlist are still available. Buy now before prices go up on Ma=
+y 04.
+
+Thanks for being a valued customer.
+
+--===============5651337615367371461==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Wishlist Reminder</h3>
+    <p>Items in your wishlist are still available. Buy now before prices go u=
+p on May 04.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5651337615367371461==--
+
+--===============8654426817096894530==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============8654426817096894530==--

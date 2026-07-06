@@ -1,0 +1,35 @@
+From: Brightline Media <brightline@vertexbank.com>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Sun, 11 Jan 2026 06:05:00 -0000
+Message-ID: <296ca95816424db292c550d106cb7896@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1917482682819271728=="
+
+--===============1917482682819271728==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 12.1% this quarter. View details: htt=
+ps://vertexbank.com/accounts
+
+Regards,
+Customer Service Team
+
+--===============1917482682819271728==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 12.1% this quarter. View detai=
+ls: https://vertexbank.com/accounts</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1917482682819271728==--

@@ -1,0 +1,33 @@
+From: Anchorpoint Realty <anchorpoint@citibank.com>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Sat, 21 Mar 2026 20:45:00 -0000
+Message-ID: <a249621bf92f4d0289745fe55bf2c1f6@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4107857928406185575=="
+
+--===============4107857928406185575==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your quarterly investment report is ready. Net change: 7.0% as of March 25.
+
+Thank you for banking with us.
+
+--===============4107857928406185575==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 7.0% as of Marc=
+h 25.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============4107857928406185575==--

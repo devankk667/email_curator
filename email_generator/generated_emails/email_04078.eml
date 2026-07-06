@@ -1,0 +1,34 @@
+From: Facebook <facebook@facebookmail.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Sat, 10 Jan 2026 13:15:00 -0000
+Message-ID: <f6e87f891f18464eb761d6a8296e2811@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0221641970333583180=="
+
+--===============0221641970333583180==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the hackathon kickoff on February 19. RSVP now to let the h=
+ost know you're coming.
+
+-- Sent from your notifications
+
+--===============0221641970333583180==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the hackathon kickoff on February 19. RSVP now to le=
+t the host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============0221641970333583180==--

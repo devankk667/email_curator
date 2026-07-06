@@ -1,0 +1,34 @@
+From: PixelWorks <pixelworks@workday.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Thu, 21 May 2026 14:15:00 -0000
+Message-ID: <18b7d2ca37f44585b0315662a4de566c@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0327859711798414173=="
+
+--===============0327859711798414173==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: ML Engineer at Starforge Games, C=
+hennai. Apply now: www.linkedin.com/jobs/view
+
+We look forward to hearing from you.
+
+--===============0327859711798414173==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: ML Engineer at Starforge G=
+ames, Chennai. Apply now: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============0327859711798414173==--

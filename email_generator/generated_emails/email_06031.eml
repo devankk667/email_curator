@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@vertexbank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Mon, 26 Jan 2026 09:30:00 -0000
+Message-ID: <692cd828be2448af89a623a7c5b29a55@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3530002436042764563=="
+
+--===============3530002436042764563==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 199 was debited from your account ending 4821 on December 31 at Zynta Cor=
+p.
+
+Regards,
+Customer Service Team
+
+--===============3530002436042764563==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 199 was debited from your account ending 4821 on December 31 at Zy=
+nta Corp.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3530002436042764563==--

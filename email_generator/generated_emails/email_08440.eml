@@ -1,0 +1,35 @@
+From: Ananya Mehta <ananya39@linkedin.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Thu, 08 Jan 2026 07:30:00 -0000
+Message-ID: <3b74877c7a3b4ce3b613728f4fee4761@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5787234536040389618=="
+
+--===============5787234536040389618==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: Business Analyst at PixelWorks, T=
+okyo. Apply now: https://workday.com/candidate
+
+Best regards,
+Talent Acquisition Team
+
+--===============5787234536040389618==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: Business Analyst at PixelW=
+orks, Tokyo. Apply now: https://workday.com/candidate</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============5787234536040389618==--

@@ -1,0 +1,30 @@
+From: Noah Costa <noah@facebookmail.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Sat, 11 Apr 2026 06:15:00 -0000
+Message-ID: <581c73a98d114d9ebf422a077821084a@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8904724552769529569=="
+
+--===============8904724552769529569==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+It's Kenji Chen's birthday on May 27! Send them a message to make their day.
+
+--===============8904724552769529569==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Kenji Chen's birthday on May 27! Send them a message to make thei=
+r day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8904724552769529569==--

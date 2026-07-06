@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta58@makemytrip.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Sat, 28 Feb 2026 07:15:00 -0000
+Message-ID: <91734d121a9c49328942588b1e5a8afd@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3681144053355388324=="
+
+--===============3681144053355388324==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Singapore Grand Hotel from July 11 to February 08 is confirmed. =
+Booking ID: 751491.
+
+Safe travels,
+Booking Support Team
+
+--===============3681144053355388324==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Singapore Grand Hotel from July 11 to February 08 is conf=
+irmed. Booking ID: 751491.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============3681144053355388324==--

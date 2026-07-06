@@ -1,0 +1,48 @@
+From: Brightline Media <brightline@amazon.in>
+To: you@myinbox.com
+Subject: Cart Reminder
+Date: Sat, 20 Jun 2026 22:30:00 -0000
+Message-ID: <3aefafcdc02843f680aea6dc1c157ff2@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5415330588290341202=="
+
+--===============5415330588290341202==
+Content-Type: multipart/alternative;
+ boundary="===============2932119042627847591=="
+
+--===============2932119042627847591==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You left 4 item(s) in your cart. Complete your purchase and get free shipping.
+
+Happy Shopping!
+The Team
+
+--===============2932119042627847591==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>You left 4 item(s) in your cart. Complete your purchase and get free s=
+hipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============2932119042627847591==--
+
+--===============5415330588290341202==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============5415330588290341202==--

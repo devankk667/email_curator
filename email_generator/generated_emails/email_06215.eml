@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@vertexbank.com>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Sat, 17 Jan 2026 22:20:00 -0000
+Message-ID: <d6a2930f0f6a42e793e9f854385ee0d7@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0518729571499239811=="
+
+--===============0518729571499239811==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 199 is due on July 16. Pay now to keep your policy=
+ active.
+
+Regards,
+Customer Service Team
+
+--===============0518729571499239811==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 199 is due on July 16. Pay now to keep your=
+ policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============0518729571499239811==--

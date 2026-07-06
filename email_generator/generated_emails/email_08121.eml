@@ -1,0 +1,34 @@
+From: Meera Nguyen <meera@workday.com>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Mon, 11 May 2026 12:15:00 -0000
+Message-ID: <2e50a6f9895c4ba39133b1df4ff9518a@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4874040554085699289=="
+
+--===============4874040554085699289==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Noah Reddy starred your repository on GitHub. Keep up the great work!
+
+Best regards,
+Talent Acquisition Team
+
+--===============4874040554085699289==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Noah Reddy starred your repository on GitHub. Keep up the great work!<=
+/p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============4874040554085699289==--

@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@myntra.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Mon, 04 May 2026 22:10:00 -0000
+Message-ID: <3b937336c0844d998a9252ccdf81465d@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6725000187341796450=="
+
+--===============6725000187341796450==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Fresco Foods was delivered on September 09. Rate your exper=
+ience.
+
+Happy Shopping!
+The Team
+
+--===============6725000187341796450==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Fresco Foods was delivered on September 09. Rate you=
+r experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============6725000187341796450==--

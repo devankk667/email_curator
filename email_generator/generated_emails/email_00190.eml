@@ -1,0 +1,33 @@
+From: Fernwood Analytics <fernwood84@flipkart.com>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Wed, 04 Mar 2026 18:15:00 -0000
+Message-ID: <f678dadcb5be4c8a8c9c41179fbcc4ba@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3547560262119246072=="
+
+--===============3547560262119246072==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 499. Grab it before it's gone!
+
+Thanks for being a valued customer.
+
+--===============3547560262119246072==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 499. Grab it before it's =
+gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============3547560262119246072==--

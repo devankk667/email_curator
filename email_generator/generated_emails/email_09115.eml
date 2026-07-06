@@ -1,0 +1,36 @@
+From: Quanta Labs <quanta@bookings.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Tue, 20 Jan 2026 13:00:00 -0000
+Message-ID: <9e05fd55ad56448387e803c069b58a9a@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5884623431397488100=="
+
+--===============5884623431397488100==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to Berlin on October 15 is confirmed.
+Booking reference: 804494.
+Departure: 10:30 AM.
+
+Safe travels,
+Booking Support Team
+
+--===============5884623431397488100==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to Berlin on October 15 is confirmed.</p><p>Booking refere=
+nce: 804494.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============5884623431397488100==--

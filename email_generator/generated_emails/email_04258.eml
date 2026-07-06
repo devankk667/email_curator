@@ -1,0 +1,34 @@
+From: Carlos Kim <carlos@instagram.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Thu, 01 Jan 2026 07:10:00 -0000
+Message-ID: <194a182576a64e4786ae820dc3f2d0cd@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1035380611741170433=="
+
+--===============1035380611741170433==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the college reunion on August 03. RSVP now to let the host =
+know you're coming.
+
+-- Sent from your notifications
+
+--===============1035380611741170433==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the college reunion on August 03. RSVP now to let th=
+e host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============1035380611741170433==--

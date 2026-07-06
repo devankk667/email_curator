@@ -1,0 +1,31 @@
+From: Ananya Tanaka <ananya@linkedin.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Sun, 15 Feb 2026 10:10:00 -0000
+Message-ID: <67539fadf41745d6b03cbedad420e778@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8158354105525191818=="
+
+--===============8158354105525191818==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Kenji Mehta: "Hey, are we still meeting on Decemb=
+er 21?"
+
+--===============8158354105525191818==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Kenji Mehta: "Hey, are we still meeting on=
+ December 21?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8158354105525191818==--

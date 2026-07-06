@@ -1,0 +1,35 @@
+From: Government Services <government65@municipal.gov>
+To: you@myinbox.com
+Subject: Voter ID Update
+Date: Thu, 12 Mar 2026 20:00:00 -0000
+Message-ID: <314c581bf7224396ba8f1f6cd21aa49e@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5736979094175900999=="
+
+--===============5736979094175900999==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your voter registration has been successfully updated with your new address e=
+ffective January 16.
+
+Regards,
+Public Services Department
+
+--===============5736979094175900999==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Voter ID Update</h3>
+    <p>Your voter registration has been successfully updated with your new ad=
+dress effective January 16.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============5736979094175900999==--

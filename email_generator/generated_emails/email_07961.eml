@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@workday.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Sat, 25 Apr 2026 22:30:00 -0000
+Message-ID: <9cb544e58e6143b5aff35924a6b9f894@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3244054531881394605=="
+
+--===============3244054531881394605==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Business Analyst role at Anchorpoint Realty. Ou=
+r team will review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============3244054531881394605==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Business Analyst role at Anchorpoint Rea=
+lty. Our team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============3244054531881394605==--

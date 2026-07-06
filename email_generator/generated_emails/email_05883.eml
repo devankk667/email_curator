@@ -1,0 +1,32 @@
+From: Nimbus Retail <nimbus@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Fri, 13 Feb 2026 09:10:00 -0000
+Message-ID: <54a7cc3476fc4a7380d0d2d9c781f64c@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7681108988775851923=="
+
+--===============7681108988775851923==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 999 for Personal Loan #4 is due on January 14.
+
+Thank you for banking with us.
+
+--===============7681108988775851923==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 999 for Personal Loan #4 is due on January 14.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============7681108988775851923==--

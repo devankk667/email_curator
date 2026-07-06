@@ -1,0 +1,30 @@
+From: Zara Ivanov <zara@instagram.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Sun, 15 Mar 2026 15:00:00 -0000
+Message-ID: <aff8b6c18f7a4aaaae0d3c72271dc92e@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1537170202836420832=="
+
+--===============1537170202836420832==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+It's Sara Costa's birthday on March 30! Send them a message to make their day.
+
+--===============1537170202836420832==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Sara Costa's birthday on March 30! Send them a message to make th=
+eir day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============1537170202836420832==--

@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Wed, 01 Apr 2026 11:45:00 -0000
+Message-ID: <0be5b80025b74d29a6fb9bee3a1353c6@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4182583766579097068=="
+
+--===============4182583766579097068==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 999 was debited from your account ending 4821 on July 30 at Brightline Me=
+dia.
+
+Regards,
+Customer Service Team
+
+--===============4182583766579097068==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 999 was debited from your account ending 4821 on July 30 at Bright=
+line Media.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============4182583766579097068==--

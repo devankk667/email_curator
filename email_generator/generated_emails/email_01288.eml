@@ -1,0 +1,35 @@
+From: Coral Health <coral@myntra.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Sun, 08 Mar 2026 20:30:00 -0000
+Message-ID: <21e1f8f1ffbc433ca03ff5f176564d4b@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5798967297778843066=="
+
+--===============5798967297778843066==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #3 from Orbit Logistics is delayed and will now arrive by July 29 =
+instead of February 14. Track: https://amazon.in/orders
+
+Happy Shopping!
+The Team
+
+--===============5798967297778843066==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #3 from Orbit Logistics is delayed and will now arrive by J=
+uly 29 instead of February 14. Track: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============5798967297778843066==--

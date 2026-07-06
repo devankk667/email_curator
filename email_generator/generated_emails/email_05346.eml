@@ -1,0 +1,32 @@
+From: Facebook <facebook@meetup.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Fri, 17 Apr 2026 07:45:00 -0000
+Message-ID: <87564c9e66c74aa4a7845636095385c6@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9215475602570335453=="
+
+--===============9215475602570335453==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Sara Ivanov invited you to join the group 'the college reunion'.
+
+-- Sent from your notifications
+
+--===============9215475602570335453==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Group Invitation</h3>
+    <p>Sara Ivanov invited you to join the group 'the college reunion'.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============9215475602570335453==--

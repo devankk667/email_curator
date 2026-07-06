@@ -1,0 +1,35 @@
+From: Priya Garcia <priya@college.ac.in>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Fri, 30 Jan 2026 17:30:00 -0000
+Message-ID: <d08b786fe09141cc9763dd729a4c880f@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8798703125646045467=="
+
+--===============8798703125646045467==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Computer Networks lecture originally on May 24 has been moved to July 12,=
+ Room 446.
+
+Thank you,
+Examination Cell
+
+--===============8798703125646045467==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Computer Networks lecture originally on May 24 has been moved to J=
+uly 12, Room 446.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============8798703125646045467==--

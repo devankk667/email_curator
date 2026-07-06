@@ -1,0 +1,35 @@
+From: Wei Kim <wei@university.edu>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Thu, 19 Feb 2026 15:45:00 -0000
+Message-ID: <9d9097b496c9410ab5121b7bc454a39b@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4363670285919525595=="
+
+--===============4363670285919525595==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Distributed Systems will be held on January 30 at 4 PM in =
+the Seminar Hall.
+
+Thank you,
+Examination Cell
+
+--===============4363670285919525595==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Distributed Systems will be held on January 30 at 4=
+ PM in the Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============4363670285919525595==--

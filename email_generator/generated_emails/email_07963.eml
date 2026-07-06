@@ -1,0 +1,34 @@
+From: Wei Ivanov <wei6@workday.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Wed, 10 Jun 2026 11:45:00 -0000
+Message-ID: <20ab5f24427b4fe5a9ed6b09454cac4d@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2347899813476441307=="
+
+--===============2347899813476441307==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Backend Developer role at Coral Health. Our tea=
+m will review your application shortly.
+
+We look forward to hearing from you.
+
+--===============2347899813476441307==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Backend Developer role at Coral Health. =
+Our team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============2347899813476441307==--

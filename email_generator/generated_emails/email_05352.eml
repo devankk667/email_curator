@@ -1,0 +1,29 @@
+From: Meetup <meetup@meetup.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Sun, 03 May 2026 18:00:00 -0000
+Message-ID: <5d4d467cb09042dba630c30acad0dba9@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2142614734443753814=="
+
+--===============2142614734443753814==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Elena Costa invited you to join the group 'the hackathon kickoff'.
+
+--===============2142614734443753814==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Elena Costa invited you to join the group 'the hackathon kickoff'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2142614734443753814==--

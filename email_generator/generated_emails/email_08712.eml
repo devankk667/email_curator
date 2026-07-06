@@ -1,0 +1,36 @@
+From: Quanta Labs <quanta@meridianair.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Sun, 22 Feb 2026 16:15:00 -0000
+Message-ID: <754319cdb2be45f0b4908e2bd275a0a1@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8266288959653784016=="
+
+--===============8266288959653784016==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to Toronto on June 26 is confirmed.
+Booking reference: 751069.
+Departure: 10:30 AM.
+
+Safe travels,
+Booking Support Team
+
+--===============8266288959653784016==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to Toronto on June 26 is confirmed.</p><p>Booking referenc=
+e: 751069.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============8266288959653784016==--

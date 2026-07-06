@@ -1,0 +1,34 @@
+From: Arjun Kim <arjun@linkedin.com>
+To: you@myinbox.com
+Subject: Rejection Notice
+Date: Sat, 20 Jun 2026 17:30:00 -0000
+Message-ID: <9d841405335d47c3a65ac9538e79cce0@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7786835411826466365=="
+
+--===============7786835411826466365==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for interviewing for DevOps Engineer at Nimbus Retail. We've decide=
+d to move forward with other candidates.
+
+We look forward to hearing from you.
+
+--===============7786835411826466365==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Rejection Notice</h3>
+    <p>Thank you for interviewing for DevOps Engineer at Nimbus Retail. We've=
+ decided to move forward with other candidates.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============7786835411826466365==--

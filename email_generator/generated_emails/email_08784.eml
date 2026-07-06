@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@makemytrip.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Sun, 22 Feb 2026 20:20:00 -0000
+Message-ID: <ff03fa91413b4e9bb823274efbd018ad@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0593911016209566284=="
+
+--===============0593911016209566284==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Paris Grand Hotel from June 21 to July 20 is confirmed. Booking =
+ID: 176595.
+
+Regards,
+Reservations Desk
+
+--===============0593911016209566284==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Paris Grand Hotel from June 21 to July 20 is confirmed. B=
+ooking ID: 176595.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============0593911016209566284==--

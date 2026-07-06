@@ -1,0 +1,34 @@
+From: Fernwood Analytics <fernwood46@amazon.in>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Mon, 12 Jan 2026 06:10:00 -0000
+Message-ID: <c15642ed382c4a60a045c61554971bfa@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4815562562796965814=="
+
+--===============4815562562796965814==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 2500. Grab it before it's gone!
+
+Happy Shopping!
+The Team
+
+--===============4815562562796965814==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 2500. Grab it before it's=
+ gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============4815562562796965814==--

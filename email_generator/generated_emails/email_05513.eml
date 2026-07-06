@@ -1,0 +1,34 @@
+From: Coral Health <coral@payflow.com>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Wed, 18 Mar 2026 10:45:00 -0000
+Message-ID: <021d3bd0e0d0404f901cf52f46fa3658@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4238373510108602984=="
+
+--===============4238373510108602984==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 199 is due on December 26. Pay now to keep your po=
+licy active.
+
+Thank you for banking with us.
+
+--===============4238373510108602984==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 199 is due on December 26. Pay now to keep =
+your policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============4238373510108602984==--

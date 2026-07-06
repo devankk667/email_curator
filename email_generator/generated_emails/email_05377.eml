@@ -1,0 +1,44 @@
+From: Arjun Smith <arjun@instagram.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Sat, 13 Jun 2026 18:15:00 -0000
+Message-ID: <ffd2574c64ef49e39654baa8105b99aa@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3509790937647801748=="
+
+--===============3509790937647801748==
+Content-Type: multipart/alternative;
+ boundary="===============0519531144057382409=="
+
+--===============0519531144057382409==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Kenji Novak's birthday on March 07! Send them a message to make their da=
+y.
+
+--===============0519531144057382409==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Kenji Novak's birthday on March 07! Send them a message to make t=
+heir day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============0519531144057382409==--
+
+--===============3509790937647801748==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============3509790937647801748==--

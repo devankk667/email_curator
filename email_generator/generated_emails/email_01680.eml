@@ -1,0 +1,35 @@
+From: Coral Health <coral45@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Thu, 02 Apr 2026 11:30:00 -0000
+Message-ID: <5e51e33ebf2f4eb8b19eb1c71a42ae7f@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0681987040057085155=="
+
+--===============0681987040057085155==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #1 from Quanta Labs is delayed and will now arrive by April 05 ins=
+tead of October 26. Track: https://amazon.in/orders
+
+Happy Shopping!
+The Team
+
+--===============0681987040057085155==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #1 from Quanta Labs is delayed and will now arrive by April=
+ 05 instead of October 26. Track: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============0681987040057085155==--

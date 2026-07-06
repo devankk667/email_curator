@@ -1,0 +1,38 @@
+From: Meridian Airlines <meridian@amazon.in>
+To: you@myinbox.com
+Subject: Re: Cart Reminder
+Date: Fri, 20 Mar 2026 08:00:00 -0000
+Message-ID: <d8b7fcdac0fc4469b7754657584997d7@amazon.in>
+In-Reply-To: <9b1f44a815934e9697f5bdda3c8bdb38@amazon.in>
+References: <9b1f44a815934e9697f5bdda3c8bdb38@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0162237706212338094=="
+
+--===============0162237706212338094==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Just circling back on this - any update?
+
+> You left 3 item(s) in your cart. Complete your purchase and get free shippi=
+ng.
+
+Thanks for being a valued customer.
+
+--===============0162237706212338094==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>Just circling back on this - any update?</p><p>> You left 3 item(s) in=
+ your cart. Complete your purchase and get free shipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0162237706212338094==--

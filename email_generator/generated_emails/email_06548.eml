@@ -1,0 +1,32 @@
+From: Cloudscape <cloudscape52@payflow.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Mon, 06 Apr 2026 06:15:00 -0000
+Message-ID: <3211ca46f45648c4ad7c0eda0ac18a47@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7235424183890556159=="
+
+--===============7235424183890556159==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 199 for Personal Loan #3 is due on December 26.
+
+Thank you for banking with us.
+
+--===============7235424183890556159==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 199 for Personal Loan #3 is due on December 26.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============7235424183890556159==--

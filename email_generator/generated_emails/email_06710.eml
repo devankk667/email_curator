@@ -1,0 +1,49 @@
+From: Omar Novak <omar@university.edu>
+To: you@myinbox.com
+Subject: Assignment Extension Granted
+Date: Mon, 30 Mar 2026 10:15:00 -0000
+Message-ID: <1de32089119f4905b4739551e1b4e498@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4595230781012830120=="
+
+--===============4595230781012830120==
+Content-Type: multipart/alternative;
+ boundary="===============6035194019531389384=="
+
+--===============6035194019531389384==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The deadline for Assignment 9 in Operating Systems has been extended to May 2=
+7.
+
+Thank you,
+Examination Cell
+
+--===============6035194019531389384==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Assignment Extension Granted</h3>
+    <p>The deadline for Assignment 9 in Operating Systems has been extended t=
+o May 27.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============6035194019531389384==--
+
+--===============4595230781012830120==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============4595230781012830120==--

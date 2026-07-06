@@ -1,0 +1,34 @@
+From: Cloudscape <cloudscape@myntra.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Thu, 02 Jul 2026 08:30:00 -0000
+Message-ID: <375584e4dc1d4424987cf730aed28b82@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2894810363212348429=="
+
+--===============2894810363212348429==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #2 from Starforge Games has shipped and will arrive by April 19. T=
+rack it: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============2894810363212348429==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #2 from Starforge Games has shipped and will arrive by Apri=
+l 19. Track it: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2894810363212348429==--

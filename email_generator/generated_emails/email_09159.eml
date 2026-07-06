@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@makemytrip.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Wed, 08 Apr 2026 19:15:00 -0000
+Message-ID: <3d7b5da8392842bdbc815fe22bcd0e9b@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6716468977655762461=="
+
+--===============6716468977655762461==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to New York starts on October 25. Don't forget to check the weather=
+ and pack accordingly.
+
+Regards,
+Reservations Desk
+
+--===============6716468977655762461==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to New York starts on October 25. Don't forget to check the =
+weather and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============6716468977655762461==--

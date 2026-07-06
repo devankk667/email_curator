@@ -1,0 +1,34 @@
+From: Carlos Ivanov <carlos@luckywin-prize.com>
+To: you@myinbox.com
+Subject: Lottery Winner Notification
+Date: Sun, 29 Mar 2026 07:15:00 -0000
+Message-ID: <295df956170e47e99f3c14934d1ec477@luckywin-prize.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6726833443602116294=="
+
+--===============6726833443602116294==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your email was randomly selected in the International Lottery. Prize: $3999. =
+Reply to claim.
+
+Act now, offer expires soon!
+
+--===============6726833443602116294==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Lottery Winner Notification</h3>
+    <p>Your email was randomly selected in the International Lottery. Prize: =
+$3999. Reply to claim.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============6726833443602116294==--

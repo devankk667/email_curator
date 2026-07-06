@@ -1,0 +1,48 @@
+From: Zynta Corp <zynta26@flipkart.com>
+To: you@myinbox.com
+Subject: Wishlist Reminder
+Date: Mon, 11 May 2026 13:45:00 -0000
+Message-ID: <e079497e8ad14c5cba6715c9e7e3c9c0@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5955258649739118159=="
+
+--===============5955258649739118159==
+Content-Type: multipart/alternative;
+ boundary="===============7321832858408025138=="
+
+--===============7321832858408025138==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Items in your wishlist are still available. Buy now before prices go up on No=
+vember 28.
+
+Thanks for being a valued customer.
+
+--===============7321832858408025138==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Wishlist Reminder</h3>
+    <p>Items in your wishlist are still available. Buy now before prices go u=
+p on November 28.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7321832858408025138==--
+
+--===============5955258649739118159==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============5955258649739118159==--

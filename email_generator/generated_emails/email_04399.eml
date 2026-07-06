@@ -1,0 +1,31 @@
+From: Nina Okafor <nina@meetup.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Sat, 07 Mar 2026 09:10:00 -0000
+Message-ID: <d034b397ecf947abb68dc8b5bb9dfe16@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1569940856496777453=="
+
+--===============1569940856496777453==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the alumni meetup on June 19. RSVP now to let the host know=
+ you're coming.
+
+--===============1569940856496777453==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the alumni meetup on June 19. RSVP now to let the ho=
+st know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============1569940856496777453==--

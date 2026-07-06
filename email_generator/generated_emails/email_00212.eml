@@ -1,0 +1,32 @@
+From: Quanta Labs <quanta20@nimbusretail.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Wed, 01 Apr 2026 16:15:00 -0000
+Message-ID: <a2b3101239dc40b5bf14b0c40aa61da3@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8517571347915526169=="
+
+--===============8517571347915526169==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Fresco Foods membership renews on January 15 for INR 199.
+
+Thanks for being a valued customer.
+
+--===============8517571347915526169==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Fresco Foods membership renews on January 15 for INR 199.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8517571347915526169==--

@@ -1,0 +1,34 @@
+From: Fresco Foods <fresco@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Sat, 17 Jan 2026 19:30:00 -0000
+Message-ID: <a29376ae1fcc480bb8ba67d7924b946e@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5727182718135785722=="
+
+--===============5727182718135785722==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 25000. Add funds here: https://payflow.com/=
+dashboard
+
+Thank you for banking with us.
+
+--===============5727182718135785722==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 25000. Add funds here: https://payfl=
+ow.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============5727182718135785722==--

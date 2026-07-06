@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex27@bookings.com>
+To: you@myinbox.com
+Subject: Visa Application Update
+Date: Sun, 05 Apr 2026 07:05:00 -0000
+Message-ID: <d14598cb2c7241838a838775642a2cda@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8998266416314583112=="
+
+--===============8998266416314583112==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your visa application for New York has moved to 'Under Review'. Expected deci=
+sion by January 29.
+
+Safe travels,
+Booking Support Team
+
+--===============8998266416314583112==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Visa Application Update</h3>
+    <p>Your visa application for New York has moved to 'Under Review'. Expect=
+ed decision by January 29.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============8998266416314583112==--

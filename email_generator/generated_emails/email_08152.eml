@@ -1,0 +1,36 @@
+From: Aisha Tanaka <aisha2@greenhouse.io>
+To: you@myinbox.com
+Subject: Take-Home Assignment
+Date: Fri, 23 Jan 2026 20:00:00 -0000
+Message-ID: <2594806760dc46b182d1330d3ed2d8e7@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2122052692298628681=="
+
+--===============2122052692298628681==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please complete the take-home assignment for the Data Scientist role at Merid=
+ian Airlines by October 24. Assignment link: https://greenhouse.io/applicatio=
+ns
+
+We look forward to hearing from you.
+
+--===============2122052692298628681==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Take-Home Assignment</h3>
+    <p>Please complete the take-home assignment for the Data Scientist role a=
+t Meridian Airlines by October 24. Assignment link: https://greenhouse.io/app=
+lications</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============2122052692298628681==--

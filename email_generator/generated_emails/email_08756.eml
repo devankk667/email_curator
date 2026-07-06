@@ -1,0 +1,35 @@
+From: Anchorpoint Realty <anchorpoint@airindia.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Mon, 09 Feb 2026 17:20:00 -0000
+Message-ID: <b0ec3db2141648eaa895e6eab4e53f4b@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0842016238298362490=="
+
+--===============0842016238298362490==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Berlin from January 01 to January 03 is confirmed. Booking=
+ ID: 260542. Manage booking: https://meridianair.com/checkin
+
+Regards,
+Reservations Desk
+
+--===============0842016238298362490==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Berlin from January 01 to January 03 is confirmed. =
+Booking ID: 260542. Manage booking: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============0842016238298362490==--

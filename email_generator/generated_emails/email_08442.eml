@@ -1,0 +1,34 @@
+From: Arjun Dubois <arjun@workday.com>
+To: you@myinbox.com
+Subject: Rejection Notice
+Date: Tue, 30 Jun 2026 15:00:00 -0000
+Message-ID: <62cff8a31532484186c380a10f345922@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2340897077669020773=="
+
+--===============2340897077669020773==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for interviewing for UX Designer at Meridian Airlines. We've decide=
+d to move forward with other candidates.
+
+We look forward to hearing from you.
+
+--===============2340897077669020773==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Rejection Notice</h3>
+    <p>Thank you for interviewing for UX Designer at Meridian Airlines. We've=
+ decided to move forward with other candidates.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============2340897077669020773==--

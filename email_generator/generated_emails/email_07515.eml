@@ -1,0 +1,36 @@
+From: Rahul Tanaka <rahul18@university.edu>
+To: you@myinbox.com
+Subject: Software Engineering Exam Schedule
+Date: Fri, 29 May 2026 18:10:00 -0000
+Message-ID: <270f0d44f2d44852b649268df5a099e1@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7327613619956257504=="
+
+--===============7327613619956257504==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Linear Algebra exam is on May 02.
+Please submit Assignment 5 before June 04.
+Venue: Room 189, Main Block.
+
+Regards,
+Office of Academic Affairs
+
+--===============7327613619956257504==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Software Engineering Exam Schedule</h3>
+    <p>Linear Algebra exam is on May 02.</p><p>Please submit Assignment 5 bef=
+ore June 04.</p><p>Venue: Room 189, Main Block.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============7327613619956257504==--

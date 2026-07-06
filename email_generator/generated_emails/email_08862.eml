@@ -1,0 +1,49 @@
+From: Cloudscape <cloudscape4@makemytrip.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Fri, 26 Jun 2026 14:20:00 -0000
+Message-ID: <ea1332138ff44d678eed648568faed13@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4609973892311113798=="
+
+--===============4609973892311113798==
+Content-Type: multipart/alternative;
+ boundary="===============7001334148137591039=="
+
+--===============7001334148137591039==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Singapore Grand Hotel from November 24 to May 27 is confirmed. B=
+ooking ID: 902470.
+
+Regards,
+Reservations Desk
+
+--===============7001334148137591039==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Singapore Grand Hotel from November 24 to May 27 is confi=
+rmed. Booking ID: 902470.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============7001334148137591039==--
+
+--===============4609973892311113798==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============4609973892311113798==--

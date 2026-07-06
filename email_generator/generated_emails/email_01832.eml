@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@myntra.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Tue, 10 Mar 2026 22:05:00 -0000
+Message-ID: <f062a3948dc84b40bbf7d37806262343@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8640717066675422667=="
+
+--===============8640717066675422667==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #5 from Anchorpoint Realty is delayed and will now arrive by July =
+26 instead of April 03. Track: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============8640717066675422667==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #5 from Anchorpoint Realty is delayed and will now arrive b=
+y July 26 instead of April 03. Track: https://nimbusretail.com/orders/track</=
+p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8640717066675422667==--

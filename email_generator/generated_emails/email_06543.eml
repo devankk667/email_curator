@@ -1,0 +1,47 @@
+From: Quanta Labs <quanta@payflow.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Wed, 13 May 2026 22:45:00 -0000
+Message-ID: <c31fd49e63ea4a4ba2d60cf3c53631bd@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6438632499322986443=="
+
+--===============6438632499322986443==
+Content-Type: multipart/alternative;
+ boundary="===============2849179460667739078=="
+
+--===============2849179460667739078==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 2500 for Personal Loan #7 is due on November 09.
+
+Regards,
+Customer Service Team
+
+--===============2849179460667739078==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 2500 for Personal Loan #7 is due on November 09.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2849179460667739078==--
+
+--===============6438632499322986443==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============6438632499322986443==--

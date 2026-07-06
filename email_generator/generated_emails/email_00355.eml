@@ -1,0 +1,33 @@
+From: Nimbus Retail <nimbus@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Sat, 09 May 2026 22:30:00 -0000
+Message-ID: <3726aa735b0148218be56081098eff59@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3925328346976333060=="
+
+--===============3925328346976333060==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Fernwood Analytics membership renews on August 07 for INR 499.
+
+Happy Shopping!
+The Team
+
+--===============3925328346976333060==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Fernwood Analytics membership renews on August 07 for INR 499.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============3925328346976333060==--

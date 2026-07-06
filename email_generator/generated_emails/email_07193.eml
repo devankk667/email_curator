@@ -1,0 +1,35 @@
+From: Rahul Nguyen <rahul@campusmail.edu>
+To: you@myinbox.com
+Subject: Library Book Due
+Date: Tue, 20 Jan 2026 06:30:00 -0000
+Message-ID: <b0799ea7ca1e4ceeb99d68dc11de5223@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6878960091798133820=="
+
+--===============6878960091798133820==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The book 'Clean Code' issued to you is due for return on October 18. Renew on=
+line to avoid a fine.
+
+Regards,
+Office of Academic Affairs
+
+--===============6878960091798133820==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Library Book Due</h3>
+    <p>The book 'Clean Code' issued to you is due for return on October 18. R=
+enew online to avoid a fine.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============6878960091798133820==--

@@ -1,0 +1,34 @@
+From: Vertex Bank <vertex@myntra.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Sat, 16 May 2026 19:45:00 -0000
+Message-ID: <317885eeeeba49979a32290b372a4b99@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3390142224320911129=="
+
+--===============3390142224320911129==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #6 from Coral Health is delayed and will now arrive by August 14 i=
+nstead of July 05. Track: https://myntra.com/orders
+
+Thanks for being a valued customer.
+
+--===============3390142224320911129==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #6 from Coral Health is delayed and will now arrive by Augu=
+st 14 instead of July 05. Track: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============3390142224320911129==--

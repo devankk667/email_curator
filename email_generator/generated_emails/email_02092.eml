@@ -1,0 +1,33 @@
+From: Vertex Bank <vertex@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Sun, 10 May 2026 09:45:00 -0000
+Message-ID: <d0da943af41b4ab5823d57938d6f4343@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6300991594305885578=="
+
+--===============6300991594305885578==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Meridian Airlines membership renews on March 10 for INR 7500.
+
+Happy Shopping!
+The Team
+
+--===============6300991594305885578==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Meridian Airlines membership renews on March 10 for INR 7500.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============6300991594305885578==--

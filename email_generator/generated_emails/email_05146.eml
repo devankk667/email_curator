@@ -1,0 +1,29 @@
+From: Facebook <facebook@linkedin.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Sun, 10 May 2026 21:05:00 -0000
+Message-ID: <0a338a0993a9460698a7b5dd53684250@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5654191468593047425=="
+
+--===============5654191468593047425==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Kenji Novak invited you to join the group 'the college reunion'.
+
+--===============5654191468593047425==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Kenji Novak invited you to join the group 'the college reunion'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============5654191468593047425==--

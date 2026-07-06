@@ -1,0 +1,31 @@
+From: James Dubois <james@instagram.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Wed, 01 Apr 2026 06:15:00 -0000
+Message-ID: <74585663d1804b049df9b7d8f4f74971@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2952750203477689207=="
+
+--===============2952750203477689207==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Elena Ivanov: "Hey, are we still meeting on Decem=
+ber 02?"
+
+--===============2952750203477689207==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Elena Ivanov: "Hey, are we still meeting o=
+n December 02?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2952750203477689207==--

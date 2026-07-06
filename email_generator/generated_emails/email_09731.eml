@@ -1,0 +1,35 @@
+From: Government Services <government@gov.in>
+To: you@myinbox.com
+Subject: Public Notice: Water Supply
+Date: Thu, 12 Feb 2026 15:20:00 -0000
+Message-ID: <9b16b5b8a40644478dd4dac376ea0f5c@gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1220333984173490460=="
+
+--===============1220333984173490460==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Water supply will be interrupted in your area on January 05 from 10 AM to 4 P=
+M for maintenance work.
+
+Regards,
+Public Services Department
+
+--===============1220333984173490460==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Public Notice: Water Supply</h3>
+    <p>Water supply will be interrupted in your area on January 05 from 10 AM=
+ to 4 PM for maintenance work.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============1220333984173490460==--

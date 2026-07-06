@@ -1,0 +1,35 @@
+From: Ananya Rossi <ananya@workday.com>
+To: you@myinbox.com
+Subject: Recruiter Outreach
+Date: Wed, 18 Mar 2026 19:20:00 -0000
+Message-ID: <3b98b53cb5024575a317f9ba39274e06@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3495190042775420300=="
+
+--===============3495190042775420300==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I'm a recruiter at Starforge Games. We have an exciting DevOps Engineer o=
+pening in Mumbai - interested? Job link: www.linkedin.com/jobs/view
+
+Best regards,
+Talent Acquisition Team
+
+--===============3495190042775420300==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Recruiter Outreach</h3>
+    <p>Hi, I'm a recruiter at Starforge Games. We have an exciting DevOps Eng=
+ineer opening in Mumbai - interested? Job link: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============3495190042775420300==--

@@ -1,0 +1,35 @@
+From: Starforge Games <starforge@meridianair.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Wed, 11 Mar 2026 21:00:00 -0000
+Message-ID: <9a9d7098f02b42ba8070028b6213db0b@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7772343109792541384=="
+
+--===============7772343109792541384==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 25000 for the cancelled Mumbai trip has been processed. De=
+tails: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============7772343109792541384==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 25000 for the cancelled Mumbai trip has been proces=
+sed. Details: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============7772343109792541384==--

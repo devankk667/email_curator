@@ -1,0 +1,34 @@
+From: Quanta Labs <quanta@payflow.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Wed, 17 Jun 2026 11:10:00 -0000
+Message-ID: <235dd89d7dc54728a6c9565977b60e65@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4890625758218360039=="
+
+--===============4890625758218360039==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 7500 was debited from your account ending 4821 on November 05 at Fresco F=
+oods.
+
+Thank you for banking with us.
+
+--===============4890625758218360039==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 7500 was debited from your account ending 4821 on November 05 at F=
+resco Foods.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============4890625758218360039==--

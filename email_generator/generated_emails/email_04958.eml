@@ -1,0 +1,29 @@
+From: Facebook <facebook@meetup.com>
+To: you@myinbox.com
+Subject: Memory From December 18
+Date: Sun, 26 Apr 2026 12:00:00 -0000
+Message-ID: <dcb30f08536348c4a22ff16b152b5409@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8163799176042524444=="
+
+--===============8163799176042524444==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You have a memory from August 03. See what you posted that day.
+
+--===============8163799176042524444==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Memory From December 18</h3>
+    <p>You have a memory from August 03. See what you posted that day.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8163799176042524444==--

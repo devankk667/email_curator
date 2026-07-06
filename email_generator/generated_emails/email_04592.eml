@@ -1,0 +1,34 @@
+From: Omar Fischer <omar@meetup.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Mon, 26 Jan 2026 22:45:00 -0000
+Message-ID: <5a3d6eaf92e64348ad6f9a7dbc95e3bc@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2629002070945749438=="
+
+--===============2629002070945749438==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Isabella Lopez: "Hey, are we still meeting on Jan=
+uary 30?"
+
+-- Sent from your notifications
+
+--===============2629002070945749438==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Isabella Lopez: "Hey, are we still meeting=
+ on January 30?"</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============2629002070945749438==--

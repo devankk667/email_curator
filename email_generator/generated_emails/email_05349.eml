@@ -1,0 +1,33 @@
+From: Sara Okafor <sara@facebookmail.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Thu, 07 May 2026 11:45:00 -0000
+Message-ID: <24517bd9c4724a638993ca3873f9d361@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7862595195156020604=="
+
+--===============7862595195156020604==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+It's Ivan Reddy's birthday on March 15! Send them a message to make their day.
+
+-- Sent from your notifications
+
+--===============7862595195156020604==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Ivan Reddy's birthday on March 15! Send them a message to make th=
+eir day.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============7862595195156020604==--

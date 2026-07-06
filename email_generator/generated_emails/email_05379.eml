@@ -1,0 +1,44 @@
+From: Nina Chen <nina@meetup.com>
+To: you@myinbox.com
+Subject: Suggested Connection
+Date: Mon, 06 Apr 2026 18:00:00 -0000
+Message-ID: <763d9d8536a34ec98f09e427791c67d3@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0442877394340246078=="
+
+--===============0442877394340246078==
+Content-Type: multipart/alternative;
+ boundary="===============3255870350215546275=="
+
+--===============3255870350215546275==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You may know Noah Dubois, who works at Anchorpoint Realty. Connect now: https=
+://facebookmail.com/profile
+
+--===============3255870350215546275==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Suggested Connection</h3>
+    <p>You may know Noah Dubois, who works at Anchorpoint Realty. Connect now=
+: https://facebookmail.com/profile</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============3255870350215546275==--
+
+--===============0442877394340246078==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============0442877394340246078==--

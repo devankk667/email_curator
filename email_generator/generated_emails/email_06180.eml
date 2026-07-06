@@ -1,0 +1,34 @@
+From: Vertex Bank <vertex60@citibank.com>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Mon, 26 Jan 2026 18:20:00 -0000
+Message-ID: <57d8e0c277ee40f797495acdd3835ef1@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7112223152141852830=="
+
+--===============7112223152141852830==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 199 is due on October 21. Pay now to keep your pol=
+icy active.
+
+Thank you for banking with us.
+
+--===============7112223152141852830==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 199 is due on October 21. Pay now to keep y=
+our policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============7112223152141852830==--

@@ -1,0 +1,47 @@
+From: Nina Kim <nina43@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Lottery Winner Notification
+Date: Fri, 08 May 2026 19:30:00 -0000
+Message-ID: <1f471a4644d24f5aa6d19b6e6d148465@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3208175735516541592=="
+
+--===============3208175735516541592==
+Content-Type: multipart/alternative;
+ boundary="===============0955513447420179423=="
+
+--===============0955513447420179423==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your email was randomly selected in the International Lottery. Prize: $999. R=
+eply to claim.
+
+Act now, offer expires soon!
+
+--===============0955513447420179423==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Lottery Winner Notification</h3>
+    <p>Your email was randomly selected in the International Lottery. Prize: =
+$999. Reply to claim.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============0955513447420179423==--
+
+--===============3208175735516541592==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============3208175735516541592==--

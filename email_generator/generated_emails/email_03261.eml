@@ -1,0 +1,34 @@
+From: Liam Silva <liam10@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Final Notice: Unusual Login Detected
+Date: Sun, 22 Feb 2026 07:00:00 -0000
+Message-ID: <5dd4f5324bed43c2866580c837b53fb5@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7047050666745881121=="
+
+--===============7047050666745881121==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+We detected a login from London. Confirm it was you or your account will be l=
+ocked: http://account-update-now.info/confirm
+
+Act now, offer expires soon!
+
+--===============7047050666745881121==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Final Notice: Unusual Login Detected</h3>
+    <p>We detected a login from London. Confirm it was you or your account wi=
+ll be locked: http://account-update-now.info/confirm</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============7047050666745881121==--

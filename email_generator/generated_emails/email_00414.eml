@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@nimbusretail.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Sat, 16 May 2026 12:15:00 -0000
+Message-ID: <336b10fd1b3c4bf3af824e412c8c3e05@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9035652555483843997=="
+
+--===============9035652555483843997==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #8 has been received. Refund of INR 1499 will be proces=
+sed by September 14. Details: https://amazon.in/orders
+
+Happy Shopping!
+The Team
+
+--===============9035652555483843997==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #8 has been received. Refund of INR 1499 will be=
+ processed by September 14. Details: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============9035652555483843997==--

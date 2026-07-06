@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit35@meridianair.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Sun, 03 May 2026 19:20:00 -0000
+Message-ID: <04f9f80e831c48eb9a6b337b19f10082@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6168056350619266972=="
+
+--===============6168056350619266972==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Delhi Grand Hotel from March 04 to January 07 is confirmed. Book=
+ing ID: 288065.
+
+Regards,
+Reservations Desk
+
+--===============6168056350619266972==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Delhi Grand Hotel from March 04 to January 07 is confirme=
+d. Booking ID: 288065.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============6168056350619266972==--

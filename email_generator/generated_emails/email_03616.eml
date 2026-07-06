@@ -1,0 +1,34 @@
+From: Lucas Smith <lucas@claim-now.biz>
+To: you@myinbox.com
+Subject: Your Subscription is Expiring, Act Now
+Date: Mon, 02 Mar 2026 17:15:00 -0000
+Message-ID: <7e94a609eb6d492ba85b8d3b87173f81@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7267711953032775829=="
+
+--===============7267711953032775829==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Renew now to avoid losing access. Special price: INR 1499, today only: http:/=
+/192.168.44.12/claim
+
+Don't miss this one-time opportunity!
+
+--===============7267711953032775829==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Subscription is Expiring, Act Now</h3>
+    <p>Renew now to avoid losing access. Special price: INR 1499, today only:=
+ http://192.168.44.12/claim</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============7267711953032775829==--

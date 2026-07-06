@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta73@makemytrip.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Fri, 06 Mar 2026 08:05:00 -0000
+Message-ID: <0b30483e961c438297b785a7587f9e4e@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3971584357330960517=="
+
+--===============3971584357330960517==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Tokyo Grand Hotel from June 06 to August 09 is confirmed. Bookin=
+g ID: 639243.
+
+Safe travels,
+Booking Support Team
+
+--===============3971584357330960517==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Tokyo Grand Hotel from June 06 to August 09 is confirmed.=
+ Booking ID: 639243.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============3971584357330960517==--

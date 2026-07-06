@@ -1,0 +1,34 @@
+From: Government Services <government@gov.in>
+To: you@myinbox.com
+Subject: Building Permit Approved
+Date: Sun, 04 Jan 2026 06:10:00 -0000
+Message-ID: <ac7d03cebc284ad782606a99c3b8d9de@gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1904307249223322333=="
+
+--===============1904307249223322333==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your building permit application #357882 has been approved as of November 29.
+
+Regards,
+Public Services Department
+
+--===============1904307249223322333==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Building Permit Approved</h3>
+    <p>Your building permit application #357882 has been approved as of Novem=
+ber 29.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============1904307249223322333==--

@@ -1,0 +1,29 @@
+From: Carlos Tanaka <carlos@instagram.com>
+To: you@myinbox.com
+Subject: Nina Silva liked your photo
+Date: Thu, 21 May 2026 13:45:00 -0000
+Message-ID: <24f9b190197248c89b48f2c7bef4781a@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1766634729834481144=="
+
+--===============1766634729834481144==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Carlos Mehta and 4 others liked your recent photo.
+
+--===============1766634729834481144==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Nina Silva liked your photo</h3>
+    <p>Carlos Mehta and 4 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============1766634729834481144==--

@@ -1,0 +1,33 @@
+From: Zynta Corp <zynta@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Sun, 11 Jan 2026 20:20:00 -0000
+Message-ID: <af3e990f762f411f966bae04ee0a067f@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0232098217619521887=="
+
+--===============0232098217619521887==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Zynta Corp membership renews on August 23 for INR 999.
+
+Happy Shopping!
+The Team
+
+--===============0232098217619521887==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Zynta Corp membership renews on August 23 for INR 999.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============0232098217619521887==--

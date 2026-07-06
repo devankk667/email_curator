@@ -1,0 +1,48 @@
+From: Coral Health <coral@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Fri, 03 Apr 2026 19:05:00 -0000
+Message-ID: <441ccab9c8fa424c9adbb6ac9ff9a36f@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0726226166019562762=="
+
+--===============0726226166019562762==
+Content-Type: multipart/alternative;
+ boundary="===============6422750348847806446=="
+
+--===============6422750348847806446==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #6 from Zynta Corp is delayed and will now arrive by October 27 in=
+stead of August 29. Track: https://flipkart.com/returns
+
+Thanks for being a valued customer.
+
+--===============6422750348847806446==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #6 from Zynta Corp is delayed and will now arrive by Octobe=
+r 27 instead of August 29. Track: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============6422750348847806446==--
+
+--===============0726226166019562762==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============0726226166019562762==--

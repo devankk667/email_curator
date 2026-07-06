@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@citibank.com>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Tue, 31 Mar 2026 12:10:00 -0000
+Message-ID: <c345f8fddeb746d58547a4ef68b3c024@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7721317011537131678=="
+
+--===============7721317011537131678==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 499 is due on February 03. Pay now to keep your po=
+licy active.
+
+Regards,
+Customer Service Team
+
+--===============7721317011537131678==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 499 is due on February 03. Pay now to keep =
+your policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============7721317011537131678==--

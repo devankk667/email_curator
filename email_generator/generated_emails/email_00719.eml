@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Sat, 28 Mar 2026 17:15:00 -0000
+Message-ID: <9b06fa40212a485eb45457fe8cf66a81@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1203297303329504087=="
+
+--===============1203297303329504087==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #9 from Coral Health has shipped and will arrive by October 24. Tr=
+ack it: https://nimbusretail.com/orders/track
+
+Happy Shopping!
+The Team
+
+--===============1203297303329504087==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #9 from Coral Health has shipped and will arrive by October=
+ 24. Track it: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1203297303329504087==--

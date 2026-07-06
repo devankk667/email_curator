@@ -1,0 +1,47 @@
+From: Lucas Dubois <lucas@freegift-alert.net>
+To: you@myinbox.com
+Subject: Lottery Winner Notification
+Date: Wed, 29 Apr 2026 21:20:00 -0000
+Message-ID: <2ecc5c110cbe409fafafa3335988a484@freegift-alert.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1737672281922842829=="
+
+--===============1737672281922842829==
+Content-Type: multipart/alternative;
+ boundary="===============5389431167096230664=="
+
+--===============5389431167096230664==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your email was randomly selected in the International Lottery. Prize: $12000.=
+ Reply to claim.
+
+Act now, offer expires soon!
+
+--===============5389431167096230664==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Lottery Winner Notification</h3>
+    <p>Your email was randomly selected in the International Lottery. Prize: =
+$12000. Reply to claim.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============5389431167096230664==--
+
+--===============1737672281922842829==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============1737672281922842829==--

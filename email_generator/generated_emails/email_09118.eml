@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco17@meridianair.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Tue, 12 May 2026 20:15:00 -0000
+Message-ID: <8c6be5bade6a4204aa07dd8269fc1d6e@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2499983220617497992=="
+
+--===============2499983220617497992==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to Amsterdam on January 24 is now open. Check=
+ in here: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============2499983220617497992==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to Amsterdam on January 24 is now open=
+. Check in here: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============2499983220617497992==--

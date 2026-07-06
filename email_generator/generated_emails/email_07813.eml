@@ -1,0 +1,35 @@
+From: Sara Ivanov <sara@naukri.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Sat, 03 Jan 2026 22:00:00 -0000
+Message-ID: <7181ad7682214c7eb37410e319c140b1@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5423180918297441935=="
+
+--===============5423180918297441935==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Software Engineer role at PixelWorks. Our team =
+will review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============5423180918297441935==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Software Engineer role at PixelWorks. Ou=
+r team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============5423180918297441935==--

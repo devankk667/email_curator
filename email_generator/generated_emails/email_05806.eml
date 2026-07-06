@@ -1,0 +1,32 @@
+From: Orbit Logistics <orbit@payflow.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Fri, 17 Apr 2026 10:20:00 -0000
+Message-ID: <2caf2c14dced4542b92a93301753f02b@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4315239359619302208=="
+
+--===============4315239359619302208==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 45000 for Personal Loan #6 is due on December 14.
+
+Thank you for banking with us.
+
+--===============4315239359619302208==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 45000 for Personal Loan #6 is due on December 14.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============4315239359619302208==--

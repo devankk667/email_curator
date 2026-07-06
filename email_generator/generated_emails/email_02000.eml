@@ -1,0 +1,46 @@
+From: Nimbus Retail <nimbus@nimbusretail.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Sun, 24 May 2026 19:20:00 -0000
+Message-ID: <b47f2f5e2c56458e9b3da5eb6c088f37@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9151919207411564226=="
+
+--===============9151919207411564226==
+Content-Type: multipart/alternative;
+ boundary="===============0641586476983321319=="
+
+--===============0641586476983321319==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Fresco Foods membership renews on October 02 for INR 999.
+
+Thanks for being a valued customer.
+
+--===============0641586476983321319==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Fresco Foods membership renews on October 02 for INR 999.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0641586476983321319==--
+
+--===============9151919207411564226==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============9151919207411564226==--

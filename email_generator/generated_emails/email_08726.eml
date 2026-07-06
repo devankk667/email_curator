@@ -1,0 +1,49 @@
+From: Cloudscape <cloudscape41@airindia.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Mon, 08 Jun 2026 12:00:00 -0000
+Message-ID: <58d74ebe364447dcbef503f1141d853f@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7345462634904135429=="
+
+--===============7345462634904135429==
+Content-Type: multipart/alternative;
+ boundary="===============8352790997999085637=="
+
+--===============8352790997999085637==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at New York Grand Hotel from January 25 to December 22 is confirmed=
+. Booking ID: 775768.
+
+Regards,
+Reservations Desk
+
+--===============8352790997999085637==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at New York Grand Hotel from January 25 to December 22 is co=
+nfirmed. Booking ID: 775768.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8352790997999085637==--
+
+--===============7345462634904135429==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============7345462634904135429==--

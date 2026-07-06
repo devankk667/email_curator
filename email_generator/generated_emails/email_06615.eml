@@ -1,0 +1,49 @@
+From: Coral Health <coral97@citibank.com>
+To: you@myinbox.com
+Subject: New Card Offer
+Date: Tue, 21 Apr 2026 11:45:00 -0000
+Message-ID: <3658a4d6c24c4b21837b98bfe096857c@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2461976955641949886=="
+
+--===============2461976955641949886==
+Content-Type: multipart/alternative;
+ boundary="===============5405109631684910514=="
+
+--===============5405109631684910514==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You are pre-approved for a credit limit increase to INR 12000. Accept before =
+September 15: https://payflow.com/dashboard
+
+Regards,
+Customer Service Team
+
+--===============5405109631684910514==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Card Offer</h3>
+    <p>You are pre-approved for a credit limit increase to INR 12000. Accept =
+before September 15: https://payflow.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5405109631684910514==--
+
+--===============2461976955641949886==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============2461976955641949886==--

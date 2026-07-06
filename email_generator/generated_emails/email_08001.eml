@@ -1,0 +1,35 @@
+From: Omar Reddy <omar76@workday.com>
+To: you@myinbox.com
+Subject: Recruiter Outreach
+Date: Sun, 24 May 2026 17:10:00 -0000
+Message-ID: <684fe4fd8f5c4b3e9301a274d81ec570@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7348024889435666127=="
+
+--===============7348024889435666127==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I'm a recruiter at Fresco Foods. We have an exciting ML Engineer opening =
+in San Francisco - interested? Job link: https://workday.com/candidate
+
+We look forward to hearing from you.
+
+--===============7348024889435666127==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Recruiter Outreach</h3>
+    <p>Hi, I'm a recruiter at Fresco Foods. We have an exciting ML Engineer o=
+pening in San Francisco - interested? Job link: https://workday.com/candidate=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============7348024889435666127==--

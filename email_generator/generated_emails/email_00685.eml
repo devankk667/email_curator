@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@myntra.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Sun, 17 May 2026 11:05:00 -0000
+Message-ID: <5aeef86a6d2f4549a83e0d49e4d051f1@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1156465710448122846=="
+
+--===============1156465710448122846==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #2 has been received. Refund of INR 499 will be process=
+ed by November 07. Details: https://flipkart.com/returns
+
+Happy Shopping!
+The Team
+
+--===============1156465710448122846==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #2 has been received. Refund of INR 499 will be =
+processed by November 07. Details: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1156465710448122846==--

@@ -1,0 +1,35 @@
+From: Lucas Ivanov <lucas48@college.ac.in>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Thu, 12 Feb 2026 11:30:00 -0000
+Message-ID: <18f36dee61154f5faab3c4c3953ae86f@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0976897563144679444=="
+
+--===============0976897563144679444==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Blockchain will be held on November 13 at 4 PM in the Semi=
+nar Hall.
+
+Thank you,
+Examination Cell
+
+--===============0976897563144679444==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Blockchain will be held on November 13 at 4 PM in t=
+he Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============0976897563144679444==--

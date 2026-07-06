@@ -1,0 +1,47 @@
+From: Diego Sharma <diego@claim-now.biz>
+To: you@myinbox.com
+Subject: Your Package is Held at Customs
+Date: Tue, 28 Apr 2026 17:10:00 -0000
+Message-ID: <71b04b0ac3794833a88f3dc505f8d5b8@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4832100868188920342=="
+
+--===============4832100868188920342==
+Content-Type: multipart/alternative;
+ boundary="===============8890407969564975980=="
+
+--===============8890407969564975980==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pay a small fee of INR 3999 to release your package. Click here to proceed: h=
+ttp://secure-verify-account.com/login
+
+Act now, offer expires soon!
+
+--===============8890407969564975980==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Package is Held at Customs</h3>
+    <p>Pay a small fee of INR 3999 to release your package. Click here to pro=
+ceed: http://secure-verify-account.com/login</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============8890407969564975980==--
+
+--===============4832100868188920342==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============4832100868188920342==--

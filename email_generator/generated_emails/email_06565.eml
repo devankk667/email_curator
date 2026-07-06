@@ -1,0 +1,32 @@
+From: Anchorpoint Realty <anchorpoint@vertexbank.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Mon, 23 Mar 2026 12:00:00 -0000
+Message-ID: <e426e2bac46948e59160cbcef8a5e609@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1188996342343692624=="
+
+--===============1188996342343692624==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 499 for Personal Loan #4 is due on November 16.
+
+Thank you for banking with us.
+
+--===============1188996342343692624==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 499 for Personal Loan #4 is due on November 16.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============1188996342343692624==--

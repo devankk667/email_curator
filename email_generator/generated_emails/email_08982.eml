@@ -1,0 +1,35 @@
+From: Anchorpoint Realty <anchorpoint@meridianair.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Sun, 07 Jun 2026 14:00:00 -0000
+Message-ID: <51d0232b5e264d10b05123af4391d7d5@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6020539901732251885=="
+
+--===============6020539901732251885==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Amsterdam from September 18 to March 02 is confirmed. Book=
+ing ID: 364533. Manage booking: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============6020539901732251885==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Amsterdam from September 18 to March 02 is confirme=
+d. Booking ID: 364533. Manage booking: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============6020539901732251885==--

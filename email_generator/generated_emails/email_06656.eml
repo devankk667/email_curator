@@ -1,0 +1,36 @@
+From: Orbit Logistics <orbit5@vertexbank.com>
+To: you@myinbox.com
+Subject: Credit Card Statement Generated
+Date: Sun, 17 May 2026 20:00:00 -0000
+Message-ID: <b6c70ea008144d5daa9b374a4615cabb@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6906650580717608248=="
+
+--===============6906650580717608248==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your credit card statement for the period ending November 23 is ready.
+Total due: INR 199.
+Minimum due: INR 25000.
+
+Regards,
+Customer Service Team
+
+--===============6906650580717608248==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Credit Card Statement Generated</h3>
+    <p>Your credit card statement for the period ending November 23 is ready.=
+</p><p>Total due: INR 199.</p><p>Minimum due: INR 25000.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6906650580717608248==--

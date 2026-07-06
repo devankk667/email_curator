@@ -1,0 +1,35 @@
+From: Starforge Games <starforge@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Mon, 26 Jan 2026 12:05:00 -0000
+Message-ID: <a766d704ff34448482154ecde872a3ed@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3627038195803666717=="
+
+--===============3627038195803666717==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Nimbus Retail was delivered on November 18. Rate your exper=
+ience.
+
+Happy Shopping!
+The Team
+
+--===============3627038195803666717==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Nimbus Retail was delivered on November 18. Rate you=
+r experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============3627038195803666717==--

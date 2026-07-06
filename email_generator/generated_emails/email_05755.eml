@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Fri, 05 Jun 2026 13:20:00 -0000
+Message-ID: <15a3c4b6e0764854b50a8142e6aa8087@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6469897995061591351=="
+
+--===============6469897995061591351==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 12000. Add funds here: https://vertexbank.c=
+om/statements
+
+Regards,
+Customer Service Team
+
+--===============6469897995061591351==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 12000. Add funds here: https://verte=
+xbank.com/statements</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6469897995061591351==--

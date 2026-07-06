@@ -1,0 +1,34 @@
+From: Coral Health <coral86@amazon.in>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Sun, 05 Apr 2026 07:10:00 -0000
+Message-ID: <65f13a18ad454ccba1ae873a0027e7cb@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2812425770776181296=="
+
+--===============2812425770776181296==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #7 from Nimbus Retail has shipped and will arrive by June 16. Trac=
+k it: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============2812425770776181296==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #7 from Nimbus Retail has shipped and will arrive by June 1=
+6. Track it: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2812425770776181296==--

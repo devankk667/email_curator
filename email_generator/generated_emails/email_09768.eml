@@ -1,0 +1,33 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Utility Bill Subsidy Update
+Date: Mon, 11 May 2026 17:00:00 -0000
+Message-ID: <bb36244548034ecdacd3de801f8bb682@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6538556347505967081=="
+
+--===============6538556347505967081==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You are eligible for a subsidy of INR 45000 on your utility bill this quarter.
+
+This is an automated notice.
+
+--===============6538556347505967081==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Utility Bill Subsidy Update</h3>
+    <p>You are eligible for a subsidy of INR 45000 on your utility bill this =
+quarter.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============6538556347505967081==--

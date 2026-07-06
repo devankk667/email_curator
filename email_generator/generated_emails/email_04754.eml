@@ -1,0 +1,47 @@
+From: Kenji Nguyen <kenji@instagram.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Thu, 30 Apr 2026 16:10:00 -0000
+Message-ID: <b9ab797eab584080b079b428289734c5@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0793878843871699098=="
+
+--===============0793878843871699098==
+Content-Type: multipart/alternative;
+ boundary="===============3757640059335731293=="
+
+--===============3757640059335731293==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the birthday party on September 07. RSVP now to let the hos=
+t know you're coming.
+
+-- Sent from your notifications
+
+--===============3757640059335731293==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the birthday party on September 07. RSVP now to let =
+the host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============3757640059335731293==--
+
+--===============0793878843871699098==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============0793878843871699098==--

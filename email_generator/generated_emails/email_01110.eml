@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks17@amazon.in>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Sun, 14 Jun 2026 07:00:00 -0000
+Message-ID: <ce495cddd7d14c0e9194b4ba79e0905d@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9200306356643124686=="
+
+--===============9200306356643124686==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Nimbus Retail was delivered on August 03. Rate your experie=
+nce.
+
+Happy Shopping!
+The Team
+
+--===============9200306356643124686==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Nimbus Retail was delivered on August 03. Rate your =
+experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============9200306356643124686==--

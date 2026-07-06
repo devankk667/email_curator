@@ -1,0 +1,36 @@
+From: Carlos Fischer <carlos@university.edu>
+To: you@myinbox.com
+Subject: Data Structures Exam Schedule
+Date: Thu, 30 Apr 2026 12:30:00 -0000
+Message-ID: <59d70a94bc55403c98801e3944f82c6f@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7570060743373160969=="
+
+--===============7570060743373160969==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Operating Systems exam is on March 11.
+Please submit Assignment 6 before May 02.
+Venue: Room 143, Main Block.
+
+Thank you,
+Examination Cell
+
+--===============7570060743373160969==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Data Structures Exam Schedule</h3>
+    <p>Operating Systems exam is on March 11.</p><p>Please submit Assignment =
+6 before May 02.</p><p>Venue: Room 143, Main Block.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============7570060743373160969==--

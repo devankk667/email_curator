@@ -1,0 +1,35 @@
+From: Coral Health <coral@bookings.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Fri, 17 Apr 2026 17:30:00 -0000
+Message-ID: <ffaed6fa09f044e0bee414e8a45a9ad2@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1553334641864537141=="
+
+--===============1553334641864537141==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to London on May 03 is now open. Check in her=
+e: https://makemytrip.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============1553334641864537141==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to London on May 03 is now open. Check=
+ in here: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============1553334641864537141==--

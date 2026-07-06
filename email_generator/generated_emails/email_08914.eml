@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@bookings.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Tue, 23 Jun 2026 08:30:00 -0000
+Message-ID: <f2f602b2b49648c292039e6ebc2eb289@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4192282946738587833=="
+
+--===============4192282946738587833==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Dubai starts on June 30. Don't forget to check the weather and p=
+ack accordingly.
+
+Safe travels,
+Booking Support Team
+
+--===============4192282946738587833==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Dubai starts on June 30. Don't forget to check the weathe=
+r and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============4192282946738587833==--

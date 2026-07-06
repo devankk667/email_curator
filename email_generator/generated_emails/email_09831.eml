@@ -1,0 +1,32 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Census Participation Reminder
+Date: Wed, 04 Feb 2026 15:45:00 -0000
+Message-ID: <2f08600722bf4a41906c1e82b5b054be@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5256879461654240742=="
+
+--===============5256879461654240742==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Please complete the national census survey before May 25.
+
+This is an automated notice.
+
+--===============5256879461654240742==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Census Participation Reminder</h3>
+    <p>Please complete the national census survey before May 25.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============5256879461654240742==--

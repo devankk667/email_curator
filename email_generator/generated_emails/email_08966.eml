@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@makemytrip.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Wed, 08 Apr 2026 16:05:00 -0000
+Message-ID: <18c17496a1274107b1ee9131436331cf@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0526147598968228588=="
+
+--===============0526147598968228588==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Toronto starts on September 02. Don't forget to check the weathe=
+r and pack accordingly.
+
+Regards,
+Reservations Desk
+
+--===============0526147598968228588==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Toronto starts on September 02. Don't forget to check the=
+ weather and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============0526147598968228588==--

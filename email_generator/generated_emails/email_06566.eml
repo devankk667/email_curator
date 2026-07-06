@@ -1,0 +1,32 @@
+From: PixelWorks <pixelworks@citibank.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Thu, 12 Mar 2026 15:10:00 -0000
+Message-ID: <398aef736a82412ebfa299872b908ee5@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7617643581031864608=="
+
+--===============7617643581031864608==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 199 for Personal Loan #2 is due on June 20.
+
+Thank you for banking with us.
+
+--===============7617643581031864608==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 199 for Personal Loan #2 is due on June 20.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============7617643581031864608==--

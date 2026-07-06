@@ -1,0 +1,33 @@
+From: Cloudscape <cloudscape@vertexbank.com>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Sat, 03 Jan 2026 08:10:00 -0000
+Message-ID: <ba697cf053144800930decf350ba6e6d@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5709575060629260281=="
+
+--===============5709575060629260281==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your quarterly investment report is ready. Net change: 9.7% as of July 08.
+
+Thank you for banking with us.
+
+--===============5709575060629260281==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 9.7% as of July=
+ 08.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============5709575060629260281==--

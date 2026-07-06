@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@airindia.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Sat, 28 Mar 2026 19:30:00 -0000
+Message-ID: <f161a2a73e074b14bdb96ee53dbcfc1d@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5330860403599174745=="
+
+--===============5330860403599174745==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Berlin as of July 16. Read the=
+ advisory: https://meridianair.com/checkin
+
+Regards,
+Reservations Desk
+
+--===============5330860403599174745==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Berlin as of July 16. R=
+ead the advisory: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============5330860403599174745==--

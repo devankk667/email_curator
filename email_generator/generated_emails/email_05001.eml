@@ -1,0 +1,29 @@
+From: Facebook <facebook@facebookmail.com>
+To: you@myinbox.com
+Subject: Poke from Priya Smith
+Date: Fri, 06 Mar 2026 16:10:00 -0000
+Message-ID: <f4944ec1459b485b84fd94bba0b536a4@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8783245186905753155=="
+
+--===============8783245186905753155==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Arjun Smith poked you. Poke them back!
+
+--===============8783245186905753155==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Priya Smith</h3>
+    <p>Arjun Smith poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8783245186905753155==--

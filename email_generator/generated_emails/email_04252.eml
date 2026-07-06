@@ -1,0 +1,44 @@
+From: Priya Mehta <priya@meetup.com>
+To: you@myinbox.com
+Subject: New Follower
+Date: Tue, 16 Jun 2026 15:10:00 -0000
+Message-ID: <3306152b5b054550ae4fed3cf27c4624@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0409825137675078026=="
+
+--===============0409825137675078026==
+Content-Type: multipart/alternative;
+ boundary="===============7179608977790429791=="
+
+--===============7179608977790429791==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Ananya Khan started following you. See their profile: https://meetup.com/grou=
+ps
+
+--===============7179608977790429791==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Follower</h3>
+    <p>Ananya Khan started following you. See their profile: https://meetup.c=
+om/groups</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============7179608977790429791==--
+
+--===============0409825137675078026==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============0409825137675078026==--

@@ -1,0 +1,35 @@
+From: Lucas Silva <lucas@campusmail.edu>
+To: you@myinbox.com
+Subject: Result Declaration
+Date: Fri, 15 May 2026 19:45:00 -0000
+Message-ID: <af3c9bac28d84572832a0e798e62dca6@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7155467982375286752=="
+
+--===============7155467982375286752==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Results for the Database Systems mid-semester exam have been published. Check=
+ your grades: https://campusmail.edu/library
+
+Thank you,
+Examination Cell
+
+--===============7155467982375286752==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Result Declaration</h3>
+    <p>Results for the Database Systems mid-semester exam have been published=
+. Check your grades: https://campusmail.edu/library</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============7155467982375286752==--

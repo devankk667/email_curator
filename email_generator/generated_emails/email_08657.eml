@@ -1,0 +1,34 @@
+From: Sara Tanaka <sara@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Wed, 18 Mar 2026 07:00:00 -0000
+Message-ID: <496de87f991c4629a703b262b0492c04@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6283643448249826684=="
+
+--===============6283643448249826684==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for QA Engineer at Nimbus Retail has moved to the next round=
+. Details: https://greenhouse.io/applications
+
+We look forward to hearing from you.
+
+--===============6283643448249826684==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for QA Engineer at Nimbus Retail has moved to the nex=
+t round. Details: https://greenhouse.io/applications</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============6283643448249826684==--

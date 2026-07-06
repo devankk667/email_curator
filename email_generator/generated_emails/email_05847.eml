@@ -1,0 +1,49 @@
+From: Brightline Media <brightline50@citibank.com>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Fri, 06 Mar 2026 10:05:00 -0000
+Message-ID: <dab2798a8052476bbe299f3fd661dc3f@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0430079267639428592=="
+
+--===============0430079267639428592==
+Content-Type: multipart/alternative;
+ boundary="===============3432655953734737108=="
+
+--===============3432655953734737108==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 21.9% this quarter. View details: htt=
+ps://payflow.com/dashboard
+
+Regards,
+Customer Service Team
+
+--===============3432655953734737108==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 21.9% this quarter. View detai=
+ls: https://payflow.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3432655953734737108==--
+
+--===============0430079267639428592==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============0430079267639428592==--

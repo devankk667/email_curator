@@ -1,0 +1,49 @@
+From: Brightline Media <brightline@meridianair.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Sat, 27 Jun 2026 18:20:00 -0000
+Message-ID: <eb1f3f0c8e7c449cb12112387f913945@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4490348658507015068=="
+
+--===============4490348658507015068==
+Content-Type: multipart/alternative;
+ boundary="===============5179249661408326234=="
+
+--===============5179249661408326234==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to Mumbai on September 23 is now open. Check =
+in here: https://bookings.com/reservations
+
+Regards,
+Reservations Desk
+
+--===============5179249661408326234==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to Mumbai on September 23 is now open.=
+ Check in here: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============5179249661408326234==--
+
+--===============4490348658507015068==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============4490348658507015068==--

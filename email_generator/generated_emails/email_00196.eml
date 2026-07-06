@@ -1,0 +1,34 @@
+From: Cloudscape <cloudscape@myntra.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Mon, 18 May 2026 11:30:00 -0000
+Message-ID: <b8e77d3be2ef4c6db373688655576428@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7222567799369478685=="
+
+--===============7222567799369478685==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #3 from Vertex Bank has shipped and will arrive by May 19. Track i=
+t: https://flipkart.com/returns
+
+Thanks for being a valued customer.
+
+--===============7222567799369478685==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #3 from Vertex Bank has shipped and will arrive by May 19. =
+Track it: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7222567799369478685==--

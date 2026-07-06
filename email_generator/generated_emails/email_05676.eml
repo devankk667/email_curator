@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco17@payflow.com>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Tue, 17 Feb 2026 08:05:00 -0000
+Message-ID: <dfece96cd76c43be93b604e2a6f3a282@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0214587312403584804=="
+
+--===============0214587312403584804==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 45000 matured on November 23. Choose to renew or wi=
+thdraw.
+
+Regards,
+Customer Service Team
+
+--===============0214587312403584804==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 45000 matured on November 23. Choose to rene=
+w or withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============0214587312403584804==--

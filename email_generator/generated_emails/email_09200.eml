@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@makemytrip.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Sun, 22 Mar 2026 11:00:00 -0000
+Message-ID: <ceea74aaef68466ab7aff146a665f94d@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3050755219254354749=="
+
+--===============3050755219254354749==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 3999 for the cancelled London trip has been processed. Det=
+ails: https://meridianair.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============3050755219254354749==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 3999 for the cancelled London trip has been process=
+ed. Details: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============3050755219254354749==--

@@ -1,0 +1,32 @@
+From: Fernwood Analytics <fernwood86@vertexbank.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Wed, 18 Feb 2026 22:30:00 -0000
+Message-ID: <1254b1ede8364f6e9216ece1c2de49fb@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3161418054703317590=="
+
+--===============3161418054703317590==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 45000 for Personal Loan #9 is due on July 27.
+
+Thank you for banking with us.
+
+--===============3161418054703317590==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 45000 for Personal Loan #9 is due on July 27.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3161418054703317590==--

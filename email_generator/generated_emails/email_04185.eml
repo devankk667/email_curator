@@ -1,0 +1,42 @@
+From: Rahul Okafor <rahul@facebookmail.com>
+To: you@myinbox.com
+Subject: Poke from Sara Dubois
+Date: Sat, 27 Jun 2026 18:30:00 -0000
+Message-ID: <fc86f376cc2f4adf9e6cc6e3122233bf@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6366719770638868251=="
+
+--===============6366719770638868251==
+Content-Type: multipart/alternative;
+ boundary="===============6836446150590757197=="
+
+--===============6836446150590757197==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Ivan Silva poked you. Poke them back!
+
+--===============6836446150590757197==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Sara Dubois</h3>
+    <p>Ivan Silva poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6836446150590757197==--
+
+--===============6366719770638868251==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============6366719770638868251==--

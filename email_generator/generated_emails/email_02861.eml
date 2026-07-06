@@ -1,0 +1,34 @@
+From: Wei Patel <wei@claim-now.biz>
+To: you@myinbox.com
+Subject: Your Account Password Expired
+Date: Sat, 30 May 2026 13:30:00 -0000
+Message-ID: <68c3a2ec8dac4d33bee32dd5a3a38e67@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1556442702682959430=="
+
+--===============1556442702682959430==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Click here immediately to reset your password or lose access permanently: htt=
+p://192.168.44.12/claim
+
+Don't miss this one-time opportunity!
+
+--===============1556442702682959430==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Account Password Expired</h3>
+    <p>Click here immediately to reset your password or lose access permanent=
+ly: http://192.168.44.12/claim</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============1556442702682959430==--

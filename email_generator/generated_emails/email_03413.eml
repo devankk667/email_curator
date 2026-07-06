@@ -1,0 +1,34 @@
+From: Elena Chen <elena@luckywin-prize.com>
+To: you@myinbox.com
+Subject: Your Account Password Expired
+Date: Tue, 14 Apr 2026 15:45:00 -0000
+Message-ID: <4f2fe196cdda49ceb37867a94090a187@luckywin-prize.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4917028727827688490=="
+
+--===============4917028727827688490==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Click here immediately to reset your password or lose access permanently: htt=
+p://192.168.44.12/claim
+
+Act now, offer expires soon!
+
+--===============4917028727827688490==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Account Password Expired</h3>
+    <p>Click here immediately to reset your password or lose access permanent=
+ly: http://192.168.44.12/claim</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============4917028727827688490==--

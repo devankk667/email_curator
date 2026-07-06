@@ -1,0 +1,47 @@
+From: James Kim <james@claim-now.biz>
+To: you@myinbox.com
+Subject: Your Account Password Expired
+Date: Sat, 24 Jan 2026 18:45:00 -0000
+Message-ID: <6bedbab4711d428a8f9c393b941a5fc6@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4759738779835405657=="
+
+--===============4759738779835405657==
+Content-Type: multipart/alternative;
+ boundary="===============8735235479684381935=="
+
+--===============8735235479684381935==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Click here immediately to reset your password or lose access permanently: htt=
+ps://claim-now.biz/prize
+
+Act now, offer expires soon!
+
+--===============8735235479684381935==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Account Password Expired</h3>
+    <p>Click here immediately to reset your password or lose access permanent=
+ly: https://claim-now.biz/prize</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============8735235479684381935==--
+
+--===============4759738779835405657==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============4759738779835405657==--

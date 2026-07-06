@@ -1,0 +1,31 @@
+From: Rahul Garcia <rahul@instagram.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Sat, 17 Jan 2026 17:45:00 -0000
+Message-ID: <6d31b174d08047888ece7ab2e993d936@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2162016424623891168=="
+
+--===============2162016424623891168==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the alumni meetup on March 01. RSVP now to let the host kno=
+w you're coming.
+
+--===============2162016424623891168==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the alumni meetup on March 01. RSVP now to let the h=
+ost know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2162016424623891168==--

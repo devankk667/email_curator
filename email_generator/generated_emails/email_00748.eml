@@ -1,0 +1,34 @@
+From: Brightline Media <brightline@myntra.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Sun, 29 Mar 2026 06:45:00 -0000
+Message-ID: <1e734e399a4f4fd6b7bb43a853b8a1ed@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0833829296711600103=="
+
+--===============0833829296711600103==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #6 from Fernwood Analytics has shipped and will arrive by December=
+ 27. Track it: https://myntra.com/orders
+
+Thanks for being a valued customer.
+
+--===============0833829296711600103==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #6 from Fernwood Analytics has shipped and will arrive by D=
+ecember 27. Track it: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0833829296711600103==--

@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks42@makemytrip.com>
+To: you@myinbox.com
+Subject: Boarding Pass Attached
+Date: Wed, 25 Feb 2026 19:30:00 -0000
+Message-ID: <ff7e3e62149a45d49101228205e69263@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7120503352427885767=="
+
+--===============7120503352427885767==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your boarding pass for the July 01 flight to New York is attached to this ema=
+il.
+
+Safe travels,
+Booking Support Team
+
+--===============7120503352427885767==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Boarding Pass Attached</h3>
+    <p>Your boarding pass for the July 01 flight to New York is attached to t=
+his email.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============7120503352427885767==--

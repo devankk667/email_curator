@@ -1,0 +1,48 @@
+From: Fresco Foods <fresco@nimbusretail.com>
+To: you@myinbox.com
+Subject: Wishlist Reminder
+Date: Sun, 01 Mar 2026 19:45:00 -0000
+Message-ID: <5209a73053644c659e0fefe7202d53e3@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7860020537032387505=="
+
+--===============7860020537032387505==
+Content-Type: multipart/alternative;
+ boundary="===============0980458545191371512=="
+
+--===============0980458545191371512==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Items in your wishlist are still available. Buy now before prices go up on Ma=
+rch 16.
+
+Thanks for being a valued customer.
+
+--===============0980458545191371512==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Wishlist Reminder</h3>
+    <p>Items in your wishlist are still available. Buy now before prices go u=
+p on March 16.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0980458545191371512==--
+
+--===============7860020537032387505==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============7860020537032387505==--

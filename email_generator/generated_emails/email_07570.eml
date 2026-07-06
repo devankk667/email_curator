@@ -1,0 +1,35 @@
+From: Yuki Tanaka <yuki@college.ac.in>
+To: you@myinbox.com
+Subject: Fee Payment Reminder
+Date: Wed, 13 May 2026 09:30:00 -0000
+Message-ID: <3afb16f5a3e14018b8b0adac35aaf171@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5868359639913147284=="
+
+--===============5868359639913147284==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your semester fee of INR 45000 is due by October 09.
+Pay online via the student portal to avoid late charges.
+
+Regards,
+Office of Academic Affairs
+
+--===============5868359639913147284==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fee Payment Reminder</h3>
+    <p>Your semester fee of INR 45000 is due by October 09.</p><p>Pay online =
+via the student portal to avoid late charges.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============5868359639913147284==--

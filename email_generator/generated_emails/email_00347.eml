@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks19@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Tue, 10 Feb 2026 17:20:00 -0000
+Message-ID: <6f01590586fe431c993458980a5440af@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0003166413636487198=="
+
+--===============0003166413636487198==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #1 from Quanta Labs has shipped and will arrive by April 04. Track=
+ it: https://amazon.in/orders
+
+Happy Shopping!
+The Team
+
+--===============0003166413636487198==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #1 from Quanta Labs has shipped and will arrive by April 04=
+. Track it: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============0003166413636487198==--

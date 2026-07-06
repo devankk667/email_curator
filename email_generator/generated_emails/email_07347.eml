@@ -1,0 +1,36 @@
+From: Arjun Rossi <arjun@campusmail.edu>
+To: you@myinbox.com
+Subject: Data Structures Exam Schedule
+Date: Mon, 02 Mar 2026 10:15:00 -0000
+Message-ID: <f686e497d1794d5fa2ca09000b562ce6@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7101404984065389102=="
+
+--===============7101404984065389102==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Computer Networks exam is on February 21.
+Please submit Assignment 4 before February 21.
+Venue: Room 461, Main Block.
+
+Thank you,
+Examination Cell
+
+--===============7101404984065389102==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Data Structures Exam Schedule</h3>
+    <p>Computer Networks exam is on February 21.</p><p>Please submit Assignme=
+nt 4 before February 21.</p><p>Venue: Room 461, Main Block.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============7101404984065389102==--

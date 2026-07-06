@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@payflow.com>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Fri, 10 Apr 2026 17:45:00 -0000
+Message-ID: <c3c414a6996e4f9abf7a2df5c99269f4@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8404379370671116694=="
+
+--===============8404379370671116694==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 25000 is due on September 09. Pay now to keep your=
+ policy active.
+
+Regards,
+Customer Service Team
+
+--===============8404379370671116694==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 25000 is due on September 09. Pay now to ke=
+ep your policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8404379370671116694==--

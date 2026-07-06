@@ -1,0 +1,35 @@
+From: Coral Health <coral@flipkart.com>
+To: you@myinbox.com
+Subject: New Arrivals in Your Category
+Date: Sun, 25 Jan 2026 20:45:00 -0000
+Message-ID: <33e82ccfcf434d9fb0f7b2050c514d38@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6397737080327934674=="
+
+--===============6397737080327934674==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New arrivals from PixelWorks matching your interests are now live: https://my=
+ntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============6397737080327934674==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Arrivals in Your Category</h3>
+    <p>New arrivals from PixelWorks matching your interests are now live: htt=
+ps://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============6397737080327934674==--

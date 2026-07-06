@@ -1,0 +1,34 @@
+From: Wei Okafor <wei@workday.com>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Thu, 09 Apr 2026 20:45:00 -0000
+Message-ID: <08404f79fc424783ae1a25a030c33885@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5046880460974096712=="
+
+--===============5046880460974096712==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Liam Chen starred your repository on GitHub. Keep up the great work!
+
+Best regards,
+Talent Acquisition Team
+
+--===============5046880460974096712==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Liam Chen starred your repository on GitHub. Keep up the great work!</=
+p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============5046880460974096712==--

@@ -1,0 +1,33 @@
+From: Government Services <government@gov.in>
+To: you@myinbox.com
+Subject: Social Security Update
+Date: Sun, 28 Jun 2026 09:00:00 -0000
+Message-ID: <70d4e4378f5d4088834e02e0edbfb192@gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6949356171296480592=="
+
+--===============6949356171296480592==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your social security details have been updated as of December 22.
+
+Regards,
+Public Services Department
+
+--===============6949356171296480592==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Social Security Update</h3>
+    <p>Your social security details have been updated as of December 22.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============6949356171296480592==--

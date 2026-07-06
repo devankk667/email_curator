@@ -1,0 +1,29 @@
+From: Meetup <meetup@linkedin.com>
+To: you@myinbox.com
+Subject: Poke from Omar Patel
+Date: Fri, 23 Jan 2026 18:30:00 -0000
+Message-ID: <238b9a14b78441d98af56e1d9b46483a@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6816749493728918932=="
+
+--===============6816749493728918932==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Arjun Rossi poked you. Poke them back!
+
+--===============6816749493728918932==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Omar Patel</h3>
+    <p>Arjun Rossi poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6816749493728918932==--

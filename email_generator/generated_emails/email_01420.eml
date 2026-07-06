@@ -1,0 +1,49 @@
+From: Quanta Labs <quanta85@myntra.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Fri, 16 Jan 2026 16:45:00 -0000
+Message-ID: <c051712b7bdc4bc6900ab7720f257660@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2040136501039455422=="
+
+--===============2040136501039455422==
+Content-Type: multipart/alternative;
+ boundary="===============8139504801482050829=="
+
+--===============8139504801482050829==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #4 has been received. Refund of INR 25000 will be proce=
+ssed by February 10. Details: https://amazon.in/orders
+
+Happy Shopping!
+The Team
+
+--===============8139504801482050829==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #4 has been received. Refund of INR 25000 will b=
+e processed by February 10. Details: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============8139504801482050829==--
+
+--===============2040136501039455422==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============2040136501039455422==--

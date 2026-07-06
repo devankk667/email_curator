@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@makemytrip.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Tue, 10 Mar 2026 19:45:00 -0000
+Message-ID: <661d0d30e4544e8e9911a59b428839e4@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2758077313811342349=="
+
+--===============2758077313811342349==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to Singapore on September 12 is now open. Che=
+ck in here: https://meridianair.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============2758077313811342349==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to Singapore on September 12 is now op=
+en. Check in here: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2758077313811342349==--

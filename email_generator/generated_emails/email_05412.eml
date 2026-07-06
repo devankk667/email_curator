@@ -1,0 +1,44 @@
+From: Isabella Dubois <isabella@meetup.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Sat, 06 Jun 2026 17:15:00 -0000
+Message-ID: <d07913bc65e24cef938d54bd075b7bef@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6792625815507933436=="
+
+--===============6792625815507933436==
+Content-Type: multipart/alternative;
+ boundary="===============6509461457266878979=="
+
+--===============6509461457266878979==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Mei Novak: "Hey, are we still meeting on March 12=
+?"
+
+--===============6509461457266878979==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Mei Novak: "Hey, are we still meeting on M=
+arch 12?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6509461457266878979==--
+
+--===============6792625815507933436==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============6792625815507933436==--

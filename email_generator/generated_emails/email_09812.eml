@@ -1,0 +1,34 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Passport Renewal Reminder
+Date: Sat, 25 Apr 2026 17:30:00 -0000
+Message-ID: <62a13b02f9574c27862d2107a00e3c22@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7981214802910411807=="
+
+--===============7981214802910411807==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your passport is due for renewal within 6 months. Schedule an appointment bef=
+ore July 08.
+
+This is an automated notice.
+
+--===============7981214802910411807==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Passport Renewal Reminder</h3>
+    <p>Your passport is due for renewal within 6 months. Schedule an appointm=
+ent before July 08.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============7981214802910411807==--

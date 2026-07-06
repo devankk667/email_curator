@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@linkedin.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Sun, 31 May 2026 21:15:00 -0000
+Message-ID: <d2479d2b60d2449cae82d4142d2971dc@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0113271676040881418=="
+
+--===============0113271676040881418==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for Data Analyst at Fresco Foods has moved to the next round=
+. Details: www.linkedin.com/jobs/view
+
+Best regards,
+Talent Acquisition Team
+
+--===============0113271676040881418==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for Data Analyst at Fresco Foods has moved to the nex=
+t round. Details: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============0113271676040881418==--

@@ -1,0 +1,35 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Driving License Renewal
+Date: Tue, 24 Mar 2026 12:10:00 -0000
+Message-ID: <4e585746d8d549f1a9f77d1a212058df@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3598935765404758346=="
+
+--===============3598935765404758346==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your driving license expires on August 01. Renew online: https://gov.in/servi=
+ces/rto
+
+Regards,
+Public Services Department
+
+--===============3598935765404758346==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Driving License Renewal</h3>
+    <p>Your driving license expires on August 01. Renew online: https://gov.i=
+n/services/rto</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============3598935765404758346==--

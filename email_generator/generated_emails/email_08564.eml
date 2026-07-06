@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood@linkedin.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Mon, 01 Jun 2026 17:00:00 -0000
+Message-ID: <227f7e2cea6845849f4d48162c6327db@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6745335206767641547=="
+
+--===============6745335206767641547==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: Backend Developer at Fernwood Ana=
+lytics, Paris. Apply now: https://greenhouse.io/applications
+
+Best regards,
+Talent Acquisition Team
+
+--===============6745335206767641547==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: Backend Developer at Fernw=
+ood Analytics, Paris. Apply now: https://greenhouse.io/applications</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============6745335206767641547==--

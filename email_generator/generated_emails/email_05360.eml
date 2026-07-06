@@ -1,0 +1,29 @@
+From: Facebook <facebook@facebookmail.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Tue, 31 Mar 2026 18:00:00 -0000
+Message-ID: <101fecbccbd246a69b2b91802352a6ba@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0090268840702505570=="
+
+--===============0090268840702505570==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Zara Okafor invited you to join the group 'the team offsite'.
+
+--===============0090268840702505570==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Zara Okafor invited you to join the group 'the team offsite'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============0090268840702505570==--

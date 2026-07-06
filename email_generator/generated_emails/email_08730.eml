@@ -1,0 +1,35 @@
+From: Starforge Games <starforge69@makemytrip.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Fri, 23 Jan 2026 11:00:00 -0000
+Message-ID: <3b5dfd0533c8423481776799f8f13661@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7702427311483982639=="
+
+--===============7702427311483982639==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Bangalore has been rescheduled to December 12. Plea=
+se check your booking.
+
+Regards,
+Reservations Desk
+
+--===============7702427311483982639==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Bangalore has been rescheduled to December 1=
+2. Please check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============7702427311483982639==--

@@ -1,0 +1,34 @@
+From: Liam Kim <liam@facebookmail.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Thu, 12 Feb 2026 16:20:00 -0000
+Message-ID: <c592e6b8bc9f4b4aa9c97d9f6e096b20@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6048604246165965665=="
+
+--===============6048604246165965665==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Sara Nguyen: "Hey, are we still meeting on Februa=
+ry 16?"
+
+-- Sent from your notifications
+
+--===============6048604246165965665==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Sara Nguyen: "Hey, are we still meeting on=
+ February 16?"</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============6048604246165965665==--

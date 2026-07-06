@@ -1,0 +1,47 @@
+From: Rahul Patel <rahul@linkedin.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Wed, 07 Jan 2026 15:30:00 -0000
+Message-ID: <87679667b43e4375933bada3d3b3cb08@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2111504085846322813=="
+
+--===============2111504085846322813==
+Content-Type: multipart/alternative;
+ boundary="===============6735457567575726844=="
+
+--===============6735457567575726844==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the college reunion on September 27. RSVP now to let the ho=
+st know you're coming.
+
+-- Sent from your notifications
+
+--===============6735457567575726844==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the college reunion on September 27. RSVP now to let=
+ the host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============6735457567575726844==--
+
+--===============2111504085846322813==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============2111504085846322813==--

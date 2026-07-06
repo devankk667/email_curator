@@ -1,0 +1,35 @@
+From: Diego Tanaka <diego@workday.com>
+To: you@myinbox.com
+Subject: Onboarding Details
+Date: Mon, 23 Mar 2026 20:00:00 -0000
+Message-ID: <a253747ccce84bbeb9ac17e9a32a4a90@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4147841099787607934=="
+
+--===============4147841099787607934==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Welcome to PixelWorks! Your onboarding for the Data Analyst role begins on Ma=
+y 22.
+
+Best regards,
+Talent Acquisition Team
+
+--===============4147841099787607934==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Onboarding Details</h3>
+    <p>Welcome to PixelWorks! Your onboarding for the Data Analyst role begin=
+s on May 22.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============4147841099787607934==--

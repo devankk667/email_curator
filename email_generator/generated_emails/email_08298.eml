@@ -1,0 +1,48 @@
+From: Cloudscape <cloudscape@greenhouse.io>
+To: you@myinbox.com
+Subject: Recruiter Outreach
+Date: Thu, 01 Jan 2026 17:15:00 -0000
+Message-ID: <f9c1fb39ddc94a30bf7b455a499313d4@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9162194202967986951=="
+
+--===============9162194202967986951==
+Content-Type: multipart/alternative;
+ boundary="===============4014492739940815448=="
+
+--===============4014492739940815448==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I'm a recruiter at Meridian Airlines. We have an exciting Data Analyst op=
+ening in Mumbai - interested? Job link: https://naukri.com/jobs
+
+Best regards,
+Talent Acquisition Team
+
+--===============4014492739940815448==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Recruiter Outreach</h3>
+    <p>Hi, I'm a recruiter at Meridian Airlines. We have an exciting Data Ana=
+lyst opening in Mumbai - interested? Job link: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============4014492739940815448==--
+
+--===============9162194202967986951==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============9162194202967986951==--

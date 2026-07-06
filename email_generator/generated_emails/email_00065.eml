@@ -1,0 +1,33 @@
+From: Coral Health <coral@myntra.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Thu, 16 Apr 2026 21:15:00 -0000
+Message-ID: <a18eb25b4a9f40268bb30fe2edb7d2c2@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6004134480065556944=="
+
+--===============6004134480065556944==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Fresco Foods membership renews on September 12 for INR 499.
+
+Happy Shopping!
+The Team
+
+--===============6004134480065556944==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Fresco Foods membership renews on September 12 for INR 499.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============6004134480065556944==--

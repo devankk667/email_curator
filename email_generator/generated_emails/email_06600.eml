@@ -1,0 +1,34 @@
+From: Nimbus Retail <nimbus@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Autopay Setup Confirmation
+Date: Tue, 30 Jun 2026 13:05:00 -0000
+Message-ID: <f607791b9706464bb1dda343601e5dae@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5264584512545005418=="
+
+--===============5264584512545005418==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Autopay for your Fresco Foods bill has been set up, starting October 13.
+
+Regards,
+Customer Service Team
+
+--===============5264584512545005418==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Autopay Setup Confirmation</h3>
+    <p>Autopay for your Fresco Foods bill has been set up, starting October 1=
+3.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============5264584512545005418==--

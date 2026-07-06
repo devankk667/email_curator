@@ -1,0 +1,33 @@
+From: Fernwood Analytics <fernwood@flipkart.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Wed, 18 Mar 2026 17:15:00 -0000
+Message-ID: <327cb78633df4435994dcaecf69dd8e4@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2381543436321400363=="
+
+--===============2381543436321400363==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Fernwood Analytics membership renews on July 21 for INR 3999.
+
+Happy Shopping!
+The Team
+
+--===============2381543436321400363==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Fernwood Analytics membership renews on July 21 for INR 3999.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============2381543436321400363==--

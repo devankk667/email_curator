@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco23@flipkart.com>
+To: you@myinbox.com
+Subject: Wishlist Reminder
+Date: Sun, 01 Feb 2026 06:20:00 -0000
+Message-ID: <fe1a22450cf84bcab993f73bec64d581@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8148440079834825013=="
+
+--===============8148440079834825013==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Items in your wishlist are still available. Buy now before prices go up on Au=
+gust 02.
+
+Happy Shopping!
+The Team
+
+--===============8148440079834825013==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Wishlist Reminder</h3>
+    <p>Items in your wishlist are still available. Buy now before prices go u=
+p on August 02.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============8148440079834825013==--

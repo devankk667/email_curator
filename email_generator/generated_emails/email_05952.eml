@@ -1,0 +1,34 @@
+From: Fresco Foods <fresco74@payflow.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Fri, 23 Jan 2026 19:45:00 -0000
+Message-ID: <41c886ca5626498abe5e488a16fc6bca@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7474222317488766798=="
+
+--===============7474222317488766798==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 199. Add funds here: https://vertexbank.com=
+/accounts
+
+Thank you for banking with us.
+
+--===============7474222317488766798==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 199. Add funds here: https://vertexb=
+ank.com/accounts</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============7474222317488766798==--

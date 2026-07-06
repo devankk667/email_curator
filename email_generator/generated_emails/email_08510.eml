@@ -1,0 +1,47 @@
+From: Meera Fischer <meera@linkedin.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Fri, 06 Feb 2026 07:45:00 -0000
+Message-ID: <2978d0d68154458fb7d21f8633ef6ad6@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9186355995070577856=="
+
+--===============9186355995070577856==
+Content-Type: multipart/alternative;
+ boundary="===============3114642841056704604=="
+
+--===============3114642841056704604==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for ML Engineer at PixelWorks has moved to the next round. D=
+etails: https://greenhouse.io/applications
+
+We look forward to hearing from you.
+
+--===============3114642841056704604==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for ML Engineer at PixelWorks has moved to the next r=
+ound. Details: https://greenhouse.io/applications</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============3114642841056704604==--
+
+--===============9186355995070577856==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============9186355995070577856==--

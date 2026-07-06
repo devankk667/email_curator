@@ -1,0 +1,34 @@
+From: Orbit Logistics <orbit@amazon.in>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Mon, 18 May 2026 20:10:00 -0000
+Message-ID: <170ecc9709e44bddb82432d1ed300018@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1952579882041641764=="
+
+--===============1952579882041641764==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #8 from Cloudscape is delayed and will now arrive by May 29 instea=
+d of July 30. Track: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============1952579882041641764==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #8 from Cloudscape is delayed and will now arrive by May 29=
+ instead of July 30. Track: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============1952579882041641764==--

@@ -1,0 +1,35 @@
+From: Lucas Patel <lucas@college.ac.in>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Mon, 22 Jun 2026 09:30:00 -0000
+Message-ID: <f8bc7ab54e2d4826ae8b9ad90aad3cc5@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8202804562461682780=="
+
+--===============8202804562461682780==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Linear Algebra lecture originally on September 05 has been moved to Septe=
+mber 28, Room 202.
+
+Thank you,
+Examination Cell
+
+--===============8202804562461682780==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Linear Algebra lecture originally on September 05 has been moved t=
+o September 28, Room 202.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============8202804562461682780==--

@@ -1,0 +1,35 @@
+From: Liam Fischer <liam@college.ac.in>
+To: you@myinbox.com
+Subject: Hostel Fee Due
+Date: Tue, 24 Mar 2026 06:00:00 -0000
+Message-ID: <68ac317fb4f541b79367817491b0697c@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6620961732898473562=="
+
+--===============6620961732898473562==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your hostel fee of INR 12000 is due by November 09. Pay via the accounts offi=
+ce.
+
+Thank you,
+Examination Cell
+
+--===============6620961732898473562==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hostel Fee Due</h3>
+    <p>Your hostel fee of INR 12000 is due by November 09. Pay via the accoun=
+ts office.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============6620961732898473562==--

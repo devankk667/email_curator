@@ -1,0 +1,34 @@
+From: Lucas Rossi <lucas@linkedin.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Thu, 12 Mar 2026 16:45:00 -0000
+Message-ID: <37f3ea240456415c98ba07011d771b5f@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1121717392997833361=="
+
+--===============1121717392997833361==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Data Scientist role at Nimbus Retail. Our team =
+will review your application shortly.
+
+We look forward to hearing from you.
+
+--===============1121717392997833361==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Data Scientist role at Nimbus Retail. Ou=
+r team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============1121717392997833361==--

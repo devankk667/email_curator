@@ -1,0 +1,32 @@
+From: Cloudscape <cloudscape@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Mon, 06 Apr 2026 07:20:00 -0000
+Message-ID: <c8ce646edc2342f49c0787eebfd2f64f@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7124503317495932112=="
+
+--===============7124503317495932112==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Cloudscape membership renews on April 06 for INR 7500.
+
+Thanks for being a valued customer.
+
+--===============7124503317495932112==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Cloudscape membership renews on April 06 for INR 7500.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7124503317495932112==--

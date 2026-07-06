@@ -1,0 +1,34 @@
+From: Ivan Fischer <ivan@luckywin-prize.com>
+To: you@myinbox.com
+Subject: Your Account Password Expired
+Date: Sun, 05 Apr 2026 10:15:00 -0000
+Message-ID: <8ccb6a5ccab84077b66f848dee5ea276@luckywin-prize.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6085800950670808613=="
+
+--===============6085800950670808613==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Click here immediately to reset your password or lose access permanently: htt=
+ps://claim-now.biz/prize
+
+Act now, offer expires soon!
+
+--===============6085800950670808613==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Account Password Expired</h3>
+    <p>Click here immediately to reset your password or lose access permanent=
+ly: https://claim-now.biz/prize</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============6085800950670808613==--

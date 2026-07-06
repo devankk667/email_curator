@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Sat, 14 Feb 2026 11:45:00 -0000
+Message-ID: <d771fa6e6f1f4128ba413178dfdcd72e@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8129451432095212384=="
+
+--===============8129451432095212384==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 12000 has been credited to your account on December 03 as salary from Cor=
+al Health.
+
+Regards,
+Customer Service Team
+
+--===============8129451432095212384==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 12000 has been credited to your account on December 03 as salary f=
+rom Coral Health.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8129451432095212384==--

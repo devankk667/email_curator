@@ -1,0 +1,33 @@
+From: Anchorpoint Realty <anchorpoint@payflow.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Tue, 17 Feb 2026 09:00:00 -0000
+Message-ID: <d14d6c6d031040be98c6b7515c8a470c@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8936769076211402276=="
+
+--===============8936769076211402276==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 7500 for Personal Loan #6 is due on July 25.
+
+Regards,
+Customer Service Team
+
+--===============8936769076211402276==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 7500 for Personal Loan #6 is due on July 25.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8936769076211402276==--

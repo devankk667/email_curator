@@ -1,0 +1,47 @@
+From: Brightline Media <brightline@flipkart.com>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Thu, 18 Jun 2026 06:15:00 -0000
+Message-ID: <d86d33f755a6417b9516d524eb1cce5a@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6889518118163291167=="
+
+--===============6889518118163291167==
+Content-Type: multipart/alternative;
+ boundary="===============3995088084659036224=="
+
+--===============3995088084659036224==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 12000. Grab it before it's gone!
+
+Thanks for being a valued customer.
+
+--===============3995088084659036224==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 12000. Grab it before it'=
+s gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============3995088084659036224==--
+
+--===============6889518118163291167==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============6889518118163291167==--

@@ -1,0 +1,44 @@
+From: Meera Okafor <meera63@instagram.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Sat, 28 Feb 2026 13:10:00 -0000
+Message-ID: <498dc5b465dd4dc38d2da4b6921c37a1@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3016310790519661616=="
+
+--===============3016310790519661616==
+Content-Type: multipart/alternative;
+ boundary="===============0268686278944795332=="
+
+--===============0268686278944795332==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Isabella Nguyen's birthday on September 07! Send them a message to make =
+their day.
+
+--===============0268686278944795332==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Isabella Nguyen's birthday on September 07! Send them a message t=
+o make their day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============0268686278944795332==--
+
+--===============3016310790519661616==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============3016310790519661616==--

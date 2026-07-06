@@ -1,0 +1,31 @@
+From: LinkedIn <linkedin@linkedin.com>
+To: you@myinbox.com
+Subject: Rahul Ivanov tagged you in a photo
+Date: Sat, 17 Jan 2026 19:10:00 -0000
+Message-ID: <eaf373fff48e472b9e02a1756cbb3f9d@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2187172045416427500=="
+
+--===============2187172045416427500==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Fatima Reddy tagged you in a photo from 'the team offsite'. Check it out and =
+leave a comment!
+
+--===============2187172045416427500==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Rahul Ivanov tagged you in a photo</h3>
+    <p>Fatima Reddy tagged you in a photo from 'the team offsite'. Check it o=
+ut and leave a comment!</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2187172045416427500==--

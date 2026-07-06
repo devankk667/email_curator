@@ -1,0 +1,32 @@
+From: Fresco Foods <fresco@nimbusretail.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Fri, 12 Jun 2026 18:45:00 -0000
+Message-ID: <5ab140799981464da3b1e6f5fdcffc0b@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5437802931435006714=="
+
+--===============5437802931435006714==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Nimbus Retail membership renews on November 23 for INR 999.
+
+Thanks for being a valued customer.
+
+--===============5437802931435006714==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Nimbus Retail membership renews on November 23 for INR 999.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5437802931435006714==--

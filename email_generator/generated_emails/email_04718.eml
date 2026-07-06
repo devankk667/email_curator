@@ -1,0 +1,31 @@
+From: Carlos Mehta <carlos@instagram.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Thu, 21 May 2026 12:45:00 -0000
+Message-ID: <74187068b78f422da06478dbcd6fad39@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7069964423227834844=="
+
+--===============7069964423227834844==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Isabella Rossi: "Hey, are we still meeting on Sep=
+tember 05?"
+
+--===============7069964423227834844==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Isabella Rossi: "Hey, are we still meeting=
+ on September 05?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============7069964423227834844==--

@@ -1,0 +1,47 @@
+From: Fernwood Analytics <fernwood@amazon.in>
+To: you@myinbox.com
+Subject: Flash Sale - 4 Hours Only
+Date: Thu, 18 Jun 2026 06:10:00 -0000
+Message-ID: <6dd1aa592700468cb6060543068eb8c6@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7394593986572048822=="
+
+--===============7394593986572048822==
+Content-Type: multipart/alternative;
+ boundary="===============2048657472269353639=="
+
+--===============2048657472269353639==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Flash sale live now at Brightline Media! Extra 2.0% off, ends June 30.
+
+Thanks for being a valued customer.
+
+--===============2048657472269353639==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flash Sale - 4 Hours Only</h3>
+    <p>Flash sale live now at Brightline Media! Extra 2.0% off, ends June 30.=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2048657472269353639==--
+
+--===============7394593986572048822==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============7394593986572048822==--

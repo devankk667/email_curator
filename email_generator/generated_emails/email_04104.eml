@@ -1,0 +1,47 @@
+From: Nina Dubois <nina@instagram.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Thu, 05 Mar 2026 16:10:00 -0000
+Message-ID: <411e0c074d8a47d29e0919c8ddd6f06b@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2916168201225913485=="
+
+--===============2916168201225913485==
+Content-Type: multipart/alternative;
+ boundary="===============3229683088977311229=="
+
+--===============3229683088977311229==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the hackathon kickoff on May 22. RSVP now to let the host k=
+now you're coming.
+
+-- Sent from your notifications
+
+--===============3229683088977311229==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the hackathon kickoff on May 22. RSVP now to let the=
+ host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============3229683088977311229==--
+
+--===============2916168201225913485==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============2916168201225913485==--

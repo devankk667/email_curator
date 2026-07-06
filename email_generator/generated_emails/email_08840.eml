@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks69@meridianair.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Mon, 02 Mar 2026 11:05:00 -0000
+Message-ID: <51c870f88882427c8db70c8174d333eb@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8447417812538259647=="
+
+--===============8447417812538259647==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to New York has been rescheduled to February 12. Pleas=
+e check your booking.
+
+Regards,
+Reservations Desk
+
+--===============8447417812538259647==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to New York has been rescheduled to February 12=
+. Please check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8447417812538259647==--

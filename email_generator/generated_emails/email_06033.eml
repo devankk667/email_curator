@@ -1,0 +1,49 @@
+From: Anchorpoint Realty <anchorpoint@vertexbank.com>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Wed, 13 May 2026 17:15:00 -0000
+Message-ID: <aa8e3e93d6404d539ef502988968cd43@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0218165812406258901=="
+
+--===============0218165812406258901==
+Content-Type: multipart/alternative;
+ boundary="===============0995599095753358109=="
+
+--===============0995599095753358109==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 199 matured on March 30. Choose to renew or withdra=
+w.
+
+Regards,
+Customer Service Team
+
+--===============0995599095753358109==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 199 matured on March 30. Choose to renew or =
+withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============0995599095753358109==--
+
+--===============0218165812406258901==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============0218165812406258901==--

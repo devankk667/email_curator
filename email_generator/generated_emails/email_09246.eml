@@ -1,0 +1,49 @@
+From: Coral Health <coral@makemytrip.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Sat, 28 Mar 2026 14:10:00 -0000
+Message-ID: <50ff336d109c45d4984608af93fe8656@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8882747242354414759=="
+
+--===============8882747242354414759==
+Content-Type: multipart/alternative;
+ boundary="===============8762529350092501534=="
+
+--===============8762529350092501534==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Paris as of May 28. Read the a=
+dvisory: https://meridianair.com/checkin
+
+Safe travels,
+Booking Support Team
+
+--===============8762529350092501534==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Paris as of May 28. Rea=
+d the advisory: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============8762529350092501534==--
+
+--===============8882747242354414759==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============8882747242354414759==--

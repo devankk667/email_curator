@@ -1,0 +1,34 @@
+From: Liam Costa <liam@claim-now.biz>
+To: you@myinbox.com
+Subject: Your Package is Held at Customs
+Date: Sun, 25 Jan 2026 21:10:00 -0000
+Message-ID: <d9ee07ab63de433d8fe3fb1836f5e6f7@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9147967755940687362=="
+
+--===============9147967755940687362==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pay a small fee of INR 2500 to release your package. Click here to proceed: h=
+ttp://192.168.44.12/claim
+
+Don't miss this one-time opportunity!
+
+--===============9147967755940687362==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Package is Held at Customs</h3>
+    <p>Pay a small fee of INR 2500 to release your package. Click here to pro=
+ceed: http://192.168.44.12/claim</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Don't miss this one-time=
+ opportunity!</p>
+  </body>
+</html>
+
+--===============9147967755940687362==--

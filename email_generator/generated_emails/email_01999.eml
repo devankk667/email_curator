@@ -1,0 +1,48 @@
+From: Orbit Logistics <orbit@amazon.in>
+To: you@myinbox.com
+Subject: New Arrivals in Your Category
+Date: Tue, 26 May 2026 09:15:00 -0000
+Message-ID: <1091fd1043444cf486ba4b4ba2ad4622@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5783038825899483388=="
+
+--===============5783038825899483388==
+Content-Type: multipart/alternative;
+ boundary="===============0994421697145331994=="
+
+--===============0994421697145331994==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New arrivals from Anchorpoint Realty matching your interests are now live: ht=
+tps://myntra.com/orders
+
+Thanks for being a valued customer.
+
+--===============0994421697145331994==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Arrivals in Your Category</h3>
+    <p>New arrivals from Anchorpoint Realty matching your interests are now l=
+ive: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0994421697145331994==--
+
+--===============5783038825899483388==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============5783038825899483388==--

@@ -1,0 +1,35 @@
+From: Sara Ivanov <sara@college.ac.in>
+To: you@myinbox.com
+Subject: Result Declaration
+Date: Tue, 17 Mar 2026 08:30:00 -0000
+Message-ID: <37b8468a492544a6865e0b97090b1b04@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4363714608933166594=="
+
+--===============4363714608933166594==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Results for the Data Structures mid-semester exam have been published. Check =
+your grades: https://portal.university.edu/results
+
+Regards,
+Office of Academic Affairs
+
+--===============4363714608933166594==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Result Declaration</h3>
+    <p>Results for the Data Structures mid-semester exam have been published.=
+ Check your grades: https://portal.university.edu/results</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============4363714608933166594==--

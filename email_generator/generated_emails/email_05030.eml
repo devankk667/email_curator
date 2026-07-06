@@ -1,0 +1,42 @@
+From: Facebook <facebook@facebookmail.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Sat, 14 Mar 2026 10:00:00 -0000
+Message-ID: <d1c59acc52d14e539ace4b0c60813990@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2925149298355647677=="
+
+--===============2925149298355647677==
+Content-Type: multipart/alternative;
+ boundary="===============9042643111809456243=="
+
+--===============9042643111809456243==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Noah Dubois invited you to join the group 'the birthday party'.
+
+--===============9042643111809456243==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Noah Dubois invited you to join the group 'the birthday party'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============9042643111809456243==--
+
+--===============2925149298355647677==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============2925149298355647677==--

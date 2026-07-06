@@ -1,0 +1,29 @@
+From: Meetup <meetup@facebookmail.com>
+To: you@myinbox.com
+Subject: Poke from Aisha Garcia
+Date: Fri, 27 Feb 2026 13:05:00 -0000
+Message-ID: <ff2c75326e0941e58edbd31587b49e6b@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3720293772000391724=="
+
+--===============3720293772000391724==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Aisha Ivanov poked you. Poke them back!
+
+--===============3720293772000391724==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Aisha Garcia</h3>
+    <p>Aisha Ivanov poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============3720293772000391724==--

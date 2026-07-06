@@ -1,0 +1,46 @@
+From: PixelWorks <pixelworks@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Thu, 28 May 2026 15:45:00 -0000
+Message-ID: <7c5c6fe06e044bb9821e2cbaf4486940@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5347813351669982255=="
+
+--===============5347813351669982255==
+Content-Type: multipart/alternative;
+ boundary="===============5003317981067021172=="
+
+--===============5003317981067021172==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Anchorpoint Realty membership renews on March 05 for INR 2500.
+
+Thanks for being a valued customer.
+
+--===============5003317981067021172==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Anchorpoint Realty membership renews on March 05 for INR 2500.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5003317981067021172==--
+
+--===============5347813351669982255==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============5347813351669982255==--

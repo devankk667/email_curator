@@ -1,0 +1,48 @@
+From: Zynta Corp <zynta23@myntra.com>
+To: you@myinbox.com
+Subject: Flash Sale - 4 Hours Only
+Date: Thu, 09 Apr 2026 07:30:00 -0000
+Message-ID: <cf1cdbe851fa4ba095f21595075e613b@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7728072633229191595=="
+
+--===============7728072633229191595==
+Content-Type: multipart/alternative;
+ boundary="===============3563258627562293510=="
+
+--===============3563258627562293510==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Flash sale live now at Fernwood Analytics! Extra 2.1% off, ends July 05.
+
+Happy Shopping!
+The Team
+
+--===============3563258627562293510==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flash Sale - 4 Hours Only</h3>
+    <p>Flash sale live now at Fernwood Analytics! Extra 2.1% off, ends July 0=
+5.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============3563258627562293510==--
+
+--===============7728072633229191595==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============7728072633229191595==--

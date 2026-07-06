@@ -1,0 +1,32 @@
+From: Starforge Games <starforge@payflow.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Tue, 06 Jan 2026 15:15:00 -0000
+Message-ID: <4e15b653bc3f4d4d83f226642f27c516@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3777923667761543378=="
+
+--===============3777923667761543378==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 12000 for Personal Loan #8 is due on August 31.
+
+Thank you for banking with us.
+
+--===============3777923667761543378==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 12000 for Personal Loan #8 is due on August 31.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3777923667761543378==--

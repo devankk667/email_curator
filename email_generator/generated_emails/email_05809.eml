@@ -1,0 +1,34 @@
+From: Quanta Labs <quanta@citibank.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Wed, 17 Jun 2026 19:30:00 -0000
+Message-ID: <5f39c1bc9c9a4918960833dd3ac3d3fb@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3640599938180340802=="
+
+--===============3640599938180340802==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Ju=
+ly 03 to avoid penalties.
+
+Thank you for banking with us.
+
+--===============3640599938180340802==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore July 03 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3640599938180340802==--

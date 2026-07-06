@@ -1,0 +1,34 @@
+From: James Nguyen <james73@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Congratulations, Gift Card Winner
+Date: Sat, 09 May 2026 07:15:00 -0000
+Message-ID: <c123eed28a754c63a34e2e0b60524a81@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8272812629605641602=="
+
+--===============8272812629605641602==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You've won a INR 7500 gift card from Orbit Logistics. Redeem within 24 hours:=
+ http://192.168.44.12/claim
+
+Act now, offer expires soon!
+
+--===============8272812629605641602==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Congratulations, Gift Card Winner</h3>
+    <p>You've won a INR 7500 gift card from Orbit Logistics. Redeem within 24=
+ hours: http://192.168.44.12/claim</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============8272812629605641602==--

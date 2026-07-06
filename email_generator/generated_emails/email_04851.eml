@@ -1,0 +1,34 @@
+From: Instagram <instagram@linkedin.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Tue, 13 Jan 2026 15:05:00 -0000
+Message-ID: <747a20eaec6548e0a31b1e5e0be95437@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4271147560945533026=="
+
+--===============4271147560945533026==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Kenji Sharma: "Hey, are we still meeting on Augus=
+t 18?"
+
+-- Sent from your notifications
+
+--===============4271147560945533026==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Kenji Sharma: "Hey, are we still meeting o=
+n August 18?"</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============4271147560945533026==--

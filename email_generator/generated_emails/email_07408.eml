@@ -1,0 +1,35 @@
+From: Nina Chen <nina13@college.ac.in>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Sun, 17 May 2026 11:30:00 -0000
+Message-ID: <02f641de021e4d5a8d0c12ea110ae778@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0163972001611200592=="
+
+--===============0163972001611200592==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Operating Systems lecture originally on August 01 has been moved to March=
+ 19, Room 194.
+
+Thank you,
+Examination Cell
+
+--===============0163972001611200592==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Operating Systems lecture originally on August 01 has been moved t=
+o March 19, Room 194.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============0163972001611200592==--

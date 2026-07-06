@@ -1,0 +1,34 @@
+From: Omar Tanaka <omar98@linkedin.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Sun, 11 Jan 2026 15:10:00 -0000
+Message-ID: <01b7c9d60c3242de9d180d0f80411402@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4970230966683667167=="
+
+--===============4970230966683667167==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for Data Scientist at Nimbus Retail has moved to the next ro=
+und. Details: https://workday.com/candidate
+
+We look forward to hearing from you.
+
+--===============4970230966683667167==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for Data Scientist at Nimbus Retail has moved to the =
+next round. Details: https://workday.com/candidate</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============4970230966683667167==--

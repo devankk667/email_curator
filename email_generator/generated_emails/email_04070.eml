@@ -1,0 +1,29 @@
+From: Meetup <meetup@facebookmail.com>
+To: you@myinbox.com
+Subject: Ivan Tanaka liked your photo
+Date: Mon, 09 Mar 2026 18:05:00 -0000
+Message-ID: <ca7f0c09b081453c81ca9ae9e0f51516@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4317003950401771045=="
+
+--===============4317003950401771045==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Liam Chen and 4 others liked your recent photo.
+
+--===============4317003950401771045==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Ivan Tanaka liked your photo</h3>
+    <p>Liam Chen and 4 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4317003950401771045==--

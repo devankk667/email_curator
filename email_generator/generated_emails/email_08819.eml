@@ -1,0 +1,49 @@
+From: Fresco Foods <fresco@bookings.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Wed, 11 Feb 2026 11:15:00 -0000
+Message-ID: <b474e19639764dabb08f5c709136b2ee@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7680038926660918066=="
+
+--===============7680038926660918066==
+Content-Type: multipart/alternative;
+ boundary="===============4426531700383678530=="
+
+--===============4426531700383678530==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Bangalore has been rescheduled to February 05. Plea=
+se check your booking.
+
+Safe travels,
+Booking Support Team
+
+--===============4426531700383678530==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Bangalore has been rescheduled to February 0=
+5. Please check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============4426531700383678530==--
+
+--===============7680038926660918066==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============7680038926660918066==--

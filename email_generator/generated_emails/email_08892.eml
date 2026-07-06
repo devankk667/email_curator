@@ -1,0 +1,49 @@
+From: Brightline Media <brightline@bookings.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Sat, 10 Jan 2026 07:00:00 -0000
+Message-ID: <bb233c01da294fd496868a575e6774c4@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9171238459322094976=="
+
+--===============9171238459322094976==
+Content-Type: multipart/alternative;
+ boundary="===============2650843177470942083=="
+
+--===============2650843177470942083==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to New York on December 26 is now open. Check=
+ in here: https://meridianair.com/checkin
+
+Safe travels,
+Booking Support Team
+
+--===============2650843177470942083==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to New York on December 26 is now open=
+. Check in here: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============2650843177470942083==--
+
+--===============9171238459322094976==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============9171238459322094976==--

@@ -1,0 +1,35 @@
+From: Sara Kim <sara@college.ac.in>
+To: you@myinbox.com
+Subject: Result Declaration
+Date: Tue, 12 May 2026 18:00:00 -0000
+Message-ID: <ad8232d5499a479b99459ffd0f9e95a4@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5919475807094487495=="
+
+--===============5919475807094487495==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Results for the Database Systems mid-semester exam have been published. Check=
+ your grades: https://college.ac.in/scholarships
+
+Thank you,
+Examination Cell
+
+--===============5919475807094487495==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Result Declaration</h3>
+    <p>Results for the Database Systems mid-semester exam have been published=
+. Check your grades: https://college.ac.in/scholarships</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============5919475807094487495==--

@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@meridianair.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Fri, 19 Jun 2026 11:45:00 -0000
+Message-ID: <86c0f7ce620e439398838dec43fc47f8@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6035732166867523500=="
+
+--===============6035732166867523500==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Berlin Grand Hotel from January 13 to May 14 is confirmed. Booki=
+ng ID: 717374.
+
+Regards,
+Reservations Desk
+
+--===============6035732166867523500==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Berlin Grand Hotel from January 13 to May 14 is confirmed=
+. Booking ID: 717374.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============6035732166867523500==--

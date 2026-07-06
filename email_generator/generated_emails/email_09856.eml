@@ -1,0 +1,35 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Passport Application Status
+Date: Mon, 16 Feb 2026 06:30:00 -0000
+Message-ID: <29b7deb749f44d6ebbfcabd6c8f5719e@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0841761211394656048=="
+
+--===============0841761211394656048==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your passport application #731712 status has been updated to 'Ready for Dispa=
+tch'.
+
+Regards,
+Public Services Department
+
+--===============0841761211394656048==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Passport Application Status</h3>
+    <p>Your passport application #731712 status has been updated to 'Ready fo=
+r Dispatch'.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============0841761211394656048==--

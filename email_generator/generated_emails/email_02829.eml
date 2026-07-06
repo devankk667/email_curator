@@ -1,0 +1,34 @@
+From: Isabella Silva <isabella@claim-now.biz>
+To: you@myinbox.com
+Subject: Your Account Password Expired
+Date: Fri, 30 Jan 2026 17:20:00 -0000
+Message-ID: <1e9b1e1f90494fa1be5686e016c7fbc8@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6878421099829878321=="
+
+--===============6878421099829878321==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Click here immediately to reset your password or lose access permanently: htt=
+p://192.168.44.12/claim
+
+Act now, offer expires soon!
+
+--===============6878421099829878321==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Account Password Expired</h3>
+    <p>Click here immediately to reset your password or lose access permanent=
+ly: http://192.168.44.12/claim</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============6878421099829878321==--

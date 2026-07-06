@@ -1,0 +1,34 @@
+From: Cloudscape <cloudscape@citibank.com>
+To: you@myinbox.com
+Subject: Autopay Setup Confirmation
+Date: Tue, 23 Jun 2026 14:45:00 -0000
+Message-ID: <3419bb7608574d80b4fdffb7aeea53bd@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7148305925023077131=="
+
+--===============7148305925023077131==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Autopay for your Vertex Bank bill has been set up, starting June 01.
+
+Regards,
+Customer Service Team
+
+--===============7148305925023077131==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Autopay Setup Confirmation</h3>
+    <p>Autopay for your Vertex Bank bill has been set up, starting June 01.</=
+p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============7148305925023077131==--

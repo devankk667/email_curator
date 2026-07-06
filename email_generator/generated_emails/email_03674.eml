@@ -1,0 +1,34 @@
+From: Diego Nguyen <diego@freegift-alert.net>
+To: you@myinbox.com
+Subject: You've Won a Prize!
+Date: Sun, 01 Feb 2026 22:00:00 -0000
+Message-ID: <dfe04256fa7d49a6be15809785258470@freegift-alert.net>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0506653698332648275=="
+
+--===============0506653698332648275==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Congratulations! You have been selected to win INR 199. Click here to claim n=
+ow before it expires: https://bit.ly/3xF9kLp
+
+Act now, offer expires soon!
+
+--===============0506653698332648275==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">You've Won a Prize!</h3>
+    <p>Congratulations! You have been selected to win INR 199. Click here to =
+claim now before it expires: https://bit.ly/3xF9kLp</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============0506653698332648275==--

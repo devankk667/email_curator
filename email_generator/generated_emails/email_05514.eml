@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood@payflow.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Fri, 06 Feb 2026 14:45:00 -0000
+Message-ID: <f6c7ea570db940c1850a67b136baa3b0@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7632940668033292576=="
+
+--===============7632940668033292576==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 25000 was debited from your account ending 4821 on October 17 at Anchorpo=
+int Realty.
+
+Regards,
+Customer Service Team
+
+--===============7632940668033292576==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 25000 was debited from your account ending 4821 on October 17 at A=
+nchorpoint Realty.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============7632940668033292576==--

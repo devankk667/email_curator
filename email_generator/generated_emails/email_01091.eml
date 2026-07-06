@@ -1,0 +1,33 @@
+From: Orbit Logistics <orbit60@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Mon, 23 Mar 2026 07:30:00 -0000
+Message-ID: <bd47eac4ce8b46ccac0faecafafbf851@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4380732268629753405=="
+
+--===============4380732268629753405==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your package from Cloudscape was delivered on July 17. Rate your experience.
+
+Thanks for being a valued customer.
+
+--===============4380732268629753405==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Cloudscape was delivered on July 17. Rate your exper=
+ience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4380732268629753405==--

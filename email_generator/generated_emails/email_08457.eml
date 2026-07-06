@@ -1,0 +1,35 @@
+From: Ananya Novak <ananya@workday.com>
+To: you@myinbox.com
+Subject: Reference Check Request
+Date: Sat, 20 Jun 2026 22:00:00 -0000
+Message-ID: <6dd1d90ab3f141d9ae5c3fd236b50c99@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5415115039513517595=="
+
+--===============5415115039513517595==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+PixelWorks would like to contact your references for the QA Engineer position=
+. Please confirm by July 26.
+
+Best regards,
+Talent Acquisition Team
+
+--===============5415115039513517595==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Reference Check Request</h3>
+    <p>PixelWorks would like to contact your references for the QA Engineer p=
+osition. Please confirm by July 26.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============5415115039513517595==--

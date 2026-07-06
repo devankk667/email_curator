@@ -1,0 +1,49 @@
+From: Sara Kim <sara@university.edu>
+To: you@myinbox.com
+Subject: Convocation Notice
+Date: Tue, 17 Feb 2026 20:00:00 -0000
+Message-ID: <6c9d1fb28e4448adbac83c1540ff65ea@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6116860575493812700=="
+
+--===============6116860575493812700==
+Content-Type: multipart/alternative;
+ boundary="===============2751246682746638022=="
+
+--===============2751246682746638022==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Convocation ceremony will be held on August 10. Collect your gown by November=
+ 26.
+
+Thank you,
+Examination Cell
+
+--===============2751246682746638022==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Convocation Notice</h3>
+    <p>Convocation ceremony will be held on August 10. Collect your gown by N=
+ovember 26.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============2751246682746638022==--
+
+--===============6116860575493812700==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============6116860575493812700==--

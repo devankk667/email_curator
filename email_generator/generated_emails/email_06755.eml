@@ -1,0 +1,35 @@
+From: Elena Patel <elena@university.edu>
+To: you@myinbox.com
+Subject: Convocation Notice
+Date: Wed, 10 Jun 2026 16:15:00 -0000
+Message-ID: <cf015d4c4648468cbf65a9114162ab95@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7186080633654751255=="
+
+--===============7186080633654751255==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Convocation ceremony will be held on April 16. Collect your gown by January 2=
+3.
+
+Regards,
+Office of Academic Affairs
+
+--===============7186080633654751255==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Convocation Notice</h3>
+    <p>Convocation ceremony will be held on April 16. Collect your gown by Ja=
+nuary 23.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============7186080633654751255==--

@@ -1,0 +1,49 @@
+From: Yuki Novak <yuki@college.ac.in>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Thu, 09 Apr 2026 09:45:00 -0000
+Message-ID: <46cbd20f909642b4a60b31bb5f1a4324@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4967780938756927289=="
+
+--===============4967780938756927289==
+Content-Type: multipart/alternative;
+ boundary="===============8764400745071380962=="
+
+--===============8764400745071380962==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Computer Networks lecture originally on November 22 has been moved to Nov=
+ember 17, Room 175.
+
+Thank you,
+Examination Cell
+
+--===============8764400745071380962==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Computer Networks lecture originally on November 22 has been moved=
+ to November 17, Room 175.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============8764400745071380962==--
+
+--===============4967780938756927289==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============4967780938756927289==--

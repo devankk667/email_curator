@@ -1,0 +1,49 @@
+From: Mei Lopez <mei@university.edu>
+To: you@myinbox.com
+Subject: Assignment Extension Granted
+Date: Tue, 09 Jun 2026 12:20:00 -0000
+Message-ID: <d6fb6d21f05342baa797097285c8b1dd@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7879579924719603694=="
+
+--===============7879579924719603694==
+Content-Type: multipart/alternative;
+ boundary="===============8917148830334520753=="
+
+--===============8917148830334520753==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The deadline for Assignment 3 in Data Structures has been extended to April 1=
+1.
+
+Regards,
+Office of Academic Affairs
+
+--===============8917148830334520753==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Assignment Extension Granted</h3>
+    <p>The deadline for Assignment 3 in Data Structures has been extended to =
+April 11.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============8917148830334520753==--
+
+--===============7879579924719603694==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============7879579924719603694==--

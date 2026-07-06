@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood42@payflow.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Fri, 03 Apr 2026 22:05:00 -0000
+Message-ID: <3836d8c333fc424b97f1268ea9b7fe55@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8253541318298863611=="
+
+--===============8253541318298863611==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Oc=
+tober 10 to avoid penalties.
+
+Regards,
+Customer Service Team
+
+--===============8253541318298863611==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore October 10 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8253541318298863611==--

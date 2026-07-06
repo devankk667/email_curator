@@ -1,0 +1,36 @@
+From: Zynta Corp <zynta26@meridianair.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Thu, 12 Feb 2026 10:00:00 -0000
+Message-ID: <695d22dd0bbd48368cd483fd898c8cc7@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0936225638028474692=="
+
+--===============0936225638028474692==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to New York on February 04 is confirmed.
+Booking reference: 686714.
+Departure: 10:30 AM.
+
+Safe travels,
+Booking Support Team
+
+--===============0936225638028474692==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to New York on February 04 is confirmed.</p><p>Booking ref=
+erence: 686714.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============0936225638028474692==--

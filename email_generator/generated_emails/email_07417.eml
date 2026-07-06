@@ -1,0 +1,35 @@
+From: Zara Tanaka <zara@university.edu>
+To: you@myinbox.com
+Subject: Convocation Notice
+Date: Fri, 23 Jan 2026 15:15:00 -0000
+Message-ID: <3430bbded0644274a966eef27992465e@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6624497223306319086=="
+
+--===============6624497223306319086==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Convocation ceremony will be held on October 17. Collect your gown by March 2=
+7.
+
+Regards,
+Office of Academic Affairs
+
+--===============6624497223306319086==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Convocation Notice</h3>
+    <p>Convocation ceremony will be held on October 17. Collect your gown by =
+March 27.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============6624497223306319086==--

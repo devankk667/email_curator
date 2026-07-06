@@ -1,0 +1,34 @@
+From: Brightline Media <brightline@vertexbank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Sat, 07 Feb 2026 12:15:00 -0000
+Message-ID: <245c2c22017942cabdb81b33df4a136f@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0294981168215891553=="
+
+--===============0294981168215891553==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+INR 12000 was debited from your account ending 4821 on July 18 at Quanta Labs.
+
+Regards,
+Customer Service Team
+
+--===============0294981168215891553==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 12000 was debited from your account ending 4821 on July 18 at Quan=
+ta Labs.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============0294981168215891553==--

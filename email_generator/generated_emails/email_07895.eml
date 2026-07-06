@@ -1,0 +1,47 @@
+From: Brightline Media <brightline@workday.com>
+To: you@myinbox.com
+Subject: Reference Check Request
+Date: Sun, 26 Apr 2026 19:05:00 -0000
+Message-ID: <ace0d8a376dd4f9db866c8c4df4588e9@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3603482046096556700=="
+
+--===============3603482046096556700==
+Content-Type: multipart/alternative;
+ boundary="===============3205544680301486870=="
+
+--===============3205544680301486870==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Fernwood Analytics would like to contact your references for the Backend Deve=
+loper position. Please confirm by February 14.
+
+We look forward to hearing from you.
+
+--===============3205544680301486870==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Reference Check Request</h3>
+    <p>Fernwood Analytics would like to contact your references for the Backe=
+nd Developer position. Please confirm by February 14.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============3205544680301486870==--
+
+--===============3603482046096556700==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============3603482046096556700==--

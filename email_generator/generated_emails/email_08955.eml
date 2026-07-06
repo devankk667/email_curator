@@ -1,0 +1,35 @@
+From: Starforge Games <starforge@makemytrip.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Sat, 03 Jan 2026 13:15:00 -0000
+Message-ID: <cf4185fdb5424ffeb9227133033e027b@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8001120606377426652=="
+
+--===============8001120606377426652==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Delhi starts on June 14. Don't forget to check the weather and p=
+ack accordingly.
+
+Regards,
+Reservations Desk
+
+--===============8001120606377426652==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Delhi starts on June 14. Don't forget to check the weathe=
+r and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8001120606377426652==--

@@ -1,0 +1,34 @@
+From: Zynta Corp <zynta32@citibank.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Sun, 26 Apr 2026 22:45:00 -0000
+Message-ID: <2d8f80693c51468bb324253e72b3ad6e@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0061426411704996869=="
+
+--===============0061426411704996869==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 999. Add funds here: https://vertexbank.com=
+/accounts
+
+Thank you for banking with us.
+
+--===============0061426411704996869==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 999. Add funds here: https://vertexb=
+ank.com/accounts</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============0061426411704996869==--

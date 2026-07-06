@@ -1,0 +1,33 @@
+From: Coral Health <coral@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Autopay Setup Confirmation
+Date: Wed, 21 Jan 2026 20:10:00 -0000
+Message-ID: <9da6a99080f149268b620c94e65372e7@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3834901440794396464=="
+
+--===============3834901440794396464==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Autopay for your Fresco Foods bill has been set up, starting January 09.
+
+Thank you for banking with us.
+
+--===============3834901440794396464==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Autopay Setup Confirmation</h3>
+    <p>Autopay for your Fresco Foods bill has been set up, starting January 0=
+9.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3834901440794396464==--

@@ -1,0 +1,35 @@
+From: Fatima Smith <fatima35@campusmail.edu>
+To: you@myinbox.com
+Subject: Result Declaration
+Date: Sun, 15 Mar 2026 22:20:00 -0000
+Message-ID: <d72c6a6caa834498af5fcd77a152dd98@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2238745818755356839=="
+
+--===============2238745818755356839==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Results for the Data Structures mid-semester exam have been published. Check =
+your grades: https://portal.university.edu/exams
+
+Regards,
+Office of Academic Affairs
+
+--===============2238745818755356839==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Result Declaration</h3>
+    <p>Results for the Data Structures mid-semester exam have been published.=
+ Check your grades: https://portal.university.edu/exams</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============2238745818755356839==--

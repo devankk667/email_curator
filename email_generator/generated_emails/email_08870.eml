@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@meridianair.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Wed, 29 Apr 2026 12:20:00 -0000
+Message-ID: <f9980f5338444cde85bd5b05f4098c23@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5260743053378650735=="
+
+--===============5260743053378650735==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Mumbai as of February 20. Read=
+ the advisory: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============5260743053378650735==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Mumbai as of February 2=
+0. Read the advisory: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============5260743053378650735==--

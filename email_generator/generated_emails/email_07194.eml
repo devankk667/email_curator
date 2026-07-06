@@ -1,0 +1,35 @@
+From: Omar Reddy <omar@university.edu>
+To: you@myinbox.com
+Subject: Assignment Extension Granted
+Date: Tue, 31 Mar 2026 20:15:00 -0000
+Message-ID: <c34bfaad81ae45bfa735422c8074521b@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1525575872685361640=="
+
+--===============1525575872685361640==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The deadline for Assignment 1 in Operating Systems has been extended to Octob=
+er 12.
+
+Thank you,
+Examination Cell
+
+--===============1525575872685361640==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Assignment Extension Granted</h3>
+    <p>The deadline for Assignment 1 in Operating Systems has been extended t=
+o October 12.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============1525575872685361640==--

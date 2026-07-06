@@ -1,0 +1,34 @@
+From: Quanta Labs <quanta51@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Sat, 06 Jun 2026 09:15:00 -0000
+Message-ID: <901b76f73d3c49e7966db5e9548bd07a@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1597647197443114803=="
+
+--===============1597647197443114803==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #7 from Vertex Bank has shipped and will arrive by October 31. Tra=
+ck it: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============1597647197443114803==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #7 from Vertex Bank has shipped and will arrive by October =
+31. Track it: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============1597647197443114803==--

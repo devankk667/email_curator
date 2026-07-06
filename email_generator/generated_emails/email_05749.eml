@@ -1,0 +1,48 @@
+From: Orbit Logistics <orbit@citibank.com>
+To: you@myinbox.com
+Subject: New Card Offer
+Date: Tue, 27 Jan 2026 15:30:00 -0000
+Message-ID: <0aa6017945f64144b4f7e3ca7937c182@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8948301890961784992=="
+
+--===============8948301890961784992==
+Content-Type: multipart/alternative;
+ boundary="===============3549269908770786685=="
+
+--===============3549269908770786685==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You are pre-approved for a credit limit increase to INR 2500. Accept before M=
+arch 26: https://payflow.com/dashboard
+
+Thank you for banking with us.
+
+--===============3549269908770786685==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Card Offer</h3>
+    <p>You are pre-approved for a credit limit increase to INR 2500. Accept b=
+efore March 26: https://payflow.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3549269908770786685==--
+
+--===============8948301890961784992==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============8948301890961784992==--

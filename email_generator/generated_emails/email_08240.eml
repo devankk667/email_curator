@@ -1,0 +1,35 @@
+From: Carlos Reddy <carlos21@naukri.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Fri, 29 May 2026 19:05:00 -0000
+Message-ID: <88f93a7eab20487b8257de426ffabeb6@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2261415813074391919=="
+
+--===============2261415813074391919==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the UX Designer role at Fernwood Analytics. Our tea=
+m will review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============2261415813074391919==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the UX Designer role at Fernwood Analytics. =
+Our team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============2261415813074391919==--

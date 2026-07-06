@@ -1,0 +1,48 @@
+From: Anchorpoint Realty <anchorpoint@nimbusretail.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Wed, 11 Feb 2026 20:30:00 -0000
+Message-ID: <1f8652ca21004fd4ac5396cd6a9372cc@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0691990829574647008=="
+
+--===============0691990829574647008==
+Content-Type: multipart/alternative;
+ boundary="===============1514469600183249210=="
+
+--===============1514469600183249210==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #6 has been received. Refund of INR 199 will be process=
+ed by March 21. Details: https://flipkart.com/returns
+
+Thanks for being a valued customer.
+
+--===============1514469600183249210==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #6 has been received. Refund of INR 199 will be =
+processed by March 21. Details: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============1514469600183249210==--
+
+--===============0691990829574647008==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============0691990829574647008==--

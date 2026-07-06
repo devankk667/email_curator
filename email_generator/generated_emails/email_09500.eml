@@ -1,0 +1,49 @@
+From: Coral Health <coral@makemytrip.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Fri, 10 Apr 2026 11:20:00 -0000
+Message-ID: <a91146d0df5343eda65932804629d927@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5996335201191097933=="
+
+--===============5996335201191097933==
+Content-Type: multipart/alternative;
+ boundary="===============4602573853395738978=="
+
+--===============4602573853395738978==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Sydney as of January 16. Read =
+the advisory: https://meridianair.com/checkin
+
+Regards,
+Reservations Desk
+
+--===============4602573853395738978==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Sydney as of January 16=
+. Read the advisory: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============4602573853395738978==--
+
+--===============5996335201191097933==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============5996335201191097933==--

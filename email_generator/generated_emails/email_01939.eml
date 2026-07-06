@@ -1,0 +1,34 @@
+From: PixelWorks <pixelworks@myntra.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Sat, 23 May 2026 06:15:00 -0000
+Message-ID: <f6317273c0594a999ffcb28411947ab3@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6173057650102325820=="
+
+--===============6173057650102325820==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #1 from Nimbus Retail is delayed and will now arrive by October 12=
+ instead of October 20. Track: https://myntra.com/orders
+
+Thanks for being a valued customer.
+
+--===============6173057650102325820==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #1 from Nimbus Retail is delayed and will now arrive by Oct=
+ober 12 instead of October 20. Track: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============6173057650102325820==--

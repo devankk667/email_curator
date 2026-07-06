@@ -1,0 +1,35 @@
+From: Elena Garcia <elena@campusmail.edu>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Fri, 06 Feb 2026 07:05:00 -0000
+Message-ID: <08ec1bcd3e014b86a9b3fc9a89ae33c3@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6960532819172135607=="
+
+--===============6960532819172135607==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Computer Networks lecture originally on December 09 has been moved to Apr=
+il 30, Room 440.
+
+Thank you,
+Examination Cell
+
+--===============6960532819172135607==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Computer Networks lecture originally on December 09 has been moved=
+ to April 30, Room 440.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============6960532819172135607==--

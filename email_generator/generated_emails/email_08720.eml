@@ -1,0 +1,35 @@
+From: Brightline Media <brightline@makemytrip.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Tue, 09 Jun 2026 11:05:00 -0000
+Message-ID: <620486eb02a54859907b6c0fd7c40bb8@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8501912405163137888=="
+
+--===============8501912405163137888==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to London starts on June 03. Don't forget to check the weather and =
+pack accordingly.
+
+Safe travels,
+Booking Support Team
+
+--===============8501912405163137888==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to London starts on June 03. Don't forget to check the weath=
+er and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============8501912405163137888==--

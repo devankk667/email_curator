@@ -1,0 +1,30 @@
+From: Meetup <meetup@facebookmail.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Thu, 29 Jan 2026 14:10:00 -0000
+Message-ID: <f0896f7b94594a1381b802d7ea2a86c5@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2374500015690692205=="
+
+--===============2374500015690692205==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+It's Yuki Rossi's birthday on June 06! Send them a message to make their day.
+
+--===============2374500015690692205==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Yuki Rossi's birthday on June 06! Send them a message to make the=
+ir day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2374500015690692205==--

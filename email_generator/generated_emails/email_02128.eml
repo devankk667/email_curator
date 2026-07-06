@@ -1,0 +1,34 @@
+From: PixelWorks <pixelworks72@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Fri, 10 Apr 2026 18:10:00 -0000
+Message-ID: <097a38bb8ac349b0be0fa74ba371ffd8@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5908658290260424105=="
+
+--===============5908658290260424105==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #9 from Starforge Games has shipped and will arrive by August 24. =
+Track it: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============5908658290260424105==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #9 from Starforge Games has shipped and will arrive by Augu=
+st 24. Track it: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5908658290260424105==--

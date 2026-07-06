@@ -1,0 +1,33 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Building Permit Approved
+Date: Sat, 23 May 2026 20:10:00 -0000
+Message-ID: <3f6235f6e6724acbbb9faf8b56597a36@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3425066091764793436=="
+
+--===============3425066091764793436==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your building permit application #923090 has been approved as of January 30.
+
+This is an automated notice.
+
+--===============3425066091764793436==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Building Permit Approved</h3>
+    <p>Your building permit application #923090 has been approved as of Janua=
+ry 30.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============3425066091764793436==--

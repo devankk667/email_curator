@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus52@vertexbank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Sat, 31 Jan 2026 11:15:00 -0000
+Message-ID: <095e29f079bd475193726c93cafe581c@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2626331744383590594=="
+
+--===============2626331744383590594==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 499 was debited from your account ending 4821 on June 15 at Meridian Airl=
+ines.
+
+Regards,
+Customer Service Team
+
+--===============2626331744383590594==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 499 was debited from your account ending 4821 on June 15 at Meridi=
+an Airlines.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2626331744383590594==--

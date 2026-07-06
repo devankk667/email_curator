@@ -1,0 +1,49 @@
+From: Brightline Media <brightline67@citibank.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Fri, 13 Feb 2026 07:10:00 -0000
+Message-ID: <a61ce39e7e6e4a14a721a0766c5cc3c0@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3371566941449087651=="
+
+--===============3371566941449087651==
+Content-Type: multipart/alternative;
+ boundary="===============8946204802415632035=="
+
+--===============8946204802415632035==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Fe=
+bruary 02 to avoid penalties.
+
+Regards,
+Customer Service Team
+
+--===============8946204802415632035==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore February 02 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8946204802415632035==--
+
+--===============3371566941449087651==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============3371566941449087651==--

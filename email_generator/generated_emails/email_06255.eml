@@ -1,0 +1,32 @@
+From: Nimbus Retail <nimbus@payflow.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Sat, 03 Jan 2026 21:10:00 -0000
+Message-ID: <1608b0b13fce48d4a6ca7644a74060a9@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1954542128524505764=="
+
+--===============1954542128524505764==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 3999 for Personal Loan #1 is due on December 24.
+
+Thank you for banking with us.
+
+--===============1954542128524505764==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 3999 for Personal Loan #1 is due on December 24.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============1954542128524505764==--

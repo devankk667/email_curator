@@ -1,0 +1,49 @@
+From: Lucas Nguyen <lucas@college.ac.in>
+To: you@myinbox.com
+Subject: Result Declaration
+Date: Tue, 14 Apr 2026 08:15:00 -0000
+Message-ID: <e6167c5f2d9944c9930c246a65675b95@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5876834786994397116=="
+
+--===============5876834786994397116==
+Content-Type: multipart/alternative;
+ boundary="===============6533245939002921801=="
+
+--===============6533245939002921801==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Results for the Data Structures mid-semester exam have been published. Check =
+your grades: https://campusmail.edu/library
+
+Thank you,
+Examination Cell
+
+--===============6533245939002921801==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Result Declaration</h3>
+    <p>Results for the Data Structures mid-semester exam have been published.=
+ Check your grades: https://campusmail.edu/library</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============6533245939002921801==--
+
+--===============5876834786994397116==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============5876834786994397116==--

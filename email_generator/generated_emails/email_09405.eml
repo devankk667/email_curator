@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@bookings.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Thu, 19 Mar 2026 10:00:00 -0000
+Message-ID: <0459deafc3924dc2bf5aa70af6811a34@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8421086363065035226=="
+
+--===============8421086363065035226==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Amsterdam from December 05 to December 03 is confirmed. Bo=
+oking ID: 264327. Manage booking: https://meridianair.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============8421086363065035226==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Amsterdam from December 05 to December 03 is confir=
+med. Booking ID: 264327. Manage booking: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8421086363065035226==--

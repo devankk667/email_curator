@@ -1,0 +1,35 @@
+From: Ivan Rossi <ivan@campusmail.edu>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Mon, 12 Jan 2026 21:30:00 -0000
+Message-ID: <036d912001494730bcc337aa5c6fe0ea@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0420762476743334592=="
+
+--===============0420762476743334592==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Blockchain will be held on July 19 at 4 PM in the Seminar =
+Hall.
+
+Regards,
+Office of Academic Affairs
+
+--===============0420762476743334592==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Blockchain will be held on July 19 at 4 PM in the S=
+eminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============0420762476743334592==--

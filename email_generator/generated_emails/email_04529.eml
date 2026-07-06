@@ -1,0 +1,34 @@
+From: Sara Ivanov <sara@meetup.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Mon, 04 May 2026 08:10:00 -0000
+Message-ID: <0fbce38bcc1046e08f60cc6f0d1620df@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5468967305557709288=="
+
+--===============5468967305557709288==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Elena Silva: "Hey, are we still meeting on May 15=
+?"
+
+-- Sent from your notifications
+
+--===============5468967305557709288==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Elena Silva: "Hey, are we still meeting on=
+ May 15?"</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============5468967305557709288==--

@@ -1,0 +1,31 @@
+From: LinkedIn <linkedin@instagram.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Thu, 07 May 2026 18:15:00 -0000
+Message-ID: <dc8d5dd0ca6544619900fc84b1e5b8e4@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2367268016771380338=="
+
+--===============2367268016771380338==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Noah Novak: "Hey, are we still meeting on April 0=
+7?"
+
+--===============2367268016771380338==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Noah Novak: "Hey, are we still meeting on =
+April 07?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2367268016771380338==--

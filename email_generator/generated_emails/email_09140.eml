@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@airindia.com>
+To: you@myinbox.com
+Subject: Boarding Pass Attached
+Date: Wed, 11 Mar 2026 18:20:00 -0000
+Message-ID: <bb541e5eeca44a368f40df64b6c31d97@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2920104335691627464=="
+
+--===============2920104335691627464==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your boarding pass for the January 25 flight to Toronto is attached to this e=
+mail.
+
+Regards,
+Reservations Desk
+
+--===============2920104335691627464==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Boarding Pass Attached</h3>
+    <p>Your boarding pass for the January 25 flight to Toronto is attached to=
+ this email.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2920104335691627464==--

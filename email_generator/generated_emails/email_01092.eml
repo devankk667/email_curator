@@ -1,0 +1,49 @@
+From: Fernwood Analytics <fernwood@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Fri, 08 May 2026 18:20:00 -0000
+Message-ID: <f622415b4a484ebda0cf963274e24bbb@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4045713353059431850=="
+
+--===============4045713353059431850==
+Content-Type: multipart/alternative;
+ boundary="===============6305816011902796223=="
+
+--===============6305816011902796223==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Orbit Logistics was delivered on July 26. Rate your experie=
+nce.
+
+Happy Shopping!
+The Team
+
+--===============6305816011902796223==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Orbit Logistics was delivered on July 26. Rate your =
+experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============6305816011902796223==--
+
+--===============4045713353059431850==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============4045713353059431850==--

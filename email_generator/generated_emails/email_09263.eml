@@ -1,0 +1,34 @@
+From: Fernwood Analytics <fernwood@airindia.com>
+To: you@myinbox.com
+Subject: Travel Insurance Policy Issued
+Date: Tue, 02 Jun 2026 13:15:00 -0000
+Message-ID: <53de74161c9742ff9fffb2519150e3fc@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3770116251837146315=="
+
+--===============3770116251837146315==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your travel insurance policy #357944 for the Delhi trip is now active.
+
+Regards,
+Reservations Desk
+
+--===============3770116251837146315==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Insurance Policy Issued</h3>
+    <p>Your travel insurance policy #357944 for the Delhi trip is now active.=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============3770116251837146315==--

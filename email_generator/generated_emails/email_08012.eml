@@ -1,0 +1,35 @@
+From: James Ivanov <james@greenhouse.io>
+To: you@myinbox.com
+Subject: Recruiter Outreach
+Date: Wed, 11 Feb 2026 16:15:00 -0000
+Message-ID: <ba9aa3c5e9834397a96134c28c52ff2d@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1860794267493828928=="
+
+--===============1860794267493828928==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I'm a recruiter at Nimbus Retail. We have an exciting QA Engineer opening=
+ in London - interested? Job link: www.linkedin.com/jobs/view
+
+Best regards,
+Talent Acquisition Team
+
+--===============1860794267493828928==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Recruiter Outreach</h3>
+    <p>Hi, I'm a recruiter at Nimbus Retail. We have an exciting QA Engineer =
+opening in London - interested? Job link: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============1860794267493828928==--

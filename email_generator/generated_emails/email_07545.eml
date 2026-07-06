@@ -1,0 +1,35 @@
+From: Kenji Reddy <kenji26@college.ac.in>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Sun, 31 May 2026 07:10:00 -0000
+Message-ID: <27085b16d4fe4e4d873fab20fb4a906f@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3151203369504328421=="
+
+--===============3151203369504328421==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Cloud Computing will be held on November 14 at 4 PM in the=
+ Seminar Hall.
+
+Regards,
+Office of Academic Affairs
+
+--===============3151203369504328421==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Cloud Computing will be held on November 14 at 4 PM=
+ in the Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============3151203369504328421==--

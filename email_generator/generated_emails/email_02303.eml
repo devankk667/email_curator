@@ -1,0 +1,47 @@
+From: Sara Silva <sara80@claim-now.biz>
+To: you@myinbox.com
+Subject: Urgent: Verify Your Account
+Date: Fri, 29 May 2026 18:10:00 -0000
+Message-ID: <637a3b683e6349e1aea035f7ea691da7@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5870528285649752647=="
+
+--===============5870528285649752647==
+Content-Type: multipart/alternative;
+ boundary="===============0373199530759502968=="
+
+--===============0373199530759502968==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account will be suspended in 24 hours. Verify your details immediately: =
+https://claim-now.biz/prize
+
+Act now, offer expires soon!
+
+--===============0373199530759502968==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Urgent: Verify Your Account</h3>
+    <p>Your account will be suspended in 24 hours. Verify your details immedi=
+ately: https://claim-now.biz/prize</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============0373199530759502968==--
+
+--===============5870528285649752647==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============5870528285649752647==--

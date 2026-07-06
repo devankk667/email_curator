@@ -1,0 +1,33 @@
+From: Nimbus Retail <nimbus@amazon.in>
+To: you@myinbox.com
+Subject: Cart Reminder
+Date: Thu, 25 Jun 2026 09:30:00 -0000
+Message-ID: <bb45f6979b6244d4916aaa60f3faf073@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2218383973518138453=="
+
+--===============2218383973518138453==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You left 6 item(s) in your cart. Complete your purchase and get free shipping.
+
+Thanks for being a valued customer.
+
+--===============2218383973518138453==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>You left 6 item(s) in your cart. Complete your purchase and get free s=
+hipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2218383973518138453==--

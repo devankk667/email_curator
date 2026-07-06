@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@payflow.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Mon, 12 Jan 2026 09:15:00 -0000
+Message-ID: <7041f00f23784e779d61601c5a87a4b0@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3260107312697643059=="
+
+--===============3260107312697643059==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 1499 was debited from your account ending 4821 on October 03 at PixelWork=
+s.
+
+Regards,
+Customer Service Team
+
+--===============3260107312697643059==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 1499 was debited from your account ending 4821 on October 03 at Pi=
+xelWorks.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3260107312697643059==--

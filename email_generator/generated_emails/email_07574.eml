@@ -1,0 +1,35 @@
+From: Kenji Tanaka <kenji@university.edu>
+To: you@myinbox.com
+Subject: Assignment Extension Granted
+Date: Wed, 04 Feb 2026 12:00:00 -0000
+Message-ID: <3f1ed96521e841d8a2a99c5eb152a132@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3024718276312414042=="
+
+--===============3024718276312414042==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The deadline for Assignment 7 in Operating Systems has been extended to Febru=
+ary 22.
+
+Regards,
+Office of Academic Affairs
+
+--===============3024718276312414042==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Assignment Extension Granted</h3>
+    <p>The deadline for Assignment 7 in Operating Systems has been extended t=
+o February 22.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============3024718276312414042==--

@@ -1,0 +1,35 @@
+From: Carlos Nguyen <carlos@college.ac.in>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Sun, 10 May 2026 20:00:00 -0000
+Message-ID: <8a3087facab54f25a636bad2e0e51751@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1929177158988476383=="
+
+--===============1929177158988476383==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Blockchain will be held on June 19 at 4 PM in the Seminar =
+Hall.
+
+Thank you,
+Examination Cell
+
+--===============1929177158988476383==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Blockchain will be held on June 19 at 4 PM in the S=
+eminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============1929177158988476383==--

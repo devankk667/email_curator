@@ -1,0 +1,31 @@
+From: Ivan Mehta <ivan@meetup.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Sat, 23 May 2026 11:15:00 -0000
+Message-ID: <cacbb7a837f348a4bc3156b70fcd1b1c@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4424052813994065892=="
+
+--===============4424052813994065892==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Fatima Lopez's birthday on July 02! Send them a message to make their da=
+y.
+
+--===============4424052813994065892==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Fatima Lopez's birthday on July 02! Send them a message to make t=
+heir day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4424052813994065892==--

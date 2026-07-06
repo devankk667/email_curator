@@ -1,0 +1,34 @@
+From: Isabella Rossi <isabella26@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Received
+Date: Wed, 07 Jan 2026 06:20:00 -0000
+Message-ID: <b11c3a1ce1f84ae1aaa46f6cc6a3b1a8@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2879840312068606144=="
+
+--===============2879840312068606144==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the UX Designer role at Vertex Bank. Our team will =
+review your application shortly.
+
+We look forward to hearing from you.
+
+--===============2879840312068606144==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the UX Designer role at Vertex Bank. Our tea=
+m will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============2879840312068606144==--

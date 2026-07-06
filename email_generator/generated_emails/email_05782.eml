@@ -1,0 +1,46 @@
+From: Meridian Airlines <meridian15@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Fri, 20 Mar 2026 16:45:00 -0000
+Message-ID: <5429ac026485404caad7288165595464@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5238075987358691177=="
+
+--===============5238075987358691177==
+Content-Type: multipart/alternative;
+ boundary="===============3720136432992613152=="
+
+--===============3720136432992613152==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 499 for Personal Loan #4 is due on August 21.
+
+Thank you for banking with us.
+
+--===============3720136432992613152==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 499 for Personal Loan #4 is due on August 21.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3720136432992613152==--
+
+--===============5238075987358691177==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============5238075987358691177==--

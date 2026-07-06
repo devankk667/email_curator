@@ -1,0 +1,35 @@
+From: Coral Health <coral@payflow.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Thu, 26 Mar 2026 06:20:00 -0000
+Message-ID: <e3bc54020cb5461292cda782ae4bc52e@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1685042549355213618=="
+
+--===============1685042549355213618==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Ja=
+nuary 30 to avoid penalties.
+
+Regards,
+Customer Service Team
+
+--===============1685042549355213618==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore January 30 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1685042549355213618==--

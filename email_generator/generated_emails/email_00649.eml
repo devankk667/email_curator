@@ -1,0 +1,33 @@
+From: Cloudscape <cloudscape@flipkart.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Thu, 23 Apr 2026 06:10:00 -0000
+Message-ID: <033b45ac420b48e7970e86c14587ddb6@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6805049554532920046=="
+
+--===============6805049554532920046==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Quanta Labs membership renews on January 28 for INR 1499.
+
+Happy Shopping!
+The Team
+
+--===============6805049554532920046==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Quanta Labs membership renews on January 28 for INR 1499.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============6805049554532920046==--

@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@bookings.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Tue, 24 Feb 2026 08:10:00 -0000
+Message-ID: <ba5d9cc66c2d4e2e85792439299404f2@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1669511808931083320=="
+
+--===============1669511808931083320==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in Paris from November 21 to June 08 is confirmed. Booking ID=
+: 591686. Manage booking: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============1669511808931083320==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in Paris from November 21 to June 08 is confirmed. Boo=
+king ID: 591686. Manage booking: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============1669511808931083320==--

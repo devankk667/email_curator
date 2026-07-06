@@ -1,0 +1,47 @@
+From: Noah Garcia <noah@instagram.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Wed, 28 Jan 2026 12:20:00 -0000
+Message-ID: <b0d197d74936453883be2b9a9debd846@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6238578616354134605=="
+
+--===============6238578616354134605==
+Content-Type: multipart/alternative;
+ boundary="===============8108177685898571016=="
+
+--===============8108177685898571016==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Zara Novak: "Hey, are we still meeting on January=
+ 28?"
+
+-- Sent from your notifications
+
+--===============8108177685898571016==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Zara Novak: "Hey, are we still meeting on =
+January 28?"</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============8108177685898571016==--
+
+--===============6238578616354134605==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============6238578616354134605==--

@@ -1,0 +1,49 @@
+From: Zynta Corp <zynta@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Fri, 29 May 2026 21:00:00 -0000
+Message-ID: <1ac92b30f05148899e9f9cff4cd56694@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1517342521645884157=="
+
+--===============1517342521645884157==
+Content-Type: multipart/alternative;
+ boundary="===============2335543276198645320=="
+
+--===============2335543276198645320==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 3999 has been credited to your account on November 08 as salary from Nimb=
+us Retail.
+
+Regards,
+Customer Service Team
+
+--===============2335543276198645320==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 3999 has been credited to your account on November 08 as salary fr=
+om Nimbus Retail.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2335543276198645320==--
+
+--===============1517342521645884157==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============1517342521645884157==--

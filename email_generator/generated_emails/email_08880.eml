@@ -1,0 +1,49 @@
+From: Vertex Bank <vertex@meridianair.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Sat, 14 Mar 2026 07:00:00 -0000
+Message-ID: <fa215e404e294cfcaeac22d8e94271a4@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3392010645989059228=="
+
+--===============3392010645989059228==
+Content-Type: multipart/alternative;
+ boundary="===============6993413254335607839=="
+
+--===============6993413254335607839==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Paris has been rescheduled to April 21. Please chec=
+k your booking.
+
+Safe travels,
+Booking Support Team
+
+--===============6993413254335607839==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Paris has been rescheduled to April 21. Plea=
+se check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============6993413254335607839==--
+
+--===============3392010645989059228==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============3392010645989059228==--

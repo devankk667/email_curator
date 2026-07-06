@@ -1,0 +1,35 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Driving License Renewal
+Date: Sat, 20 Jun 2026 16:30:00 -0000
+Message-ID: <c49ac063a0764e84bebcfa28af6db051@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4116481753888971876=="
+
+--===============4116481753888971876==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your driving license expires on January 27. Renew online: https://municipal.g=
+ov/elections
+
+Regards,
+Public Services Department
+
+--===============4116481753888971876==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Driving License Renewal</h3>
+    <p>Your driving license expires on January 27. Renew online: https://muni=
+cipal.gov/elections</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============4116481753888971876==--

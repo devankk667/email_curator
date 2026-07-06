@@ -1,0 +1,35 @@
+From: Vertex Bank <vertex@vertexbank.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Tue, 13 Jan 2026 07:15:00 -0000
+Message-ID: <0ef9a4d0abc74b8fa941f0966c214c49@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8047192122443483406=="
+
+--===============8047192122443483406==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Au=
+gust 15 to avoid penalties.
+
+Regards,
+Customer Service Team
+
+--===============8047192122443483406==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore August 15 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8047192122443483406==--

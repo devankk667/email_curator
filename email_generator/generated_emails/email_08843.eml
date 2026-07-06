@@ -1,0 +1,49 @@
+From: Brightline Media <brightline@airindia.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Tue, 31 Mar 2026 14:30:00 -0000
+Message-ID: <a2ab90f9bc1d4e55bed834bc6e633aa7@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8928054000827757545=="
+
+--===============8928054000827757545==
+Content-Type: multipart/alternative;
+ boundary="===============8888619042065387694=="
+
+--===============8888619042065387694==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 45000 for the cancelled Tokyo trip has been processed. Det=
+ails: https://bookings.com/reservations
+
+Regards,
+Reservations Desk
+
+--===============8888619042065387694==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 45000 for the cancelled Tokyo trip has been process=
+ed. Details: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8888619042065387694==--
+
+--===============8928054000827757545==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============8928054000827757545==--

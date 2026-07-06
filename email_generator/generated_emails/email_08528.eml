@@ -1,0 +1,34 @@
+From: Vertex Bank <vertex@naukri.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Mon, 13 Apr 2026 12:00:00 -0000
+Message-ID: <cecd60941faf4d3ca8b57eaf5f081f95@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3439984672272874411=="
+
+--===============3439984672272874411==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: QA Engineer at PixelWorks, Delhi.=
+ Apply now: https://greenhouse.io/applications
+
+We look forward to hearing from you.
+
+--===============3439984672272874411==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: QA Engineer at PixelWorks,=
+ Delhi. Apply now: https://greenhouse.io/applications</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============3439984672272874411==--

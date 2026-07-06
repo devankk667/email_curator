@@ -1,0 +1,35 @@
+From: Wei Chen <wei@university.edu>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Thu, 28 May 2026 12:05:00 -0000
+Message-ID: <70db0f8902104e4cbf0329c3cd620750@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5258575461980197524=="
+
+--===============5258575461980197524==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Operating Systems lecture originally on September 13 has been moved to No=
+vember 26, Room 137.
+
+Regards,
+Office of Academic Affairs
+
+--===============5258575461980197524==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Operating Systems lecture originally on September 13 has been move=
+d to November 26, Room 137.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============5258575461980197524==--

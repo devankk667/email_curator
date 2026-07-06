@@ -1,0 +1,33 @@
+From: Coral Health <coral@payflow.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Sat, 28 Mar 2026 13:15:00 -0000
+Message-ID: <33947372f38f4e73be56f413a14d8df6@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6145197483884017108=="
+
+--===============6145197483884017108==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+INR 1499 was debited from your account ending 4821 on March 12 at PixelWorks.
+
+Thank you for banking with us.
+
+--===============6145197483884017108==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 1499 was debited from your account ending 4821 on March 12 at Pixe=
+lWorks.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============6145197483884017108==--

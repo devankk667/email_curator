@@ -1,0 +1,35 @@
+From: James Reddy <james@university.edu>
+To: you@myinbox.com
+Subject: Result Declaration
+Date: Sun, 19 Apr 2026 13:10:00 -0000
+Message-ID: <9ac90a53759f4d2ba36e594140aebcb5@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6491524098048537793=="
+
+--===============6491524098048537793==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Results for the Linear Algebra mid-semester exam have been published. Check y=
+our grades: https://portal.university.edu/results
+
+Regards,
+Office of Academic Affairs
+
+--===============6491524098048537793==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Result Declaration</h3>
+    <p>Results for the Linear Algebra mid-semester exam have been published. =
+Check your grades: https://portal.university.edu/results</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============6491524098048537793==--

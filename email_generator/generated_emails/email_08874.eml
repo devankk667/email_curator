@@ -1,0 +1,33 @@
+From: Coral Health <coral@makemytrip.com>
+To: you@myinbox.com
+Subject: Loyalty Points Credited
+Date: Fri, 19 Jun 2026 22:00:00 -0000
+Message-ID: <513024c6a9ba437c8dd9cc5fa0f511ff@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6161994802355636549=="
+
+--===============6161994802355636549==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You've earned 400 loyalty points for your recent trip to Singapore.
+
+Safe travels,
+Booking Support Team
+
+--===============6161994802355636549==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loyalty Points Credited</h3>
+    <p>You've earned 400 loyalty points for your recent trip to Singapore.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============6161994802355636549==--

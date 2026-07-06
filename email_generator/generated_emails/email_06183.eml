@@ -1,0 +1,32 @@
+From: Anchorpoint Realty <anchorpoint@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Wed, 04 Mar 2026 12:20:00 -0000
+Message-ID: <dcdfae15c8b04a3b85ac929dc737844c@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7049175789622415440=="
+
+--===============7049175789622415440==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 1499 for Personal Loan #2 is due on December 12.
+
+Thank you for banking with us.
+
+--===============7049175789622415440==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 1499 for Personal Loan #2 is due on December 12.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============7049175789622415440==--

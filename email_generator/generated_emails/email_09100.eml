@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian@airindia.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Sat, 06 Jun 2026 09:45:00 -0000
+Message-ID: <a2dcb212a26740dcb457d935be69a2b6@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4731984414276109244=="
+
+--===============4731984414276109244==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 7500 for the cancelled San Francisco trip has been process=
+ed. Details: https://meridianair.com/checkin
+
+Regards,
+Reservations Desk
+
+--===============4731984414276109244==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 7500 for the cancelled San Francisco trip has been =
+processed. Details: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============4731984414276109244==--

@@ -1,0 +1,49 @@
+From: PixelWorks <pixelworks@bookings.com>
+To: you@myinbox.com
+Subject: Refund Processed
+Date: Sat, 21 Feb 2026 21:30:00 -0000
+Message-ID: <4e2fba28db784033981bb3028dac044c@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3383625686290200381=="
+
+--===============3383625686290200381==
+Content-Type: multipart/alternative;
+ boundary="===============7480180965082146506=="
+
+--===============7480180965082146506==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your refund of INR 45000 for the cancelled Amsterdam trip has been processed.=
+ Details: https://meridianair.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============7480180965082146506==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Refund Processed</h3>
+    <p>Your refund of INR 45000 for the cancelled Amsterdam trip has been pro=
+cessed. Details: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============7480180965082146506==--
+
+--===============3383625686290200381==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============3383625686290200381==--

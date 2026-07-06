@@ -1,0 +1,41 @@
+From: Coral Health <coral@bookings.com>
+To: you@myinbox.com
+Subject: Fwd: Flight Booking Confirmation
+Date: Wed, 25 Mar 2026 11:45:00 -0000
+Message-ID: <4b43f698f14e4db5ac9b1a52b2f91215@bookings.com>
+In-Reply-To: <ef513b3f62ae4387b604821dac19a15c@makemytrip.com>
+References: <ef513b3f62ae4387b604821dac19a15c@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4717063393273344141=="
+
+--===============4717063393273344141==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Thanks for the update, noted.
+
+> Your flight to Paris on September 09 is confirmed.
+> Booking reference: 865361.
+> Departure: 10:30 AM.
+
+Regards,
+Reservations Desk
+
+--===============4717063393273344141==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Thanks for the update, noted.</p><p>> Your flight to Paris on Septembe=
+r 09 is confirmed.</p><p>> Booking reference: 865361.</p><p>> Departure: 10:3=
+0 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============4717063393273344141==--

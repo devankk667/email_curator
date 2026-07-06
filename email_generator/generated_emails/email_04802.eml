@@ -1,0 +1,29 @@
+From: Meetup <meetup@meetup.com>
+To: you@myinbox.com
+Subject: Weekly Digest
+Date: Sun, 01 Mar 2026 22:15:00 -0000
+Message-ID: <d497d3d62edf4c3aa6c6456e411a2df5@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8470753732450144086=="
+
+--===============8470753732450144086==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Here's what you missed this week from Rahul Rossi and 3 others.
+
+--===============8470753732450144086==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Weekly Digest</h3>
+    <p>Here's what you missed this week from Rahul Rossi and 3 others.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8470753732450144086==--

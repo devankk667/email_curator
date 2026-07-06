@@ -1,0 +1,49 @@
+From: Sara Garcia <sara78@campusmail.edu>
+To: you@myinbox.com
+Subject: Guest Lecture Announcement
+Date: Wed, 04 Mar 2026 18:15:00 -0000
+Message-ID: <330dd858e98b4581a36973c679a710ca@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2367685799808796479=="
+
+--===============2367685799808796479==
+Content-Type: multipart/alternative;
+ boundary="===============5975353098042371047=="
+
+--===============5975353098042371047==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A guest lecture on Cloud Computing will be held on March 03 at 4 PM in the Se=
+minar Hall.
+
+Regards,
+Office of Academic Affairs
+
+--===============5975353098042371047==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Guest Lecture Announcement</h3>
+    <p>A guest lecture on Cloud Computing will be held on March 03 at 4 PM in=
+ the Seminar Hall.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============5975353098042371047==--
+
+--===============2367685799808796479==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============2367685799808796479==--

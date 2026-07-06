@@ -1,0 +1,31 @@
+From: Facebook <facebook37@linkedin.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Wed, 01 Jul 2026 07:30:00 -0000
+Message-ID: <5d171b4bbb4f4f1a8e93d531f9ba5b37@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3726851671791178073=="
+
+--===============3726851671791178073==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to Sarah's housewarming on July 13. RSVP now to let the host k=
+now you're coming.
+
+--===============3726851671791178073==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to Sarah's housewarming on July 13. RSVP now to let the=
+ host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============3726851671791178073==--

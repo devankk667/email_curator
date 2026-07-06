@@ -1,0 +1,46 @@
+From: Facebook <facebook85@linkedin.com>
+To: you@myinbox.com
+Subject: New Follower
+Date: Sat, 14 Mar 2026 13:30:00 -0000
+Message-ID: <26a432cd3d5f4622a4f0767b6a465801@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5254674630312889091=="
+
+--===============5254674630312889091==
+Content-Type: multipart/alternative;
+ boundary="===============0590575947864386345=="
+
+--===============0590575947864386345==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Mei Reddy started following you. See their profile: https://meetup.com/groups
+
+-- Sent from your notifications
+
+--===============0590575947864386345==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Follower</h3>
+    <p>Mei Reddy started following you. See their profile: https://meetup.com=
+/groups</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============0590575947864386345==--
+
+--===============5254674630312889091==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============5254674630312889091==--

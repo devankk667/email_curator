@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit7@meridianair.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Sat, 03 Jan 2026 17:15:00 -0000
+Message-ID: <8c86eec1fd454c2c956bce6e422eb4a7@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5883353046252764815=="
+
+--===============5883353046252764815==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for New York as of August 22. Read=
+ the advisory: https://meridianair.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============5883353046252764815==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for New York as of August 2=
+2. Read the advisory: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============5883353046252764815==--

@@ -1,0 +1,29 @@
+From: Ivan Okafor <ivan@facebookmail.com>
+To: you@myinbox.com
+Subject: Poke from Ananya Smith
+Date: Fri, 30 Jan 2026 09:10:00 -0000
+Message-ID: <0fb32f3817e249d08d43b03e4353f96c@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5825578167180637240=="
+
+--===============5825578167180637240==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Wei Sharma poked you. Poke them back!
+
+--===============5825578167180637240==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Ananya Smith</h3>
+    <p>Wei Sharma poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============5825578167180637240==--

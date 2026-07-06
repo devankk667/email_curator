@@ -1,0 +1,36 @@
+From: Carlos Fischer <carlos35@university.edu>
+To: you@myinbox.com
+Subject: Machine Learning Exam Schedule
+Date: Mon, 29 Jun 2026 18:45:00 -0000
+Message-ID: <c6baec4d90a14a0fb52485b7e97c119d@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8036456411586888013=="
+
+--===============8036456411586888013==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Linear Algebra exam is on September 22.
+Please submit Assignment 1 before September 13.
+Venue: Room 473, Main Block.
+
+Thank you,
+Examination Cell
+
+--===============8036456411586888013==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Machine Learning Exam Schedule</h3>
+    <p>Linear Algebra exam is on September 22.</p><p>Please submit Assignment=
+ 1 before September 13.</p><p>Venue: Room 473, Main Block.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============8036456411586888013==--

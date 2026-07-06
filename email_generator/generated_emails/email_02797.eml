@@ -1,0 +1,34 @@
+From: Meera Silva <meera@cashbonus.xyz>
+To: you@myinbox.com
+Subject: You've Won a Prize!
+Date: Fri, 26 Jun 2026 13:20:00 -0000
+Message-ID: <1d3cbd4e4b5b4914bac5130c929eeeae@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8043804222961309024=="
+
+--===============8043804222961309024==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Congratulations! You have been selected to win INR 999. Click here to claim n=
+ow before it expires: https://claim-now.biz/prize
+
+Act now, offer expires soon!
+
+--===============8043804222961309024==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">You've Won a Prize!</h3>
+    <p>Congratulations! You have been selected to win INR 999. Click here to =
+claim now before it expires: https://claim-now.biz/prize</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============8043804222961309024==--

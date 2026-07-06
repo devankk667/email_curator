@@ -1,0 +1,34 @@
+From: Meetup <meetup@meetup.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Sat, 28 Mar 2026 14:00:00 -0000
+Message-ID: <bb40da7c00134a7fabd1aac6073fe9a3@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5880353476260544510=="
+
+--===============5880353476260544510==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Kenji Nguyen: "Hey, are we still meeting on July =
+12?"
+
+-- Sent from your notifications
+
+--===============5880353476260544510==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Kenji Nguyen: "Hey, are we still meeting o=
+n July 12?"</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============5880353476260544510==--

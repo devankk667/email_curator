@@ -1,0 +1,47 @@
+From: Quanta Labs <quanta@bookings.com>
+To: you@myinbox.com
+Subject: Loyalty Points Credited
+Date: Fri, 08 May 2026 19:45:00 -0000
+Message-ID: <21023cb83bbb4fc4a1a397ed274dc740@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0959389220953719954=="
+
+--===============0959389220953719954==
+Content-Type: multipart/alternative;
+ boundary="===============8709822594198113420=="
+
+--===============8709822594198113420==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You've earned 700 loyalty points for your recent trip to Paris.
+
+Safe travels,
+Booking Support Team
+
+--===============8709822594198113420==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loyalty Points Credited</h3>
+    <p>You've earned 700 loyalty points for your recent trip to Paris.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============8709822594198113420==--
+
+--===============0959389220953719954==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============0959389220953719954==--

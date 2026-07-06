@@ -1,0 +1,31 @@
+From: Sara Silva <sara40@meetup.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Wed, 15 Apr 2026 15:10:00 -0000
+Message-ID: <7ac1515b9a3441788ee61cd31d04a68f@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2208835126846632533=="
+
+--===============2208835126846632533==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the college reunion on January 16. RSVP now to let the host=
+ know you're coming.
+
+--===============2208835126846632533==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the college reunion on January 16. RSVP now to let t=
+he host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2208835126846632533==--

@@ -1,0 +1,34 @@
+From: Cloudscape <cloudscape@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Received
+Date: Sun, 04 Jan 2026 18:30:00 -0000
+Message-ID: <ccc4502dba2245bfb3a5b59eab133c56@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9202285941080245706=="
+
+--===============9202285941080245706==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Data Scientist role at Brightline Media. Our te=
+am will review your application shortly.
+
+We look forward to hearing from you.
+
+--===============9202285941080245706==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Data Scientist role at Brightline Media.=
+ Our team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============9202285941080245706==--

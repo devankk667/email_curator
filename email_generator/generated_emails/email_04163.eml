@@ -1,0 +1,30 @@
+From: Instagram <instagram@facebookmail.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Wed, 10 Jun 2026 15:45:00 -0000
+Message-ID: <20e0ad871f5d49c3a92f759904cf49f4@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0784132307800914037=="
+
+--===============0784132307800914037==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+It's Nina Lopez's birthday on July 18! Send them a message to make their day.
+
+--===============0784132307800914037==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Nina Lopez's birthday on July 18! Send them a message to make the=
+ir day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============0784132307800914037==--

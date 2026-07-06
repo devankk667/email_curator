@@ -1,0 +1,44 @@
+From: Carlos Garcia <carlos87@instagram.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Sun, 31 May 2026 14:00:00 -0000
+Message-ID: <0ef2f11223694a279a9cd97504907b57@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0978274569915244532=="
+
+--===============0978274569915244532==
+Content-Type: multipart/alternative;
+ boundary="===============8920477875761849740=="
+
+--===============8920477875761849740==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Priya Kim: "Hey, are we still meeting on March 15=
+?"
+
+--===============8920477875761849740==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Priya Kim: "Hey, are we still meeting on M=
+arch 15?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8920477875761849740==--
+
+--===============0978274569915244532==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============0978274569915244532==--

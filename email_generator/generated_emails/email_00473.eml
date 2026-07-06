@@ -1,0 +1,33 @@
+From: Meridian Airlines <meridian@myntra.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Mon, 23 Feb 2026 09:10:00 -0000
+Message-ID: <c0537bcb66804fec9cb532cf489a8b51@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8393379573809981587=="
+
+--===============8393379573809981587==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your package from Quanta Labs was delivered on March 14. Rate your experience.
+
+Thanks for being a valued customer.
+
+--===============8393379573809981587==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Quanta Labs was delivered on March 14. Rate your exp=
+erience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8393379573809981587==--

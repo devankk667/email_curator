@@ -1,0 +1,33 @@
+From: Meridian Airlines <meridian@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Sat, 13 Jun 2026 12:20:00 -0000
+Message-ID: <d23263576e8e4dd8aedd58de20f109ca@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4101388111979420890=="
+
+--===============4101388111979420890==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your package from PixelWorks was delivered on July 16. Rate your experience.
+
+Thanks for being a valued customer.
+
+--===============4101388111979420890==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from PixelWorks was delivered on July 16. Rate your exper=
+ience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4101388111979420890==--

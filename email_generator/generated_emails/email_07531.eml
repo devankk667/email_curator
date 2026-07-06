@@ -1,0 +1,49 @@
+From: Lucas Nguyen <lucas64@university.edu>
+To: you@myinbox.com
+Subject: Convocation Notice
+Date: Thu, 15 Jan 2026 17:10:00 -0000
+Message-ID: <4e1c3861ad4e49e7a060c5c5affa4943@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7373448775347846564=="
+
+--===============7373448775347846564==
+Content-Type: multipart/alternative;
+ boundary="===============2430234111511923002=="
+
+--===============2430234111511923002==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Convocation ceremony will be held on February 02. Collect your gown by July 1=
+8.
+
+Thank you,
+Examination Cell
+
+--===============2430234111511923002==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Convocation Notice</h3>
+    <p>Convocation ceremony will be held on February 02. Collect your gown by=
+ July 18.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============2430234111511923002==--
+
+--===============7373448775347846564==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============7373448775347846564==--

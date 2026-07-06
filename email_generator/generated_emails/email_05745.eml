@@ -1,0 +1,33 @@
+From: Meridian Airlines <meridian41@payflow.com>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Fri, 16 Jan 2026 16:05:00 -0000
+Message-ID: <34c1cf5677524f349c33b374c228aa78@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0367716212629503877=="
+
+--===============0367716212629503877==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your quarterly investment report is ready. Net change: 15.4% as of March 20.
+
+Thank you for banking with us.
+
+--===============0367716212629503877==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 15.4% as of Mar=
+ch 20.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============0367716212629503877==--

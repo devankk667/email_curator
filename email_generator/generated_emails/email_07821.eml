@@ -1,0 +1,35 @@
+From: Ananya Sharma <ananya@workday.com>
+To: you@myinbox.com
+Subject: Recruiter Outreach
+Date: Mon, 19 Jan 2026 18:20:00 -0000
+Message-ID: <2e7a829859a747458c7abe6b0050d3d2@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7903628058066908488=="
+
+--===============7903628058066908488==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I'm a recruiter at Orbit Logistics. We have an exciting QA Engineer openi=
+ng in London - interested? Job link: www.linkedin.com/jobs/view
+
+Best regards,
+Talent Acquisition Team
+
+--===============7903628058066908488==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Recruiter Outreach</h3>
+    <p>Hi, I'm a recruiter at Orbit Logistics. We have an exciting QA Enginee=
+r opening in London - interested? Job link: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============7903628058066908488==--

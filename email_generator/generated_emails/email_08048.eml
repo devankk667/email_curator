@@ -1,0 +1,34 @@
+From: Brightline Media <brightline11@greenhouse.io>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Tue, 19 May 2026 09:30:00 -0000
+Message-ID: <17fe93fae8464360b500ee2add2b404d@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6483896192271640928=="
+
+--===============6483896192271640928==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Meera Silva starred your repository on GitHub. Keep up the great work!
+
+Best regards,
+Talent Acquisition Team
+
+--===============6483896192271640928==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Meera Silva starred your repository on GitHub. Keep up the great work!=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============6483896192271640928==--

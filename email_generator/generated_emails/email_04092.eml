@@ -1,0 +1,33 @@
+From: Meetup <meetup@meetup.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Sun, 22 Mar 2026 07:15:00 -0000
+Message-ID: <566c51759bea456b905e2683a2db49fa@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1797698534618827059=="
+
+--===============1797698534618827059==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+It's Aisha Reddy's birthday on July 15! Send them a message to make their day.
+
+-- Sent from your notifications
+
+--===============1797698534618827059==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Aisha Reddy's birthday on July 15! Send them a message to make th=
+eir day.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============1797698534618827059==--

@@ -1,0 +1,32 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Social Security Update
+Date: Sun, 18 Jan 2026 20:00:00 -0000
+Message-ID: <0021a4bbd7cf4b04867084aa40abc422@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3661998749334597553=="
+
+--===============3661998749334597553==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your social security details have been updated as of August 12.
+
+This is an automated notice.
+
+--===============3661998749334597553==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Social Security Update</h3>
+    <p>Your social security details have been updated as of August 12.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============3661998749334597553==--

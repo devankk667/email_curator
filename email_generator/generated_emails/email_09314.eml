@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@bookings.com>
+To: you@myinbox.com
+Subject: Boarding Pass Attached
+Date: Fri, 06 Feb 2026 19:20:00 -0000
+Message-ID: <cbfb4a5ace1742ecb53d9e4ad5490d30@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0168524588358584774=="
+
+--===============0168524588358584774==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your boarding pass for the September 02 flight to Dubai is attached to this e=
+mail.
+
+Safe travels,
+Booking Support Team
+
+--===============0168524588358584774==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Boarding Pass Attached</h3>
+    <p>Your boarding pass for the September 02 flight to Dubai is attached to=
+ this email.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============0168524588358584774==--

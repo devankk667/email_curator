@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@vertexbank.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Thu, 09 Apr 2026 20:10:00 -0000
+Message-ID: <7d15ed234e3e46f583388b58e0615bdd@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7970556715921523317=="
+
+--===============7970556715921523317==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 499. Add funds here: https://payflow.com/da=
+shboard
+
+Regards,
+Customer Service Team
+
+--===============7970556715921523317==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 499. Add funds here: https://payflow=
+.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============7970556715921523317==--

@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape57@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Wed, 18 Mar 2026 22:00:00 -0000
+Message-ID: <bd4f171220d04db0af660962d1debc57@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3788192333445232090=="
+
+--===============3788192333445232090==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #7 from Zynta Corp has shipped and will arrive by April 30. Track =
+it: https://flipkart.com/returns
+
+Happy Shopping!
+The Team
+
+--===============3788192333445232090==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #7 from Zynta Corp has shipped and will arrive by April 30.=
+ Track it: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============3788192333445232090==--

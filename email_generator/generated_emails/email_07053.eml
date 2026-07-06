@@ -1,0 +1,35 @@
+From: Fatima Khan <fatima@campusmail.edu>
+To: you@myinbox.com
+Subject: Fee Payment Reminder
+Date: Sun, 08 Feb 2026 07:10:00 -0000
+Message-ID: <bf017abcfc6d4896a9481d42c169c5d9@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7189737796029754173=="
+
+--===============7189737796029754173==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your semester fee of INR 1499 is due by August 23.
+Pay online via the student portal to avoid late charges.
+
+Thank you,
+Examination Cell
+
+--===============7189737796029754173==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fee Payment Reminder</h3>
+    <p>Your semester fee of INR 1499 is due by August 23.</p><p>Pay online vi=
+a the student portal to avoid late charges.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============7189737796029754173==--

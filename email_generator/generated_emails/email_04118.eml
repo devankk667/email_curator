@@ -1,0 +1,47 @@
+From: Wei Nguyen <wei@linkedin.com>
+To: you@myinbox.com
+Subject: New Follower
+Date: Thu, 04 Jun 2026 20:10:00 -0000
+Message-ID: <e49be9cb2aee494bb82b042d7c8bcd05@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3876433714132369686=="
+
+--===============3876433714132369686==
+Content-Type: multipart/alternative;
+ boundary="===============4721351018349877438=="
+
+--===============4721351018349877438==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sara Tanaka started following you. See their profile: https://meetup.com/grou=
+ps
+
+-- Sent from your notifications
+
+--===============4721351018349877438==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Follower</h3>
+    <p>Sara Tanaka started following you. See their profile: https://meetup.c=
+om/groups</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============4721351018349877438==--
+
+--===============3876433714132369686==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============3876433714132369686==--

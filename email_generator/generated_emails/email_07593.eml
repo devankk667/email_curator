@@ -1,0 +1,35 @@
+From: Noah Kim <noah@campusmail.edu>
+To: you@myinbox.com
+Subject: Fee Payment Reminder
+Date: Mon, 06 Apr 2026 09:05:00 -0000
+Message-ID: <05ca068a11b9477b8de5fd6a4fa743b1@campusmail.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6180951451452399110=="
+
+--===============6180951451452399110==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your semester fee of INR 45000 is due by May 10.
+Pay online via the student portal to avoid late charges.
+
+Thank you,
+Examination Cell
+
+--===============6180951451452399110==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fee Payment Reminder</h3>
+    <p>Your semester fee of INR 45000 is due by May 10.</p><p>Pay online via =
+the student portal to avoid late charges.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============6180951451452399110==--

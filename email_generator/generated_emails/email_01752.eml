@@ -1,0 +1,33 @@
+From: Quanta Labs <quanta92@myntra.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Sun, 08 Mar 2026 12:15:00 -0000
+Message-ID: <3977ae1e1470469092e01311243797b4@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8939104184438104041=="
+
+--===============8939104184438104041==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Orbit Logistics membership renews on December 24 for INR 25000.
+
+Thanks for being a valued customer.
+
+--===============8939104184438104041==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Orbit Logistics membership renews on December 24 for INR 25000.</=
+p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8939104184438104041==--

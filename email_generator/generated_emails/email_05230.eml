@@ -1,0 +1,29 @@
+From: Meetup <meetup@instagram.com>
+To: you@myinbox.com
+Subject: Poke from Nina Ivanov
+Date: Fri, 20 Feb 2026 18:30:00 -0000
+Message-ID: <5be98bfdd6a146a6a10bc5910b23aafa@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2012309708182466318=="
+
+--===============2012309708182466318==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Liam Fischer poked you. Poke them back!
+
+--===============2012309708182466318==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Nina Ivanov</h3>
+    <p>Liam Fischer poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2012309708182466318==--

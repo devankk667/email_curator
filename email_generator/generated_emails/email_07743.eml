@@ -1,0 +1,47 @@
+From: Lucas Dubois <lucas@linkedin.com>
+To: you@myinbox.com
+Subject: Reference Check Request
+Date: Sat, 07 Mar 2026 10:15:00 -0000
+Message-ID: <277447031a4648ab97d8393e996e3695@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5269593642474632073=="
+
+--===============5269593642474632073==
+Content-Type: multipart/alternative;
+ boundary="===============2641264689955231940=="
+
+--===============2641264689955231940==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Cloudscape would like to contact your references for the Backend Developer po=
+sition. Please confirm by August 24.
+
+We look forward to hearing from you.
+
+--===============2641264689955231940==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Reference Check Request</h3>
+    <p>Cloudscape would like to contact your references for the Backend Devel=
+oper position. Please confirm by August 24.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============2641264689955231940==--
+
+--===============5269593642474632073==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============5269593642474632073==--

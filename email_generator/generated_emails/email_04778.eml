@@ -1,0 +1,44 @@
+From: Facebook <facebook@instagram.com>
+To: you@myinbox.com
+Subject: Suggested Connection
+Date: Tue, 24 Feb 2026 09:10:00 -0000
+Message-ID: <0f02a039e27a44e798f15a78f8464ca0@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3247171806482754606=="
+
+--===============3247171806482754606==
+Content-Type: multipart/alternative;
+ boundary="===============0625326722350313254=="
+
+--===============0625326722350313254==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You may know James Lopez, who works at Vertex Bank. Connect now: https://meet=
+up.com/groups
+
+--===============0625326722350313254==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Suggested Connection</h3>
+    <p>You may know James Lopez, who works at Vertex Bank. Connect now: https=
+://meetup.com/groups</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============0625326722350313254==--
+
+--===============3247171806482754606==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============3247171806482754606==--

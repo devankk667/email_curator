@@ -1,0 +1,31 @@
+From: Instagram <instagram@instagram.com>
+To: you@myinbox.com
+Subject: Ivan Nguyen tagged you in a photo
+Date: Thu, 14 May 2026 09:05:00 -0000
+Message-ID: <7e930ad230624471b84890737603b3db@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1103825951525949107=="
+
+--===============1103825951525949107==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Meera Khan tagged you in a photo from 'the team offsite'. Check it out and le=
+ave a comment!
+
+--===============1103825951525949107==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Ivan Nguyen tagged you in a photo</h3>
+    <p>Meera Khan tagged you in a photo from 'the team offsite'. Check it out=
+ and leave a comment!</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============1103825951525949107==--

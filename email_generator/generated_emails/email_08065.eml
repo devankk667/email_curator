@@ -1,0 +1,47 @@
+From: Elena Silva <elena@workday.com>
+To: you@myinbox.com
+Subject: Salary Negotiation Follow-up
+Date: Sun, 08 Mar 2026 14:00:00 -0000
+Message-ID: <75d81274690046b783f8a537a5e99e44@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3054365257852755807=="
+
+--===============3054365257852755807==
+Content-Type: multipart/alternative;
+ boundary="===============2638314365379173013=="
+
+--===============2638314365379173013==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Following up on our conversation regarding the Backend Developer offer. Let's=
+ finalize by May 06.
+
+We look forward to hearing from you.
+
+--===============2638314365379173013==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Negotiation Follow-up</h3>
+    <p>Following up on our conversation regarding the Backend Developer offer=
+. Let's finalize by May 06.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============2638314365379173013==--
+
+--===============3054365257852755807==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============3054365257852755807==--

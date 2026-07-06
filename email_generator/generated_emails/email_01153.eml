@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit38@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Fri, 24 Apr 2026 06:20:00 -0000
+Message-ID: <3c502b017b2c4c72a5ca60f4813f073c@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7807928085075647744=="
+
+--===============7807928085075647744==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Fernwood Analytics was delivered on April 18. Rate your exp=
+erience.
+
+Happy Shopping!
+The Team
+
+--===============7807928085075647744==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Fernwood Analytics was delivered on April 18. Rate y=
+our experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7807928085075647744==--

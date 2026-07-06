@@ -1,0 +1,34 @@
+From: Nimbus Retail <nimbus@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Wed, 18 Mar 2026 15:45:00 -0000
+Message-ID: <82f3de80b73e41f3b55c6a4034567f9c@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4691968992815617698=="
+
+--===============4691968992815617698==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #1 from Starforge Games is delayed and will now arrive by January =
+15 instead of June 06. Track: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============4691968992815617698==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #1 from Starforge Games is delayed and will now arrive by J=
+anuary 15 instead of June 06. Track: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============4691968992815617698==--

@@ -1,0 +1,34 @@
+From: Fernwood Analytics <fernwood@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Mon, 12 Jan 2026 18:10:00 -0000
+Message-ID: <60a971b3625d422dad00a62946d6a276@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7637271797429014437=="
+
+--===============7637271797429014437==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Fernwood Analytics was delivered on January 16. Rate your e=
+xperience.
+
+Thanks for being a valued customer.
+
+--===============7637271797429014437==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Fernwood Analytics was delivered on January 16. Rate=
+ your experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7637271797429014437==--

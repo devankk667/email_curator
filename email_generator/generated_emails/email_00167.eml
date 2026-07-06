@@ -1,0 +1,34 @@
+From: Coral Health <coral66@amazon.in>
+To: you@myinbox.com
+Subject: Cart Reminder
+Date: Wed, 28 Jan 2026 16:10:00 -0000
+Message-ID: <1804591c79bc405980ec70874fb5340b@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3946499191510746567=="
+
+--===============3946499191510746567==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You left 6 item(s) in your cart. Complete your purchase and get free shipping.
+
+Happy Shopping!
+The Team
+
+--===============3946499191510746567==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>You left 6 item(s) in your cart. Complete your purchase and get free s=
+hipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============3946499191510746567==--

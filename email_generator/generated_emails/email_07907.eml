@@ -1,0 +1,35 @@
+From: Meera Rossi <meera@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Thu, 26 Feb 2026 21:10:00 -0000
+Message-ID: <a7d1d0ec000c4fc9a27089c32791469b@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2729979933373172455=="
+
+--===============2729979933373172455==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for Data Scientist at Fernwood Analytics has moved to the ne=
+xt round. Details: www.linkedin.com/jobs/view
+
+Best regards,
+Talent Acquisition Team
+
+--===============2729979933373172455==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for Data Scientist at Fernwood Analytics has moved to=
+ the next round. Details: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============2729979933373172455==--

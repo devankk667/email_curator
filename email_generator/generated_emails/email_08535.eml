@@ -1,0 +1,35 @@
+From: Wei Khan <wei@linkedin.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Fri, 13 Mar 2026 09:30:00 -0000
+Message-ID: <ff962d393c124088ab4672bdacee46f7@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6566708393054916087=="
+
+--===============6566708393054916087==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: Data Analyst at Cloudscape, Berli=
+n. Apply now: www.linkedin.com/jobs/view
+
+Best regards,
+Talent Acquisition Team
+
+--===============6566708393054916087==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: Data Analyst at Cloudscape=
+, Berlin. Apply now: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============6566708393054916087==--

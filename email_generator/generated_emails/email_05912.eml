@@ -1,0 +1,33 @@
+From: Starforge Games <starforge24@vertexbank.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Wed, 01 Jul 2026 18:45:00 -0000
+Message-ID: <76b3e6091b0d47768ffbe73f03fad372@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0026273990523170615=="
+
+--===============0026273990523170615==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 199 for Personal Loan #1 is due on June 19.
+
+Regards,
+Customer Service Team
+
+--===============0026273990523170615==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 199 for Personal Loan #1 is due on June 19.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============0026273990523170615==--

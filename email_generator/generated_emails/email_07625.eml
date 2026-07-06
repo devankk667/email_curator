@@ -1,0 +1,36 @@
+From: Nina Kim <nina@university.edu>
+To: you@myinbox.com
+Subject: Software Engineering Exam Schedule
+Date: Sat, 27 Jun 2026 16:05:00 -0000
+Message-ID: <d736842be46e4bf7a545482e61b5ce34@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1420493470491143881=="
+
+--===============1420493470491143881==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Linear Algebra exam is on January 14.
+Please submit Assignment 1 before July 31.
+Venue: Room 249, Main Block.
+
+Thank you,
+Examination Cell
+
+--===============1420493470491143881==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Software Engineering Exam Schedule</h3>
+    <p>Linear Algebra exam is on January 14.</p><p>Please submit Assignment 1=
+ before July 31.</p><p>Venue: Room 249, Main Block.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============1420493470491143881==--

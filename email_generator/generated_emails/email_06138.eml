@@ -1,0 +1,34 @@
+From: Starforge Games <starforge@payflow.com>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Sat, 02 May 2026 08:15:00 -0000
+Message-ID: <764ecc6d8e3b4e538c8afc8f5a8b7320@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4081850017114927607=="
+
+--===============4081850017114927607==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 199 matured on April 01. Choose to renew or withdra=
+w.
+
+Thank you for banking with us.
+
+--===============4081850017114927607==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 199 matured on April 01. Choose to renew or =
+withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============4081850017114927607==--

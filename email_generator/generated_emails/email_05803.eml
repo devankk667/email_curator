@@ -1,0 +1,35 @@
+From: Cloudscape <cloudscape@payflow.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Mon, 25 May 2026 12:30:00 -0000
+Message-ID: <d5a25692e3b24eb8b619c5773a59b315@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2592456490449114721=="
+
+--===============2592456490449114721==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 1499 was debited from your account ending 4821 on March 09 at Fresco Food=
+s.
+
+Regards,
+Customer Service Team
+
+--===============2592456490449114721==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 1499 was debited from your account ending 4821 on March 09 at Fres=
+co Foods.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2592456490449114721==--

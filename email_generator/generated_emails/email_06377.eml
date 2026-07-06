@@ -1,0 +1,35 @@
+From: Starforge Games <starforge36@vertexbank.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Wed, 22 Apr 2026 17:30:00 -0000
+Message-ID: <2950aa9ced45410fa4de171cdbe2d91d@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8387434456467640859=="
+
+--===============8387434456467640859==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 2500. Add funds here: https://vertexbank.co=
+m/cards/offers
+
+Regards,
+Customer Service Team
+
+--===============8387434456467640859==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 2500. Add funds here: https://vertex=
+bank.com/cards/offers</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8387434456467640859==--

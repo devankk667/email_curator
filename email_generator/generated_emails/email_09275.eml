@@ -1,0 +1,35 @@
+From: Anchorpoint Realty <anchorpoint@makemytrip.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Fri, 06 Feb 2026 11:30:00 -0000
+Message-ID: <8f6615fb2ae1484c85333c695241c00f@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0714158445116551434=="
+
+--===============0714158445116551434==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to Delhi has been rescheduled to August 05. Please che=
+ck your booking.
+
+Safe travels,
+Booking Support Team
+
+--===============0714158445116551434==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to Delhi has been rescheduled to August 05. Ple=
+ase check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============0714158445116551434==--

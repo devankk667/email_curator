@@ -1,0 +1,34 @@
+From: Cloudscape <cloudscape@payflow.com>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Mon, 09 Feb 2026 07:05:00 -0000
+Message-ID: <b2b9bc5683da4561a9a1f29e7783807b@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8675634298037663840=="
+
+--===============8675634298037663840==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 6.1% this quarter. View details: http=
+s://vertexbank.com/statements
+
+Thank you for banking with us.
+
+--===============8675634298037663840==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 6.1% this quarter. View detail=
+s: https://vertexbank.com/statements</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============8675634298037663840==--

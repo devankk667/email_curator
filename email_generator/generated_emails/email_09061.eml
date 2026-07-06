@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@makemytrip.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Thu, 09 Apr 2026 16:05:00 -0000
+Message-ID: <69dfccff93ab4db9bfbb1f9a5bcd0ffa@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4013176031748357498=="
+
+--===============4013176031748357498==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Amsterdam starts on January 24. Don't forget to check the weathe=
+r and pack accordingly.
+
+Safe travels,
+Booking Support Team
+
+--===============4013176031748357498==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Amsterdam starts on January 24. Don't forget to check the=
+ weather and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============4013176031748357498==--

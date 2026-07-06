@@ -1,0 +1,50 @@
+From: Fresco Foods <fresco55@taxportal.gov.in>
+To: you@myinbox.com
+Subject: Credit Card Statement Generated
+Date: Sun, 12 Apr 2026 20:20:00 -0000
+Message-ID: <b80a2a491e994b428ed4c50e18826eeb@taxportal.gov.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2262246930800556825=="
+
+--===============2262246930800556825==
+Content-Type: multipart/alternative;
+ boundary="===============3073810628086277260=="
+
+--===============3073810628086277260==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your credit card statement for the period ending June 04 is ready.
+Total due: INR 1499.
+Minimum due: INR 1499.
+
+Regards,
+Customer Service Team
+
+--===============3073810628086277260==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Credit Card Statement Generated</h3>
+    <p>Your credit card statement for the period ending June 04 is ready.</p>=
+<p>Total due: INR 1499.</p><p>Minimum due: INR 1499.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============3073810628086277260==--
+
+--===============2262246930800556825==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============2262246930800556825==--

@@ -1,0 +1,34 @@
+From: James Lopez <james@linkedin.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Sun, 21 Jun 2026 11:15:00 -0000
+Message-ID: <6ffb9d90b4ad4d6e8ff2fefb9b42321e@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0185490199552678214=="
+
+--===============0185490199552678214==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Fatima Lopez's birthday on March 27! Send them a message to make their d=
+ay.
+
+-- Sent from your notifications
+
+--===============0185490199552678214==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Fatima Lopez's birthday on March 27! Send them a message to make =
+their day.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============0185490199552678214==--

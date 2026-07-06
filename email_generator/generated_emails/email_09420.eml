@@ -1,0 +1,36 @@
+From: Anchorpoint Realty <anchorpoint@bookings.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Sun, 01 Mar 2026 14:00:00 -0000
+Message-ID: <f2fafd91774f4d90b155fa5624cd5ee7@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2961710167718813103=="
+
+--===============2961710167718813103==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to Amsterdam on March 31 is confirmed.
+Booking reference: 776029.
+Departure: 10:30 AM.
+
+Regards,
+Reservations Desk
+
+--===============2961710167718813103==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to Amsterdam on March 31 is confirmed.</p><p>Booking refer=
+ence: 776029.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============2961710167718813103==--

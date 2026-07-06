@@ -1,0 +1,33 @@
+From: Zynta Corp <zynta@myntra.com>
+To: you@myinbox.com
+Subject: Flash Sale - 4 Hours Only
+Date: Sun, 19 Apr 2026 10:15:00 -0000
+Message-ID: <1c4b4651777d49a9b2aef26f138415b0@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0392565480802445430=="
+
+--===============0392565480802445430==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Flash sale live now at Quanta Labs! Extra 12.0% off, ends February 19.
+
+Thanks for being a valued customer.
+
+--===============0392565480802445430==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flash Sale - 4 Hours Only</h3>
+    <p>Flash sale live now at Quanta Labs! Extra 12.0% off, ends February 19.=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0392565480802445430==--

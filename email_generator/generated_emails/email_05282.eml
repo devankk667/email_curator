@@ -1,0 +1,45 @@
+From: Noah Novak <noah@linkedin.com>
+To: you@myinbox.com
+Subject: Omar Khan liked your photo
+Date: Thu, 07 May 2026 14:20:00 -0000
+Message-ID: <cd0e5acb76ff4c06995badc42cc45042@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4065043204433211415=="
+
+--===============4065043204433211415==
+Content-Type: multipart/alternative;
+ boundary="===============7491032683264326832=="
+
+--===============7491032683264326832==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Omar Chen and 9 others liked your recent photo.
+
+-- Sent from your notifications
+
+--===============7491032683264326832==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Omar Khan liked your photo</h3>
+    <p>Omar Chen and 9 others liked your recent photo.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============7491032683264326832==--
+
+--===============4065043204433211415==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============4065043204433211415==--

@@ -1,0 +1,52 @@
+From: Meridian Airlines <meridian@flipkart.com>
+To: you@myinbox.com
+Subject: Fwd: Price Drop Alert
+Date: Sun, 03 May 2026 15:10:00 -0000
+Message-ID: <8a1ef68d3d7f44f5990a620d8f9b4079@flipkart.com>
+In-Reply-To: <52a4cec2c9c949969c19612d3f4d142c@myntra.com>
+References: <52a4cec2c9c949969c19612d3f4d142c@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6042930615142232762=="
+
+--===============6042930615142232762==
+Content-Type: multipart/alternative;
+ boundary="===============2821235848538472584=="
+
+--===============2821235848538472584==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Got it, will follow up soon.
+
+> An item in your wishlist just dropped to INR 45000. Grab it before it's gon=
+e!
+
+Thanks for being a valued customer.
+
+--===============2821235848538472584==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>Got it, will follow up soon.</p><p>> An item in your wishlist just dro=
+pped to INR 45000. Grab it before it's gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2821235848538472584==--
+
+--===============6042930615142232762==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============6042930615142232762==--

@@ -1,0 +1,33 @@
+From: Fresco Foods <fresco22@myntra.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Thu, 23 Apr 2026 07:05:00 -0000
+Message-ID: <6260ee917c644d3587cbcb6cbf2b01df@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9143273628314938450=="
+
+--===============9143273628314938450==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your package from Zynta Corp was delivered on August 13. Rate your experience.
+
+Thanks for being a valued customer.
+
+--===============9143273628314938450==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Zynta Corp was delivered on August 13. Rate your exp=
+erience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============9143273628314938450==--

@@ -1,0 +1,33 @@
+From: Quanta Labs <quanta@flipkart.com>
+To: you@myinbox.com
+Subject: Cart Reminder
+Date: Fri, 30 Jan 2026 11:10:00 -0000
+Message-ID: <f8aef35684044b19b8a4d866fdecc31b@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2878613638182637114=="
+
+--===============2878613638182637114==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You left 9 item(s) in your cart. Complete your purchase and get free shipping.
+
+Thanks for being a valued customer.
+
+--===============2878613638182637114==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Cart Reminder</h3>
+    <p>You left 9 item(s) in your cart. Complete your purchase and get free s=
+hipping.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2878613638182637114==--

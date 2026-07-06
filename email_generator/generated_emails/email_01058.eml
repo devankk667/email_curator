@@ -1,0 +1,49 @@
+From: PixelWorks <pixelworks@myntra.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Mon, 04 May 2026 09:20:00 -0000
+Message-ID: <b00a9750caf148e4b69e8255da484748@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3245100329934645876=="
+
+--===============3245100329934645876==
+Content-Type: multipart/alternative;
+ boundary="===============7905421014212927255=="
+
+--===============7905421014212927255==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #9 has been received. Refund of INR 199 will be process=
+ed by November 19. Details: https://amazon.in/orders
+
+Happy Shopping!
+The Team
+
+--===============7905421014212927255==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #9 has been received. Refund of INR 199 will be =
+processed by November 19. Details: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7905421014212927255==--
+
+--===============3245100329934645876==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============3245100329934645876==--

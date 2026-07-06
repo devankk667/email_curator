@@ -1,0 +1,34 @@
+From: Meera Ivanov <meera@facebookmail.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Mon, 09 Feb 2026 10:45:00 -0000
+Message-ID: <edb97748f7f14506bcd59bc83e148faa@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2323550740453486203=="
+
+--===============2323550740453486203==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Diego Okafor's birthday on June 27! Send them a message to make their da=
+y.
+
+-- Sent from your notifications
+
+--===============2323550740453486203==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Diego Okafor's birthday on June 27! Send them a message to make t=
+heir day.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============2323550740453486203==--

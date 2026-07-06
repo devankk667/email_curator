@@ -1,0 +1,34 @@
+From: Brightline Media <brightline@citibank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Wed, 04 Mar 2026 12:10:00 -0000
+Message-ID: <c1a9ee686ece4a2bacd8da8a60cdddb0@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5349407289332096384=="
+
+--===============5349407289332096384==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 3999 was debited from your account ending 4821 on February 14 at Coral He=
+alth.
+
+Thank you for banking with us.
+
+--===============5349407289332096384==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 3999 was debited from your account ending 4821 on February 14 at C=
+oral Health.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============5349407289332096384==--

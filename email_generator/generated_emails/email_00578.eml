@@ -1,0 +1,32 @@
+From: Brightline Media <brightline@nimbusretail.com>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Tue, 27 Jan 2026 22:45:00 -0000
+Message-ID: <4e1cd788090144c0836ea51f0b4130c3@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0640560748346045781=="
+
+--===============0640560748346045781==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Zynta Corp membership renews on June 22 for INR 999.
+
+Thanks for being a valued customer.
+
+--===============0640560748346045781==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Zynta Corp membership renews on June 22 for INR 999.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0640560748346045781==--

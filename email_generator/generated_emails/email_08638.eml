@@ -1,0 +1,34 @@
+From: Diego Kim <diego@linkedin.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Wed, 29 Apr 2026 11:15:00 -0000
+Message-ID: <a69cd8b4a21146beb29d35d2fdd928cf@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0965860596494747100=="
+
+--===============0965860596494747100==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for Software Engineer at Fernwood Analytics has moved to the=
+ next round. Details: www.linkedin.com/jobs/view
+
+We look forward to hearing from you.
+
+--===============0965860596494747100==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for Software Engineer at Fernwood Analytics has moved=
+ to the next round. Details: www.linkedin.com/jobs/view</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============0965860596494747100==--

@@ -1,0 +1,49 @@
+From: Nimbus Retail <nimbus@amazon.in>
+To: you@myinbox.com
+Subject: New Arrivals in Your Category
+Date: Tue, 12 May 2026 21:05:00 -0000
+Message-ID: <e69b6eaf7a90467db03b9d59d5f7a2d9@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4207993059361705416=="
+
+--===============4207993059361705416==
+Content-Type: multipart/alternative;
+ boundary="===============7711871997584001279=="
+
+--===============7711871997584001279==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New arrivals from Brightline Media matching your interests are now live: http=
+s://nimbusretail.com/orders/track
+
+Happy Shopping!
+The Team
+
+--===============7711871997584001279==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Arrivals in Your Category</h3>
+    <p>New arrivals from Brightline Media matching your interests are now liv=
+e: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7711871997584001279==--
+
+--===============4207993059361705416==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============4207993059361705416==--

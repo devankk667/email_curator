@@ -1,0 +1,38 @@
+From: Ivan Nguyen <ivan@luckywin-prize.com>
+To: you@myinbox.com
+Subject: Re: Final Notice: Unusual Login Detected
+Date: Mon, 02 Feb 2026 07:45:00 -0000
+Message-ID: <cdd41f15fedf4bfbbd5a66775c7efaa9@luckywin-prize.com>
+In-Reply-To: <5293d114282447f9ba4c9e3612ef7626@luckywin-prize.com>
+References: <5293d114282447f9ba4c9e3612ef7626@luckywin-prize.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1635898681171448526=="
+
+--===============1635898681171448526==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Confirmed, thank you.
+
+> We detected a login from Berlin. Confirm it was you or your account will be=
+ locked: http://192.168.44.12/claim
+
+Act now, offer expires soon!
+
+--===============1635898681171448526==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Final Notice: Unusual Login Detected</h3>
+    <p>Confirmed, thank you.</p><p>> We detected a login from Berlin. Confirm=
+ it was you or your account will be locked: http://192.168.44.12/claim</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============1635898681171448526==--

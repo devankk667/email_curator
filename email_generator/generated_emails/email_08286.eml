@@ -1,0 +1,48 @@
+From: Coral Health <coral87@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Wed, 22 Apr 2026 15:00:00 -0000
+Message-ID: <577893f7cc6d4ebda8f49f20852ea36d@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0131707993729081201=="
+
+--===============0131707993729081201==
+Content-Type: multipart/alternative;
+ boundary="===============2627887310159685971=="
+
+--===============2627887310159685971==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for DevOps Engineer at Brightline Media has moved to the nex=
+t round. Details: https://workday.com/candidate
+
+Best regards,
+Talent Acquisition Team
+
+--===============2627887310159685971==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for DevOps Engineer at Brightline Media has moved to =
+the next round. Details: https://workday.com/candidate</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============2627887310159685971==--
+
+--===============0131707993729081201==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============0131707993729081201==--

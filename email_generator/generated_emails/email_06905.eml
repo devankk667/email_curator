@@ -1,0 +1,35 @@
+From: Arjun Garcia <arjun@university.edu>
+To: you@myinbox.com
+Subject: Library Book Due
+Date: Sun, 25 Jan 2026 21:45:00 -0000
+Message-ID: <728400d93ae54bd9864d3b19973c6520@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9165829309276499094=="
+
+--===============9165829309276499094==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The book 'Deep Learning' issued to you is due for return on September 21. Ren=
+ew online to avoid a fine.
+
+Regards,
+Office of Academic Affairs
+
+--===============9165829309276499094==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Library Book Due</h3>
+    <p>The book 'Deep Learning' issued to you is due for return on September =
+21. Renew online to avoid a fine.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============9165829309276499094==--

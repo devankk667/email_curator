@@ -1,0 +1,47 @@
+From: Zynta Corp <zynta@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Sun, 24 May 2026 18:05:00 -0000
+Message-ID: <29b95c34278e4c349946413cee01ca8f@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6718046259907212733=="
+
+--===============6718046259907212733==
+Content-Type: multipart/alternative;
+ boundary="===============7228094306965502417=="
+
+--===============7228094306965502417==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Meridian Airlines membership renews on June 26 for INR 499.
+
+Happy Shopping!
+The Team
+
+--===============7228094306965502417==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Meridian Airlines membership renews on June 26 for INR 499.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7228094306965502417==--
+
+--===============6718046259907212733==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============6718046259907212733==--

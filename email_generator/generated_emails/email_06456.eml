@@ -1,0 +1,34 @@
+From: Nimbus Retail <nimbus@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Fri, 08 May 2026 07:00:00 -0000
+Message-ID: <0ebf398b574848699d2c76b440cf7a58@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4709580410783656817=="
+
+--===============4709580410783656817==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 999 has been credited to your account on June 13 as salary from Fresco Fo=
+ods.
+
+Thank you for banking with us.
+
+--===============4709580410783656817==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 999 has been credited to your account on June 13 as salary from Fr=
+esco Foods.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============4709580410783656817==--

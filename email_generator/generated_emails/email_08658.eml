@@ -1,0 +1,35 @@
+From: Isabella Lopez <isabella16@workday.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Sun, 31 May 2026 11:10:00 -0000
+Message-ID: <64e1fd77308a48caa616bb16426f6ffb@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5340373093054083481=="
+
+--===============5340373093054083481==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: Data Analyst at PixelWorks, New Y=
+ork. Apply now: https://naukri.com/jobs
+
+Best regards,
+Talent Acquisition Team
+
+--===============5340373093054083481==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: Data Analyst at PixelWorks=
+, New York. Apply now: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============5340373093054083481==--

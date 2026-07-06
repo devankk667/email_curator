@@ -1,0 +1,34 @@
+From: Anchorpoint Realty <anchorpoint@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Sat, 16 May 2026 14:15:00 -0000
+Message-ID: <17983c960d6d4dfba7b0ab0949a2570b@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0160759758412359080=="
+
+--===============0160759758412359080==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #2 from Fresco Foods has shipped and will arrive by August 18. Tra=
+ck it: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============0160759758412359080==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #2 from Fresco Foods has shipped and will arrive by August =
+18. Track it: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0160759758412359080==--

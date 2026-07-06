@@ -1,0 +1,49 @@
+From: PixelWorks <pixelworks@flipkart.com>
+To: you@myinbox.com
+Subject: Return Confirmation
+Date: Sat, 21 Feb 2026 08:05:00 -0000
+Message-ID: <40b62c81b27b4ec5a0052a28da7528c1@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5312640511986674100=="
+
+--===============5312640511986674100==
+Content-Type: multipart/alternative;
+ boundary="===============0259775313922619742=="
+
+--===============0259775313922619742==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your return for order #2 has been received. Refund of INR 2500 will be proces=
+sed by May 14. Details: https://nimbusretail.com/orders/track
+
+Happy Shopping!
+The Team
+
+--===============0259775313922619742==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Return Confirmation</h3>
+    <p>Your return for order #2 has been received. Refund of INR 2500 will be=
+ processed by May 14. Details: https://nimbusretail.com/orders/track</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============0259775313922619742==--
+
+--===============5312640511986674100==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============5312640511986674100==--

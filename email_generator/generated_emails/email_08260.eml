@@ -1,0 +1,48 @@
+From: Arjun Sharma <arjun62@greenhouse.io>
+To: you@myinbox.com
+Subject: Take-Home Assignment
+Date: Fri, 27 Feb 2026 17:45:00 -0000
+Message-ID: <9714be2a52d74e578818b3c49c8e05cc@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0333969018527620162=="
+
+--===============0333969018527620162==
+Content-Type: multipart/alternative;
+ boundary="===============7454185040709290212=="
+
+--===============7454185040709290212==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please complete the take-home assignment for the Software Engineer role at Pi=
+xelWorks by October 16. Assignment link: https://naukri.com/jobs
+
+Best regards,
+Talent Acquisition Team
+
+--===============7454185040709290212==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Take-Home Assignment</h3>
+    <p>Please complete the take-home assignment for the Software Engineer rol=
+e at PixelWorks by October 16. Assignment link: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============7454185040709290212==--
+
+--===============0333969018527620162==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============0333969018527620162==--

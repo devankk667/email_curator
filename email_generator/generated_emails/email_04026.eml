@@ -1,0 +1,44 @@
+From: Fatima Costa <fatima@linkedin.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Wed, 10 Jun 2026 08:45:00 -0000
+Message-ID: <fb564995b5a94d0186a1e8873f2dc9ac@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6300180504947712663=="
+
+--===============6300180504947712663==
+Content-Type: multipart/alternative;
+ boundary="===============5859102708034925241=="
+
+--===============5859102708034925241==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from James Dubois: "Hey, are we still meeting on Janua=
+ry 26?"
+
+--===============5859102708034925241==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from James Dubois: "Hey, are we still meeting o=
+n January 26?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============5859102708034925241==--
+
+--===============6300180504947712663==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============6300180504947712663==--

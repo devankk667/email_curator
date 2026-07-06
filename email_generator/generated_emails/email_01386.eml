@@ -1,0 +1,34 @@
+From: Coral Health <coral93@flipkart.com>
+To: you@myinbox.com
+Subject: New Arrivals in Your Category
+Date: Fri, 13 Mar 2026 12:30:00 -0000
+Message-ID: <90003df469eb4625bdd25e3551c43b45@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7913451337567356732=="
+
+--===============7913451337567356732==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+New arrivals from Quanta Labs matching your interests are now live: https://f=
+lipkart.com/returns
+
+Thanks for being a valued customer.
+
+--===============7913451337567356732==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Arrivals in Your Category</h3>
+    <p>New arrivals from Quanta Labs matching your interests are now live: ht=
+tps://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============7913451337567356732==--

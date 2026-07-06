@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@vertexbank.com>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Thu, 18 Jun 2026 22:30:00 -0000
+Message-ID: <86a518cd988245aa801866678e54bda6@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1767806677468320434=="
+
+--===============1767806677468320434==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 9.2% this quarter. View details: http=
+s://vertexbank.com/statements
+
+Regards,
+Customer Service Team
+
+--===============1767806677468320434==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 9.2% this quarter. View detail=
+s: https://vertexbank.com/statements</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1767806677468320434==--

@@ -1,0 +1,35 @@
+From: Meridian Airlines <meridian@flipkart.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Wed, 08 Apr 2026 10:20:00 -0000
+Message-ID: <d30c3f10fd714647bf67ebc8070820d7@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4082006698126124955=="
+
+--===============4082006698126124955==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #3 from Zynta Corp has shipped and will arrive by February 25. Tra=
+ck it: https://amazon.in/orders
+
+Happy Shopping!
+The Team
+
+--===============4082006698126124955==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #3 from Zynta Corp has shipped and will arrive by February =
+25. Track it: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============4082006698126124955==--

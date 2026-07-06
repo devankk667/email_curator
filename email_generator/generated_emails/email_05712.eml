@@ -1,0 +1,35 @@
+From: Coral Health <coral@payflow.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Thu, 19 Mar 2026 16:15:00 -0000
+Message-ID: <a8eeec4ff74942c4a2d3685212b2fbb6@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2227492999555664606=="
+
+--===============2227492999555664606==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 25000 was debited from your account ending 4821 on November 04 at Zynta C=
+orp.
+
+Regards,
+Customer Service Team
+
+--===============2227492999555664606==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 25000 was debited from your account ending 4821 on November 04 at =
+Zynta Corp.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2227492999555664606==--

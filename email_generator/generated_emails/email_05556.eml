@@ -1,0 +1,48 @@
+From: Orbit Logistics <orbit@payflow.com>
+To: you@myinbox.com
+Subject: Tax Filing Reminder
+Date: Thu, 11 Jun 2026 15:10:00 -0000
+Message-ID: <1e8b3fd9b21a4bdf8f09a4f836a58968@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8802530433379092993=="
+
+--===============8802530433379092993==
+Content-Type: multipart/alternative;
+ boundary="===============5621167538870583042=="
+
+--===============5621167538870583042==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Income tax filing deadline is approaching. Please file your returns before Au=
+gust 11 to avoid penalties.
+
+Thank you for banking with us.
+
+--===============5621167538870583042==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Tax Filing Reminder</h3>
+    <p>Income tax filing deadline is approaching. Please file your returns be=
+fore August 11 to avoid penalties.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============5621167538870583042==--
+
+--===============8802530433379092993==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============8802530433379092993==--

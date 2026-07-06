@@ -1,0 +1,34 @@
+From: Fresco Foods <fresco@citibank.com>
+To: you@myinbox.com
+Subject: Insurance Premium Due
+Date: Fri, 10 Apr 2026 08:05:00 -0000
+Message-ID: <091d3b205c3a43a9a4bb8e2d7f650a1c@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6983405625546326045=="
+
+--===============6983405625546326045==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your policy premium of INR 25000 is due on June 20. Pay now to keep your poli=
+cy active.
+
+Thank you for banking with us.
+
+--===============6983405625546326045==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Insurance Premium Due</h3>
+    <p>Your policy premium of INR 25000 is due on June 20. Pay now to keep yo=
+ur policy active.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============6983405625546326045==--

@@ -1,0 +1,29 @@
+From: Sara Chen <sara76@facebookmail.com>
+To: you@myinbox.com
+Subject: Poke from Zara Ivanov
+Date: Thu, 15 Jan 2026 20:30:00 -0000
+Message-ID: <48c8f46f2e3a42d381a5f73dde4eef5f@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3536626637288736824=="
+
+--===============3536626637288736824==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Kenji Ivanov poked you. Poke them back!
+
+--===============3536626637288736824==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Zara Ivanov</h3>
+    <p>Kenji Ivanov poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============3536626637288736824==--

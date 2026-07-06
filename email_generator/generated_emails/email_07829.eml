@@ -1,0 +1,34 @@
+From: Lucas Rossi <lucas@linkedin.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Sat, 30 May 2026 22:30:00 -0000
+Message-ID: <a539438d08414827adff8bba5f2eb5c5@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0882885703633026085=="
+
+--===============0882885703633026085==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for QA Engineer at Fresco Foods has moved to the next round.=
+ Details: https://workday.com/candidate
+
+We look forward to hearing from you.
+
+--===============0882885703633026085==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for QA Engineer at Fresco Foods has moved to the next=
+ round. Details: https://workday.com/candidate</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============0882885703633026085==--

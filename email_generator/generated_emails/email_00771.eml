@@ -1,0 +1,34 @@
+From: Quanta Labs <quanta@myntra.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Sun, 15 Mar 2026 06:10:00 -0000
+Message-ID: <302e3ae5504c4123966b0f100a3dbc73@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1050720252337640766=="
+
+--===============1050720252337640766==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Orbit Logistics was delivered on July 20. Rate your experie=
+nce.
+
+Thanks for being a valued customer.
+
+--===============1050720252337640766==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Orbit Logistics was delivered on July 20. Rate your =
+experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============1050720252337640766==--

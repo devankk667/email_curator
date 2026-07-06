@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks@vertexbank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Thu, 08 Jan 2026 17:10:00 -0000
+Message-ID: <5e860a36b61a42bd9780a8d0d270b8b1@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1121143998706174538=="
+
+--===============1121143998706174538==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 45000 has been credited to your account on December 03 as salary from Orb=
+it Logistics.
+
+Regards,
+Customer Service Team
+
+--===============1121143998706174538==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 45000 has been credited to your account on December 03 as salary f=
+rom Orbit Logistics.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============1121143998706174538==--

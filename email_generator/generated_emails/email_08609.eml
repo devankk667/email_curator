@@ -1,0 +1,47 @@
+From: PixelWorks <pixelworks@naukri.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Sun, 17 May 2026 16:10:00 -0000
+Message-ID: <5ccfa187bb444b01a40b6f5e13b043cf@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3771764446556253128=="
+
+--===============3771764446556253128==
+Content-Type: multipart/alternative;
+ boundary="===============0513511432175752251=="
+
+--===============0513511432175752251==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: Data Analyst at Zynta Corp, Amste=
+rdam. Apply now: https://naukri.com/jobs
+
+We look forward to hearing from you.
+
+--===============0513511432175752251==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: Data Analyst at Zynta Corp=
+, Amsterdam. Apply now: https://naukri.com/jobs</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============0513511432175752251==--
+
+--===============3771764446556253128==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============3771764446556253128==--

@@ -1,0 +1,35 @@
+From: Anchorpoint Realty <anchorpoint@meridianair.com>
+To: you@myinbox.com
+Subject: Check-in Now Open
+Date: Thu, 29 Jan 2026 20:45:00 -0000
+Message-ID: <0871d3dd76d245efbec149905d817ce3@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8808753259469841576=="
+
+--===============8808753259469841576==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Online check-in for your flight to New York on November 07 is now open. Check=
+ in here: https://bookings.com/reservations
+
+Regards,
+Reservations Desk
+
+--===============8808753259469841576==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Check-in Now Open</h3>
+    <p>Online check-in for your flight to New York on November 07 is now open=
+. Check in here: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8808753259469841576==--

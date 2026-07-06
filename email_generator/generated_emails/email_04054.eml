@@ -1,0 +1,29 @@
+From: Instagram <instagram@facebookmail.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Sun, 29 Mar 2026 08:05:00 -0000
+Message-ID: <9e0319c103914281b69d939e009a46bc@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1520212157057126466=="
+
+--===============1520212157057126466==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Ivan Ivanov invited you to join the group 'the team offsite'.
+
+--===============1520212157057126466==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Ivan Ivanov invited you to join the group 'the team offsite'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============1520212157057126466==--

@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta46@bookings.com>
+To: you@myinbox.com
+Subject: Trip Reminder
+Date: Fri, 20 Mar 2026 14:00:00 -0000
+Message-ID: <329bd62a9045447fb6c56c8053fa0ca4@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7278498928804180955=="
+
+--===============7278498928804180955==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your trip to Tokyo starts on November 11. Don't forget to check the weather a=
+nd pack accordingly.
+
+Safe travels,
+Booking Support Team
+
+--===============7278498928804180955==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Trip Reminder</h3>
+    <p>Your trip to Tokyo starts on November 11. Don't forget to check the we=
+ather and pack accordingly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============7278498928804180955==--

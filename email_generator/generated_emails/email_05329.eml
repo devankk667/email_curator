@@ -1,0 +1,29 @@
+From: Elena Silva <elena@meetup.com>
+To: you@myinbox.com
+Subject: Arjun Ivanov liked your photo
+Date: Tue, 31 Mar 2026 21:45:00 -0000
+Message-ID: <6359a51857dc43159c24506eb366733b@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0395067673789665897=="
+
+--===============0395067673789665897==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Fatima Rossi and 8 others liked your recent photo.
+
+--===============0395067673789665897==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Arjun Ivanov liked your photo</h3>
+    <p>Fatima Rossi and 8 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============0395067673789665897==--

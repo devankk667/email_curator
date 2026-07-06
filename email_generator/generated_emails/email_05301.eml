@@ -1,0 +1,31 @@
+From: Omar Chen <omar@linkedin.com>
+To: you@myinbox.com
+Subject: New Follower
+Date: Mon, 29 Jun 2026 06:15:00 -0000
+Message-ID: <61ada78097d94143ace4c683c268a60e@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2529167180031142702=="
+
+--===============2529167180031142702==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Carlos Patel started following you. See their profile: https://meetup.com/gro=
+ups
+
+--===============2529167180031142702==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Follower</h3>
+    <p>Carlos Patel started following you. See their profile: https://meetup.=
+com/groups</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2529167180031142702==--

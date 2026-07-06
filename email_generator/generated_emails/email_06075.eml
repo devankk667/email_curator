@@ -1,0 +1,49 @@
+From: PixelWorks <pixelworks@payflow.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Fri, 08 May 2026 21:00:00 -0000
+Message-ID: <2164ed9599f74ea4b01b73bc3f843605@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4477671792913907391=="
+
+--===============4477671792913907391==
+Content-Type: multipart/alternative;
+ boundary="===============6923147063442538553=="
+
+--===============6923147063442538553==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 12000 has been credited to your account on April 03 as salary from PixelW=
+orks.
+
+Regards,
+Customer Service Team
+
+--===============6923147063442538553==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 12000 has been credited to your account on April 03 as salary from=
+ PixelWorks.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============6923147063442538553==--
+
+--===============4477671792913907391==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============4477671792913907391==--

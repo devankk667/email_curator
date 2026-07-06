@@ -1,0 +1,34 @@
+From: PixelWorks <pixelworks81@nimbusretail.com>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Fri, 20 Feb 2026 19:10:00 -0000
+Message-ID: <59c321b401984622a5b6de70fcbfc758@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7402926420653246389=="
+
+--===============7402926420653246389==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 7500. Grab it before it's gone!
+
+Happy Shopping!
+The Team
+
+--===============7402926420653246389==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 7500. Grab it before it's=
+ gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============7402926420653246389==--

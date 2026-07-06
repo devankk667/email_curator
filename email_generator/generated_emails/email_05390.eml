@@ -1,0 +1,29 @@
+From: Facebook <facebook@meetup.com>
+To: you@myinbox.com
+Subject: Memory From November 26
+Date: Fri, 29 May 2026 06:30:00 -0000
+Message-ID: <b5e8fff6f3464e2d8c0a5379ab149277@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2339202934675346578=="
+
+--===============2339202934675346578==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+You have a memory from January 09. See what you posted that day.
+
+--===============2339202934675346578==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Memory From November 26</h3>
+    <p>You have a memory from January 09. See what you posted that day.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2339202934675346578==--

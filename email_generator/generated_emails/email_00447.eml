@@ -1,0 +1,34 @@
+From: Coral Health <coral@myntra.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Fri, 13 Mar 2026 06:05:00 -0000
+Message-ID: <9faa391b45d44b2db0d92fcddcac229d@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5043195517921704211=="
+
+--===============5043195517921704211==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #6 from Orbit Logistics has shipped and will arrive by July 27. Tr=
+ack it: https://myntra.com/orders
+
+Thanks for being a valued customer.
+
+--===============5043195517921704211==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #6 from Orbit Logistics has shipped and will arrive by July=
+ 27. Track it: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5043195517921704211==--

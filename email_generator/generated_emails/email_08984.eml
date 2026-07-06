@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta54@meridianair.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Wed, 04 Mar 2026 14:30:00 -0000
+Message-ID: <04364f7797fe4aa391fd6a4b01017418@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2282906898112766561=="
+
+--===============2282906898112766561==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Mumbai as of February 19. Read=
+ the advisory: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============2282906898112766561==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Mumbai as of February 1=
+9. Read the advisory: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============2282906898112766561==--

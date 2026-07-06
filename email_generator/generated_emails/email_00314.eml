@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Sun, 10 May 2026 15:45:00 -0000
+Message-ID: <12c16751c4a54731a49ccacd3397ba9f@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5316213352518350076=="
+
+--===============5316213352518350076==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Coral Health was delivered on January 14. Rate your experie=
+nce.
+
+Happy Shopping!
+The Team
+
+--===============5316213352518350076==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Coral Health was delivered on January 14. Rate your =
+experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============5316213352518350076==--

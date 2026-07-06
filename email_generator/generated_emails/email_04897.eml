@@ -1,0 +1,29 @@
+From: James Garcia <james@facebookmail.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Sat, 07 Mar 2026 22:00:00 -0000
+Message-ID: <ba951b31ffc84508b79b1e4950011301@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8834087922162429757=="
+
+--===============8834087922162429757==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Fatima Smith invited you to join the group 'the birthday party'.
+
+--===============8834087922162429757==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Fatima Smith invited you to join the group 'the birthday party'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8834087922162429757==--

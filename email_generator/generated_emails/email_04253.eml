@@ -1,0 +1,31 @@
+From: Instagram <instagram@facebookmail.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Tue, 27 Jan 2026 21:45:00 -0000
+Message-ID: <760f3cb8ad3242d29d26f5e017df1437@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9204868115723903350=="
+
+--===============9204868115723903350==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Yuki Fischer's birthday on October 13! Send them a message to make their=
+ day.
+
+--===============9204868115723903350==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Yuki Fischer's birthday on October 13! Send them a message to mak=
+e their day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============9204868115723903350==--

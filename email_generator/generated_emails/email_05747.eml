@@ -1,0 +1,49 @@
+From: Meridian Airlines <meridian@vertexbank.com>
+To: you@myinbox.com
+Subject: Investment Update
+Date: Mon, 26 Jan 2026 13:45:00 -0000
+Message-ID: <9504e5b351734041a46653fa7be3f0b4@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3472787355603917657=="
+
+--===============3472787355603917657==
+Content-Type: multipart/alternative;
+ boundary="===============7065189336362360218=="
+
+--===============7065189336362360218==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your mutual fund portfolio has grown by 19.9% this quarter. View details: htt=
+ps://payflow.com/dashboard
+
+Regards,
+Customer Service Team
+
+--===============7065189336362360218==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Investment Update</h3>
+    <p>Your mutual fund portfolio has grown by 19.9% this quarter. View detai=
+ls: https://payflow.com/dashboard</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============7065189336362360218==--
+
+--===============3472787355603917657==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============3472787355603917657==--

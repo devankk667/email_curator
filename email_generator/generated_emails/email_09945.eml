@@ -1,0 +1,32 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Social Security Update
+Date: Sat, 16 May 2026 20:20:00 -0000
+Message-ID: <a2b396bc20ab4798814c738d16774534@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1281155322936357847=="
+
+--===============1281155322936357847==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your social security details have been updated as of April 01.
+
+This is an automated notice.
+
+--===============1281155322936357847==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Social Security Update</h3>
+    <p>Your social security details have been updated as of April 01.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>This is an automated not=
+ice.</p>
+  </body>
+</html>
+
+--===============1281155322936357847==--

@@ -1,0 +1,34 @@
+From: Starforge Games <starforge@amazon.in>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Sun, 12 Apr 2026 19:20:00 -0000
+Message-ID: <c65792b41eda409cb872883d5ccaa360@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5004685859019680547=="
+
+--===============5004685859019680547==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #2 from Vertex Bank has shipped and will arrive by October 19. Tra=
+ck it: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============5004685859019680547==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #2 from Vertex Bank has shipped and will arrive by October =
+19. Track it: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5004685859019680547==--

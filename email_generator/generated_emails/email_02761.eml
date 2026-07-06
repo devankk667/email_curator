@@ -1,0 +1,34 @@
+From: Zara Silva <zara86@claim-now.biz>
+To: you@myinbox.com
+Subject: Your Package is Held at Customs
+Date: Sat, 06 Jun 2026 10:15:00 -0000
+Message-ID: <698f0984f13a4a4995c6c04c6e8cfcc2@claim-now.biz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0978706432366324951=="
+
+--===============0978706432366324951==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pay a small fee of INR 7500 to release your package. Click here to proceed: h=
+ttp://secure-verify-account.com/login
+
+Act now, offer expires soon!
+
+--===============0978706432366324951==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Package is Held at Customs</h3>
+    <p>Pay a small fee of INR 7500 to release your package. Click here to pro=
+ceed: http://secure-verify-account.com/login</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============0978706432366324951==--

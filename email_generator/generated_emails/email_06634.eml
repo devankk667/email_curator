@@ -1,0 +1,47 @@
+From: Zynta Corp <zynta@vertexbank.com>
+To: you@myinbox.com
+Subject: Autopay Setup Confirmation
+Date: Mon, 20 Apr 2026 22:20:00 -0000
+Message-ID: <b3620d810f2347b9bcb5986ca2df4839@vertexbank.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8038661116815413654=="
+
+--===============8038661116815413654==
+Content-Type: multipart/alternative;
+ boundary="===============7349928055936367568=="
+
+--===============7349928055936367568==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Autopay for your Fresco Foods bill has been set up, starting December 13.
+
+Thank you for banking with us.
+
+--===============7349928055936367568==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Autopay Setup Confirmation</h3>
+    <p>Autopay for your Fresco Foods bill has been set up, starting December =
+13.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============7349928055936367568==--
+
+--===============8038661116815413654==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============8038661116815413654==--

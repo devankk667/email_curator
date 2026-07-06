@@ -1,0 +1,35 @@
+From: Rahul Ivanov <rahul17@university.edu>
+To: you@myinbox.com
+Subject: Timetable Change Notice
+Date: Fri, 10 Apr 2026 21:20:00 -0000
+Message-ID: <0dba833edb23433c9a083a219c85e8fc@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4638193726592623650=="
+
+--===============4638193726592623650==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The Discrete Mathematics lecture originally on April 11 has been moved to Nov=
+ember 22, Room 153.
+
+Regards,
+Office of Academic Affairs
+
+--===============4638193726592623650==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Timetable Change Notice</h3>
+    <p>The Discrete Mathematics lecture originally on April 11 has been moved=
+ to November 22, Room 153.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============4638193726592623650==--

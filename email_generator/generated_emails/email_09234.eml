@@ -1,0 +1,35 @@
+From: PixelWorks <pixelworks14@bookings.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Sat, 28 Mar 2026 16:30:00 -0000
+Message-ID: <85010da108de428c843923b9b990682a@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8419348640901724392=="
+
+--===============8419348640901724392==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Sydney as of February 26. Read=
+ the advisory: https://meridianair.com/checkin
+
+Safe travels,
+Booking Support Team
+
+--===============8419348640901724392==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Sydney as of February 2=
+6. Read the advisory: https://meridianair.com/checkin</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============8419348640901724392==--

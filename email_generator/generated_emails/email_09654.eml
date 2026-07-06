@@ -1,0 +1,33 @@
+From: Government Services <government@irs.gov>
+To: you@myinbox.com
+Subject: Social Security Update
+Date: Sat, 21 Mar 2026 19:05:00 -0000
+Message-ID: <295ced3193c340adb627183dcd1c8596@irs.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4846111424621599754=="
+
+--===============4846111424621599754==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your social security details have been updated as of February 18.
+
+Regards,
+Public Services Department
+
+--===============4846111424621599754==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Social Security Update</h3>
+    <p>Your social security details have been updated as of February 18.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============4846111424621599754==--

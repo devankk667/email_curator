@@ -1,0 +1,35 @@
+From: Orbit Logistics <orbit@linkedin.com>
+To: you@myinbox.com
+Subject: New Job Match
+Date: Mon, 09 Mar 2026 06:10:00 -0000
+Message-ID: <31dd7cfc2b8c410ebe369658baebe58d@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1895896708119787762=="
+
+--===============1895896708119787762==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+A new job matching your profile was posted: Data Scientist at Starforge Games=
+, London. Apply now: https://workday.com/candidate
+
+Best regards,
+Talent Acquisition Team
+
+--===============1895896708119787762==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Job Match</h3>
+    <p>A new job matching your profile was posted: Data Scientist at Starforg=
+e Games, London. Apply now: https://workday.com/candidate</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============1895896708119787762==--

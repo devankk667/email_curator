@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta67@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Fri, 06 Feb 2026 15:15:00 -0000
+Message-ID: <7721c2d183934a32a2cc1c02e4350c6c@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6646400867615271803=="
+
+--===============6646400867615271803==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #3 from Orbit Logistics is delayed and will now arrive by May 26 i=
+nstead of November 04. Track: https://myntra.com/orders
+
+Happy Shopping!
+The Team
+
+--===============6646400867615271803==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #3 from Orbit Logistics is delayed and will now arrive by M=
+ay 26 instead of November 04. Track: https://myntra.com/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============6646400867615271803==--

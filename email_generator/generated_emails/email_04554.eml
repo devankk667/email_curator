@@ -1,0 +1,31 @@
+From: Priya Reddy <priya@facebookmail.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Fri, 20 Feb 2026 15:10:00 -0000
+Message-ID: <6eea403fe3f54829a19127dd26a4e01d@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8963187200351882047=="
+
+--===============8963187200351882047==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+It's Noah Okafor's birthday on August 17! Send them a message to make their d=
+ay.
+
+--===============8963187200351882047==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's Noah Okafor's birthday on August 17! Send them a message to make =
+their day.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8963187200351882047==--

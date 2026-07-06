@@ -1,0 +1,31 @@
+From: Arjun Nguyen <arjun@meetup.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Sun, 08 Mar 2026 12:30:00 -0000
+Message-ID: <d518eb73d123481f89fb89ebd95a9043@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8364035925464746751=="
+
+--===============8364035925464746751==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Rahul Fischer: "Hey, are we still meeting on Janu=
+ary 22?"
+
+--===============8364035925464746751==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Rahul Fischer: "Hey, are we still meeting =
+on January 22?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============8364035925464746751==--

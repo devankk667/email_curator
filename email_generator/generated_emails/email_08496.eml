@@ -1,0 +1,35 @@
+From: Sara Ivanov <sara34@naukri.com>
+To: you@myinbox.com
+Subject: Application Status Update
+Date: Sat, 07 Feb 2026 18:00:00 -0000
+Message-ID: <f59864111d7b43e18f420cd81a78f9ee@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3387270377551563718=="
+
+--===============3387270377551563718==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your application for Product Manager at Quanta Labs has moved to the next rou=
+nd. Details: https://greenhouse.io/applications
+
+Best regards,
+Talent Acquisition Team
+
+--===============3387270377551563718==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Status Update</h3>
+    <p>Your application for Product Manager at Quanta Labs has moved to the n=
+ext round. Details: https://greenhouse.io/applications</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============3387270377551563718==--

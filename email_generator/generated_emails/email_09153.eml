@@ -1,0 +1,49 @@
+From: Fresco Foods <fresco@meridianair.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Sun, 01 Feb 2026 11:10:00 -0000
+Message-ID: <bd925b46532e49a7b7bee8932c878d6a@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9132893857448829175=="
+
+--===============9132893857448829175==
+Content-Type: multipart/alternative;
+ boundary="===============6538944740372280095=="
+
+--===============6538944740372280095==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Delhi Grand Hotel from May 21 to August 21 is confirmed. Booking=
+ ID: 996331.
+
+Regards,
+Reservations Desk
+
+--===============6538944740372280095==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Delhi Grand Hotel from May 21 to August 21 is confirmed. =
+Booking ID: 996331.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============6538944740372280095==--
+
+--===============9132893857448829175==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============9132893857448829175==--

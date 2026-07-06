@@ -1,0 +1,41 @@
+From: Anchorpoint Realty <anchorpoint@makemytrip.com>
+To: you@myinbox.com
+Subject: Re: Flight Booking Confirmation
+Date: Sat, 04 Apr 2026 22:10:00 -0000
+Message-ID: <2628e6dcae8243d9a843f31e9c15614b@makemytrip.com>
+In-Reply-To: <ab745a736baf4698b341bcec3a85a468@meridianair.com>
+References: <ab745a736baf4698b341bcec3a85a468@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6876851856472729143=="
+
+--===============6876851856472729143==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Got it, will follow up soon.
+
+> Your flight to San Francisco on November 15 is confirmed.
+> Booking reference: 295451.
+> Departure: 10:30 AM.
+
+Regards,
+Reservations Desk
+
+--===============6876851856472729143==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Got it, will follow up soon.</p><p>> Your flight to San Francisco on N=
+ovember 15 is confirmed.</p><p>> Booking reference: 295451.</p><p>> Departure=
+: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============6876851856472729143==--

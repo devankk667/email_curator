@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@bookings.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Fri, 30 Jan 2026 09:20:00 -0000
+Message-ID: <5cc92b7b27a54c0ea05254fd7364bf62@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2220079908575861996=="
+
+--===============2220079908575861996==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for London as of July 07. Read the=
+ advisory: https://bookings.com/reservations
+
+Safe travels,
+Booking Support Team
+
+--===============2220079908575861996==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for London as of July 07. R=
+ead the advisory: https://bookings.com/reservations</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============2220079908575861996==--

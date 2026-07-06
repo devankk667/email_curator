@@ -1,0 +1,33 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Census Participation Reminder
+Date: Wed, 29 Apr 2026 09:05:00 -0000
+Message-ID: <b956a625565649cf83dafc3b34dcccef@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6613001797181875859=="
+
+--===============6613001797181875859==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Please complete the national census survey before December 30.
+
+Regards,
+Public Services Department
+
+--===============6613001797181875859==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Census Participation Reminder</h3>
+    <p>Please complete the national census survey before December 30.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============6613001797181875859==--

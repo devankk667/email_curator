@@ -1,0 +1,49 @@
+From: Fresco Foods <fresco@airindia.com>
+To: you@myinbox.com
+Subject: Travel Advisory
+Date: Mon, 19 Jan 2026 07:10:00 -0000
+Message-ID: <ecb3de950e0441bf8401d65e71b999ac@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0687122892528057705=="
+
+--===============0687122892528057705==
+Content-Type: multipart/alternative;
+ boundary="===============8742326105825083926=="
+
+--===============8742326105825083926==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please note a travel advisory is in effect for Delhi as of November 25. Read =
+the advisory: https://makemytrip.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============8742326105825083926==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Travel Advisory</h3>
+    <p>Please note a travel advisory is in effect for Delhi as of November 25=
+. Read the advisory: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8742326105825083926==--
+
+--===============0687122892528057705==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="boarding_pass.txt"
+MIME-Version: 1.0
+
+Qm9hcmRpbmcgUGFzczoKU2VhdCAxNEMsIEdhdGUgMjIsIEJvYXJkaW5nIHN0YXJ0cyAzMCBtaW4g
+cHJpb3Iu
+
+--===============0687122892528057705==--

@@ -1,0 +1,47 @@
+From: Facebook <facebook@facebookmail.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Tue, 16 Jun 2026 20:00:00 -0000
+Message-ID: <e2ad70a8e1dd45d78d87b547d37ce833@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2477001398846882042=="
+
+--===============2477001398846882042==
+Content-Type: multipart/alternative;
+ boundary="===============3438251006837068196=="
+
+--===============3438251006837068196==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Aisha Silva: "Hey, are we still meeting on July 3=
+0?"
+
+-- Sent from your notifications
+
+--===============3438251006837068196==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Aisha Silva: "Hey, are we still meeting on=
+ July 30?"</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============3438251006837068196==--
+
+--===============2477001398846882042==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============2477001398846882042==--

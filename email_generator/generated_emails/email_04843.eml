@@ -1,0 +1,29 @@
+From: Zara Smith <zara@facebookmail.com>
+To: you@myinbox.com
+Subject: Poke from Arjun Novak
+Date: Thu, 29 Jan 2026 06:45:00 -0000
+Message-ID: <2ba19ed022dc490abaf699b0e40f57b1@facebookmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2426012654204875903=="
+
+--===============2426012654204875903==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Fatima Nguyen poked you. Poke them back!
+
+--===============2426012654204875903==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Poke from Arjun Novak</h3>
+    <p>Fatima Nguyen poked you. Poke them back!</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2426012654204875903==--

@@ -1,0 +1,48 @@
+From: Fresco Foods <fresco@amazon.in>
+To: you@myinbox.com
+Subject: Vertex Bank Mega Sale
+Date: Sat, 10 Jan 2026 08:00:00 -0000
+Message-ID: <495774373cb040e8ac92211cf16382fd@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2605374393824385771=="
+
+--===============2605374393824385771==
+Content-Type: multipart/alternative;
+ boundary="===============6666374154154559566=="
+
+--===============6666374154154559566==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Up to 60% OFF on electronics and fashion.
+Sale ends September 12. Use code SAVE7 at checkout.
+
+Thanks for being a valued customer.
+
+--===============6666374154154559566==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Vertex Bank Mega Sale</h3>
+    <p>Up to 60% OFF on electronics and fashion.</p><p>Sale ends September 12=
+. Use code SAVE7 at checkout.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============6666374154154559566==--
+
+--===============2605374393824385771==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============2605374393824385771==--

@@ -1,0 +1,48 @@
+From: Zynta Corp <zynta32@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Mon, 12 Jan 2026 14:10:00 -0000
+Message-ID: <975ad19e65594cc98f1c1ed549b4def4@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3323330232750113793=="
+
+--===============3323330232750113793==
+Content-Type: multipart/alternative;
+ boundary="===============8393358556046115558=="
+
+--===============8393358556046115558==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #4 from Meridian Airlines is delayed and will now arrive by Februa=
+ry 02 instead of August 06. Track: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============8393358556046115558==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #4 from Meridian Airlines is delayed and will now arrive by=
+ February 02 instead of August 06. Track: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8393358556046115558==--
+
+--===============3323330232750113793==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.txt"
+MIME-Version: 1.0
+
+SW52b2ljZToKVGhhbmsgeW91IGZvciB5b3VyIHB1cmNoYXNlLiBTZWUgaXRlbSBicmVha2Rvd24g
+YXR0YWNoZWQu
+
+--===============3323330232750113793==--

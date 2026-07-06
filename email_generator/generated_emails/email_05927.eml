@@ -1,0 +1,34 @@
+From: Vertex Bank <vertex@citibank.com>
+To: you@myinbox.com
+Subject: Fixed Deposit Matured
+Date: Wed, 29 Apr 2026 13:15:00 -0000
+Message-ID: <d48b7b209b1c4245914869751186ebaa@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5117722502826274714=="
+
+--===============5117722502826274714==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your fixed deposit of INR 12000 matured on November 11. Choose to renew or wi=
+thdraw.
+
+Thank you for banking with us.
+
+--===============5117722502826274714==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Fixed Deposit Matured</h3>
+    <p>Your fixed deposit of INR 12000 matured on November 11. Choose to rene=
+w or withdraw.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============5117722502826274714==--

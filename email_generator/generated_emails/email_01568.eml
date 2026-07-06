@@ -1,0 +1,35 @@
+From: Nimbus Retail <nimbus@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Thu, 25 Jun 2026 10:45:00 -0000
+Message-ID: <83217043116a4f908a48da2ff6e4ee26@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8176464467063430651=="
+
+--===============8176464467063430651==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Nimbus Retail was delivered on October 29. Rate your experi=
+ence.
+
+Happy Shopping!
+The Team
+
+--===============8176464467063430651==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Nimbus Retail was delivered on October 29. Rate your=
+ experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============8176464467063430651==--

@@ -1,0 +1,33 @@
+From: Coral Health <coral@nimbusretail.com>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Tue, 19 May 2026 08:45:00 -0000
+Message-ID: <8d4de94f6ba146599a9e4e781f89968b@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8652974616819991672=="
+
+--===============8652974616819991672==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 999. Grab it before it's gone!
+
+Thanks for being a valued customer.
+
+--===============8652974616819991672==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 999. Grab it before it's =
+gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8652974616819991672==--

@@ -1,0 +1,33 @@
+From: Cloudscape <cloudscape@myntra.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Fri, 26 Jun 2026 08:45:00 -0000
+Message-ID: <6e757f4be7db4177bf9b337fab2c23f5@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============9172153285176601939=="
+
+--===============9172153285176601939==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your package from Coral Health was delivered on July 27. Rate your experience.
+
+Thanks for being a valued customer.
+
+--===============9172153285176601939==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Coral Health was delivered on July 27. Rate your exp=
+erience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============9172153285176601939==--

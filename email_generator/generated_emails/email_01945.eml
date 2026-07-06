@@ -1,0 +1,34 @@
+From: PixelWorks <pixelworks@amazon.in>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Thu, 21 May 2026 13:00:00 -0000
+Message-ID: <425a61d787ea4a6aa3955692ae90adc6@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8113380363080493443=="
+
+--===============8113380363080493443==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Brightline Media was delivered on January 03. Rate your exp=
+erience.
+
+Thanks for being a valued customer.
+
+--===============8113380363080493443==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Brightline Media was delivered on January 03. Rate y=
+our experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============8113380363080493443==--

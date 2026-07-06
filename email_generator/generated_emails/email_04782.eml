@@ -1,0 +1,33 @@
+From: Meetup <meetup@linkedin.com>
+To: you@myinbox.com
+Subject: Birthday Reminder
+Date: Tue, 12 May 2026 11:00:00 -0000
+Message-ID: <efbd4da1b6414cec92a9035fd7890d2b@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2925816961409291850=="
+
+--===============2925816961409291850==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+It's James Novak's birthday on May 28! Send them a message to make their day.
+
+-- Sent from your notifications
+
+--===============2925816961409291850==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Birthday Reminder</h3>
+    <p>It's James Novak's birthday on May 28! Send them a message to make the=
+ir day.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============2925816961409291850==--

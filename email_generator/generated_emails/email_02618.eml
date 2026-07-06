@@ -1,0 +1,47 @@
+From: Zara Smith <zara85@cashbonus.xyz>
+To: you@myinbox.com
+Subject: Urgent: Verify Your Account
+Date: Sat, 18 Apr 2026 06:20:00 -0000
+Message-ID: <c0766e3b07614fc2bd56ec995f8cbaa7@cashbonus.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3220601823051224591=="
+
+--===============3220601823051224591==
+Content-Type: multipart/alternative;
+ boundary="===============4884542067501005697=="
+
+--===============4884542067501005697==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account will be suspended in 24 hours. Verify your details immediately: =
+http://192.168.44.12/claim
+
+Act now, offer expires soon!
+
+--===============4884542067501005697==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Urgent: Verify Your Account</h3>
+    <p>Your account will be suspended in 24 hours. Verify your details immedi=
+ately: http://192.168.44.12/claim</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============4884542067501005697==--
+
+--===============3220601823051224591==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============3220601823051224591==--

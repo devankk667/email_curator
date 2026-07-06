@@ -1,0 +1,31 @@
+From: Instagram <instagram@linkedin.com>
+To: you@myinbox.com
+Subject: Event Invitation
+Date: Wed, 11 Feb 2026 13:20:00 -0000
+Message-ID: <7d1b51e7e8f34eb5a5cb87aad13fb177@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5931696465669151443=="
+
+--===============5931696465669151443==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You're invited to the alumni meetup on September 05. RSVP now to let the host=
+ know you're coming.
+
+--===============5931696465669151443==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Event Invitation</h3>
+    <p>You're invited to the alumni meetup on September 05. RSVP now to let t=
+he host know you're coming.</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============5931696465669151443==--

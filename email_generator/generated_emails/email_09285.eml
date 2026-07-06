@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@bookings.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Sat, 20 Jun 2026 09:20:00 -0000
+Message-ID: <7f474a932bd44b40bbf8ee25d3bef6ad@bookings.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1530227048536744608=="
+
+--===============1530227048536744608==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in London from January 26 to April 18 is confirmed. Booking I=
+D: 822592. Manage booking: https://makemytrip.com/bookings
+
+Safe travels,
+Booking Support Team
+
+--===============1530227048536744608==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in London from January 26 to April 18 is confirmed. Bo=
+oking ID: 822592. Manage booking: https://makemytrip.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Safe travels,<br>Booking=
+ Support Team</p>
+  </body>
+</html>
+
+--===============1530227048536744608==--

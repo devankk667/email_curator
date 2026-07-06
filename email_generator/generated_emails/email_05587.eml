@@ -1,0 +1,33 @@
+From: PixelWorks <pixelworks@citibank.com>
+To: you@myinbox.com
+Subject: Quarterly Portfolio Report
+Date: Fri, 29 May 2026 20:15:00 -0000
+Message-ID: <7641b45da4f5464c8892a16d643d2e70@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3776815765823276224=="
+
+--===============3776815765823276224==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your quarterly investment report is ready. Net change: 6.2% as of June 27.
+
+Thank you for banking with us.
+
+--===============3776815765823276224==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Quarterly Portfolio Report</h3>
+    <p>Your quarterly investment report is ready. Net change: 6.2% as of June=
+ 27.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3776815765823276224==--

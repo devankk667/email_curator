@@ -1,0 +1,35 @@
+From: Brightline Media <brightline@myntra.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Mon, 30 Mar 2026 21:45:00 -0000
+Message-ID: <2b83e0b0116b439aa01bad218e4ca83f@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2121290451354199215=="
+
+--===============2121290451354199215==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #7 from Anchorpoint Realty is delayed and will now arrive by Janua=
+ry 24 instead of July 18. Track: https://nimbusretail.com/orders/track
+
+Thanks for being a valued customer.
+
+--===============2121290451354199215==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #7 from Anchorpoint Realty is delayed and will now arrive b=
+y January 24 instead of July 18. Track: https://nimbusretail.com/orders/track=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============2121290451354199215==--

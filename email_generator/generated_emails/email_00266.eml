@@ -1,0 +1,35 @@
+From: Quanta Labs <quanta@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Wed, 18 Feb 2026 21:10:00 -0000
+Message-ID: <8f7b4d01ccd7466ea4e64053c0468201@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1188784247234236663=="
+
+--===============1188784247234236663==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Fernwood Analytics was delivered on April 01. Rate your exp=
+erience.
+
+Happy Shopping!
+The Team
+
+--===============1188784247234236663==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Fernwood Analytics was delivered on April 01. Rate y=
+our experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1188784247234236663==--

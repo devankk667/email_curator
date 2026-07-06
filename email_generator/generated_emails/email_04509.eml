@@ -1,0 +1,29 @@
+From: Fatima Smith <fatima7@meetup.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Tue, 20 Jan 2026 07:15:00 -0000
+Message-ID: <6361224e6c4e488cb1fe663f062fc656@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4677822134791453549=="
+
+--===============4677822134791453549==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Mei Lopez invited you to join the group 'the birthday party'.
+
+--===============4677822134791453549==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Group Invitation</h3>
+    <p>Mei Lopez invited you to join the group 'the birthday party'.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4677822134791453549==--

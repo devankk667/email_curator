@@ -1,0 +1,44 @@
+From: Instagram <instagram@instagram.com>
+To: you@myinbox.com
+Subject: Suggested Connection
+Date: Fri, 10 Apr 2026 19:15:00 -0000
+Message-ID: <822ec62e64a94ba086aa5ab737f9ff1c@instagram.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4038356048649306331=="
+
+--===============4038356048649306331==
+Content-Type: multipart/alternative;
+ boundary="===============3401880607317391637=="
+
+--===============3401880607317391637==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You may know Diego Okafor, who works at Fresco Foods. Connect now: https://in=
+stagram.com/notifications
+
+--===============3401880607317391637==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Suggested Connection</h3>
+    <p>You may know Diego Okafor, who works at Fresco Foods. Connect now: htt=
+ps://instagram.com/notifications</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============3401880607317391637==--
+
+--===============4038356048649306331==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============4038356048649306331==--

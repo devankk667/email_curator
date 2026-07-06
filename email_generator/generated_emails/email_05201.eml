@@ -1,0 +1,29 @@
+From: Ivan Garcia <ivan@meetup.com>
+To: you@myinbox.com
+Subject: Rahul Sharma liked your photo
+Date: Thu, 26 Feb 2026 19:45:00 -0000
+Message-ID: <779bfa4f03904357a32cd399a3b10d38@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2081267543754428884=="
+
+--===============2081267543754428884==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Lucas Silva and 8 others liked your recent photo.
+
+--===============2081267543754428884==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Rahul Sharma liked your photo</h3>
+    <p>Lucas Silva and 8 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2081267543754428884==--

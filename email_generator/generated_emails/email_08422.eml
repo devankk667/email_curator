@@ -1,0 +1,34 @@
+From: Meridian Airlines <meridian@naukri.com>
+To: you@myinbox.com
+Subject: Rejection Notice
+Date: Sat, 07 Feb 2026 11:20:00 -0000
+Message-ID: <772c6fc073d84cf0a8a3edb210492644@naukri.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8203790045205499576=="
+
+--===============8203790045205499576==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for interviewing for Software Engineer at Nimbus Retail. We've deci=
+ded to move forward with other candidates.
+
+We look forward to hearing from you.
+
+--===============8203790045205499576==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Rejection Notice</h3>
+    <p>Thank you for interviewing for Software Engineer at Nimbus Retail. We'=
+ve decided to move forward with other candidates.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============8203790045205499576==--

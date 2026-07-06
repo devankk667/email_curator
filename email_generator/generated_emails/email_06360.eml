@@ -1,0 +1,49 @@
+From: Vertex Bank <vertex19@payflow.com>
+To: you@myinbox.com
+Subject: Low Balance Alert
+Date: Fri, 05 Jun 2026 10:15:00 -0000
+Message-ID: <3aee99e255524ed599569bb4b79ad696@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5859808171107676847=="
+
+--===============5859808171107676847==
+Content-Type: multipart/alternative;
+ boundary="===============8943314810846069516=="
+
+--===============8943314810846069516==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your account balance is below INR 3999. Add funds here: https://vertexbank.co=
+m/accounts
+
+Regards,
+Customer Service Team
+
+--===============8943314810846069516==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Low Balance Alert</h3>
+    <p>Your account balance is below INR 3999. Add funds here: https://vertex=
+bank.com/accounts</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============8943314810846069516==--
+
+--===============5859808171107676847==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="statement.txt"
+MIME-Version: 1.0
+
+U3RhdGVtZW50IHN1bW1hcnk6ClNlZSBhdHRhY2hlZCB0cmFuc2FjdGlvbiBkZXRhaWxzIGZvciB0
+aGlzIHBlcmlvZC4=
+
+--===============5859808171107676847==--

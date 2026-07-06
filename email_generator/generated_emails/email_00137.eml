@@ -1,0 +1,35 @@
+From: Coral Health <coral@myntra.com>
+To: you@myinbox.com
+Subject: Wishlist Reminder
+Date: Thu, 15 Jan 2026 08:10:00 -0000
+Message-ID: <a59fc9886c81465ba661e1de7b57c21f@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6195081393614751443=="
+
+--===============6195081393614751443==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Items in your wishlist are still available. Buy now before prices go up on Ma=
+y 12.
+
+Happy Shopping!
+The Team
+
+--===============6195081393614751443==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Wishlist Reminder</h3>
+    <p>Items in your wishlist are still available. Buy now before prices go u=
+p on May 12.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============6195081393614751443==--

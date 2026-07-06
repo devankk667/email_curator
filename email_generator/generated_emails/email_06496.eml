@@ -1,0 +1,32 @@
+From: PixelWorks <pixelworks@payflow.com>
+To: you@myinbox.com
+Subject: Loan EMI Reminder
+Date: Thu, 30 Apr 2026 08:45:00 -0000
+Message-ID: <c80506067bea41e699e0c45d070a46cb@payflow.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7286209892071045489=="
+
+--===============7286209892071045489==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your EMI of INR 12000 for Personal Loan #9 is due on January 03.
+
+Thank you for banking with us.
+
+--===============7286209892071045489==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Loan EMI Reminder</h3>
+    <p>Your EMI of INR 12000 for Personal Loan #9 is due on January 03.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============7286209892071045489==--

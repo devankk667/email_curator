@@ -1,0 +1,35 @@
+From: Government Services <government@municipal.gov>
+To: you@myinbox.com
+Subject: Driving License Renewal
+Date: Mon, 09 Mar 2026 08:30:00 -0000
+Message-ID: <d959abf382ca4070a82ca77ce10e78d8@municipal.gov>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1968730395771425608=="
+
+--===============1968730395771425608==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your driving license expires on October 24. Renew online: https://gov.in/serv=
+ices/passport
+
+Regards,
+Public Services Department
+
+--===============1968730395771425608==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Driving License Renewal</h3>
+    <p>Your driving license expires on October 24. Renew online: https://gov.=
+in/services/passport</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Public Servi=
+ces Department</p>
+  </body>
+</html>
+
+--===============1968730395771425608==--

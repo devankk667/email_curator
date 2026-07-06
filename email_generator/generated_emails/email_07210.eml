@@ -1,0 +1,48 @@
+From: Isabella Fischer <isabella82@college.ac.in>
+To: you@myinbox.com
+Subject: Hostel Fee Due
+Date: Sat, 10 Jan 2026 19:30:00 -0000
+Message-ID: <f2ae4a59997d4da5b43a4e6c8a67af24@college.ac.in>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8319627002498572902=="
+
+--===============8319627002498572902==
+Content-Type: multipart/alternative;
+ boundary="===============2491509229146214983=="
+
+--===============2491509229146214983==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your hostel fee of INR 25000 is due by June 16. Pay via the accounts office.
+
+Regards,
+Office of Academic Affairs
+
+--===============2491509229146214983==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hostel Fee Due</h3>
+    <p>Your hostel fee of INR 25000 is due by June 16. Pay via the accounts o=
+ffice.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============2491509229146214983==--
+
+--===============8319627002498572902==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============8319627002498572902==--

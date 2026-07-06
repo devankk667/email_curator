@@ -1,0 +1,34 @@
+From: Vertex Bank <vertex@myntra.com>
+To: you@myinbox.com
+Subject: Order Shipped
+Date: Thu, 12 Feb 2026 13:45:00 -0000
+Message-ID: <2ed1fb3f104c41cbb6be82390e17ec20@myntra.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0843062360451565221=="
+
+--===============0843062360451565221==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #7 from Fresco Foods has shipped and will arrive by December 17. T=
+rack it: https://flipkart.com/returns
+
+Thanks for being a valued customer.
+
+--===============0843062360451565221==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Shipped</h3>
+    <p>Your order #7 from Fresco Foods has shipped and will arrive by Decembe=
+r 17. Track it: https://flipkart.com/returns</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0843062360451565221==--

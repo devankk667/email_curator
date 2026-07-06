@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood98@makemytrip.com>
+To: you@myinbox.com
+Subject: Hotel Reservation
+Date: Mon, 27 Apr 2026 12:20:00 -0000
+Message-ID: <0b2f6abe8b824b949f37dc67239636e4@makemytrip.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8694298133639782902=="
+
+--===============8694298133639782902==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your stay at Chennai Grand Hotel from November 30 to May 09 is confirmed. Boo=
+king ID: 782266.
+
+Regards,
+Reservations Desk
+
+--===============8694298133639782902==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hotel Reservation</h3>
+    <p>Your stay at Chennai Grand Hotel from November 30 to May 09 is confirm=
+ed. Booking ID: 782266.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8694298133639782902==--

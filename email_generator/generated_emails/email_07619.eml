@@ -1,0 +1,48 @@
+From: Liam Chen <liam@university.edu>
+To: you@myinbox.com
+Subject: Hostel Fee Due
+Date: Sat, 27 Jun 2026 14:20:00 -0000
+Message-ID: <88be4f13e0bb4128a81fbc0839724be7@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1172396297935635592=="
+
+--===============1172396297935635592==
+Content-Type: multipart/alternative;
+ boundary="===============5151793022177440735=="
+
+--===============5151793022177440735==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your hostel fee of INR 2500 is due by August 06. Pay via the accounts office.
+
+Thank you,
+Examination Cell
+
+--===============5151793022177440735==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Hostel Fee Due</h3>
+    <p>Your hostel fee of INR 2500 is due by August 06. Pay via the accounts =
+office.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============5151793022177440735==--
+
+--===============1172396297935635592==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============1172396297935635592==--

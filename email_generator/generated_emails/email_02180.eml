@@ -1,0 +1,32 @@
+From: Fernwood Analytics <fernwood@amazon.in>
+To: you@myinbox.com
+Subject: Subscription Renewal
+Date: Sat, 09 May 2026 15:20:00 -0000
+Message-ID: <2429efc987034cf2a1e90cccb14fdc55@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6833074047854937134=="
+
+--===============6833074047854937134==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your Fresco Foods membership renews on April 24 for INR 45000.
+
+Thanks for being a valued customer.
+
+--===============6833074047854937134==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Subscription Renewal</h3>
+    <p>Your Fresco Foods membership renews on April 24 for INR 45000.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============6833074047854937134==--

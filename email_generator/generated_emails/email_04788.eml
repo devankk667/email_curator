@@ -1,0 +1,32 @@
+From: Zara Sharma <zara@meetup.com>
+To: you@myinbox.com
+Subject: Group Invitation
+Date: Wed, 10 Jun 2026 21:20:00 -0000
+Message-ID: <1ed9818f17224f7eaa824b51c3ccbf97@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8930143605921772010=="
+
+--===============8930143605921772010==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+James Patel invited you to join the group 'the birthday party'.
+
+-- Sent from your notifications
+
+--===============8930143605921772010==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Group Invitation</h3>
+    <p>James Patel invited you to join the group 'the birthday party'.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>-- Sent from your notifi=
+cations</p>
+  </body>
+</html>
+
+--===============8930143605921772010==--

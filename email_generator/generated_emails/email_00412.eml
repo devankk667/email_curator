@@ -1,0 +1,35 @@
+From: Fresco Foods <fresco@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Wed, 15 Apr 2026 07:05:00 -0000
+Message-ID: <53254b05b5314eeb86bb7d43325dfb71@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1215129724603539645=="
+
+--===============1215129724603539645==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from PixelWorks was delivered on October 17. Rate your experienc=
+e.
+
+Happy Shopping!
+The Team
+
+--===============1215129724603539645==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from PixelWorks was delivered on October 17. Rate your ex=
+perience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Happy Shopping!<br>The T=
+eam</p>
+  </body>
+</html>
+
+--===============1215129724603539645==--

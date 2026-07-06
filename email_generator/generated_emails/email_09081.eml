@@ -1,0 +1,35 @@
+From: Fernwood Analytics <fernwood@meridianair.com>
+To: you@myinbox.com
+Subject: Itinerary Change
+Date: Mon, 19 Jan 2026 17:30:00 -0000
+Message-ID: <9c3cf2e33b964f03a2e2625830549138@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8511166764364931458=="
+
+--===============8511166764364931458==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your connecting flight to London has been rescheduled to July 29. Please chec=
+k your booking.
+
+Regards,
+Reservations Desk
+
+--===============8511166764364931458==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Itinerary Change</h3>
+    <p>Your connecting flight to London has been rescheduled to July 29. Plea=
+se check your booking.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============8511166764364931458==--

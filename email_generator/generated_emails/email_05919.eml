@@ -1,0 +1,35 @@
+From: Starforge Games <starforge72@citibank.com>
+To: you@myinbox.com
+Subject: Transaction Alert
+Date: Fri, 15 May 2026 11:15:00 -0000
+Message-ID: <f1d62f4e7884479b8ff109abde335da9@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2807878005943243934=="
+
+--===============2807878005943243934==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 199 was debited from your account ending 4821 on November 10 at Quanta La=
+bs.
+
+Regards,
+Customer Service Team
+
+--===============2807878005943243934==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Transaction Alert</h3>
+    <p>INR 199 was debited from your account ending 4821 on November 10 at Qu=
+anta Labs.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Customer Ser=
+vice Team</p>
+  </body>
+</html>
+
+--===============2807878005943243934==--

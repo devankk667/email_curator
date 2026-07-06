@@ -1,0 +1,48 @@
+From: Kenji Novak <kenji@university.edu>
+To: you@myinbox.com
+Subject: Convocation Notice
+Date: Fri, 20 Feb 2026 08:45:00 -0000
+Message-ID: <b07f15262c78417eb79ae7bc17b3b199@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8304137532812786518=="
+
+--===============8304137532812786518==
+Content-Type: multipart/alternative;
+ boundary="===============2738016824131858958=="
+
+--===============2738016824131858958==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Convocation ceremony will be held on May 23. Collect your gown by May 18.
+
+Thank you,
+Examination Cell
+
+--===============2738016824131858958==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Convocation Notice</h3>
+    <p>Convocation ceremony will be held on May 23. Collect your gown by May =
+18.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you,<br>Examinatio=
+n Cell</p>
+  </body>
+</html>
+
+--===============2738016824131858958==--
+
+--===============8304137532812786518==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assignment_brief.txt"
+MIME-Version: 1.0
+
+QXNzaWdubWVudCBicmllZjoKQ29tcGxldGUgYWxsIHNlY3Rpb25zIGFuZCBzdWJtaXQgdmlhIHRo
+ZSBwb3J0YWwu
+
+--===============8304137532812786518==--

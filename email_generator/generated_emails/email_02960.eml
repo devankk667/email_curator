@@ -1,0 +1,47 @@
+From: Carlos Reddy <carlos@luckywin-prize.com>
+To: you@myinbox.com
+Subject: Your Package is Held at Customs
+Date: Mon, 09 Mar 2026 07:20:00 -0000
+Message-ID: <48d9554ec9ac48dd84b57575313593fc@luckywin-prize.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4255802652792747154=="
+
+--===============4255802652792747154==
+Content-Type: multipart/alternative;
+ boundary="===============5468502408464317455=="
+
+--===============5468502408464317455==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pay a small fee of INR 1499 to release your package. Click here to proceed: h=
+ttp://192.168.44.12/claim
+
+Act now, offer expires soon!
+
+--===============5468502408464317455==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Your Package is Held at Customs</h3>
+    <p>Pay a small fee of INR 1499 to release your package. Click here to pro=
+ceed: http://192.168.44.12/claim</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Act now, offer expires s=
+oon!</p>
+  </body>
+</html>
+
+--===============5468502408464317455==--
+
+--===============4255802652792747154==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="claim_form.txt"
+MIME-Version: 1.0
+
+RmlsbCB0aGlzIGZvcm0gaW1tZWRpYXRlbHkgdG8gY2xhaW0geW91ciBwcml6ZS4=
+
+--===============4255802652792747154==--

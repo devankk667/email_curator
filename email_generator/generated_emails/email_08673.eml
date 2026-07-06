@@ -1,0 +1,34 @@
+From: Elena Smith <elena@linkedin.com>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Sat, 31 Jan 2026 08:30:00 -0000
+Message-ID: <cb42f1d012154f86ba8c5216516c88c5@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6873267551092456160=="
+
+--===============6873267551092456160==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Rahul Nguyen starred your repository on GitHub. Keep up the great work!
+
+Best regards,
+Talent Acquisition Team
+
+--===============6873267551092456160==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Rahul Nguyen starred your repository on GitHub. Keep up the great work=
+!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============6873267551092456160==--

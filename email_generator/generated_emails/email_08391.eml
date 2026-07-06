@@ -1,0 +1,35 @@
+From: Anchorpoint Realty <anchorpoint36@greenhouse.io>
+To: you@myinbox.com
+Subject: Application Received
+Date: Fri, 03 Apr 2026 21:10:00 -0000
+Message-ID: <56f9c07073614418bf46ede98665445f@greenhouse.io>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2919490073645413762=="
+
+--===============2919490073645413762==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Data Analyst role at Nimbus Retail. Our team wi=
+ll review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============2919490073645413762==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Data Analyst role at Nimbus Retail. Our =
+team will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============2919490073645413762==--

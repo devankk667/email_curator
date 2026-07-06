@@ -1,0 +1,48 @@
+From: Fatima Tanaka <fatima@linkedin.com>
+To: you@myinbox.com
+Subject: Application Received
+Date: Tue, 17 Feb 2026 06:05:00 -0000
+Message-ID: <35c160397d6a4521a3981f7eb24969c7@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5667162660879849183=="
+
+--===============5667162660879849183==
+Content-Type: multipart/alternative;
+ boundary="===============4059679700561010911=="
+
+--===============4059679700561010911==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thank you for applying to the Data Analyst role at Coral Health. Our team wil=
+l review your application shortly.
+
+Best regards,
+Talent Acquisition Team
+
+--===============4059679700561010911==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Application Received</h3>
+    <p>Thank you for applying to the Data Analyst role at Coral Health. Our t=
+eam will review your application shortly.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============4059679700561010911==--
+
+--===============5667162660879849183==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============5667162660879849183==--

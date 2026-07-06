@@ -1,0 +1,34 @@
+From: Fernwood Analytics <fernwood@nimbusretail.com>
+To: you@myinbox.com
+Subject: Order Delayed
+Date: Sun, 22 Mar 2026 18:20:00 -0000
+Message-ID: <e57ad205ef4a4b0ea2210be947afde03@nimbusretail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5884297970612720553=="
+
+--===============5884297970612720553==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your order #5 from Starforge Games is delayed and will now arrive by April 30=
+ instead of August 17. Track: https://amazon.in/orders
+
+Thanks for being a valued customer.
+
+--===============5884297970612720553==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delayed</h3>
+    <p>Your order #5 from Starforge Games is delayed and will now arrive by A=
+pril 30 instead of August 17. Track: https://amazon.in/orders</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============5884297970612720553==--

@@ -1,0 +1,44 @@
+From: LinkedIn <linkedin@meetup.com>
+To: you@myinbox.com
+Subject: Suggested Connection
+Date: Wed, 10 Jun 2026 10:30:00 -0000
+Message-ID: <2931fa07a0744c89bca6b1a30060f143@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3533758496257768163=="
+
+--===============3533758496257768163==
+Content-Type: multipart/alternative;
+ boundary="===============2021232887954951985=="
+
+--===============2021232887954951985==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You may know Omar Khan, who works at Starforge Games. Connect now: https://me=
+etup.com/groups
+
+--===============2021232887954951985==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Suggested Connection</h3>
+    <p>You may know Omar Khan, who works at Starforge Games. Connect now: htt=
+ps://meetup.com/groups</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============2021232887954951985==--
+
+--===============3533758496257768163==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============3533758496257768163==--

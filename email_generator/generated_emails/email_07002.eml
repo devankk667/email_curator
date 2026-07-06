@@ -1,0 +1,35 @@
+From: Fatima Costa <fatima@university.edu>
+To: you@myinbox.com
+Subject: Result Declaration
+Date: Sun, 21 Jun 2026 20:15:00 -0000
+Message-ID: <77562220516743718223d526b70bba5e@university.edu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1327903442679128809=="
+
+--===============1327903442679128809==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Results for the Linear Algebra mid-semester exam have been published. Check y=
+our grades: https://portal.university.edu/exams
+
+Regards,
+Office of Academic Affairs
+
+--===============1327903442679128809==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Result Declaration</h3>
+    <p>Results for the Linear Algebra mid-semester exam have been published. =
+Check your grades: https://portal.university.edu/exams</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Office of Ac=
+ademic Affairs</p>
+  </body>
+</html>
+
+--===============1327903442679128809==--

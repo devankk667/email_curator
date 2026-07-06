@@ -1,0 +1,34 @@
+From: Meridian Airlines <meridian@workday.com>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Mon, 09 Mar 2026 22:30:00 -0000
+Message-ID: <e0b173ccda0b4ef6a794ef7e41e85e34@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6877158795855326380=="
+
+--===============6877158795855326380==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Carlos Sharma starred your repository on GitHub. Keep up the great work!
+
+Best regards,
+Talent Acquisition Team
+
+--===============6877158795855326380==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Carlos Sharma starred your repository on GitHub. Keep up the great wor=
+k!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Best regards,<br>Talent =
+Acquisition Team</p>
+  </body>
+</html>
+
+--===============6877158795855326380==--

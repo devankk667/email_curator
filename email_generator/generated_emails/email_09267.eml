@@ -1,0 +1,35 @@
+From: Zynta Corp <zynta@meridianair.com>
+To: you@myinbox.com
+Subject: Car Rental Confirmation
+Date: Fri, 17 Apr 2026 06:30:00 -0000
+Message-ID: <24898f84202f4df9af71fe4d74e54402@meridianair.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7288908735604143200=="
+
+--===============7288908735604143200==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your car rental in London from June 26 to March 03 is confirmed. Booking ID: =
+708276. Manage booking: https://meridianair.com/bookings
+
+Regards,
+Reservations Desk
+
+--===============7288908735604143200==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Car Rental Confirmation</h3>
+    <p>Your car rental in London from June 26 to March 03 is confirmed. Booki=
+ng ID: 708276. Manage booking: https://meridianair.com/bookings</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============7288908735604143200==--

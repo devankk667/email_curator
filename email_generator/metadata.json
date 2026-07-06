@@ -1,0 +1,21 @@
+{
+  "total_emails": 10000,
+  "categories": {
+    "Shopping": 2200,
+    "Spam": 1800,
+    "Social": 1500,
+    "Finance": 1200,
+    "College": 1000,
+    "Job": 1000,
+    "Travel": 800,
+    "Government": 500
+  },
+  "date_range": [
+    "2026-01-01",
+    "2026-07-02"
+  ],
+  "attachment_probability": 0.12,
+  "thread_probability": 0.15,
+  "random_seed": 42,
+  "format": "RFC 5322 .eml files, multipart/mixed with text/plain + text/html alternative parts, optional text attachment"
+}

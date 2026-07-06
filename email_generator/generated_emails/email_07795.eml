@@ -1,0 +1,46 @@
+From: Vertex Bank <vertex@workday.com>
+To: you@myinbox.com
+Subject: Someone starred your repository
+Date: Sun, 14 Jun 2026 18:45:00 -0000
+Message-ID: <a64fa9ea97e749b6bd240da986b42d57@workday.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2805321619749960330=="
+
+--===============2805321619749960330==
+Content-Type: multipart/alternative;
+ boundary="===============7780249972606271102=="
+
+--===============7780249972606271102==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Ivan Sharma starred your repository on GitHub. Keep up the great work!
+
+We look forward to hearing from you.
+
+--===============7780249972606271102==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Someone starred your repository</h3>
+    <p>Ivan Sharma starred your repository on GitHub. Keep up the great work!=
+</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>We look forward to heari=
+ng from you.</p>
+  </body>
+</html>
+
+--===============7780249972606271102==--
+
+--===============2805321619749960330==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="job_description.txt"
+MIME-Version: 1.0
+
+RnVsbCBqb2IgZGVzY3JpcHRpb24gYW5kIHJlcXVpcmVtZW50cyBhdHRhY2hlZC4=
+
+--===============2805321619749960330==--

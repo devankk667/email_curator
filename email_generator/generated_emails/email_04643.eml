@@ -1,0 +1,42 @@
+From: Mei Reddy <mei@linkedin.com>
+To: you@myinbox.com
+Subject: Isabella Fischer liked your photo
+Date: Thu, 05 Feb 2026 07:00:00 -0000
+Message-ID: <a73650c8ab72423c8e2b28c3d0f66950@linkedin.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4185360235119773897=="
+
+--===============4185360235119773897==
+Content-Type: multipart/alternative;
+ boundary="===============6095280286654833647=="
+
+--===============6095280286654833647==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Diego Novak and 9 others liked your recent photo.
+
+--===============6095280286654833647==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Isabella Fischer liked your photo</h3>
+    <p>Diego Novak and 9 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============6095280286654833647==--
+
+--===============4185360235119773897==
+Content-Type: text/plain
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="photo_details.txt"
+MIME-Version: 1.0
+
+UGhvdG8gZGV0YWlscyBhbmQgdGFnIGluZm9ybWF0aW9uLg==
+
+--===============4185360235119773897==--

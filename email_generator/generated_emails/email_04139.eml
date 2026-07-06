@@ -1,0 +1,31 @@
+From: Mei Silva <mei@meetup.com>
+To: you@myinbox.com
+Subject: New Message
+Date: Tue, 02 Jun 2026 13:30:00 -0000
+Message-ID: <08ae15f6a988442aa504f2acbdea9ce8@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4620459225003584137=="
+
+--===============4620459225003584137==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+You have a new message from Isabella Chen: "Hey, are we still meeting on May =
+20?"
+
+--===============4620459225003584137==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">New Message</h3>
+    <p>You have a new message from Isabella Chen: "Hey, are we still meeting =
+on May 20?"</p>
+    <p style=3D"color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============4620459225003584137==--

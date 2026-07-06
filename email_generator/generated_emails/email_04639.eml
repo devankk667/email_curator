@@ -1,0 +1,29 @@
+From: LinkedIn <linkedin@meetup.com>
+To: you@myinbox.com
+Subject: Wei Okafor liked your photo
+Date: Sun, 01 Mar 2026 18:45:00 -0000
+Message-ID: <27bf681fae654268b9425ae181bc1db3@meetup.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5005622867654938764=="
+
+--===============5005622867654938764==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Elena Sharma and 1 others liked your recent photo.
+
+--===============5005622867654938764==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+<html>
+  <body style="font-family: Arial, sans-serif; color:#222;">
+    <h3 style="color:#444;">Wei Okafor liked your photo</h3>
+    <p>Elena Sharma and 1 others liked your recent photo.</p>
+    <p style="color:#888; font-size:12px;"></p>
+  </body>
+</html>
+
+--===============5005622867654938764==--

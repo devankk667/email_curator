@@ -1,0 +1,36 @@
+From: Coral Health <coral69@airindia.com>
+To: you@myinbox.com
+Subject: Flight Booking Confirmation
+Date: Wed, 01 Apr 2026 13:10:00 -0000
+Message-ID: <ba98aba5824548fb819c931c3b084fe3@airindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3545880937228759129=="
+
+--===============3545880937228759129==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your flight to Sydney on September 27 is confirmed.
+Booking reference: 631902.
+Departure: 10:30 AM.
+
+Regards,
+Reservations Desk
+
+--===============3545880937228759129==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Flight Booking Confirmation</h3>
+    <p>Your flight to Sydney on September 27 is confirmed.</p><p>Booking refe=
+rence: 631902.</p><p>Departure: 10:30 AM.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Regards,<br>Reservations=
+ Desk</p>
+  </body>
+</html>
+
+--===============3545880937228759129==--

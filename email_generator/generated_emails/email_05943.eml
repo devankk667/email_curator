@@ -1,0 +1,34 @@
+From: Cloudscape <cloudscape@citibank.com>
+To: you@myinbox.com
+Subject: Salary Credited
+Date: Sun, 07 Jun 2026 16:30:00 -0000
+Message-ID: <1ec035c72bde45b781610263add05d9b@citibank.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3790620192256849932=="
+
+--===============3790620192256849932==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+INR 199 has been credited to your account on August 10 as salary from Anchorp=
+oint Realty.
+
+Thank you for banking with us.
+
+--===============3790620192256849932==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Salary Credited</h3>
+    <p>INR 199 has been credited to your account on August 10 as salary from =
+Anchorpoint Realty.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thank you for banking wi=
+th us.</p>
+  </body>
+</html>
+
+--===============3790620192256849932==--

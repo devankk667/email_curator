@@ -1,0 +1,33 @@
+From: PixelWorks <pixelworks21@amazon.in>
+To: you@myinbox.com
+Subject: Price Drop Alert
+Date: Thu, 02 Jul 2026 13:00:00 -0000
+Message-ID: <f0850a13411149d888db18ff116e714b@amazon.in>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0641730192409608281=="
+
+--===============0641730192409608281==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+An item in your wishlist just dropped to INR 7500. Grab it before it's gone!
+
+Thanks for being a valued customer.
+
+--===============0641730192409608281==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Price Drop Alert</h3>
+    <p>An item in your wishlist just dropped to INR 7500. Grab it before it's=
+ gone!</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============0641730192409608281==--

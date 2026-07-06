@@ -1,0 +1,34 @@
+From: Brightline Media <brightline59@flipkart.com>
+To: you@myinbox.com
+Subject: Order Delivered
+Date: Thu, 18 Jun 2026 13:00:00 -0000
+Message-ID: <65b35eaf7a0d44c980a1251ef55786ff@flipkart.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1541089374012743248=="
+
+--===============1541089374012743248==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Your package from Quanta Labs was delivered on December 18. Rate your experie=
+nce.
+
+Thanks for being a valued customer.
+
+--===============1541089374012743248==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html>
+  <body style=3D"font-family: Arial, sans-serif; color:#222;">
+    <h3 style=3D"color:#444;">Order Delivered</h3>
+    <p>Your package from Quanta Labs was delivered on December 18. Rate your =
+experience.</p>
+    <p style=3D"color:#888; font-size:12px;"><br><br>Thanks for being a value=
+d customer.</p>
+  </body>
+</html>
+
+--===============1541089374012743248==--
