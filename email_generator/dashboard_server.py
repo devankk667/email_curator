@@ -27,7 +27,7 @@ except ImportError:
 # Import local modules
 from loader import load_emails
 from cleaner import clean_dataframe, clean_email_body
-from features import FeatureBuilder
+from features import EmbeddingFeatureBuilder
 from semantic_priority import get_or_compute_centroids, compute_semantic_scores, compute_ranking_score
 from intelligence_engine import LocalIntelligenceEngine
 
@@ -90,7 +90,7 @@ def init_models():
     if Path(CLASSIFIER_PATH).exists() and Path(FEATURE_BUILDER_PATH).exists():
         try:
             logger.info(f"Loading pre-trained classifier from {CLASSIFIER_PATH}...")
-            feature_builder = FeatureBuilder.load(FEATURE_BUILDER_PATH)
+            feature_builder = EmbeddingFeatureBuilder.load(FEATURE_BUILDER_PATH)
             classifier = joblib.load(CLASSIFIER_PATH)
             logger.info(f"Loaded classifier with classes: {list(classifier.classes_)}")
         except Exception as e:
@@ -106,7 +106,7 @@ def init_models():
             df = clean_dataframe(df)
             synthetic_df = df
 
-            fb = FeatureBuilder()
+            fb = EmbeddingFeatureBuilder()
             X_train, y_train = fb.fit_transform(df)
 
             lr = LogisticRegression(max_iter=2000, C=2.0, class_weight="balanced")
@@ -422,7 +422,7 @@ def retrain_model(background_tasks: BackgroundTasks):
 
             # Reload newly trained models into memory
             logger.info("Reloading updated models...")
-            feature_builder = FeatureBuilder.load(FEATURE_BUILDER_PATH)
+            feature_builder = EmbeddingFeatureBuilder.load(FEATURE_BUILDER_PATH)
             classifier = joblib.load(CLASSIFIER_PATH)
 
             # Clear SQLite cache so emails get re-analyzed with new predictions

@@ -26,6 +26,7 @@ import pandas as pd
 from scipy.sparse import hstack, csr_matrix
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import OneHotEncoder
+from sentence_transformers import SentenceTransformer
 
 
 ENGINEERED_NUMERIC_COLS = ["word_count", "char_count", "url_count", "num_attachments"]
@@ -140,6 +141,105 @@ class FeatureBuilder:
 
     @staticmethod
     def load(path: str) -> "FeatureBuilder":
+        return joblib.load(path)
+
+
+class EmbeddingFeatureBuilder:
+    def __init__(self, model_name: str = "all-MiniLM-L6-v2",
+                 text_fields=("subject", "clean_text"), include_engineered: bool = True,
+                 include_domain: bool = True):
+        """
+        model_name: SentenceTransformer model to use.
+        text_fields: which columns to concatenate as embedding input.
+        include_engineered: whether to add word_count/has_url/etc.
+        include_domain: whether to add one-hot sender_domain features.
+        """
+        self.model_name = model_name
+        self._model = None  # Lazy load
+
+        self.domain_encoder = OneHotEncoder(handle_unknown="ignore", sparse_output=False) if include_domain else None
+
+        self.text_fields = list(text_fields)
+        self.include_engineered = include_engineered
+        self.include_domain = include_domain
+
+        self._numeric_mins = None
+        self._numeric_maxs = None
+        self.feature_names_ = None
+
+    @property
+    def model(self):
+        if self._model is None:
+            self._model = SentenceTransformer(self.model_name)
+        return self._model
+
+    def _combined_text(self, df: pd.DataFrame) -> list:
+        if len(self.text_fields) == 1:
+            return df[self.text_fields[0]].fillna("").tolist()
+        return df[self.text_fields].fillna("").agg(" ".join, axis=1).tolist()
+
+    def _engineered_matrix(self, df: pd.DataFrame, fit: bool):
+        numeric = df[ENGINEERED_NUMERIC_COLS].astype(float).values
+        boolean = df[ENGINEERED_BOOL_COLS].astype(int).values
+
+        if fit:
+            self._numeric_mins = numeric.min(axis=0)
+            self._numeric_maxs = numeric.max(axis=0)
+
+        ranges = self._numeric_maxs - self._numeric_mins
+        ranges[ranges == 0] = 1.0
+        numeric_scaled = np.clip((numeric - self._numeric_mins) / ranges, 0, 1)
+        return np.hstack([numeric_scaled, boolean])
+
+    def fit_transform(self, df: pd.DataFrame, label_col: str = "category"):
+        # Embeddings
+        embeddings = self.model.encode(self._combined_text(df), show_progress_bar=True)
+        parts = [embeddings]
+        self.feature_names_ = [f"emb_{i}" for i in range(embeddings.shape[1])]
+
+        if self.include_engineered:
+            engineered = self._engineered_matrix(df, fit=True)
+            parts.append(engineered)
+            self.feature_names_ += ENGINEERED_NUMERIC_COLS + ENGINEERED_BOOL_COLS
+
+        if self.include_domain:
+            domains = extract_domain(df).values.reshape(-1, 1)
+            domain_matrix = self.domain_encoder.fit_transform(domains)
+            parts.append(domain_matrix)
+            self.feature_names_ += [f"sender_domain_{d}" for d in self.domain_encoder.categories_[0]]
+
+        X = np.hstack(parts)
+        y = df[label_col].values
+        return X, y
+
+    def transform(self, df: pd.DataFrame, label_col: str = "category"):
+        # Embeddings
+        embeddings = self.model.encode(self._combined_text(df), show_progress_bar=True)
+        parts = [embeddings]
+
+        if self.include_engineered:
+            engineered = self._engineered_matrix(df, fit=False)
+            parts.append(engineered)
+
+        if self.include_domain:
+            domains = extract_domain(df).values.reshape(-1, 1)
+            domain_matrix = self.domain_encoder.transform(domains)
+            parts.append(domain_matrix)
+
+        X = np.hstack(parts)
+        y = df[label_col].values if label_col in df.columns else None
+        return X, y
+
+    def save(self, path: str):
+        # Don't pickling the model itself to keep file size small
+        tmp_model = self._model
+        self._model = None
+        joblib.dump(self, path)
+        self._model = tmp_model
+        print(f"EmbeddingFeatureBuilder saved to {path}")
+
+    @staticmethod
+    def load(path: str) -> "EmbeddingFeatureBuilder":
         return joblib.load(path)
 
 

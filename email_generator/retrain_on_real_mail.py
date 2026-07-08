@@ -35,7 +35,7 @@ from sklearn.metrics import classification_report, accuracy_score, f1_score
 from sklearn.model_selection import train_test_split
 
 from cleaner import clean_dataframe, clean_email_body
-from features import FeatureBuilder
+from features import EmbeddingFeatureBuilder
 from loader import load_emails
 from split import group_aware_split
 
@@ -300,10 +300,9 @@ def retrain(
     logger.info(f"\nTrain: {len(train_df)}, Test: {len(test_df)}")
 
     # --- Feature engineering ---
-    logger.info("\nBuilding features (subject + clean_text TF-IDF + engineered)...")
-    fb = FeatureBuilder(
-        max_tfidf_features=5000,
-        ngram_range=(1, 2),
+    logger.info("\nBuilding features (subject + clean_text Sentence-Transformer + engineered)...")
+    fb = EmbeddingFeatureBuilder(
+        model_name="all-MiniLM-L6-v2",
         text_fields=("subject", "clean_text"),
         include_engineered=True,
         include_domain=True,
