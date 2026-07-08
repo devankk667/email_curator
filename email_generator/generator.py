@@ -16,7 +16,7 @@ from pathlib import Path
 
 import config
 import data
-import labeling
+import heuristic_labels
 import templates
 import utils
 
@@ -118,7 +118,7 @@ def build_email(category, index):
     if len(recent_by_category[category]) > MAX_RECENT:
         recent_by_category[category].pop(0)
 
-    spam_score, priority_score, priority = labeling.compute_labels(category, subject, body)
+    spam_score, priority_score, priority = heuristic_labels.compute_labels(category, subject, body)
 
     return {
         "msg": msg,

@@ -1,0 +1,80 @@
+# Environment variables
+.env
+
+# Google OAuth credentials
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data directories (generated content)
+generated_emails/
+gmail_emails/
+gmail_intelligence.db
+
+# Model files (large binary files)
+*.joblib
+*.npy
+*.pkl
+
+# CSV data files (large datasets)
+labels.csv
+gmail_labels.csv
+emails_with_semantic_folders.csv
+emails_with_semantic_priority.csv
+spamassassin_emails.csv
+email_embedding_ids.csv
+
+# Figures and plots
+*.png
+*.jpg
+*.jpeg
+*.pdf
+eda_figures/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+.vercel

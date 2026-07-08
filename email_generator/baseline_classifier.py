@@ -1,10 +1,11 @@
 """
 baseline_classifier.py — Phase 3, step 2.
 
-Trains two classical baselines on the TF-IDF + engineered feature
-matrix from features.py, using the leakage-safe split from split.py.
-This produces the benchmark number that Phase 4's transformer
-embeddings need to beat to justify their extra complexity/cost.
+Trains three classical ML classifiers (Multinomial Naive Bayes, Logistic
+Regression, Linear SVC) on the TF-IDF + engineered feature matrix from
+features.py, using the leakage-safe split from split.py. This produces
+benchmark numbers that Phase 4's transformer embeddings need to beat to
+justify their extra complexity/cost.
 
 Usage:
     python baseline_classifier.py generated_emails labels.csv

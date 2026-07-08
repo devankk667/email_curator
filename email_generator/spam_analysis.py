@@ -1,7 +1,7 @@
 """
 spamassassin_analysis.py
 
-PART 1: Validates labeling.py's keyword-based spam_score heuristic
+PART 1: Validates heuristic_labels.py's keyword-based spam_score heuristic
 against REAL spam/ham -- not just the synthetic data it was implicitly
 tuned against. Answers: does the heuristic actually generalize, or was
 it just overfit to templates it wrote itself?
@@ -36,7 +36,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 from cleaner import clean_email_body
-from labeling import compute_labels
+from heuristic_labels import compute_labels
 
 
 def clean_corpus(df: pd.DataFrame) -> pd.DataFrame:
@@ -80,8 +80,8 @@ def validate_heuristic(df: pd.DataFrame) -> pd.DataFrame:
         kind="hist", bins=30, alpha=0.6, label="real spam", ax=ax, color="crimson")
     df[df["label"] == "ham"]["heuristic_spam_score"].plot(
         kind="hist", bins=30, alpha=0.6, label="real ham", ax=ax, color="steelblue")
-    ax.set_xlabel("heuristic_spam_score (from labeling.py, unmodified)")
-    ax.set_title("labeling.py spam heuristic: real spam vs. real ham")
+    ax.set_xlabel("heuristic_spam_score (from heuristic_labels.py, unmodified)")
+    ax.set_title("heuristic_labels.py spam heuristic: real spam vs. real ham")
     ax.legend()
     fig.tight_layout()
     fig.savefig("spamassassin_heuristic_validation.png", dpi=120)

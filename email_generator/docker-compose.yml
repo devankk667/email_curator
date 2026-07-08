@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: email-intelligence
+    ports:
+      - "8000:8000"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+      - RELOAD=false
+      # Optional: Add your Groq API key for advanced features
+      # - GROQ_API_KEY=your_api_key_here
+    volumes:
+      # Persist data directories
+      - ./generated_emails:/app/generated_emails
+      - ./gmail_emails:/app/gmail_emails
+      - ./gmail_intelligence.db:/app/gmail_intelligence.db
+      # Optional: Mount your credentials.json for Gmail integration
+      # - ./credentials.json:/app/credentials.json
+    restart: unless-stopped

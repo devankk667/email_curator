@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/api/index.py"
+    }
+  ],
+  "functions": {
+    "api/index.py": {
+      "includeFiles": "{classifier.joblib,feature_builder.joblib,gmail_emails/**,gmail_labels.csv,templates/**}",
+      "excludeFiles": "{generated_emails/**,tests/**,eda_figures/**,**/*.png,spamassassin_emails.csv,emails_with_semantic*.csv,email_embeddings.npy,email_embedding_ids.csv,semantic_axes_centroids_cache.npy,gmail_intelligence.db,labels.csv,credentials.json,token.json,.env}"
+    }
+  },
+  "env": {
+    "PYTHON_VERSION": "3.10",
+    "RELOAD": "false"
+  }
+}

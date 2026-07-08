@@ -38,17 +38,21 @@ def extract_domain(df: pd.DataFrame) -> pd.Series:
 
 
 class FeatureBuilder:
-    def __init__(self, max_tfidf_features: int = 3000, ngram_range=(1, 2),
-                 text_fields=("clean_text",), include_engineered: bool = True,
+    def __init__(self, max_tfidf_features: int = 5000, ngram_range=(1, 2),
+                 text_fields=("subject", "clean_text"), include_engineered: bool = True,
                  include_domain: bool = True):
         """
         text_fields: which columns to concatenate as TF-IDF input, e.g.
             ("clean_text",)            -> body only
-            ("subject", "clean_text")  -> subject + body
+            ("subject", "clean_text")  -> subject + body (default — subjects are
+                                         highly discriminative for real-world email
+                                         categories and improve classifier accuracy)
         include_engineered: whether to add word_count/has_url/etc.
         include_domain: whether to add one-hot sender_domain features.
         Set both False + text_fields=("clean_text",) for a pure
         "body text only, no metadata at all" ablation.
+        max_tfidf_features: vocabulary size. 5000 covers synthetic + real Gmail
+            vocabulary without overfitting.
         """
         self.vectorizer = TfidfVectorizer(
             max_features=max_tfidf_features,

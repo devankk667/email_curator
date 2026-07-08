@@ -1,0 +1,8 @@
+[project]
+name = "email-intelligence"
+version = "1.0.0"
+requires-python = ">=3.10,<3.13"
+dependencies = []
+
+[tool.vercel]
+# Ensures Vercel's uv resolver picks a compatible Python for spaCy/torch stack.

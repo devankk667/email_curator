@@ -1,0 +1,22 @@
+HYBRID RETRAIN REPORT
+============================================================
+Train size : 9307
+Test size  : 1643
+Sources    : {'synthetic': 10000, 'spamassassin': 900, 'gmail': 50}
+Accuracy   : 0.978
+Macro F1   : 0.977
+
+              precision    recall  f1-score   support
+
+     College       0.97      0.95      0.96       160
+     Finance       1.00      0.99      0.99       183
+  Government       0.99      0.94      0.96        79
+         Job       1.00      0.97      0.99       158
+    Shopping       1.00      0.98      0.99       335
+      Social       0.91      0.97      0.94       289
+        Spam       0.99      1.00      0.99       317
+      Travel       1.00      0.98      0.99       122
+
+    accuracy                           0.98      1643
+   macro avg       0.98      0.97      0.98      1643
+weighted avg       0.98      0.98      0.98      1643

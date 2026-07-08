@@ -1,0 +1,30 @@
+# Large datasets (10k+ files) — not needed when pre-trained models are bundled
+generated_emails/
+labels.csv
+
+# Optional / local-only data
+spamassassin_emails.csv
+emails_with_semantic_folders.csv
+emails_with_semantic_priority.csv
+email_embeddings.npy
+email_embedding_ids.csv
+semantic_axes_centroids_cache.npy
+gmail_intelligence.db
+
+# Secrets and local auth
+credentials.json
+token.json
+.env
+
+# Dev artifacts
+__pycache__/
+tests/
+eda_figures/
+*.png
+*.pyc
+.vercel/cache/
+
+# Container / local run configs
+Dockerfile
+docker-compose.yml
+start.sh
