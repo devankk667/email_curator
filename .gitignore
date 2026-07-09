@@ -1,1 +1,42 @@
-.vercel
+# Local secrets
+.env
+*.env
+email_generator/.env
+email_generator/credentials.json
+email_generator/token.json
+
+# Generated/private email data
+email_generator/generated_emails/
+email_generator/gmail_emails/
+Spam_Assassin/
+
+# Vercel/local deployment caches
+.vercel/
+email_generator/.vercel/
+
+# Python caches
+__pycache__/
+*/__pycache__/
+*.py[cod]
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated ML/data artifacts
+*.npy
+*.pkl
+email_generator/*.csv
+
+# Generated plots and reports
+email_generator/eda_figures/
+email_generator/*.png
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
