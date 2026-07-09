@@ -1,6 +1,6 @@
 # Quick Setup Guide
 
-This guide will help you get the AI Email Intelligence System running in under 5 minutes.
+This guide will help you get Mail Curator.ai running in under 5 minutes.
 
 ## Option 1: Quick Start (Recommended)
 

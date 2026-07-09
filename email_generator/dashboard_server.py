@@ -42,7 +42,7 @@ async def lifespan(app_instance):
     # Shutdown: nothing to clean up right now
 
 
-app = FastAPI(title="AI Email Intelligence System", lifespan=lifespan)
+app = FastAPI(title="Mail Curator.ai", lifespan=lifespan)
 
 # Ensure templates directory exists
 Path("templates").mkdir(exist_ok=True)

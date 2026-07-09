@@ -1,4 +1,4 @@
-# AI Email Intelligence System
+# Mail Curator.ai
 
 A comprehensive web application for email analysis, classification, and intelligence. Features include:
 - **Email Classification**: Automatic categorization of emails into 8 categories (Shopping, Spam, Social, Finance, College, Job, Travel, Government)

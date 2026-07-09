@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Startup script for the AI Email Intelligence System web application.
+Startup script for Mail Curator.ai web application.
 This script handles environment setup and launches the FastAPI server.
 """
 
@@ -80,7 +80,7 @@ def ensure_directories():
 def main():
     """Main entry point."""
     print("=" * 60)
-    print("AI Email Intelligence System - Startup")
+    print("Mail Curator.ai - Startup")
     print("=" * 60)
     
     # Change to script directory

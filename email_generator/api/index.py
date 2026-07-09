@@ -1,5 +1,5 @@
 """
-Vercel serverless entry point for the AI Email Intelligence System.
+Vercel serverless entry point for Mail Curator.ai.
 This file wraps the FastAPI app for deployment on Vercel.
 """
 

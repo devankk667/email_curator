@@ -1,0 +1,10 @@
+import sqlite3
+conn = sqlite3.connect('gmail_intelligence.db')
+cursor = conn.cursor()
+cursor.execute('SELECT name FROM sqlite_master WHERE type="table"')
+print('Tables:', cursor.fetchall())
+cursor.execute('SELECT COUNT(*) FROM email_metadata')
+print('Email metadata count:', cursor.fetchone())
+cursor.execute('SELECT * FROM email_metadata LIMIT 3')
+print('Sample rows:', cursor.fetchall())
+conn.close()
